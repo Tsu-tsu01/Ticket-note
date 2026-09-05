@@ -1,0 +1,164 @@
+@live id=20250524_gk_spotlight_d1 tour=t_gk_spotlight title=学園アイドルマスター The 1st Period Spotlight Star day=DAY1 date=2025-05-24 venue=v_tachikawa_garden brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|白線|花岩香奈
+2|main|Luna say maybe|小鹿なお
+3|main|Tame-Lie-One-Step|湊みや
+4|main|Fluorite|七瀬つむぎ
+5|main|clumsy trick|薄井友里
+6|main|光景|川村玲奈
+7|main|世界一可愛い私|飯田ヒカル
+8|main|The Rolling Riceball|松田彩音
+9|main|Fighting My Way|長月あおい
+10|main|Wonder Scale|伊藤舞音
+11|main|ツキノカメ|春咲暖
+12|main|小さな野望|陽高真白
+13|main|初|小鹿なお、長月あおい、飯田ヒカル、薄井友里、七瀬つむぎ、湊みや、春咲暖、松田彩音、陽高真白、花岩香奈、伊藤舞音、川村玲奈
+14|main|たいせつなもの|春咲暖
+15|main|コンテンポラリのダンス|川村玲奈
+16|main|歌声は君いろ|薄井友里
+17|main|憧れをいっぱい|伊藤舞音
+18|main|Kira Kira|湊みや
+19|main|Cosmetic|陽高真白
+20|main|EGO|長月あおい
+21|main|Wake up!!|花岩香奈
+22|main|Sweet Magic|七瀬つむぎ
+23|main|ふわふわ|飯田ヒカル
+24|main|Unhappy Light|小鹿なお
+25|main|Superlative|春咲暖|premiere
+26|main|古今東西ちょちょいのちょい|七瀬つむぎ、湊みや、川村玲奈、飯田ヒカル、長月あおい、小鹿なお、薄井友里、花岩香奈、伊藤舞音、陽高真白、松田彩音、春咲暖
+27|encore|標|小鹿なお、長月あおい、飯田ヒカル、春咲暖、松田彩音、陽高真白、湊みや、花岩香奈、川村玲奈、薄井友里、七瀬つむぎ、伊藤舞音
+28|encore|Campus mode!!|春咲暖、湊みや、花岩香奈、川村玲奈、小鹿なお、長月あおい、飯田ヒカル、伊藤舞音、七瀬つむぎ、薄井友里、松田彩音、陽高真白
+29|encore|Star-mine|春咲暖、陽高真白、松田彩音|premiere
+30|encore|雨上がりのアイリス|小鹿なお、長月あおい、飯田ヒカル
+
+@live id=20250525_gk_spotlight_d2 tour=t_gk_spotlight title=学園アイドルマスター The 1st Period Spotlight Star day=DAY2 date=2025-05-25 venue=v_tachikawa_garden brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|叶えたい、ことばかり|小鹿なお
+2|main|Fighting My Way|長月あおい
+3|main|Ride on Beat|湊みや
+4|main|clumsy trick|薄井友里
+5|main|The Cute!!!|飯田ヒカル
+6|main|ツキノカメ|春咲暖
+7|main|Fragile Heart|花岩香奈
+8|main|The Rolling Riceball|松田彩音
+9|main|Fluorite|七瀬つむぎ
+10|main|Choo Choo Choo|陽高真白
+11|main|光景|川村玲奈
+12|main|ときめきのソルフェージュ|伊藤舞音
+13|main|Campus mode!!|春咲暖、湊みや、花岩香奈、川村玲奈、小鹿なお、長月あおい、飯田ヒカル、伊藤舞音、七瀬つむぎ、薄井友里、松田彩音、陽高真白
+14|main|メクルメ|川村玲奈
+15|main|小さな野望|陽高真白
+16|main|ヨルニテ|春咲暖
+17|main|Wonder Scale|伊藤舞音
+18|main|marble heart|薄井友里
+19|main|Tame-Lie-One-Step|湊みや
+20|main|極光|花岩香奈
+21|main|Try it now|長月あおい
+22|main|Luna say maybe|小鹿なお
+23|main|Top Secret|七瀬つむぎ
+24|main|グースーピー|松田彩音|premiere
+25|main|白線|花岩香奈
+26|main|世界一可愛い私|飯田ヒカル
+27|main|古今東西ちょちょいのちょい|七瀬つむぎ、湊みや、川村玲奈、飯田ヒカル、長月あおい、小鹿なお、薄井友里、花岩香奈、伊藤舞音、陽高真白、松田彩音、春咲暖
+28|encore|標|小鹿なお、長月あおい、飯田ヒカル、春咲暖、松田彩音、陽高真白、湊みや、花岩香奈、川村玲奈、薄井友里、七瀬つむぎ、伊藤舞音
+29|encore|初|小鹿なお、長月あおい、飯田ヒカル、薄井友里、七瀬つむぎ、湊みや、春咲暖、松田彩音、陽高真白、花岩香奈、伊藤舞音、川村玲奈
+30|encore|Star-mine|春咲暖、陽高真白、松田彩音
+31|encore|雨上がりのアイリス|小鹿なお、長月あおい、飯田ヒカル
+
+@live id=20250531_gk_harmony_d1 tour=t_gk_harmony title=学園アイドルマスター The 1st Period Harmony Star day=DAY1 date=2025-05-31 venue=v_tachikawa_garden brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|雨上がりのアイリス|飯田ヒカル、長月あおい、小鹿なお
+2|main|キミとセミブルー|湊みや、七瀬つむぎ、薄井友里
+3|main|アイヴイ|小鹿なお、陽高真白
+4|main|光景|川村玲奈
+5|main|世界一可愛い私|飯田ヒカル
+6|main|White Night! White Wish!|飯田ヒカル、花岩香奈、松田彩音
+7|main|みちなるひろがる|伊藤舞音、川村玲奈|premiere
+8|main|clumsy trick|薄井友里
+9|main|Yellow Big Bang！|飯田ヒカル、伊藤舞音、薄井友里
+10|main|ENDLESS DANCE|長月あおい、陽高真白、春咲暖
+11|main|小さな野望|陽高真白
+12|main|Feel Jewel Dream|七瀬つむぎ、春咲暖
+13|main|ツキノカメ|春咲暖
+14|main|SUGAR FLAVOR|七瀬つむぎ、薄井友里|premiere
+15|main|白線|花岩香奈
+16|main|Wonder Scale|伊藤舞音
+17|main|グースーピー|松田彩音
+18|main|Boom Boom Pow|長月あおい、湊みや
+19|main|Fluorite|七瀬つむぎ
+20|main|Tame-Lie-One-Step|湊みや
+21|main|コントラスト|川村玲奈、花岩香奈
+22|main|The Rolling Riceball|松田彩音
+23|main|Fighting My Way|長月あおい
+24|main|Luna say maybe|小鹿なお
+25|main|Star-mine|春咲暖、陽高真白、松田彩音
+26|main|仮装狂騒曲|伊藤舞音、川村玲奈、小鹿なお
+27|main|標|小鹿なお、長月あおい、飯田ヒカル、春咲暖、松田彩音、陽高真白、湊みや、花岩香奈、川村玲奈、薄井友里、七瀬つむぎ、伊藤舞音
+28|main|初|小鹿なお、長月あおい、飯田ヒカル、薄井友里、七瀬つむぎ、湊みや、春咲暖、松田彩音、陽高真白、花岩香奈、伊藤舞音、川村玲奈
+29|encore|冠菊|飯田ヒカル、花岩香奈、長月あおい
+30|encore|ミラクルナナウ(ﾟ∀ﾟ)！|春咲暖、川村玲奈、七瀬つむぎ、長月あおい、湊みや、小鹿なお、松田彩音、薄井友里、飯田ヒカル、花岩香奈、陽高真白、伊藤舞音
+31|encore|Campus mode!!|春咲暖、湊みや、花岩香奈、川村玲奈、小鹿なお、長月あおい、飯田ヒカル、伊藤舞音、七瀬つむぎ、薄井友里、松田彩音、陽高真白
+
+@live id=20250601_gk_harmony_d2 tour=t_gk_harmony title=学園アイドルマスター The 1st Period Harmony Star day=DAY2 date=2025-06-01 venue=v_tachikawa_garden brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|雨上がりのアイリス|飯田ヒカル、長月あおい、小鹿なお
+2|main|clumsy trick|薄井友里
+3|main|極光|花岩香奈、七瀬つむぎ
+4|main|Tame-Lie-One-Step|湊みや
+5|main|Luna say maybe|小鹿なお
+6|main|仮装狂騒曲|伊藤舞音、川村玲奈、小鹿なお
+7|main|日々、発見的ステップ！|伊藤舞音、川村玲奈
+8|main|ときめきエモーション|湊みや、花岩香奈|premiere
+9|main|Fluorite|七瀬つむぎ
+10|main|Howling over the World|伊藤舞音、薄井友里、花岩香奈
+11|main|Wonder Scale|伊藤舞音
+12|main|小さな野望|陽高真白
+13|main|Superlative|春咲暖
+14|main|桜フォトグラフ|湊みや、長月あおい、花岩香奈
+15|main|光景|川村玲奈
+16|main|ツキノカメ|春咲暖
+17|main|L.U.V|薄井友里、飯田ヒカル
+18|main|カクシタワタシ|湊みや、小鹿なお
+19|main|The Rolling Riceball|松田彩音
+20|main|雪解けに|小鹿なお、伊藤舞音、七瀬つむぎ
+21|main|Our Chant|陽高真白、長月あおい
+22|main|Fighting My Way|長月あおい
+23|main|白線|花岩香奈
+24|main|世界一可愛い私|飯田ヒカル
+25|main|Star-mine|春咲暖、陽高真白、松田彩音
+26|main|キミとセミブルー|湊みや、七瀬つむぎ、薄井友里
+27|main|標|小鹿なお、長月あおい、飯田ヒカル、春咲暖、松田彩音、陽高真白、湊みや、花岩香奈、川村玲奈、薄井友里、七瀬つむぎ、伊藤舞音
+28|main|初|小鹿なお、長月あおい、飯田ヒカル、薄井友里、七瀬つむぎ、湊みや、春咲暖、松田彩音、陽高真白、花岩香奈、伊藤舞音、川村玲奈
+29|encore|ハッピーミルフィーユ|陽高真白、薄井友里、川村玲奈
+30|encore|がむしゃらに行こう！|長月あおい、七瀬つむぎ、花岩香奈、陽高真白、松田彩音、飯田ヒカル、伊藤舞音、湊みや、薄井友里、川村玲奈、小鹿なお、春咲暖
+31|encore|Campus mode!!|春咲暖、湊みや、花岩香奈、川村玲奈、小鹿なお、長月あおい、飯田ヒカル、伊藤舞音、七瀬つむぎ、薄井友里、松田彩音、陽高真白
+
+@live id=20250704_gk_uijin_tokyo_day tour=t_gk_uijin title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 東京追加公演 day=昼の部 date=2025-07-04 venue=v_shinjuku_reny brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、松田彩音、陽高真白
+2|main|Campus mode!!|春咲暖、松田彩音、陽高真白
+3|main|The Rolling Riceball|松田彩音
+4|main|ツキノカメ|春咲暖
+5|main|小さな野望|陽高真白
+6|main|Our Chant|陽高真白
+7|main|グースーピー|松田彩音
+8|main|Superlative|春咲暖
+9|main|たいせつなもの|春咲暖
+10|main|Cosmetic|陽高真白
+11|main|金の斧、銀の斧、エメラルドの斧|松田彩音|premiere
+12|main|ENDLESS DANCE|松田彩音、陽高真白、春咲暖
+13|main|White Night! White Wish!|陽高真白、春咲暖、松田彩音
+14|encore|Star-mine|春咲暖、陽高真白、松田彩音
+15|encore|初|春咲暖、松田彩音、陽高真白
+
+@live id=20250704_gk_uijin_tokyo_night tour=t_gk_uijin title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 東京追加公演 day=夜の部 date=2025-07-04 venue=v_shinjuku_reny brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、松田彩音、陽高真白
+2|main|Campus mode!!|春咲暖、松田彩音、陽高真白
+3|main|The Rolling Riceball|松田彩音
+4|main|ツキノカメ|春咲暖
+5|main|小さな野望|陽高真白
+6|main|Our Chant|陽高真白
+7|main|グースーピー|松田彩音
+8|main|Superlative|春咲暖
+9|main|ヨルニテ|春咲暖
+10|main|Choo Choo Choo|陽高真白
+11|main|金の斧、銀の斧、エメラルドの斧|松田彩音
+12|main|ENDLESS DANCE|松田彩音、陽高真白、春咲暖
+13|main|White Night! White Wish!|陽高真白、春咲暖、松田彩音
+14|encore|Star-mine|春咲暖、陽高真白、松田彩音
+15|encore|初|春咲暖、松田彩音、陽高真白

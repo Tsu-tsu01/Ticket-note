@@ -1,0 +1,12 @@
+brand_id,name,short_name,color_primary,color_secondary,sort_order,is_pseudo,verified,notes
+765as,アイドルマスター(765プロオールスターズ),765AS,#F34F6D,#F39939,10,false,true,ブランドカラー要確認
+876,アイドルマスター ディアリースターズ,876,#F5A9C0,#8CD1E6,20,false,false,876プロ/ブランドカラー要確認
+961,961プロダクション,961,#2B2B3D,#C9A227,30,false,false,ジュピター等/ブランドカラー要確認
+cg,アイドルマスター シンデレラガールズ,CG,#2681C8,#5AB0E8,40,false,true,346プロ/ブランドカラー要確認
+ml,アイドルマスター ミリオンライブ！,ML,#FFC30B,#F5AD3B,50,false,true,765プロ ミリオンスターズ/ブランドカラー要確認
+sm,アイドルマスター SideM,SideM,#0FBE94,#5CC98E,60,false,true,315プロ/ブランドカラー要確認
+sc,アイドルマスター シャイニーカラーズ,SC,#8DBBFF,#C79BE8,70,false,true,283プロ/ブランドカラー要確認
+gk,学園アイドルマスター,学マス,#F39800,#FFD1DC,80,false,true,初星学園/ブランドカラー要確認
+valiv,vα-liv,ヴイアラ,#656A75,#7FE3EC,85,false,true,876プロ ライバーアイドル/ブランドカラー要確認
+crossover,越境,越境,#FF74B8,#B7A7FF,90,true,true,複数ブランド合同名義
+other,その他,その他,#8C8C8C,#C4C4C4,99,true,true,家庭用ゲーム機/アニメ/コラボ等

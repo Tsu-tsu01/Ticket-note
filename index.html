@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ticket note — アイマス ライブ参戦ログ</title>
+<meta name="description" content="アイドルマスターのライブ参戦記録から、楽曲・編成・オリメン回収の統計を出すファンメイドツール">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./assets/app.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="mast-inner">
+    <div class="logo">
+      <span class="logo-jp">Ticket note</span>
+      <span class="logo-en">IM@S LIVE LOG</span>
+    </div>
+    <button id="scopeBtn" class="scope-chip" type="button" aria-live="polite">現地のみ</button>
+  </div>
+  <nav class="tabs" id="tabs">
+    <a href="#/lives" data-tab="lives">半券</a>
+    <a href="#/stats" data-tab="stats">統計</a>
+    <a href="#/songs" data-tab="songs">楽曲</a>
+    <a href="#/tier" data-tab="tier">ティア</a>
+    <a href="#/settings" data-tab="settings">設定</a>
+  </nav>
+</header>
+
+<main id="view" class="view">
+  <p class="loading">データを読んでいます…</p>
+</main>
+
+<footer class="foot">
+  <p>非公式ファンメイドツール。THE IDOLM@STER は株式会社バンダイナムコエンターテインメントの登録商標です。</p>
+</footer>
+
+<div id="sheet" class="sheet" hidden></div>
+<div id="toast" class="toast" hidden></div>
+<div id="penlight-stage" aria-hidden="true"></div>
+
+<script type="module" src="./assets/js/main.js"></script>
+</body>
+</html>

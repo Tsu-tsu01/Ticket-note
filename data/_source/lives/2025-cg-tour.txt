@@ -1,0 +1,271 @@
+@live id=20250308_cg10th_osaka_d1 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 大阪公演 day=DAY1 date=2025-03-08 venue=v_osakajo_hall brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Dreamy Anniversary|松嵜麗、田辺留依、松永あかね、梅澤めぐ、福原綾香、小森結梨、大橋彩香、原涼子、原紗友里、中澤ミナ、星希成奏、長島光那、金子有希、牧野由依、深川芹亜、富田美憂、大空直美、五十嵐裕美、高田憂希、髙野麻美、花谷麻妃
+2|main|ギュっとMilky Way|深川芹亜、牧野由依
+3|main|Needle Light|田辺留依、長島光那
+4|main|あんきら!?狂騒曲|五十嵐裕美、松嵜麗
+5|main|ラブレター|富田美憂、福原綾香、長島光那
+6|main|おめざめめーめー|花谷麻妃
+7|main|き・ま・ぐ・れ☆Cafe au lait!|髙野麻美|ver:game
+8|main|エヴリデイドリーム|牧野由依|ver:game
+9|main|世界滅亡 or KISS|深川芹亜|ver:game
+10|main|泡沫のアイオーン|田辺留依|ver:game
+11|main|神様！絶対だよ|金子有希、松永あかね、大橋彩香
+12|main|We wish your smile|松永あかね、原涼子
+13|main|ミライコンパス|高田憂希、牧野由依、原涼子、大空直美、金子有希
+14|main|ラビューダ♡トライアングル|髙野麻美、大橋彩香、深川芹亜
+15|main|とくとく…… とく……|中澤ミナ
+16|main|ましゅまろ☆キッス|松嵜麗|ver:game
+17|main|あんずのうた|五十嵐裕美|ver:game
+18|main|OTAHEN アンセム|星希成奏|ver:game
+19|main|ミツボシ☆☆★|原紗友里|ver:game
+20|main|Vast world|原涼子、小森結梨、松永あかね
+21|main|太陽の絵の具箱|花谷麻妃、大空直美、高田憂希、中澤ミナ
+22|main|ストリート・ランウェイ|髙野麻美、富田美憂、長島光那
+23|main|Sun！High！Gold！|花谷麻妃、原紗友里、星希成奏、中澤ミナ
+24|main|Nocturne|梅澤めぐ、小森結梨
+25|main|モラトリアム|五十嵐裕美、星希成奏
+26|main|Shine In The Sky☆|中澤ミナ、小森結梨、花谷麻妃
+27|main|Great Journey|福原綾香、大橋彩香、原紗友里
+28|main|UNIQU3 VOICES!!!|富田美憂、梅澤めぐ、星希成奏
+29|main|スターライトステージ|松嵜麗、田辺留依、松永あかね、梅澤めぐ、小森結梨、髙野麻美、牧野由依、高田憂希、福原綾香、深川芹亜、大橋彩香、大空直美、原紗友里、富田美憂、五十嵐裕美、花谷麻妃、原涼子、中澤ミナ、星希成奏、長島光那、金子有希
+30|encore|TRUE COLORS|高田憂希、原涼子、大空直美、富田美憂、松永あかね、金子有希
+31|encore|GOIN'!!!|松嵜麗、田辺留依、松永あかね、梅澤めぐ、小森結梨、髙野麻美、牧野由依、高田憂希、福原綾香、深川芹亜、大橋彩香、大空直美、原紗友里、富田美憂、五十嵐裕美、花谷麻妃、原涼子、中澤ミナ、星希成奏、長島光那、金子有希
+
+@live id=20250309_cg10th_osaka_d2 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 大阪公演 day=DAY2 date=2025-03-09 venue=v_osakajo_hall brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Dreamy Anniversary|松嵜麗、田辺留依、松永あかね、梅澤めぐ、福原綾香、小森結梨、大橋彩香、原涼子、原紗友里、中澤ミナ、星希成奏、長島光那、金子有希、牧野由依、深川芹亜、富田美憂、大空直美、五十嵐裕美、高田憂希、髙野麻美、花谷麻妃
+2|main|ギュっとMilky Way|深川芹亜、牧野由依
+3|main|Needle Light|田辺留依、長島光那
+4|main|きらりんロボのテーマ|松嵜麗、長島光那、牧野由依
+5|main|S(mile)ING！|大橋彩香|ver:game
+6|main|青空リレーション|金子有希|ver:game
+7|main|祈りの花|高田憂希|ver:game
+8|main|アイム・ア・リトル・プリンセス 〜お星さまにお願い〜|小森結梨|ver:game
+9|main|あの子が街に来なサンタ|松永あかね|ver:game
+10|main|メサイア|原涼子
+11|main|まほうのまくら|五十嵐裕美、花谷麻妃
+12|main|We wish your smile|松永あかね、原涼子
+13|main|ミライコンパス|高田憂希、牧野由依、原涼子、大空直美、金子有希
+14|main|ラビューダ♡トライアングル|髙野麻美、大橋彩香、深川芹亜
+15|main|春恋フレーム|長島光那|ver:game
+16|main|cherry＊merry＊cherry|大空直美|ver:game
+17|main|トキメキは赤くて甘い|梅澤めぐ|ver:game
+18|main|#HE4DSHOT|富田美憂|ver:game
+19|main|Never say never|福原綾香|ver:game
+20|main|D-ark L-ily's Grin|原紗友里、金子有希
+21|main|Vast world|原涼子、小森結梨、松永あかね
+22|main|太陽の絵の具箱|花谷麻妃、大空直美、高田憂希、中澤ミナ
+23|main|ストリート・ランウェイ|髙野麻美、富田美憂、長島光那
+24|main|Sun！High！Gold！|花谷麻妃、原紗友里、星希成奏、中澤ミナ
+25|main|Gossip Club|田辺留依、星希成奏、深川芹亜
+26|main|ワタシ御伽ばなシ|五十嵐裕美、小森結梨、深川芹亜
+27|main|流れ星キセキ|福原綾香、大橋彩香、原紗友里
+28|main|UNIQU3 VOICES!!!|富田美憂、梅澤めぐ、星希成奏
+29|main|とどけ！アイドル|福原綾香、松嵜麗、大橋彩香、五十嵐裕美、原紗友里
+30|main|スターライトステージ|松嵜麗、田辺留依、松永あかね、梅澤めぐ、小森結梨、髙野麻美、牧野由依、高田憂希、福原綾香、深川芹亜、大橋彩香、大空直美、原紗友里、富田美憂、五十嵐裕美、花谷麻妃、原涼子、中澤ミナ、星希成奏、長島光那、金子有希
+31|encore|無限L∞PだLOVE♡|髙野麻美、田辺留依、牧野由依、梅澤めぐ、中澤ミナ、松嵜麗
+32|encore|お願い！シンデレラ|松嵜麗、田辺留依、松永あかね、梅澤めぐ、小森結梨、髙野麻美、牧野由依、高田憂希、福原綾香、深川芹亜、大橋彩香、大空直美、原紗友里、富田美憂、五十嵐裕美、花谷麻妃、原涼子、中澤ミナ、星希成奏、長島光那、金子有希
+
+@live id=20250426_cg10th_tokyo_d1 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 東京公演 day=DAY1 date=2025-04-26 venue=v_ariake_arena brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|New bright stars|内田真礼、ルゥ ティン、天野聡美、森下来奈、立花理香、飯田友子、大坪由佳、松井恵理子、髙野麻美、村中知、新田ひより、佳村はるか、会沢紗弥、上坂すみれ、松田颯水、花井美春、朝井彩加、原優子、高橋花林
+2|main|おねだり Shall We 〜？|高森奈津美|ver:game
+3|main|ラヴィアンローズ|照井春佳|ver:game
+4|main|秘密のトワレ|藍原ことみ|ver:game
+5|main|2nd SIDE|松井恵理子|ver:game
+6|main|You're stars shine on me|上坂すみれ|ver:game
+7|main|もりのくにから|高橋花林|ver:game
+8|main|Darkness|天野聡美
+9|main|スマイルファンタジー|森下来奈、新田ひより、上坂すみれ
+10|main|とんでいっちゃいたいの|髙野麻美、大坪由佳、藍原ことみ
+11|main|Enishi|立花理香、ルゥ ティン
+12|main|幸せの法則〜ルール〜|天野聡美、森下来奈
+13|main|クレイジークレイジー|藍原ことみ、髙野麻美
+14|main|ミステリーハート|飯田友子、髙野麻美
+15|main|ステップ＆スキップ|天野聡美、会沢紗弥、高橋花林
+16|main|おんなの道は星の道|花井美春|ver:game
+17|main|青の一番星|ルゥ ティン|ver:game
+18|main|Claw My Heart|朝井彩加|ver:game
+19|main|弾丸サバイバー|村中知|ver:game
+20|main|炎の華|原優子|ver:game
+21|main|毒茸伝説|松田颯水|ver:game
+22|main|Nothing but You|高森奈津美、上坂すみれ、松田颯水、松井恵理子
+23|main|イケナイGO AHEAD|照井春佳、花井美春
+24|main|双翼の独奏歌|内田真礼、上坂すみれ
+25|main|Absolute NIne|原優子、高森奈津美、ルゥ ティン、藍原ことみ、佳村はるか
+26|main|モーレツ★世直しギルティ！|会沢紗弥、立花理香、大坪由佳
+27|main|アッパレ♪Mahara★Japaaan!|上坂すみれ、内田真礼、森下来奈
+28|main|Nightwear|藍原ことみ、ルゥ ティン、飯田友子、佳村はるか、髙野麻美
+29|main|THE VILLAIN'S NIGHT|照井春佳、会沢紗弥、髙野麻美
+30|main|純情Midnight伝説|松井恵理子、原優子、村中知
+31|main|∀NSWER|高橋花林、朝井彩加、松田颯水
+32|main|スターライトステージ|照井春佳、藍原ことみ、朝井彩加、花井美春、内田真礼、ルゥ ティン、天野聡美、森下来奈、立花理香、会沢紗弥、飯田友子、大坪由佳、上坂すみれ、松田颯水、松井恵理子、髙野麻美、村中知、新田ひより、佳村はるか、原優子、高橋花林、高森奈津美
+33|encore|夢色ハーモニー|立花理香、大坪由佳、松田颯水、内田真礼、朝井彩加、新田ひより、村中知
+34|encore|Stage Bye Stage|照井春佳、藍原ことみ、朝井彩加、花井美春、内田真礼、ルゥ ティン、天野聡美、森下来奈、立花理香、会沢紗弥、飯田友子、大坪由佳、上坂すみれ、松田颯水、松井恵理子、髙野麻美、村中知、新田ひより、佳村はるか、原優子、高橋花林、高森奈津美
+
+@live id=20250427_cg10th_tokyo_d2 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 東京公演 day=DAY2 date=2025-04-27 venue=v_ariake_arena brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|New bright stars|内田真礼、ルゥ ティン、天野聡美、森下来奈、立花理香、集貝はな、飯田友子、大坪由佳、松井恵理子、髙野麻美、村中知、新田ひより、佳村はるか、会沢紗弥、立花日菜、長野佑紀、花井美春、田澤茉純、原優子、高橋花林
+2|main|満願成就♪巫女の神頼み！|新田ひより|ver:game
+3|main|Shinobi 4.0 忍者のすゝめ|田澤茉純|ver:game
+4|main|初夢をあなたと|森下来奈|ver:game
+5|main|花簪 HANAKANZASHI|立花理香|ver:game
+6|main|き・ま・ぐ・れ☆Cafe au lait!|髙野麻美|ver:game
+7|main|楽園|会沢紗弥|ver:game
+8|main|読んで！甘辛Script|大坪由佳
+9|main|オウムアムアに幸運を|藍原ことみ、集貝はな、松井恵理子
+10|main|ノートの中のテラリウム|高橋花林、立花日菜
+11|main|とんでいっちゃいたいの|髙野麻美、大坪由佳、藍原ことみ
+12|main|幸せの法則〜ルール〜|天野聡美、森下来奈
+13|main|クレイジークレイジー|藍原ことみ、髙野麻美
+14|main|EVIL LIVE|花井美春、集貝はな、長野佑紀、原優子
+15|main|書きかけのラブレター|天野聡美、会沢紗弥、高橋花林
+16|main|14平米にスーベニア|立花日菜|ver:game
+17|main|青春のWanna!|長野佑紀|ver:game
+18|main|華蕾夢ミル狂詩曲〜魂ノ導〜|内田真礼|ver:game
+19|main|Hotel Moonside|飯田友子|ver:game
+20|main|GEMSTONE|集貝はな|ver:game
+21|main|Cosmo Cosme|佳村はるか
+22|main|きゅん・きゅん・まっくす|長野佑紀、原優子、村中知
+23|main|Absolute NIne|原優子、高森奈津美、ルゥ ティン、藍原ことみ、佳村はるか
+24|main|禍魂朧夜|花井美春、田澤茉純、ルゥ ティン
+25|main|イーリャンサンキュー|高森奈津美、大坪由佳、村中知、立花日菜
+26|main|バベル|藍原ことみ、飯田友子
+27|main|凸凹スピードスター|天野聡美、新田ひより
+28|main|美に入り彩を穿つ|立花理香、ルゥ ティン
+29|main|THE VILLAIN'S NIGHT|田澤茉純、会沢紗弥、髙野麻美
+30|main|純情Midnight伝説|松井恵理子、原優子、村中知
+31|main|Tulip|ルゥ ティン、藍原ことみ、飯田友子、佳村はるか、髙野麻美
+32|main|スターライトステージ|集貝はな、藍原ことみ、田澤茉純、花井美春、内田真礼、ルゥ ティン、天野聡美、森下来奈、立花理香、会沢紗弥、飯田友子、大坪由佳、立花日菜、長野佑紀、松井恵理子、髙野麻美、村中知、新田ひより、佳村はるか、原優子、高橋花林、高森奈津美
+33|encore|星環世界|集貝はな、長野佑紀、森下来奈、髙野麻美、飯田友子、花井美春、田澤茉純、立花日菜
+34|encore|お願い！シンデレラ|集貝はな、藍原ことみ、田澤茉純、花井美春、内田真礼、ルゥ ティン、天野聡美、森下来奈、立花理香、会沢紗弥、飯田友子、大坪由佳、立花日菜、長野佑紀、松井恵理子、髙野麻美、村中知、新田ひより、佳村はるか、原優子、高橋花林、高森奈津美
+
+@live id=20250607_cg10th_okinawa_d1 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 沖縄公演 day=DAY1 date=2025-06-07 venue=v_okinawa_arena brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|トロピカルガール|のぐちゆり、春瀬なつみ、二ノ宮ゆい、大木咲絵子、山下七海、山本希望、生田輝、安齋由香里、安野希世乃、下地紫野、青木瑠璃子、武田羅梨沙多胡、田澤茉純、河瀬茉希、小市眞琴、藤本彩花、井上ほの花、都丸ちよ、集貝はな
+2|main|銀のイルカと熱い風|大木咲絵子、山下七海、井上ほの花
+3|main|なつっこ音頭|山本希望、春瀬なつみ、小市眞琴
+4|main|さよならアロハ|河瀬茉希、下地紫野、安野希世乃、田澤茉純
+5|main|Let's Sail Away!!!|安齋由香里、井上ほの花、二ノ宮ゆい
+6|main|GEMSTONE|集貝はな|ver:game
+7|main|アタシガルール|河瀬茉希|ver:game
+8|main|Radio Happy|山下七海|ver:game
+9|main|Coffret Comet|山本希望
+10|main|Teeenage☆Groovin'|都丸ちよ、武田羅梨沙多胡、藤本彩花
+11|main|ギョーてん！しーわーるど！|藤本彩花、井上ほの花、春瀬なつみ
+12|main|不埒なCANVAS|安齋由香里、下地紫野
+13|main|悠久星涼|青木瑠璃子、大木咲絵子、二ノ宮ゆい
+14|main|Kawaii make MY day!|下地紫野、都丸ちよ
+15|main|よりみちリトルスター|集貝はな、春瀬なつみ、小市眞琴
+16|main|Night Time Wander|河瀬茉希、二ノ宮ゆい、山下七海
+17|main|さよならアンドロメダ|武田羅梨沙多胡、山下七海、生田輝
+18|main|オヤマトペ♪|藤本彩花|ver:game
+19|main|Milky Mode|のぐちゆり|ver:game
+20|main|思い出じゃない今日を|武田羅梨沙多胡|ver:game
+21|main|Rockin' Emotion|安野希世乃|ver:game
+22|main|Sparkling Girl|青木瑠璃子|ver:game
+23|main|かぼちゃ姫|春瀬なつみ、都丸ちよ、山本希望
+24|main|Morgana|二ノ宮ゆい、大木咲絵子、井上ほの花
+25|main|輝け！ビートシューター|小市眞琴、集貝はな
+26|main|Jet to the Future|青木瑠璃子、安野希世乃
+27|main|SUN♡FLOWER|安齋由香里、小市眞琴、春瀬なつみ、生田輝
+28|main|パ・リ・ラ|田澤茉純、武田羅梨沙多胡、生田輝、山本希望、のぐちゆり
+29|main|スターライトステージ|のぐちゆり、春瀬なつみ、武田羅梨沙多胡、二ノ宮ゆい、田澤茉純、大木咲絵子、藤本彩花、山下七海、井上ほの花、山本希望、都丸ちよ、生田輝、集貝はな、安齋由香里、河瀬茉希、安野希世乃、小市眞琴、下地紫野、青木瑠璃子
+30|encore|BEYOND THE STARLIGHT|のぐちゆり、集貝はな、山下七海、山本希望、都丸ちよ、田澤茉純
+31|encore|夕映えプレゼント|のぐちゆり、春瀬なつみ、武田羅梨沙多胡、二ノ宮ゆい、田澤茉純、大木咲絵子、藤本彩花、山下七海、井上ほの花、山本希望、都丸ちよ、生田輝、集貝はな、安齋由香里、河瀬茉希、安野希世乃、小市眞琴、下地紫野、青木瑠璃子
+
+@live id=20250608_cg10th_okinawa_d2 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 沖縄公演 day=DAY2 date=2025-06-08 venue=v_okinawa_arena brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|トロピカルガール|のぐちゆり、春瀬なつみ、二ノ宮ゆい、大木咲絵子、山下七海、山本希望、生田輝、安齋由香里、安野希世乃、下地紫野、青木瑠璃子、武田羅梨沙多胡、田澤茉純、河瀬茉希、小市眞琴、藤本彩花、井上ほの花、都丸ちよ、集貝はな
+2|main|銀のイルカと熱い風|大木咲絵子、山下七海、井上ほの花
+3|main|Let's Sail Away!!!|安齋由香里、井上ほの花、二ノ宮ゆい
+4|main|CoCo夏夏夏 Holiday|田澤茉純、生田輝、のぐちゆり
+5|main|夏恋 -NATSU KOI-|安齋由香里、山下七海、河瀬茉希
+6|main|恋色エナジー|下地紫野|ver:game
+7|main|プライスレス ドーナッCyu♡|都丸ちよ|ver:game
+8|main|セレブレイト・スターレイル|安齋由香里|ver:game
+9|main|にんぎょひめ練習中！|井上ほの花|ver:game
+10|main|ひまわりマークをさがせ！|春瀬なつみ|ver:game
+11|main|Teeenage☆Groovin'|都丸ちよ、武田羅梨沙多胡、藤本彩花
+12|main|ギョーてん！しーわーるど！|藤本彩花、井上ほの花、春瀬なつみ
+13|main|青空エール|下地紫野、小市眞琴、武田羅梨沙多胡
+14|main|Kawaii make MY day!|下地紫野、都丸ちよ
+15|main|よりみちリトルスター|集貝はな、春瀬なつみ、小市眞琴
+16|main|Night Time Wander|河瀬茉希、二ノ宮ゆい、山下七海
+17|main|Secret Daybreak|青木瑠璃子、安野希世乃
+18|main|Shinobi 4.0 忍者のすゝめ|田澤茉純|ver:game
+19|main|ソウソウ|生田輝|ver:game
+20|main|ACE|小市眞琴|ver:game
+21|main|ノーチラスソナー -Nautilus Sonar-|二ノ宮ゆい|ver:game
+22|main|Numberless|大木咲絵子
+23|main|かぼちゃ姫|春瀬なつみ、都丸ちよ、山本希望
+24|main|Gaze and Gaze|のぐちゆり、藤本彩花
+25|main|Morgana|二ノ宮ゆい、大木咲絵子、井上ほの花
+26|main|輝け！ビートシューター|小市眞琴、集貝はな
+27|main|Jet to the Future|青木瑠璃子、安野希世乃
+28|main|パ・リ・ラ|田澤茉純、武田羅梨沙多胡、生田輝、山本希望、のぐちゆり
+29|main|Orange Sapphire|下地紫野、山本希望、集貝はな、河瀬茉希
+30|main|スターライトステージ|のぐちゆり、春瀬なつみ、武田羅梨沙多胡、二ノ宮ゆい、田澤茉純、大木咲絵子、藤本彩花、山下七海、井上ほの花、山本希望、都丸ちよ、生田輝、集貝はな、安齋由香里、河瀬茉希、安野希世乃、小市眞琴、下地紫野、青木瑠璃子
+31|encore|Starry-Go-Round|生田輝、大木咲絵子、藤本彩花、安野希世乃、青木瑠璃子
+32|encore|お願い！シンデレラ|のぐちゆり、春瀬なつみ、武田羅梨沙多胡、二ノ宮ゆい、田澤茉純、大木咲絵子、藤本彩花、山下七海、井上ほの花、山本希望、都丸ちよ、生田輝、集貝はな、安齋由香里、河瀬茉希、安野希世乃、小市眞琴、下地紫野、青木瑠璃子
+
+@live id=20250628_cg10th_fukuoka_d1 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 福岡公演 day=DAY1 date=2025-06-28 venue=v_marinemesse brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|ガールズ・イン・ザ・フロンティア|関口理咲、佐倉薫、東山奈央、神谷早矢佳、津田美波、松田颯水、福原綾香、千菅春香、鈴木絵理、赤﨑千夏、桜咲千依、長野佑紀、伊達朱里紗、嘉山未紗、中島由貴、原田彩楓、鈴木みのり、高田憂希、長江里加、立花日菜
+2|main|Sunshine See May|高田憂希、鈴木みのり
+3|main|チカラ！イズ！ぱわー！！|赤﨑千夏、鈴木絵理
+4|main|Lunatic Show|桜咲千依、松田颯水
+5|main|絶対特権主張しますっ！|津田美波、中島由貴
+6|main|Never say never|福原綾香|ver:game
+7|main|碧空ノ一路|嘉山未紗|ver:game
+8|main|Angel Breeze|東山奈央|ver:game
+9|main|Clock Hands|関口理咲|ver:game
+10|main|毒茸伝説|松田颯水|ver:game
+11|main|チョコレート？レモネード？どっち？？|中島由貴、津田美波、佐倉薫
+12|main|Starry Night|鈴木みのり、原田彩楓、千菅春香
+13|main|熱情エナモラル|高田憂希、立花日菜、伊達朱里紗
+14|main|レッド・ソール|原田彩楓、鈴木みのり、松田颯水
+15|main|スパイスパラダイス|千菅春香、福原綾香、東山奈央
+16|main|サイン・オブ・ホープ|神谷早矢佳|ver:game
+17|main|青春のWanna!|長野佑紀|ver:game
+18|main|14平米にスーベニア|立花日菜|ver:game
+19|main|Packing Her Favorite|長江里加|ver:game
+20|main|ひだまりの中で|津田美波
+21|main|廻談詣り|桜咲千依、高田憂希
+22|main|N.O.R.〜Notes of Revolution〜革命についての覚書|松田颯水、嘉山未紗、長野佑紀
+23|main|Drastic Melody|関口理咲、福原綾香、千菅春香
+24|main|みんなのきもち|佐倉薫、東山奈央、原田彩楓
+25|main|サマーサイダー|中島由貴、長江里加
+26|main|情熱ファンファンファーレ|伊達朱里紗、赤﨑千夏、神谷早矢佳
+27|main|Fascinate|佐倉薫、関口理咲
+28|main|サマカニ！！|赤﨑千夏、東山奈央、鈴木絵理、伊達朱里紗
+29|main|スターライトステージ|関口理咲、佐倉薫、東山奈央、高田憂希、神谷早矢佳、鈴木みのり、津田美波、嘉山未紗、松田颯水、中島由貴、福原綾香、原田彩楓、千菅春香、立花日菜、鈴木絵理、長江里加、赤﨑千夏、長野佑紀、桜咲千依、伊達朱里紗
+30|encore|MOTTO!|津田美波、桜咲千依、神谷早矢佳、立花日菜、伊達朱里紗、嘉山未紗、鈴木絵理
+31|encore|認めてくれなくたっていいよ|佐倉薫、関口理咲、高田憂希、東山奈央、鈴木みのり、神谷早矢佳、嘉山未紗、津田美波、中島由貴、松田颯水、福原綾香、千菅春香、原田彩楓、鈴木絵理、立花日菜、赤﨑千夏、桜咲千依、長江里加、伊達朱里紗、長野佑紀
+
+@live id=20250629_cg10th_fukuoka_d2 tour=t_cg_10th_tour title=デレステ 10th ANNIVERSARY TOUR Let's AMUSEMENT!!! 福岡公演 day=DAY2 date=2025-06-29 venue=v_marinemesse brand=cg event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|ガールズ・イン・ザ・フロンティア|関口理咲、佐倉薫、東山奈央、神谷早矢佳、津田美波、松田颯水、福原綾香、千菅春香、鈴木絵理、赤﨑千夏、桜咲千依、長野佑紀、伊達朱里紗、嘉山未紗、中島由貴、原田彩楓、鈴木みのり、高田憂希、長江里加、立花日菜
+2|main|O-Ku-Ri-Mo-No Sunday!|立花日菜、長江里加
+3|main|ヒーローヴァーサスレイナンジョー|長野佑紀、神谷早矢佳
+4|main|Isosceles|鈴木みのり、津田美波
+5|main|Memories|赤﨑千夏、鈴木絵理
+6|main|Beat of the Night|佐倉薫|ver:game
+7|main|追い風Running|中島由貴|ver:game
+8|main|大阪タコちゃんラブちゃん|伊達朱里紗|ver:game
+9|main|熱血乙女A|赤﨑千夏|ver:game
+10|main|さいきっく☆うぉんちゅー！|鈴木絵理
+11|main|Just Us Justice|嘉山未紗、神谷早矢佳、長野佑紀
+12|main|熱情エナモラル|高田憂希、立花日菜、伊達朱里紗
+13|main|レッド・ソール|原田彩楓、鈴木みのり、松田颯水
+14|main|VOY@GER|福原綾香、長江里加
+15|main|Bloody Festa|桜咲千依|ver:game
+16|main|One Life|千菅春香|ver:game
+17|main|Last Kiss|原田彩楓|ver:game
+18|main|祈りの花|高田憂希|ver:game
+19|main|あらかねの器|鈴木みのり|ver:game
+20|main|アンデッド・ダンスロック|桜咲千依、千菅春香
+21|main|N.O.R.〜Notes of Revolution〜革命についての覚書|松田颯水、嘉山未紗、長野佑紀
+22|main|Drastic Melody|関口理咲、福原綾香、千菅春香
+23|main|みんなのきもち|佐倉薫、東山奈央、原田彩楓
+24|main|なんどでも笑おう|松田颯水、関口理咲、立花日菜、桜咲千依
+25|main|生存本能ヴァルキュリア|東山奈央、福原綾香、千菅春香
+26|main|Love∞Destiny|佐倉薫、津田美波、原田彩楓
+27|main|サマカニ！！|赤﨑千夏、東山奈央、鈴木絵理、伊達朱里紗
+28|main|ハイファイ☆デイズ|長江里加、立花日菜、中島由貴、嘉山未紗、神谷早矢佳、長野佑紀
+29|main|スターライトステージ|関口理咲、佐倉薫、東山奈央、高田憂希、神谷早矢佳、鈴木みのり、津田美波、嘉山未紗、松田颯水、中島由貴、福原綾香、原田彩楓、千菅春香、立花日菜、鈴木絵理、長江里加、赤﨑千夏、長野佑紀、桜咲千依、伊達朱里紗
+30|encore|Fantasia for the Girls|関口理咲、鈴木みのり、長江里加、高田憂希、松田颯水
+31|encore|お願い！シンデレラ|佐倉薫、関口理咲、高田憂希、東山奈央、鈴木みのり、神谷早矢佳、嘉山未紗、津田美波、中島由貴、松田颯水、福原綾香、千菅春香、原田彩楓、鈴木絵理、立花日菜、赤﨑千夏、桜咲千依、長江里加、伊達朱里紗、長野佑紀

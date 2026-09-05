@@ -1,0 +1,255 @@
+idol_id,name,name_kana,name_en,brand_id,color,cv_name,unit_primary,alias,is_active,verified,notes
+765as_ami,双海亜美,ふたみあみ,Ami Futami,765as,#FFE43F,下田麻美,,亜美,true,true,
+765as_azusa,三浦あずさ,みうらあずさ,Azusa Miura,765as,#9238BE,たかはし智秋,,あずさ,true,true,
+765as_chihaya,如月千早,きさらぎちはや,Chihaya Kisaragi,765as,#2743D2,今井麻美,,千早,true,true,
+765as_haruka,天海春香,あまみはるか,Haruka Amami,765as,#E22B30,中村繪里子,,春香,true,true,
+765as_hibiki,我那覇響,がなはひびき,Hibiki Ganaha,765as,#01ADB9,沼倉愛美,,響,true,true,
+765as_iori,水瀬伊織,みなせいおり,Iori Minase,765as,#FD99E1,釘宮理恵,,伊織,true,true,
+765as_kotori,音無小鳥,おとなしことり,Kotori Otonashi,765as,#FFF98E,滝田樹里,,事務員;小鳥,true,true,事務員だが歌唱曲あり
+765as_makoto,菊地真,きくちまこと,Makoto Kikuchi,765as,#515558,平田宏美,,真,true,true,
+765as_mami,双海真美,ふたみまみ,Mami Futami,765as,#FFE43F,下田麻美,,真美,true,true,
+765as_miki,星井美希,ほしいみき,Miki Hoshii,765as,#B4E04B,長谷川明子,,美希,true,true,
+765as_ritsuko,秋月律子,あきづきりつこ,Ritsuko Akizuki,765as,#01A860,若林直美,,律子,true,true,
+765as_takane,四条貴音,しじょうたかね,Takane Shijou,765as,#A6126A,原由実,,貴音,true,true,
+765as_yayoi,高槻やよい,たかつきやよい,Yayoi Takatsuki,765as,#F39939,仁後真耶子,,やよい,true,true,
+765as_yukiho,萩原雪歩,はぎわらゆきほ,Yukiho Hagiwara,765as,#D3DDE9,浅倉杏美,,雪歩,true,true,
+876_ai,日高愛,ひだかあい,,876,#E85786,戸松遥,,愛,true,true,
+876_eri,水谷絵理,みずたにえり,,876,#00ADB9,花澤香菜,,絵理,true,true,
+876_ryo,秋月涼,あきづきりょう,,876,,三瓶由布子,,,true,false,秋月涼は876→315へ移籍(sm_ryo と同一人物)
+961_aya,亜夜,あや,,961,,日高里菜,,,true,false,
+961_leon,玲音,れおん,,961,#512AA3,茅原実里,,,true,true,CV未確認
+961_shika,詩花,しいか,,961,#E6F9E5,高橋李依,,,true,true,CV未確認
+cg_aiko,高森藍子,たかもりあいこ,,cg,#CDEA80,金子有希,,藍子,true,true,
+cg_airi,十時愛梨,ととときあいり,,cg,#DF4661,原田ひとみ,,愛梨,true,true,
+cg_anastasia,アナスタシア,あなすたしあ,,cg,#B1C9E8,上坂すみれ,,,true,true,
+cg_anzu,双葉杏,ふたばあんず,,cg,#F8A3BC,五十嵐裕美,,杏,true,true,
+cg_arisu,橘ありす,たちばなありす,,cg,#5C88DA,佐藤亜美菜,,ありす,true,true,
+cg_asuka,二宮飛鳥,にのみやあすか,,cg,#5F259F,青木志貴,,飛鳥,true,true,
+cg_chieri,緒方智絵里,おがたちえり,,cg,#6CC24A,大空直美,,智絵里,true,true,
+cg_frederica,宮本フレデリカ,みやもとふれでりか,,cg,#A20067,髙野麻美,,フレデリカ,true,true,
+cg_fumika,鷺沢文香,さぎさわふみか,,cg,#606EB2,M・A・O,,文香,true,true,
+cg_hijiri,望月聖,もちづきひじり,,cg,#B7DDE1,原涼子,,聖,true,true,
+cg_hotaru,白菊ほたる,しらぎくほたる,,cg,#C964CF,天野聡美,,ほたる,true,true,
+cg_kaede,高垣楓,たかがきかえで,,cg,#47D7AC,早見沙織,,楓,true,true,
+cg_kanade,速水奏,はやみかなで,,cg,#003087,飯田友子,,奏,true,true,
+cg_kanako,三村かな子,みむらかなこ,,cg,#FFB1BB,大坪由佳,,かな子,true,true,
+cg_karen,北条加蓮,ほうじょうかれん,,cg,#2AD2C9,渕上舞,,加蓮,true,true,
+cg_kirari,諸星きらり,もろぼしきらり,,cg,#FFD100,松嵜麗,,きらり,true,true,
+cg_koharu,古賀小春,こがこはる,,cg,#C2E189,小森結梨,,小春,true,true,
+cg_koume,白坂小梅,しらさかこうめ,,cg,#ABCAE9,桜咲千依,,小梅,true,true,
+cg_kyoko,五十嵐響子,いがらしきょうこ,,cg,#FABBCB,種﨑敦美,,響子,true,true,
+cg_makino,八神マキノ,やがみまきの,,cg,#A6A4E0,二ノ宮ゆい,,マキノ,true,true,
+cg_mayu,佐久間まゆ,さくままゆ,,cg,#DA1884,牧野由依,,まゆ,true,true,
+cg_miho,小日向美穂,こひなたみほ,,cg,#DB3EB1,津田美波,,美穂,true,true,
+cg_mika,城ヶ崎美嘉,じょうがさきみか,,cg,#FE9D1A,佳村はるか,,美嘉,true,true,
+cg_miku,前川みく,まえかわみく,,cg,#CE0037,高森奈津美,,みく,true,true,
+cg_mio,本田未央,ほんだみお,,cg,#FFB81C,原紗友里,,未央,true,true,
+cg_miyu,三船美優,みふねみゆ,,cg,#12BFB2,原田彩楓,,美優,true,true,
+cg_mizuki,川島瑞樹,かわしまみずき,,cg,#485CC7,東山奈央,,瑞樹,true,true,
+cg_nana,安部菜々,あべなな,,cg,#EF4A81,三宅麻理恵,,菜々,true,true,
+cg_nao,神谷奈緒,かみやなお,,cg,#9678D3,松井恵理子,,奈緒,true,true,
+cg_natsuki,木村夏樹,きむらなつき,,cg,#53565A,安野希世乃,,夏樹,true,true,
+cg_nina,市原仁奈,いちはらにな,,cg,#F8E08E,久野美咲,,仁奈,true,true,
+cg_nono,森久保乃々,もりくぼのの,,cg,#9CDBD9,高橋花林,,乃々,true,true,
+cg_ranko,神崎蘭子,かんざきらんこ,,cg,#84329B,内田真礼,,蘭子,true,true,
+cg_riina,多田李衣菜,ただりいな,,cg,#0077C8,青木瑠璃子,,李衣菜,true,true,
+cg_rika,城ヶ崎莉嘉,じょうがさきりか,,cg,#FEDD00,山本希望,,莉嘉,true,true,
+cg_rin,渋谷凛,しぶやりん,,cg,#009CDE,福原綾香,,凛,true,true,
+cg_sae,小早川紗枝,こばやかわさえ,,cg,#E56DB1,立花理香,,紗枝,true,true,
+cg_sanae,片桐早苗,かたぎりさなえ,,cg,#FC4C02,和氣あず未,,早苗,true,true,CV未確認
+cg_shiki,星輝子,ほししょうこ,,cg,#A6093D,松田颯水,,輝子,true,true,
+cg_shiki2,一ノ瀬志希,いちのせしき,,cg,#A50050,藍原ことみ,,志希,true,true,
+cg_syuko,塩見周子,しおみしゅうこ,,cg,#DCE6ED,ルゥ・ティン,,,true,true,CV未確認
+cg_touka,櫻井桃華,さくらいとうか,,cg,#EF95CF,照井春佳,,桃華,true,true,
+cg_tsukasa,桐生つかさ,きりゅうつかさ,,cg,#AB4EC6,河瀬茉希,,つかさ,true,true,
+cg_uzuki,島村卯月,しまむらうづき,,cg,#F67599,大橋彩香,,卯月,true,true,
+cg_x001,赤城みりあ,,,cg,#FFCD00,黒沢ともよ,,,true,true,colors.tsv から自動追加
+cg_x002,浅利七海,,,cg,#009CBD,井上ほの花,,,true,true,colors.tsv から自動追加
+cg_x003,荒木比奈,,,cg,#A0D884,田辺留依,,,true,true,colors.tsv から自動追加
+cg_x004,イヴ・サンタクロース,,,cg,#E5E1E6,松永あかね,,,true,true,colors.tsv から自動追加
+cg_x005,上田鈴帆,,,cg,#CC8A00,春野ななみ,,,true,true,colors.tsv から自動追加
+cg_x006,及川雫,,,cg,#FFFFFF,のぐちゆり,,,true,true,colors.tsv から自動追加
+cg_x007,大石泉,,,cg,#74D1EA,大木咲絵子,,,true,true,colors.tsv から自動追加
+cg_x008,乙倉悠貴,,,cg,#E4BEC3,中島由貴,,,true,true,colors.tsv から自動追加
+cg_x009,上条春菜,,,cg,#5BC2E7,長島光那,,,true,true,colors.tsv から自動追加
+cg_x010,喜多日菜子,,,cg,#FCD757,深川芹亜,,,true,true,colors.tsv から自動追加
+cg_x011,喜多見柚,,,cg,#F8F283,武田羅梨沙多胡,,,true,true,colors.tsv から自動追加
+cg_x012,黒埼ちとせ,,,cg,#EF3340,佐倉薫,,,true,true,colors.tsv から自動追加
+cg_x013,輿水幸子,,,cg,#C1A0DA,竹達彩奈,,,true,true,colors.tsv から自動追加
+cg_x014,小関麗奈,,,cg,#9B26B6,長野佑紀,,,true,true,colors.tsv から自動追加
+cg_x015,西園寺琴歌,,,cg,#E8CDD0,安齋由香里,,,true,true,colors.tsv から自動追加
+cg_x016,佐々木千枝,,,cg,#0072CE,今井麻夏,,,true,true,colors.tsv から自動追加
+cg_x017,佐城雪美,,,cg,#171C8F,中澤ミナ,,,true,true,colors.tsv から自動追加
+cg_x018,佐藤心,,,cg,#F04E98,花守ゆみり,,,true,true,colors.tsv から自動追加
+cg_x019,椎名法子,,,cg,#F8485E,都丸ちよ,,,true,true,colors.tsv から自動追加
+cg_x020,白雪千夜,,,cg,#EFD7E5,関口理咲,,,true,true,colors.tsv から自動追加
+cg_x021,砂塚あきら,,,cg,#7E93A7,富田美憂,,,true,true,colors.tsv から自動追加
+cg_x022,関裕美,,,cg,#FFB3AB,会沢紗弥,,,true,true,colors.tsv から自動追加
+cg_x023,鷹富士茄子,,,cg,#5C068C,森下来奈,,,true,true,colors.tsv から自動追加
+cg_x024,辻野あかり,,,cg,#E10600,梅澤めぐ,,,true,true,colors.tsv から自動追加
+cg_x025,道明寺歌鈴,,,cg,#D22630,新田ひより,,,true,true,colors.tsv から自動追加
+cg_x026,中野有香,,,cg,#E277CD,下地紫野,,,true,true,colors.tsv から自動追加
+cg_x027,ナターリア,,,cg,#F4633A,生田輝,,,true,true,colors.tsv から自動追加
+cg_x028,南条光,,,cg,#E4002B,神谷早矢佳,,,true,true,colors.tsv から自動追加
+cg_x029,難波笑美,,,cg,#E03C31,伊達朱里紗,,,true,true,colors.tsv から自動追加
+cg_x030,新田美波,,,cg,#71C5E8,洲崎綾,,,true,true,colors.tsv から自動追加
+cg_x031,浜口あやめ,,,cg,#440099,田澤茉純,,,true,true,colors.tsv から自動追加
+cg_x032,早坂美玲,,,cg,#C800A1,朝井彩加,,,true,true,colors.tsv から自動追加
+cg_x033,久川凪,,,cg,#F8A4BD,立花日菜,,,true,true,colors.tsv から自動追加
+cg_x034,久川颯,,,cg,#7EDDD3,長江里加,,,true,true,colors.tsv から自動追加
+cg_x035,日野茜,,,cg,#F9423A,赤﨑千夏,,,true,true,colors.tsv から自動追加
+cg_x036,藤本里奈,,,cg,#623B2A,金子真由美,,,true,true,colors.tsv から自動追加
+cg_x037,藤原肇,,,cg,#9595D2,鈴木みのり,,,true,true,colors.tsv から自動追加
+cg_x038,松永涼,,,cg,#211551,千菅春香,,,true,true,colors.tsv から自動追加
+cg_x039,的場梨沙,,,cg,#FF00A0,集貝はな,,,true,true,colors.tsv から自動追加
+cg_x040,水本ゆかり,,,cg,#EABEDB,藤田茜,,,true,true,colors.tsv から自動追加
+cg_x041,向井拓海,,,cg,#B0008E,原優子,,,true,true,colors.tsv から自動追加
+cg_x042,棟方愛海,,,cg,#C7579A,藤本彩花,,,true,true,colors.tsv から自動追加
+cg_x043,村上巴,,,cg,#AB192C,花井美春,,,true,true,colors.tsv から自動追加
+cg_x044,大和亜季,,,cg,#28724F,村中知,,,true,true,colors.tsv から自動追加
+cg_x045,結城晴,,,cg,#71DAD4,小市眞琴,,,true,true,colors.tsv から自動追加
+cg_x046,遊佐こずえ,,,cg,#F4A6D7,花谷麻妃,,,true,true,colors.tsv から自動追加
+cg_x047,夢見りあむ,,,cg,#E89CDC,星希成奏,,,true,true,colors.tsv から自動追加
+cg_x048,ライラ,,,cg,#7CE0D3,市ノ瀬加那,,,true,true,colors.tsv から自動追加
+cg_x049,龍崎薫,,,cg,#FAE053,春瀬なつみ,,,true,true,colors.tsv から自動追加
+cg_x050,脇山珠美,,,cg,#407EC9,嘉山未紗,,,true,true,colors.tsv から自動追加
+cg_yoshino,依田芳乃,よだよしの,,cg,#C4BCB7,高田憂希,,芳乃,true,true,
+cg_yui,大槻唯,おおつきゆい,,cg,#F6BE00,山下七海,,唯,true,true,
+cg_yuki,姫川友紀,ひめかわゆき,,cg,#ED8B00,杜野まこ,,友紀,true,true,
+cg_yuko,堀裕子,ほりゆうこ,,cg,#ECA154,鈴木絵理,,裕子,true,true,
+cg_yumi,相葉夕美,あいばゆうみ,,cg,#F0E991,木村珠莉,,夕美,true,true,
+gk_china,倉本千奈,くらもとちな,,gk,#F68B1F,伊藤舞音,,千奈,true,true,
+gk_hiro,篠澤広,しのざわひろ,,gk,#00AFCC,川村玲奈,,広,true,true,
+gk_kotone,藤田ことね,ふじたことね,,gk,#F8C112,飯田ヒカル,,ことね,true,true,
+gk_lilja,葛城リーリヤ,かつらぎりーりや,,gk,#EAFDFF,花岩香奈,,リーリヤ,true,true,
+gk_mao,有村麻央,ありむらまお,,gk,#7F1184,七瀬つむぎ,,麻央,true,true,
+gk_misuzu,秦谷美鈴,はたやみすず,,gk,#7A99CF,春咲暖,,美鈴,true,true,
+gk_rinami,姫崎莉波,ひめさきりなみ,,gk,#F6ADC6,薄井友里,,莉波,true,true,
+gk_saki,花海咲季,はなみさき,,gk,#E30F25,長月あおい,,咲季,true,true,
+gk_sena,十王星南,じゅうおうせな,,gk,#F6AE54,陽高真白,,星南,true,true,
+gk_sumika,紫雲清夏,しうんすみか,,gk,#7CFC00,湊みや,,清夏,true,true,
+gk_temari,月村手毬,つきむらてまり,,gk,#0C7BBB,小鹿なお,,手毬,true,true,
+gk_tsubame,雨夜燕,あまよつばめ,,gk,#7B68EE,天音ゆかり,,燕,true,true,
+gk_ume,花海佑芽,はなみうめ,,gk,#EA533A,松田彩音,,佑芽,true,true,
+gk_x001,真城優,,,gk,#F0F8FF,村田綾香,,,true,true,colors.tsv から自動追加
+ml_akane,野々原茜,ののはらあかね,Akane Nonohara,ml,#EB613F,小笠原早紀,,茜,true,true,
+ml_anna,望月杏奈,もちづきあんな,Anna Mochizuki,ml,#7E6CA8,夏川椎菜,,杏奈,true,true,
+ml_arisa,松田亜利沙,まつだありさ,Arisa Matsuda,ml,#B54461,村川梨衣,,亜利沙,true,true,
+ml_ayumu,舞浜歩,まいはまあゆむ,Ayumu Maihama,ml,#E25A9B,戸田めぐみ,,歩,true,true,
+ml_chizuru,二階堂千鶴,にかいどうちづる,Chizuru Nikaido,ml,#F19557,野村香菜子,,千鶴,true,true,
+ml_elena,島原エレナ,しまばらえれな,Elena Shimabara,ml,#9BCE92,角元明日香,,エレナ,true,true,
+ml_emily,エミリー,えみりー,Emily,ml,#554171,郁原ゆう,,エミリー スチュアート,true,true,
+ml_fuka,豊川風花,とよかわふうか,Fuka Toyokawa,ml,#7278A8,末柄里恵,,風花,true,true,
+ml_hinata,木下ひなた,きのしたひなた,Hinata Kinoshita,ml,#D1342C,田村奈央,,ひなた,true,true,
+ml_iku,中谷育,なかたにいく,Iku Nakatani,ml,#F7E78E,原嶋あかり,,育,true,true,
+ml_julia,ジュリア,じゅりあ,Julia,ml,#D7385F,愛美,,,true,true,
+ml_kana,矢吹可奈,やぶきかな,Kana Yabuki,ml,#F5AD3B,木戸衣吹,,可奈,true,true,
+ml_kaori,桜守歌織,さくらもりかおり,Kaori Sakuramori,ml,#274079,香里有佐,,歌織,true,true,
+ml_karen,篠宮可憐,しのみやかれん,Karen Shinomiya,ml,#B63B40,近藤唯,,可憐,true,true,
+ml_konomi,馬場このみ,ばばこのみ,Konomi Baba,ml,#F1BECB,髙橋ミナミ,,このみ;高橋未奈美,true,true,
+ml_kotoha,田中琴葉,たなかことは,Kotoha Tanaka,ml,#92CFBB,種田梨沙,,琴葉,true,true,
+ml_matsuri,徳川まつり,とくがわまつり,Matsuri Tokugawa,ml,#5ABFB7,諏訪彩花,,まつり,true,true,
+ml_megumi,所恵美,ところめぐみ,Megumi Tokoro,ml,#454341,藤井ゆきよ,,恵美,true,true,
+ml_minako,佐竹美奈子,さたけみなこ,Minako Satake,ml,#58A6DC,大関英里,,美奈子,true,true,
+ml_mirai,春日未来,かすがみらい,Mirai Kasuga,ml,#EA5B76,山崎はるか,,未来,true,true,
+ml_miya,宮尾美也,みやおみや,Miya Miyao,ml,#D7A96B,桐谷蝶々,,美也,true,true,色は要確認
+ml_mizuki,真壁瑞希,まかべみずき,Mizuki Makabe,ml,#99B7DC,阿部里果,,瑞希,true,true,
+ml_momoko,周防桃子,すおうももこ,Momoko Suou,ml,#EFB864,渡部恵子,,桃子,true,true,
+ml_nao,横山奈緒,よこやまなお,Nao Yokoyama,ml,#788BC5,渡部優衣,,奈緒,true,true,
+ml_noriko,福田のり子,ふくだのりこ,Noriko Fukuda,ml,#ECEB70,浜崎奈々,,のり子,true,true,
+ml_reika,北上麗花,きたかみれいか,Reika Kitakami,ml,#6BB6B0,平山笑美,,麗花,true,true,
+ml_rio,百瀬莉緒,ももせりお,Rio Momose,ml,#F19591,山口立花子,,莉緒,true,true,
+ml_roco,ロコ,ろこ,Roco,ml,#FFF03C,中村温姫,,,true,true,
+ml_sayoko,高山紗代子,たかやまさよこ,Sayoko Takayama,ml,#7F6575,駒形友梨,,紗代子,true,true,
+ml_serika,箱崎星梨花,はこざきせりか,Serika Hakozaki,ml,#ED90BA,麻倉もも,,星梨花,true,true,
+ml_shiho,北沢志保,きたざわしほ,Shiho Kitazawa,ml,#AFA690,雨宮天,,志保,true,true,
+ml_shizuka,最上静香,もがみしずか,Shizuka Mogami,ml,#6495CF,田所あずさ,,静香,true,true,
+ml_subaru,永吉昴,ながよしすばる,Subaru Nagayoshi,ml,#AEB49C,斉藤佑圭,,昴,true,true,
+ml_tamaki,大神環,おおがみたまき,Tamaki Ogami,ml,#EE762E,稲川英里,,環,true,true,
+ml_tomoka,天空橋朋花,てんくうばしともか,Tomoka Tenkubashi,ml,#BEE3E3,小岩井ことり,,朋花,true,true,
+ml_tsubasa,伊吹翼,いぶきつばさ,Tsubasa Ibuki,ml,#FED552,Machico,,翼,true,true,
+ml_tsumugi,白石紬,しらいしつむぎ,Tsumugi Shiraishi,ml,#EBE1FF,南早紀,,紬,true,true,
+ml_umi,高坂海美,こうさかうみ,Umi Kousaka,ml,#E9739B,上田麗奈,,海美,true,true,
+ml_yuriko,七尾百合子,ななおゆりこ,Yuriko Nanao,ml,#C7B83C,伊藤美来,,百合子,true,true,
+other_shirahaku,奥空心白,おくぞらしろは,,other,#FEFAD4,田中あいみ,,心白,true,true,スターリットシーズン
+sc_amana,大崎甘奈,おおさきあまな,,sc,#F54275,黒木ほの香,,甘奈,true,true,
+sc_asahi,芹沢あさひ,せりざわあさひ,,sc,#F30100,田中有紀,,あさひ,true,true,
+sc_chiyoko,園田智代子,そのだちよこ,,sc,#F93B90,白石晴香,,智代子,true,true,
+sc_chiyuki,桑山千雪,くわやまちゆき,,sc,#FAFAFA,芝崎典子,,千雪,true,true,
+sc_fuyuko,黛冬優子,まゆずみふゆこ,,sc,#5AFF19,幸村恵理,,冬優子,true,true,
+sc_hana,鈴木羽那,すずきはな,,sc,#E0B5D3,三川華月,,羽那,true,true,
+sc_haruki,郁田はるき,いくたはるき,,sc,#EAD7A4,小澤麗那,,はるき,true,true,
+sc_hinana,市川雛菜,いちかわひなな,,sc,#FFC639,岡咲美保,,雛菜,true,true,
+sc_hiori,風野灯織,かぜのひおり,,sc,#144384,近藤玲奈,,灯織,true,true,
+sc_juri,西城樹里,さいじょうじゅり,,sc,#FFC602,永井真里子,,樹里,true,true,
+sc_kaho,小宮果穂,こみやかほ,,sc,#E5461C,河野ひより,,果穂,true,true,
+sc_kiriko,幽谷霧子,ゆうこくきりこ,,sc,#D9F2FF,結名美月,,霧子,true,true,
+sc_kogane,月岡恋鐘,つきおかこがね,,sc,#F84CAD,礒部花凜,,恋鐘,true,true,
+sc_koito,福丸小糸,ふくまるこいと,,sc,#7967C3,田嶌紗蘭,,小糸,true,true,
+sc_luca,斑鳩ルカ,いかるがるか,,sc,#35281F,川口莉奈,,ルカ,true,true,
+sc_madoka,樋口円香,ひぐちまどか,,sc,#BE1E3E,土屋李央,,円香,true,true,
+sc_mamimi,田中摩美々,たなかまみみ,,sc,#A846FB,菅沼千紗,,摩美々,true,true,
+sc_mano,櫻木真乃,さくらぎまの,,sc,#FFBAD6,関根瞳,,真乃,true,true,
+sc_megumi,八宮めぐる,はちみやめぐる,,sc,#FFE012,峯田茉優,,めぐる,true,true,
+sc_mei,和泉愛依,いずみめい,,sc,#FF00FF,北原沙弥香,,愛依,true,true,
+sc_mikoto,緋田美琴,あけたみこと,,sc,#760F10,山根綺,,美琴,true,true,
+sc_natsuha,有栖川夏葉,ありすがわなつは,,sc,#90E667,涼本あきほ,,夏葉,true,true,
+sc_nichika,七草にちか,ななくさにちか,,sc,#A6CDB6,紫月杏朱彩,,にちか,true,true,
+sc_rinze,杜野凛世,もりのりんぜ,,sc,#89C3EB,丸岡和佳奈,,凛世,true,true,
+sc_sakuya,白瀬咲耶,しらせさくや,,sc,#006047,八巻アンナ,,咲耶,true,true,
+sc_tenka,大崎甜花,おおさきてんか,,sc,#E75BEC,前川涼子,,甜花,true,true,
+sc_toru,浅倉透,あさくらとおる,,sc,#50D0D0,和久井優,,透,true,true,
+sc_x001,七草はづき,,,sc,#8ADFFF,山村響,,,true,true,colors.tsv から自動追加
+sc_yuika,三峰結華,みつみねゆいか,,sc,#3B91C4,希水しお,,結華,true,true,
+sm_amehiko,葛之葉雨彦,,,sm,#4D4D4D,笠間淳,,,true,true,
+sm_aslan,アスラン＝ベルゼビュートⅡ世,あすらんべるぜびゅーとにせい,,sm,#6967AB,古川慎,,アスラン,true,true,
+sm_chris,古論クリス,,,sm,#00C4DF,駒田航,,,true,true,
+sm_daigo,兜大吾,,,sm,#DC291E,浦尾岳大,,,true,true,
+sm_eishin,眉見鋭心,,,sm,#E01828,大塚剛央,,,true,true,
+sm_genbu,黒野玄武,,,sm,#001CA8,深町寿成,,,true,true,
+sm_haruna,若里春名,,,sm,#70D551,白井悠介,,,true,true,
+sm_hayato,秋山隼人,,,sm,#FF7000,千葉翔也,,,true,true,
+sm_hideo,握野英雄,,,sm,#73B8E2,熊谷健太郎,,,true,true,
+sm_hokuto,伊集院北斗,いじゅういんほくと,,sm,#1226AA,神原大地,,北斗,true,true,
+sm_jiro,山下次郎,,,sm,#EE7800,中島ヨシキ,,,true,true,
+sm_kanon,姫野かのん,,,sm,#FAB6C4,村瀬歩,,,true,true,
+sm_kaoru,桜庭薫,さくらばかおる,,sm,#004EBC,内田雄馬,,薫,true,true,
+sm_kazuki,九十九一希,,,sm,#D3A243,比留間俊哉,,,true,true,
+sm_kei,都築圭,つづきけい,,sm,#C2AFE6,土岐隼一,,圭,true,true,CV未確認
+sm_kirio,猫柳キリオ,,,sm,#FFD700,山下大輝,,,true,true,
+sm_kuro,清澄九郎,,,sm,#71A4D9,中田祐矢,,,true,true,
+sm_kyoji,鷹城恭二,たかじょうきょうじ,,sm,#6DC6E7,梅原裕一郎,,恭二,true,true,
+sm_kyosuke,蒼井享介,,,sm,#53DA3F,山谷祥生,,,true,true,
+sm_mao,卯月巻緒,,,sm,#EEC362,児玉卓也,,,true,true,
+sm_michio,硲道夫,,,sm,#426CA9,伊東健人,,,true,true,
+sm_michiru,円城寺道流,,,sm,#FDA900,濱野大輝,,,true,true,
+sm_minori,渡辺みのり,わたなべみのり,,sm,#EE869A,高塚智人,,みのり,true,true,
+sm_momondo,花園百々人,,,sm,#B8F028,宮﨑雅也,,,true,true,
+sm_naoto,岡村直央,,,sm,#211E55,矢野奨吾,,,true,true,
+sm_natsuki,榊夏来,,,sm,#48D2DD,渡辺紘,,,true,true,
+sm_pierre,ピエール,ぴえーる,,sm,#8ADD66,堀江瞬,,,true,true,
+sm_rei,神楽麗,かぐられい,,sm,#004898,永野由祐,,麗,true,true,CV未確認
+sm_ren,牙崎漣,きばさきれん,,sm,#BA2636,小松昌平,,漣,true,true,CV未確認
+sm_rui,舞田類,,,sm,#F7D54E,榎木淳弥,,,true,true,
+sm_ryo,秋月涼,あきづきりょう,,sm,#70D551,三瓶由布子,,涼,true,true,CV未確認
+sm_ryu,木村龍,,,sm,#EA7125,濱健人,,,true,true,
+sm_saki,水嶋咲,,,sm,#EB6EA5,小林大紀,,,true,true,
+sm_seiji,信玄誠司,,,sm,#7B8D42,増元拓也,,,true,true,
+sm_shiki,伊瀬谷四季,,,sm,#DD0AB2,野上翔,,,true,true,
+sm_shiro,橘志狼,たちばなしろう,,sm,#E72510,古畑恵介,,志狼,true,true,CV未確認
+sm_shoma,華村翔真,,,sm,#6A488E,バレッタ裕,,,true,true,
+sm_shota,御手洗翔太,みたらいしょうた,,sm,#8FD400,松岡禎丞,,翔太,true,true,
+sm_shu,天峰秀,,,sm,#0198F0,伊瀬結陸,,,true,true,
+sm_shun,冬美旬,,,sm,#004EBC,永塚拓馬,,,true,true,
+sm_soichiro,東雲荘一郎,,,sm,#008E74,天﨑滉平,,,true,true,
+sm_sora,北村想楽,,,sm,#3F7735,汐谷文康,,,true,true,
+sm_suzaku,紅井朱雀,べにいすざく,,sm,#E23B30,益山武明,,朱雀,true,true,
+sm_takeru,大河タケル,,,sm,#001CA8,寺島惇太,,,true,true,
+sm_teru,天道輝,てんどうてる,,sm,#E1261C,仲村宗悟,,輝,true,true,
+sm_touma,天ヶ瀬冬馬,あまがせとうま,,sm,#F32836,寺島拓篤,,冬馬,true,true,
+sm_tsubasa,柏木翼,かしわぎつばさ,,sm,#2EB135,八代拓,,,true,true,
+sm_yukihiro,神谷幸広,,,sm,#D88B83,狩野翔,,,true,true,
+sm_yusuke,蒼井悠介,,,sm,#FFE200,菊池勇成,,,true,true,
+valiv_cosmo,上水流宇宙,かみづるこすも,,valiv,#56CCF2,,,宇宙,true,false,
+valiv_letora,レトラ,れとら,,valiv,#D7F930,,,,true,false,
+valiv_manaka,灯里愛夏,あかりまなか,,valiv,#FF4554,,,愛夏,true,false,

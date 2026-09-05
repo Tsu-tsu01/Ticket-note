@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-05T18:25:05.000Z",
+  "masters": [
+    "brands.csv",
+    "idols.csv",
+    "cv_assignments.csv",
+    "units.csv",
+    "songs.csv",
+    "venues.csv",
+    "tours.csv",
+    "lives.csv"
+  ],
+  "setlists": [
+    "setlists/2014.csv",
+    "setlists/2015.csv",
+    "setlists/2016.csv",
+    "setlists/2017.csv",
+    "setlists/2018.csv",
+    "setlists/2019.csv",
+    "setlists/2021.csv",
+    "setlists/2022.csv",
+    "setlists/2023.csv",
+    "setlists/2024.csv",
+    "setlists/2025.csv",
+    "setlists/2026.csv"
+  ],
+  "scales": [
+    {
+      "id": "dome",
+      "label": "ドーム級",
+      "rank": 6
+    },
+    {
+      "id": "ssa",
+      "label": "特大アリーナ",
+      "rank": 5
+    },
+    {
+      "id": "arena_l",
+      "label": "大アリーナ",
+      "rank": 4
+    },
+    {
+      "id": "arena_s",
+      "label": "小アリーナ",
+      "rank": 3
+    },
+    {
+      "id": "hall",
+      "label": "ホール",
+      "rank": 2
+    },
+    {
+      "id": "livehouse",
+      "label": "ライブハウス",
+      "rank": 1
+    },
+    {
+      "id": "overseas",
+      "label": "海外",
+      "rank": 3
+    },
+    {
+      "id": "online",
+      "label": "配信",
+      "rank": 0
+    }
+  ],
+  "event_types": [
+    {
+      "id": "solo",
+      "label": "単独ライブ"
+    },
+    {
+      "id": "festival",
+      "label": "合同/フェス"
+    },
+    {
+      "id": "event",
+      "label": "イベント"
+    },
+    {
+      "id": "release",
+      "label": "リリイベ"
+    },
+    {
+      "id": "broadcast",
+      "label": "配信番組"
+    }
+  ],
+  "counts": {
+    "brands": 11,
+    "idols": 254,
+    "songs": 1955,
+    "venues": 48,
+    "lives": 145,
+    "setlist_rows": 3647
+  }
+}

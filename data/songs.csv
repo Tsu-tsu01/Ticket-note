@@ -1,0 +1,1956 @@
+song_id,title,title_kana,brand_id,unit_id,original_members,song_type,tags,release_date,source,verified,notes
+s_gk_07xp7is,標,,gk,,,all,,2024-04-28,初星学園パンフレット,false,(初星学園校歌)
+s_gk_06racjs,初,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,all,,2024-04-28,初星学園オープンキャンパス,false,(全体曲)初星学園
+s_fightingmyway,Fighting My Way,,gk,,gk_saki,solo,,2024-05-01,YouTubeでフルMV公開,false,(ソロ)花海咲季
+s_lunasaymaybe,Luna say maybe,,gk,,gk_temari,solo,,2024-05-02,YouTubeでフルMV公開,false,(ソロ)月村手毬
+s_gk_0jxlulk,世界一可愛い私,,gk,,gk_kotone,solo,,2024-05-03,YouTubeでフルMV公開,false,(ソロ)藤田ことね
+s_clumsytrick,clumsy trick,,gk,,gk_rinami,solo,,2024-05-04,YouTubeでフルMV公開,false,(ソロ)姫崎莉波
+s_tamelieonestep,Tame-Lie-One-Step,,gk,,gk_sumika,solo,,2024-05-05,YouTubeでフルMV公開,false,(ソロ)紫雲清夏
+s_gk_1es1efl,光景,,gk,,gk_hiro,solo,,2024-05-06,YouTubeでフルMV公開,false,(ソロ)篠澤広
+s_gk_1cm2lpy,白線,,gk,,gk_lilja,solo,,2024-05-07,YouTubeでフルMV公開,false,(ソロ)葛城リーリヤ
+s_wonderscale,Wonder Scale,,gk,,gk_china,solo,,2024-05-08,YouTubeでフルMV公開,false,(ソロ)倉本千奈
+s_fluorite,Fluorite,,gk,,gk_mao,solo,,2024-05-09,YouTubeでフルMV公開,false,(ソロ)有村麻央
+s_campusmode,Campus mode!!,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,all,,2024-05-16,学園アイドルマスター,false,(全体曲)初星学園
+s_gk_0oco4gj,アイヴイ,,gk,,gk_temari,solo,,2024-05-18,Apple Musicで先行配信,false,(ソロ)月村手毬
+s_therollingriceball,The Rolling Riceball,,gk,,gk_ume,solo,,2024-06-01,配信／学マスに実装,false,(ソロ)花海佑芽
+s_gk_1q4t7sp,叶えたい、ことばかり,,gk,,gk_temari,solo,,2024-06-03,YouTubeでビデオ公開,false,(ソロ)月村手毬
+s_yellowbigbang,Yellow Big Bang！,,gk,,gk_kotone,solo,,2024-06-10,先行配信／学マスに実装,false,(ソロ)藤田ことね
+s_boomboompow,Boom Boom Pow,,gk,,gk_saki,solo,,2024-06-19,学園アイドルマスター実装,false,(ソロ)花海咲季
+s_gk_1b85fiq,キミとセミブルー,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2024-07-01,学園アイドルマスター実装,false,(シーズン曲)初星学園
+s_gk_1twt0hd,コントラスト,,gk,,gk_hiro,solo,,2024-07-22,学園アイドルマスター実装,false,(ソロ)篠澤広
+s_wakeup,Wake up!!,,gk,,gk_lilja,solo,,2024-07-24,YouTubeでビデオ公開,false,(ソロ)葛城リーリヤ
+s_gk_0xwptnz,冠菊,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2024-08-01,学園アイドルマスター実装,false,(シーズン曲)初星学園
+s_gk_00zfn04,憧れをいっぱい,,gk,,gk_china,solo,,2024-08-01,YouTubeでMV公開,false,(ソロ)倉本千奈
+s_gk_1l30awb,がむしゃらに行こう！,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2024-08-09,配信,false,(初ツアー曲)初星学園
+s_ego,EGO,,gk,,gk_saki,solo,,2024-08-10,初声公演 名古屋,false,(ソロ)花海咲季
+s_howlingovertheworld,Howling over the World,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2024-08-16,配信,false,(初ツアー曲)初星学園
+s_unhappylight,Unhappy Light,,gk,,gk_temari,solo,,2024-08-18,初声公演 梅田昼,false,(ソロ)月村手毬
+s_gk_0321ecl,ふわふわ,,gk,,gk_kotone,solo,,2024-08-18,初声公演 梅田夜,false,(ソロ)藤田ことね
+s_gk_1ys8mkt,日々、発見的ステップ！,,gk,,gk_china,solo,,2024-08-21,Apple Musicで先行配信,false,(ソロ)倉本千奈
+s_gk_019m885,ミラクルナナウ(ﾟ∀ﾟ)！,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2024-08-23,Apple Musicで先行配信,false,(初ツアー曲)初星学園
+s_luv,L.U.V,,gk,,gk_rinami,solo,,2024-09-07,初心公演 名古屋昼,false,(ソロ)姫崎莉波
+s_fragileheart,Fragile Heart,,gk,,gk_lilja,solo,,2024-09-07,初心公演 名古屋昼,false,(ソロ)葛城リーリヤ
+s_gk_0dervot,ときめきのソルフェージュ,,gk,,gk_china,solo,,2024-09-07,初心公演 名古屋夜,false,(ソロ)倉本千奈
+s_feeljeweldream,Feel Jewel Dream,,gk,,gk_mao,solo,,2024-09-20,学園アイドルマスター実装,false,(ソロ)有村麻央
+s_gk_041n8oo,歌声は君いろ,,gk,,gk_rinami,solo,,2024-09-23,初心公演 広島夜,false,(ソロ)姫崎莉波
+s_gk_0494tmm,仮装狂騒曲,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2024-09-29,Apple Musicで先行配信,false,(シーズン曲)初星学園
+s_gk_0tpgw98,カクシタワタシ,,gk,,gk_sumika,solo,,2024-10-14,初恋公演 梅田昼,false,(ソロ)紫雲清夏
+s_topsecret,Top Secret,,gk,,gk_mao,solo,,2024-10-14,初恋公演 梅田昼,false,(ソロ)有村麻央
+s_kirakira,Kira Kira,,gk,,gk_sumika,solo,,2024-10-14,初恋公演 梅田夜,false,(ソロ)紫雲清夏
+s_gk_0alwjgm,コンテンポラリのダンス,,gk,,gk_hiro,solo,,2024-10-19,初恋公演 広島昼,false,(ソロ)篠澤広
+s_gk_1fl5h5f,古今東西ちょちょいのちょい,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,collab;anime,2024-10-30,アニメイトコラボCD,false,(コラボ曲)初星学園
+s_choochoochoo,Choo Choo Choo,,gk,,gk_sena,solo,,2024-11-10,YouTubeでビデオ公開,false,(ソロ)十王星南
+s_rideonbeat,Ride on Beat,,gk,,gk_sumika,solo,,2024-11-11,YouTubeでビデオ公開,false,(ソロ)紫雲清夏
+s_gk_1hptkz6,小さな野望,,gk,,gk_sena,solo,,2024-11-15,YouTubeでMV公開,false,(ソロ)十王星南
+s_whitenightwhitewish,White Night! White Wish!,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2024-11-28,YouTubeでMV公開,false,(シーズン曲)初星学園
+s_cosmetic,Cosmetic,,gk,,gk_sena,solo,,2024-12-07,YouTubeでビデオ公開,false,(ソロ)十王星南
+s_gk_0z0bm51,メクルメ,,gk,,gk_hiro,solo,,2024-12-21,YouTubeでビデオ公開,false,(ソロ)篠澤広
+s_sweetmagic,Sweet Magic,,gk,,gk_mao,solo,,2025-01-18,YouTubeでビデオ公開,false,(ソロ)有村麻央
+s_gk_1fyqmn3,ハッピーミルフィーユ,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2025-02-01,学園アイドルマスター実装,false,(シーズン曲)初星学園
+s_gk_1l3xc05,たいせつなもの,,gk,,gk_misuzu,solo,,2025-02-06,YouTubeでビデオ公開,false,(ソロ)秦谷美鈴
+s_gk_0ryntbw,ツキノカメ,,gk,,gk_misuzu,solo,,2025-02-06,YouTubeでMV公開,false,(ソロ)秦谷美鈴
+s_gk_0b0aelb,かちドキ,,gk,,gk_kotone,solo,,2025-02-07,ゴルラ1巻特装版,false,(ソロ)藤田ことね
+s_endlessdance,ENDLESS DANCE,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2025-02-08,配信,false,(初ツアー曲)初星学園
+s_ourchant,Our Chant,,gk,,gk_sena,solo,,2025-02-08,初陣公演 名古屋昼,false,(ソロ)十王星南
+s_gk_0envr01,ヨルニテ,,gk,,gk_misuzu,solo,,2025-02-11,初陣公演 梅田夜,false,(ソロ)秦谷美鈴
+s_gk_1fdz46m,雪解けに,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2025-02-28,学園アイドルマスター実装,false,(シーズン曲)初星学園
+s_marbleheart,marble heart,,gk,,gk_rinami,solo,,2025-03-05,YouTubeでビデオ公開,false,(ソロ)姫崎莉波
+s_gk_05la78b,極光,,gk,,gk_lilja,solo,,2025-03-21,学園アイドルマスター実装,false,(ソロ)葛城リーリヤ
+s_gk_183jiw9,つよつよ最強エクササイズ,,gk,,gk_ume,solo,,2025-04-01,YouTubeでビデオ公開,false,(ソロ)花海佑芽
+s_gk_1n3g31r,桜フォトグラフ,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2025-04-01,学園アイドルマスター実装,false,(シーズン曲)初星学園
+s_tryitnow,Try it now,,gk,,gk_saki,solo,,2025-04-02,YouTubeでビデオ公開,false,(ソロ)花海咲季
+s_thecute,The Cute!!!,,gk,,gk_kotone,solo,,2025-04-29,YouTubeでビデオ公開,false,(ソロ)藤田ことね
+s_gk_0s6u066,雨上がりのアイリス,,gk,,gk_temari;gk_saki;gk_kotone,unit,,2025-05-01,学園アイドルマスター実装,false,(UNIT)Re;IRIS
+s_superlative,Superlative,,gk,,gk_misuzu,solo,,2025-05-24,1stSS DAY1,false,(ソロ)秦谷美鈴
+s_starmine,Star-mine,,gk,,gk_misuzu;gk_sena;gk_ume,unit,,2025-05-24,1stSS DAY1,false,(UNIT)Begrazia
+s_gk_0wv5cck,グースーピー,,gk,,gk_ume,solo,,2025-05-25,1stSS DAY2,false,(ソロ)花海佑芽
+s_gk_1u2rfme,みちなるひろがる,,gk,,gk_china;gk_hiro,unit,,2025-05-31,1stHS DAY1,false,(UNIT)ゆめぱしー
+s_sugarflavor,SUGAR FLAVOR,,gk,,gk_mao;gk_rinami,unit,,2025-05-31,1stHS DAY1,false,(UNIT)RippleSign
+s_gk_13ygiml,ときめきエモーション,,gk,,gk_sumika;gk_lilja,unit,,2025-06-01,1stHS DAY2,false,(UNIT)REVERSI
+s_lovejoy,Love & Joy,,gk,,gk_sumika,solo,,2025-06-19,学園アイドルマスター実装,false,(ソロ)紫雲清夏
+s_gk_0y71s21,金の斧、銀の斧、エメラルドの斧,,gk,,gk_ume,solo,,2025-07-04,初陣追加公演 昼,false,(ソロ)花海佑芽
+s_gk_1v27j0o,サンフェーデッド,,gk,,gk_hiro,solo,,2025-07-17,学園アイドルマスター実装,false,(ソロ)篠澤広
+s_gk_15g8qio,自己肯定感爆上げ↑↑しゅきしゅきソング,,gk,,gk_kotone,solo,,2025-08-12,学園アイドルマスター実装,false,(ソロ)藤田ことね
+s_gk_1v0mlft,初星体操第一,,gk,,,unit,,2025-08-27,動画公開,false,-
+s_supremacy,SUPREMACY,,gk,,gk_saki;gk_sumika;gk_lilja;gk_kotone;gk_temari,unit,event,2025-08-28,Lyric Video公開,false,(クラス曲)1年1組
+s_letsgoichinoni,Let's GO!! ICHI-NO-NI!!,,gk,,gk_china;gk_ume;gk_misuzu;gk_hiro,unit,event,2025-09-04,Lyric Video公開,false,(クラス曲)1年2組
+s_gk_15pwu2k,ナイワ,,gk,,gk_mao;gk_rinami;gk_sena;gk_tsubame,unit,event,2025-09-10,Lyric Video公開,false,(クラス曲)3年1組
+s_36ubu,36℃ U･B･U,,gk,,gk_rinami,solo,,2025-09-17,学園アイドルマスター実装,false,(ソロ)姫崎莉波
+s_gk_0nbjs2t,理論武装して,,gk,,gk_tsubame,solo,,2025-09-22,初星大運動会DAY2,false,(ソロ)雨夜燕
+s_gk_0yhkvy5,カタマリオンザドゥン,,gk,,gk_saki,unit,,2025-10-03,MV公開,false,(素敵ソング)花海咲季
+s_gk_0xbmnp6,空と約束,,gk,,gk_china,solo,,2025-10-21,学園アイドルマスター実装,false,(ソロ)倉本千奈
+s_gk_1vub6pw,見て,,gk,,gk_mao,solo,,2025-10-31,学園アイドルマスター実装,false,(ソロ)有村麻央
+s_atmosphere,Atmosphere,,gk,,gk_lilja,solo,,2025-12-08,学園アイドルマスター実装,false,(ソロ)葛城リーリヤ
+s_gk_12et5ic,一体いつから,,gk,,gk_temari,solo,,2026-01-16,学園アイドルマスター実装,false,(ソロ)月村手毬
+s_searchright,SEARCH RIGHT,,gk,,gk_sena;gk_tsubame;gk_misuzu,unit,collab,2026-02-08,配信,false,(コラボ)初星学園生徒会
+s_gk_08dqr3w,赤裸々,,gk,,gk_sena,solo,,2026-02-09,学園アイドルマスター実装,false,(ソロ)十王星南
+s_gk_09b5yey,わかし・さわがし・スカパンク,,gk,,gk_ume;gk_misuzu;gk_sena,unit,event,2026-02-19,配信,false,"(音楽祭)花海佑芽,秦谷美鈴,十王星南"
+s_wildestflower,Wildest Flower,,gk,,gk_saki,solo,,2026-03-19,学園アイドルマスター実装,false,(ソロ)花海咲季
+s_gk_1youj9a,真っ白いページと水彩の主人公,,gk,,gk_ume,solo,,2026-04-10,学園アイドルマスター実装,false,(ソロ)花海佑芽
+s_veil,VEIL,,gk,,gk_misuzu,solo,,2026-04-29,学園アイドルマスター実装,false,(ソロ)秦谷美鈴
+s_gk_1y5ds0c,ガラクタロード,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,all,anime,2026-05-08,H.I.F編OP先行公開,false,(全体曲)初星学園
+s_gk_127l139,三分半の創世,,gk,,gk_tsubame,solo,,2026-05-17,H.I.F選抜試験DAY2,false,(ソロ)雨夜燕
+s_mystage,MY STAGE,,gk,,gk_tsubame,solo,,2026-05-20,リリックビデオ公開,false,(ソロ)雨夜燕
+s_gk_0hsym8l,クライアイ,,gk,,gk_tsubame,solo,,2026-07-31,学園アイドルマスター実装,false,(ソロ)雨夜燕
+s_gk_0yhk89z,「ねえ、言っちゃうよ。」,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2026-08-17,学園アイドルマスター実装,false,(グラビア曲)初星学園
+s_gk_1ykkvsd,修楽旅行,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2026-08-20,配信,false,(標ツアー曲)初星学園
+s_lespoir,L’Espoir,,gk,,gk_mao,solo,,2026-08-20,標 福井公演 DAY1,false,(ソロ)有村麻央
+s_gk_1i0rnlv,春と光,,gk,,gk_ume,solo,,2026-08-20,標 福井公演 DAY1,false,(ソロ)花海佑芽
+s_gk_0zkgkdr,いつかのわたし,,gk,,gk_lilja,solo,,2026-08-21,標 福井公演 DAY2,false,(ソロ)葛城リーリヤ
+s_gk_0du6ga8,重なる夜空の痕跡に,,gk,,gk_rinami,solo,,2026-08-21,標 福井公演 DAY2,false,(ソロ)姫崎莉波
+s_gk_1jz1h0q,とめどなく,,gk,,gk_mao,solo,,2026-10-07,ゴルラ7巻特装版,false,(ソロ)有村麻央
+s_beproud,Be proud,,gk,,gk_tsubame,solo,,,未発表,false,(ソロ)雨夜燕
+s_961_0sw6nh9,オーバーマスター,,961,,765as_miki;765as_takane;765as_hibiki,unit,,2008-07-27,765AS3rd横浜,false,(UNIT)プロジェクト・フェアリー
+s_kiss,KisS,,961,,765as_miki;765as_takane;765as_hibiki,unit,,2008-12-10,MS961,false,(UNIT)プロジェクト・フェアリー
+s_961_0h911el,黒い犬,,961,,765as_miki;765as_takane;765as_hibiki,unit,,2009-01-23,Eternal Prism02,false,(UNIT)プロジェクト・フェアリー
+s_aliceorguilty,Alice or Guilty,,961,,sm_touma;sm_hokuto;sm_shota,unit,,2011-02-24,アイマス2(Xbox360),false,(UNIT)Jupiter
+s_961_1jjc254,恋をはじめよう,,961,,sm_touma;sm_hokuto;sm_shota,unit,,2011-02-24,アイマス2(Xbox360),false,(UNIT)Jupiter
+s_bangbang,BANG×BANG,,961,,sm_touma,solo,,2011-11-23,Jupiter,false,(ソロ)天ヶ瀬冬馬
+s_onsunday,On Sunday,,961,,sm_shota,solo,,2011-11-23,Jupiter,false,(ソロ)御手洗翔太
+s_crystaldust,結晶〜Crystal Dust〜,,961,,sm_hokuto,solo,,2011-11-23,Jupiter,false,(ソロ)伊集院北斗
+s_961_16hbu57,アクセルレーション,,961,,961_leon,solo,,2014-05-15,OFA,false,(ソロ)玲音
+s_961_0xiwoyx,アルティメットアイズ,,961,,961_leon,solo,,2014-12-25,OFA DLC,false,(ソロ)玲音
+s_961_10qkeby,インセインゲーム,,961,,765as_miki;765as_takane;765as_hibiki,unit,,2016-09-21,PLATINUM MASTER 02,false,(UNIT)プロジェクト・フェアリー
+s_bloomingstar,Blooming Star,,961,,961_shika,solo,,2017-12-21,ステラステージ,false,(ソロ)詩花
+s_961_0ndtx9q,アライアンス・スターダスト,,961,,,unit,,2020-01-19,ミリシタ感謝祭,false,(UNIT)ZWEIGLANZ
+s_shinemyway,Shine My Way,,961,,,unit,,2020-12-02,CD「ZWEIGLANZ」,false,(UNIT)ZWEIGLANZ
+s_1stcall,1st Call,,961,,,unit,,2021-10-14,スターリットシーズン実装,false,(UNIT)ディアマント
+s_flame,FlaME,,961,,765as_miki;765as_takane;765as_hibiki,unit,,2024-08-24,『Re:FLAME』,false,(UNIT)プロジェクト・フェアリー
+s_realize,REALIZE！！！,,961,,765as_miki;765as_takane;765as_hibiki,unit,,2025-02-01,『Re:FLAME』追加公演,false,(UNIT)プロジェクト・フェアリー
+s_961_12ebxg0,エクストリーム・オーバードライブ,,961,,961_leon,solo,,2026-07-26,IWSF2026会場CD,false,(ソロ)玲音
+s_idolpowerrainbow,IDOL POWER RAINBOW,,crossover,,,all,,2014-02-05,配信開始,false,(MOIW2014テーマソング)
+s_mustgo,アイ MUST GO！,,crossover,,,all,,2015-06-19,配信開始,false,(MOIW2015テーマソング)
+s_crossover_14klxz3,なんどでも笑おう,,crossover,,,unit,,2019-12-26,ゆくM@SくるM@S,false,(アイマス15周年記念曲)
+s_voyger,VOY@GER,,crossover,,,all,,2021-08-04,CD&配信開始,false,(イメージソング2021)
+s_crystloud,CRYST@LOUD,,crossover,,,all,,2022-12-27,ゆくM@SくるM@S,false,(MOIW2023テーマソング)
+s_needyouforwonderfulstory,アイ NEED YOU（FOR WONDERFUL STORY）,,crossover,,,unit,,2024-07-26,19th→20thSP生配信,false,(アイマス20周年記念曲)
+s_crossover_0t9d5xi,→→→SP,,crossover,,,unit,,2026-07-28,MV公開,false,(TOURSオリジナル曲)
+s_grtitude,GR@TITUDE,,crossover,,,unit,,2021-10-14,スターリットシーズン実装,false,Project LUMINOUS(冬)
+s_session,SESSION!,,crossover,,,unit,,2021-08-05,体験版で実装,false,Project LUMINOUS(春)
+s_crossover_02lesfr,ダンス・ダンス・ダンス,,crossover,,,unit,,2021-12-09,スタマスDLC vol.3,false,(スターリットシーズンDLC曲)
+s_everrising,EVER RISING,,crossover,,other_shirahaku;961_aya,unit,,2021-10-14,スターリットシーズン実装,false,"(-)奥空心白,亜夜"
+s_kawaii,KAWAII ウォーズ,,crossover,,,unit,,2022-01-13,スタマスDLC vol.4,false,(スターリットシーズンDLC曲)
+s_bang,夏のBang!!,,crossover,,,unit,,2021-10-14,スターリットシーズン実装,false,Project LUMINOUS(夏)
+s_thankyou,Thank You!,,ml,,,all,,2013-04-24,LTP01,false,(全体曲)
+s_ml_0q8j8c7,キラメキ進行形,,ml,,765as_haruka,solo,,2013-05-29,LTP02,false,(ソロ)天海春香
+s_ml_0r7y3ix,透明なプロローグ,,ml,,ml_yuriko,solo,,2013-05-29,LTP02,false,(ソロ)七尾百合子
+s_ml_1cisyyv,トキメキの音符になって,,ml,,ml_serika,solo,,2013-05-29,LTP02,false,(ソロ)箱崎星梨花
+s_mariatrap,Maria Trap,,ml,,ml_tomoka,solo,,2013-05-29,LTP02,false,(ソロ)天空橋朋花
+s_preciousgrain,Precious Grain,,ml,,ml_shizuka,solo,,2013-05-29,LTP02,false,(ソロ)最上静香
+s_legendgirls,Legend Girls!!,,ml,,765as_haruka;ml_tomoka;ml_yuriko;ml_serika;ml_shizuka,unit,,2013-05-29,LTP02,false,"(LTP02)春香,朋花,百合子,星梨花,静香"
+s_ml_00ihggv,素敵なキセキ,,ml,,ml_mirai,solo,,2013-06-26,LTP03,false,(ソロ)春日未来
+s_ml_0wrn2y0,ハッピー☆ラッキー☆ジェットマシーン,,ml,,ml_nao,solo,,2013-06-26,LTP03,false,(ソロ)横山奈緒
+s_happydarling,Happy Darling,,ml,,ml_anna,solo,,2013-06-26,LTP03,false,(ソロ)望月杏奈
+s_ml_1fz3ml7,オレンジの空の下,,ml,,ml_fuka,solo,,2013-06-26,LTP03,false,(ソロ)豊川風花
+s_rebellion,Rebellion,,ml,,765as_hibiki,solo,,2013-06-26,LTP03,false,(ソロ)我那覇響
+s_prettydreamer,PRETTY DREAMER,,ml,,765as_hibiki;ml_mirai;ml_fuka;ml_anna;cg_nao,unit,,2013-06-26,LTP03,false,"(LTP03)響,未来,風花,杏奈,奈緒"
+s_ml_1vlp592,アフタースクールパーリータイム,,ml,,ml_megumi,solo,,2013-07-31,LTP04,false,(ソロ)所恵美
+s_ml_10uvgmn,朝焼けのクレッシェンド,,ml,,ml_kotoha,solo,,2013-07-31,LTP04,false,(ソロ)田中琴葉
+s_ml_0cfbo5j,ライアー・ルージュ,,ml,,ml_shiho,solo,,2013-07-31,LTP04,false,(ソロ)北沢志保
+s_snowwhite,Snow White,,ml,,765as_chihaya,solo,,2013-07-31,LTP04,false,(ソロ)如月千早
+s_bluesymphony,Blue Symphony,,ml,,765as_chihaya;ml_shiho;ml_kotoha;ml_megumi,unit,,2013-07-31,LTP04,false,"(LTP04)千早,志保,琴葉,恵美"
+s_ml_0i0m4m4,微笑み日和,,ml,,ml_emily,solo,,2013-08-28,LTP05,false,(ソロ)エミリー スチュアート
+s_pokerpoker,POKER POKER,,ml,,ml_mizuki,solo,,2013-08-28,LTP05,false,(ソロ)真壁瑞希
+s_bemyboy,Be My Boy,,ml,,ml_rio,solo,,2013-08-28,LTP05,false,(ソロ)百瀬莉緒
+s_playbackweekday,"プライヴェイト・ロードショウ (playback, Weekday)",,ml,,765as_iori,solo,,2013-08-28,LTP05,false,(ソロ)水瀬伊織
+s_sentimentalvenus,Sentimental Venus,,ml,,765as_iori;ml_emily;ml_mizuki;ml_rio,unit,,2013-08-28,LTP05,false,"(LTP05)伊織,エミリー,瑞希,莉緒"
+s_lesson,恋のLesson初級編,,ml,,ml_tsubasa,solo,,2013-09-25,LTP06,false,(ソロ)伊吹翼
+s_findyourwind,FIND YOUR WIND!,,ml,,ml_reika,solo,,2013-09-25,LTP06,false,(ソロ)北上麗花
+s_ml_07h0dxn,追憶のサンドグラス,,ml,,765as_miki,solo,,2013-09-25,LTP06,false,(ソロ)星井美希
+s_ml_0trdalz,流星群,,ml,,ml_julia,solo,,2013-09-25,LTP06,false,(ソロ)ジュリア
+s_marionette,Marionetteは眠らない,,ml,,765as_miki;ml_tsubasa;ml_reika;ml_julia,unit,,2013-09-25,LTP06,false,"(LTP06)美希,翼,麗花,ジュリア"
+s_ml_1c16035,マイペース☆マイウェイ,,ml,,ml_noriko,solo,,2013-10-30,LTP07,false,(ソロ)福田のり子
+s_birthday,君想いBirthday,,ml,,ml_sayoko,solo,,2013-10-30,LTP07,false,(ソロ)高山紗代子
+s_ml_0oxa024,ちいさな恋の足音,,ml,,ml_karen,solo,,2013-10-30,LTP07,false,(ソロ)篠宮可憐
+s_fraction,嘆きのFRACTION,,ml,,765as_azusa,solo,,2013-10-30,LTP07,false,(ソロ)三浦あずさ
+s_ml_0uusn44,カワラナイモノ,,ml,,765as_azusa;ml_karen;ml_sayoko;ml_noriko,unit,,2013-10-30,LTP07,false,"(LTP07)あずさ,可憐,紗代子,のり子"
+s_ml_0sa8a6o,ホップ♪ステップ♪レインボウ♪,,ml,,ml_tamaki,solo,,2013-11-27,LTP08,false,(ソロ)大神環
+s_ml_0fuqdhy,グッデイ・サンシャイン!,,ml,,ml_iku,solo,,2013-11-27,LTP08,false,(ソロ)中谷育
+s_ml_094yc90,オリジナル声になって,,ml,,ml_kana,solo,,2013-11-27,LTP08,false,(ソロ)矢吹可奈
+s_ml_10yanbl,ハートウォーミング,,ml,,765as_yayoi,solo,,2013-11-27,LTP08,false,(ソロ)高槻やよい
+s_goodsleepbaby,"Good-Sleep, Baby♡",,ml,,765as_yayoi;ml_tamaki;ml_iku;ml_kana,unit,,2013-11-27,LTP08,false,"(LTP08)やよい,環,育,可奈"
+s_hello,Helloコンチェルト,,ml,,765as_ritsuko;ml_hinata;ml_minako;ml_arisa,unit,,2013-12-25,LTP09,false,"(LTP09)律子,ひなた,美奈子,亜利沙"
+s_ml_1pjy6ex,スマイルいちばん,,ml,,ml_minako,solo,,2013-12-25,LTP09,false,(ソロ)佐竹美奈子
+s_ml_0aw8fp2,あのね、聞いてほしいことがあるんだ,,ml,,ml_hinata,solo,,2013-12-25,LTP09,false,(ソロ)木下ひなた
+s_showchng,チョー↑元気Show☆アイドルch@ng!,,ml,,ml_arisa,solo,,2013-12-25,LTP09,false,(ソロ)松田亜利沙
+s_greedygirl,GREEDY GIRL,,ml,,765as_ritsuko,solo,,2013-12-25,LTP09,false,(ソロ)秋月律子
+s_ml_0xmhmxw,フェスタ・イルミネーション,,ml,,ml_matsuri,solo,,2014-01-29,LTP10,false,(ソロ)徳川まつり
+s_ml_178j4tx,ココロ☆エクササイズ,,ml,,ml_umi,solo,,2014-01-29,LTP10,false,(ソロ)高坂海美
+s_ml_02pvemv,ハッピ〜 エフェクト！,,ml,,ml_miya,solo,,2014-01-29,LTP10,false,(ソロ)宮尾美也
+s_ml_11ck2ch,恋花,,ml,,765as_takane,solo,,2014-01-29,LTP10,false,(ソロ)四条貴音
+s_ml_1gydch7,瞳の中のシリウス,,ml,,765as_takane;ml_umi;ml_matsuri;ml_miya,unit,,2014-01-29,LTP10,false,"(LTP10)貴音,海美,まつり,美也"
+s_carnaval,想いはCarnaval,,ml,,ml_elena,solo,,2014-02-26,LTP11,false,(ソロ)島原エレナ
+s_getmyshinin,Get My Shinin’,,ml,,ml_ayumu,solo,,2014-02-26,LTP11,false,(ソロ)舞浜歩
+s_flytoeverywhere,FLY TO EVERYWHERE,,ml,,765as_makoto,solo,,2014-02-26,LTP11,false,(ソロ)菊地真
+s_detectivehigh,DETECTIVE HIGH! 〜恋探偵物語〜,,ml,,765as_mami,solo,,2014-02-26,LTP11,false,(ソロ)双海真美
+s_fuwaduwa,Fu-Wa-Du-Wa,,ml,,765as_makoto;765as_mami;ml_elena;ml_ayumu,unit,,2014-02-26,LTP11,false,"(LTP11)真,真美,エレナ,歩"
+s_impressionlocomotion,IMPRESSION→LOCOMOTION！,,ml,,ml_roco,solo,,2014-03-26,LTP12,false,(ソロ)ロコ
+s_ml_0nwscl2,恋心マスカレード,,ml,,ml_chizuru,solo,,2014-03-26,LTP12,false,(ソロ)二階堂千鶴
+s_ml_0l23ph4,ハミングロード,,ml,,765as_yukiho,solo,,2014-03-26,LTP12,false,(ソロ)萩原雪歩
+s_ml_0pw5ssz,デコレーション・ドリ〜ミンッ♪,,ml,,ml_momoko,solo,,2014-03-26,LTP12,false,(ソロ)周防桃子
+s_ml_0kv1u8y,ココロがかえる場所,,ml,,765as_yukiho;ml_momoko;ml_chizuru;ml_roco,unit,,2014-03-26,LTP12,false,"(LTP12)雪歩,桃子,千鶴,ロコ"
+s_ml_1lxsoca,微笑んだから、気づいたんだ。,,ml,,765as_ami,solo,,2014-04-30,LTP13,false,(ソロ)双海亜美
+s_heartnight,Heart♡・デイズ・Night☆,,ml,,ml_akane,solo,,2014-04-30,LTP13,false,(ソロ)野々原茜
+s_dear,dear...,,ml,,ml_konomi,solo,,2014-04-30,LTP13,false,(ソロ)馬場このみ
+s_ml_11w17xf,ビギナーズ☆ストライク,,ml,,ml_subaru,solo,,2014-04-30,LTP13,false,(ソロ)永吉昴
+s_big,Bigバルーン◎,,ml,,765as_ami;ml_subaru;ml_akane;ml_konomi,unit,,2014-04-30,LTP13,false,"(LTP13)亜美,昴,茜,このみ"
+s_welcome,Welcome!!,,ml,,,all,,2014-06-07,ミリオン1st1日目,false,(全体曲)
+s_ml_0m0jts6,合言葉はスタートアップ！,,ml,,,unit,,2014-07-30,LTH01,false,(UNIT)レジェンドデイズ
+s_ml_0rhutkb,地球ミラーボウル,,ml,,765as_iori,solo,,2014-07-30,LTH01,false,(ソロ)水瀬伊織
+s_ml_141c6jf,ストロベリー・キューピッド,,ml,,765as_yayoi,solo,,2014-07-30,LTH01,false,(ソロ)高槻やよい
+s_liarsgoodbye,Liar's good bye,,ml,,765as_ritsuko,solo,,2014-07-30,LTH01,false,(ソロ)秋月律子
+s_ml_1op2gla,タイムマシンに飛び乗って！,,ml,,765as_ami,solo,,2014-07-30,LTH01,false,(ソロ)双海亜美
+s_smileydays,smiley days,,ml,,765as_hibiki,solo,,2014-07-30,LTH01,false,(ソロ)我那覇響
+s_growingstorm,Growing Storm!,,ml,,,unit,,2014-07-30,LTH02,false,(UNIT)乙女ストーム！
+s_inthenameoflove,...In The Name Of。 ...LOVE?,,ml,,ml_mizuki,solo,,2014-07-30,LTH02,false,(ソロ)真壁瑞希
+s_vivid,VIVID イマジネーション,,ml,,ml_anna,solo,,2014-07-30,LTH02,false,(ソロ)望月杏奈
+s_ml_0ekdjsf,空想文学少女,,ml,,ml_yuriko,solo,,2014-07-30,LTH02,false,(ソロ)七尾百合子
+s_believemychange,Believe my change!,,ml,,ml_tsubasa,solo,,2014-07-30,LTH02,false,(ソロ)伊吹翼
+s_ml_1296run,未来飛行,,ml,,ml_mirai,solo,,2014-07-30,LTH02,false,(ソロ)春日未来
+s_shootingstars,Shooting Stars,,ml,,,unit,,2014-09-24,LTH03,false,(UNIT)クレシェンドブルー
+s_ml_17cw6ic,夢色トレイン,,ml,,ml_serika,solo,,2014-09-24,LTH03,false,(ソロ)箱崎星梨花
+s_summertrip,サマ☆トリ ~Summer trip~,,ml,,ml_reika,solo,,2014-09-24,LTH03,false,(ソロ)北上麗花
+s_ml_054zahe,プリティ〜〜〜ッ→ニャンニャンッ！,,ml,,ml_akane,solo,,2014-09-24,LTH03,false,(ソロ)野々原茜
+s_ml_1isjbec,絵本,,ml,,ml_shiho,solo,,2014-09-24,LTH03,false,(ソロ)北沢志保
+s_catchmydream,Catch my dream,,ml,,ml_shizuka,solo,,2014-09-24,LTH03,false,(ソロ)最上静香
+s_eternalharmony,Eternal Harmony,,ml,,,unit,,2014-09-24,LTH04,false,(UNIT)エターナルハーモニー
+s_ml_0a6rfh5,カーニヴァル・ジャパネスク,,ml,,ml_matsuri,solo,,2014-09-24,LTH04,false,(ソロ)徳川まつり
+s_ml_0zz42vs,プラリネ,,ml,,ml_julia,solo,,2014-09-24,LTH04,false,(ソロ)ジュリア
+s_bittersweet,bitter sweet,,ml,,ml_fuka,solo,,2014-09-24,LTH04,false,(ソロ)豊川風花
+s_ml_0qs0m6s,君だけの欠片,,ml,,ml_emily,solo,,2014-09-24,LTH04,false,(ソロ)エミリー スチュアート
+s_justbemyself,Just be myself!!,,ml,,765as_chihaya,solo,,2014-09-24,LTH04,false,(ソロ)如月千早
+s_homesweetfriendship,"HOME, SWEET FRIENDSHIP",,ml,,,unit,,2014-11-26,LTH05,false,(UNIT)リコッタ
+s_mystyleourstyle,MY STYLE! OUR STYLE!!!!,,ml,,ml_momoko,solo,,2014-11-26,LTH05,false,(ソロ)周防桃子
+s_superlover,Super Lover,,ml,,ml_nao,solo,,2014-11-26,LTH05,false,(ソロ)横山奈緒
+s_ml_0lsdf0j,求ム VS マイ・フューチャー,,ml,,ml_noriko,solo,,2014-11-26,LTH05,false,(ソロ)福田のり子
+s_up10sionpleeeeeeeeease,Up!10sion♪Pleeeeeeeeease!,,ml,,ml_arisa,solo,,2014-11-26,LTH05,false,(ソロ)松田亜利沙
+s_ml_1vbwppp,キミがいて夢になる,,ml,,765as_haruka,solo,,2014-11-26,LTH05,false,(ソロ)天海春香
+s_ml_0s4v1ps,ジレるハートに火をつけて,,ml,,ml_mirai;ml_tamaki;ml_miya,unit,,2014-11-26,LTH06,false,(UNIT)灼熱少女
+s_ml_17amfnb,恋愛ロードランナー,,ml,,ml_umi,solo,,2014-11-26,LTH06,false,(ソロ)高坂海美
+s_bouncingsmile,BOUNCING♪ SMILE!,,ml,,ml_tamaki,solo,,2014-11-26,LTH06,false,(ソロ)大神環
+s_ml_1i8uqqu,初恋バタフライ,,ml,,ml_miya,solo,,2014-11-26,LTH06,false,(ソロ)宮尾美也
+s_ml_1ay11v3,フローズン・ワード,,ml,,ml_megumi,solo,,2014-11-26,LTH06,false,(ソロ)所恵美
+s_ml_1psciz4,ホントウノワタシ,,ml,,ml_kotoha,solo,,2014-11-26,LTH06,false,(ソロ)田中琴葉
+s_birthofcolor,Birth of Color,,ml,,,unit,,2015-01-28,LTH07,false,(UNIT)BIRTH
+s_worldwidedance,WORLD WIDE DANCE!!!,,ml,,765as_makoto,solo,,2015-01-28,LTH07,false,(ソロ)菊地真
+s_ml_1la4wee,ユニゾン☆ビート,,ml,,ml_ayumu,solo,,2015-01-28,LTH07,false,(ソロ)舞浜歩
+s_ml_1vmipk3,月のほとりで,,ml,,765as_azusa,solo,,2015-01-28,LTH07,false,(ソロ)三浦あずさ
+s_imperviousresolution,Impervious Resolution,,ml,,765as_yukiho,solo,,2015-01-28,LTH07,false,(ソロ)萩原雪歩
+s_ml_1gwe52l,おまじない,,ml,,ml_kana,solo,,2015-01-28,LTH07,false,(ソロ)矢吹可奈
+s_ml_19ws6z9,ドリームトラベラー,,ml,,,unit,,2015-01-28,LTH08,false,(UNIT)ミックスナッツ
+s_supersizelove,SUPER SIZE LOVE!!,,ml,,ml_minako,solo,,2015-01-28,LTH08,false,(ソロ)佐竹美奈子
+s_ml_1xybaow,アニマル☆ステイション！,,ml,,ml_iku,solo,,2015-01-28,LTH08,false,(ソロ)中谷育
+s_ml_0orda1p,りんごのマーチ,,ml,,ml_hinata,solo,,2015-01-28,LTH08,false,(ソロ)木下ひなた
+s_wowineed,WOW! I NEED!! 〜シンギングモンキー 歌唱拳〜,,ml,,765as_mami,solo,,2015-01-28,LTH08,false,(ソロ)双海真美
+s_ml_1vl1nyl,水中キャンディ,,ml,,ml_konomi,solo,,2015-01-28,LTH08,false,(ソロ)馬場このみ
+s_ml_0n0ogsc,星屑のシンフォニア,,ml,,765as_miki;ml_chizuru;ml_subaru;ml_tomoka;ml_sayoko,unit,,2015-03-25,LTH09,false,(UNIT)ミルキーウェイ
+s_fakeselftrueself,FAKE SELF×TRUE SELF,,ml,,765as_miki,solo,,2015-03-25,LTH09,false,(ソロ)星井美希
+s_ml_1v7po0h,恋の音色ライン,,ml,,ml_chizuru,solo,,2015-03-25,LTH09,false,(ソロ)二階堂千鶴
+s_dayafteryesterday,Day After “Yesterday”,,ml,,ml_subaru,solo,,2015-03-25,LTH09,false,(ソロ)永吉昴
+s_ml_065ueel,鳥籠スクリプチュア,,ml,,ml_tomoka,solo,,2015-03-25,LTH09,false,(ソロ)天空橋朋花
+s_vividcolor,vivid color,,ml,,ml_sayoko,solo,,2015-03-25,LTH09,false,(ソロ)高山紗代子
+s_standingalive,STANDING ALIVE,,ml,,,unit,,2015-03-25,LTH10,false,(UNIT)ARRIVE
+s_ml_1utkbmh,ファンタジスタ・カーニバル,,ml,,ml_elena,solo,,2015-03-25,LTH10,false,(ソロ)島原エレナ
+s_why,WHY?,,ml,,ml_rio,solo,,2015-03-25,LTH10,false,(ソロ)百瀬莉緒
+s_stereophonicisotonic,STEREOPHONIC ISOTONIC,,ml,,ml_roco,solo,,2015-03-25,LTH10,false,(ソロ)ロコ
+s_addicted,addicted,,ml,,765as_takane,solo,,2015-03-25,LTH10,false,(ソロ)四条貴音
+s_ml_1dqe84e,夕風のメロディー,,ml,,ml_karen,solo,,2015-03-25,LTH10,false,(ソロ)篠宮可憐
+s_dreaming,Dreaming!,,ml,,,all,,2015-07-19,MOIW2日目,false,(全体曲)
+s_ml_1sw1fay,ハルカナミライ,,ml,,765as_haruka;ml_mirai,unit,,2015-10-28,LTD02,false,"(LTD)春香,未来"
+s_chulover,成長Chu→LOVER!!,,ml,,ml_anna;ml_yuriko,unit,,2015-10-28,LTD02,false,"(LTD)杏奈,百合子"
+s_ml_0dinzhs,エスケープ,,ml,,ml_julia;ml_megumi,unit,,2015-10-28,LTD02,false,"(LTD)ジュリア,恵美"
+s_eternalspiral,Eternal Spiral,,ml,,765as_yayoi;ml_kana,unit,,2015-10-28,LTD02,false,"(LTD)やよい,可奈"
+s_pieceofcake,piece of cake,,ml,,ml_reika;ml_shiho,unit,,2015-10-28,LTD02,false,"(LTD)麗花,志保"
+s_ml_1f3d9ei,アライブファクター,,ml,,765as_chihaya;ml_shizuka,unit,,2015-12-02,LTD03,false,"(LTD)千早,静香"
+s_personavoice,Persona Voice,,ml,,ml_chizuru;765as_yukiho,unit,,2015-12-02,LTD03,false,"(LTD)千鶴,雪歩"
+s_cutcutcut,Cut. Cut. Cut.,,ml,,ml_momoko;ml_mizuki,unit,,2015-12-02,LTD03,false,"(LTD)桃子,瑞希"
+s_smilingcrescent,Smiling Crescent,,ml,,ml_serika;ml_miya,unit,,2015-12-02,LTD03,false,"(LTD)星梨花,美也"
+s_decided,Decided,,ml,,ml_matsuri;ml_konomi,unit,,2015-12-02,LTD03,false,"(LTD)まつり,このみ"
+s_ml_0j2s9eq,深層マーメイド,,ml,,ml_tsubasa;765as_hibiki,unit,,2015-12-23,LTD04,false,"(LTD)翼,響"
+s_helloyourangel,"HELLO, YOUR ANGEL♪",,ml,,ml_tomoka;ml_iku,unit,,2015-12-23,LTD04,false,"(LTD)朋花,育"
+s_ml_0cuc0qh,G♡F,,ml,,765as_ritsuko;ml_karen,unit,,2015-12-23,LTD04,false,"(LTD)律子,可憐"
+s_littletriparoundtheworld,little trip around the world,,ml,,ml_emily;765as_iori,unit,,2015-12-23,LTD04,false,"(LTD)エミリー,伊織"
+s_melodyinscape,Melody in scape,,ml,,ml_minako;ml_sayoko,unit,,2015-12-23,LTD04,false,"(LTD)美奈子,紗代子"
+s_ml_1dwbvjc,アイル,,ml,,ml_tsubasa,solo,,2016-01-12,ゲッサン3巻,false,(ソロ)伊吹翼
+s_yourhometown,”Your” HOME TOWN,,ml,,ml_hinata;765as_ami,unit,,2016-01-27,LTD05,false,"(LTD)ひなた,亜美"
+s_fruitylove,fruity love,,ml,,ml_akane;ml_roco,unit,,2016-01-27,LTD05,false,"(LTD)茜,ロコ"
+s_ml_1s24wuz,夜に輝く星座のように,,ml,,ml_arisa;cg_nao,unit,,2016-01-27,LTD05,false,"(LTD)亜利沙,奈緒"
+s_ml_19o6gg4,秘密のメモリーズ,,ml,,765as_takane;ml_fuka,unit,,2016-01-27,LTD05,false,"(LTD)貴音,風花"
+s_ml_1xh82qa,たしかな足跡,,ml,,765as_azusa;ml_rio,unit,,2016-01-27,LTD05,false,"(LTD)あずさ,莉緒"
+s_understandunderstand,Understand? Understand!,,ml,,ml_umi;ml_kotoha,unit,,2016-03-23,LTD06,false,"(LTD)海美,琴葉"
+s_ml_138a9hc,ジャングル☆パーティー,,ml,,ml_tamaki;765as_mami,unit,,2016-03-23,LTD06,false,"(LTD)環,真美"
+s_beattheworld,Beat the World!!!,,ml,,765as_makoto;ml_ayumu,unit,,2016-03-23,LTD06,false,"(LTD)真,歩"
+s_emergencevibe,Emergence Vibe,,ml,,ml_elena;765as_miki,unit,,2016-03-23,LTD06,false,"(LTD)エレナ,美希"
+s_dreamscape,Dreamscape,,ml,,ml_subaru;ml_noriko,unit,,2016-03-23,LTD06,false,"(LTD)昴,のり子"
+s_flooding,Flooding,,ml,,,unit,,2016-07-12,ゲッサン4巻,false,(UNIT)クレシェンドブルー
+s_ml_1myq621,創造は始まりの風を連れて,,ml,,ml_yuriko;ml_tomoka;ml_serika;ml_arisa;ml_roco,unit,,2016-09-07,TA01,false,"(TA01)百合子,朋花,星梨花,亜利沙,ロコ"
+s_diamonddays,DIAMOND DAYS,,ml,,,all,,2016-09-07,TA01,false,共通曲(キャスティング企画)
+s_ml_1vin8bz,俠気乱舞,,ml,,ml_julia;ml_momoko;ml_tamaki;ml_hinata;ml_noriko,unit,,2016-10-12,TA02,false,"(TA02)ジュリア,桃子,環,ひなた,のり子"
+s_ml_19gvms7,赤い世界が消える頃,,ml,,ml_kana;ml_minako;ml_karen;ml_mizuki;ml_reika,unit,,2016-11-09,TA03,false,"(TA03)可奈,美奈子,可憐,瑞希,麗花"
+s_ml_1he2dr6,ランニング・ハイッ,,ml,,,unit,,2016-12-07,LTF01,false,(UNIT天体)キャンサー
+s_ml_05iuako,ゲキテキ！ムテキ！恋したい！,,ml,,,unit,,2016-12-07,LTF01,false,(UNIT天体)レオ
+s_bonnesbonnesvacances,Bonnes! Bonnes!! Vacances!!!,,ml,,,unit,,2016-12-07,LTF01,false,(UNIT天体)リブラ
+s_nocurrynolife,NO CURRY NO LIFE,,ml,,,unit,,2016-12-07,LTF01,false,(UNIT天体)カプリコーン
+s_ml_0ilaprr,サンリズム・オーケストラ♪,,ml,,,unit,,2016-12-07,LTF01,false,(UNIT天体)Sunshine Rhythm
+s_ml_18r6fw3,君との明日を願うから,,ml,,ml_mirai;ml_shizuka;ml_tsubasa,unit,,2016-12-12,ゲッサン5巻,false,"(-)未来,静香,翼"
+s_raisetheflag,Raise the FLAG,,ml,,,unit,,2017-01-11,LTF02,false,(UNIT天体)サジタリアス
+s_psiloveyou,P.S I Love You,,ml,,,unit,,2017-01-11,LTF02,false,(UNIT天体)ピスケス
+s_ml_0z29cwf,プリムラ,,ml,,,unit,,2017-01-11,LTF02,false,(UNIT天体)ウィルゴ
+s_lacrima,待ちぼうけのLacrima,,ml,,,unit,,2017-01-11,LTF02,false,(UNIT天体)アクアリウス
+s_braveharmony,brave HARMONY,,ml,,,unit,,2017-01-11,LTF02,false,(UNIT天体)BlueMoon Harmony
+s_ml_1ilm09z,リフレインキス,,ml,,,unit,,2017-02-15,LTF03,false,(UNIT天体)スコーピオ
+s_sweetsweetsoul,Sweet Sweet Soul,,ml,,,unit,,2017-02-15,LTF03,false,(UNIT天体)アリエス
+s_ml_01dksr2,メメント？モメント♪ルルルルル☆,,ml,,,unit,,2017-02-15,LTF03,false,(UNIT天体)タウラス
+s_ml_0w965cw,永遠の花,,ml,,,unit,,2017-02-15,LTF03,false,(UNIT天体)ジェミニ
+s_starrymelody,Starry Melody,,ml,,,unit,,2017-02-15,LTF03,false,(UNIT天体)Starry Melody
+s_brandnewtheater,Brand New Theater!,,ml,,,all,,2017-03-12,ミリオン4th3日目,false,(全体曲)
+s_ml_14n9j67,インヴィンシブル・ジャスティス,,ml,,,unit,,2017-03-12,ミリオン4th3日目,false,(UNIT)マイティーセーラーズ
+s_ml_1e9j79y,瑠璃色金魚と花菖蒲,,ml,,ml_tsumugi,solo,,2017-06-29,シアターデイズ,false,(ソロ)白石紬
+s_ml_08ntfev,ハミングバード,,ml,,ml_kaori,solo,,2017-06-29,シアターデイズ,false,(ソロ)桜守歌織
+s_ml_0gqffjc,ローリング△さんかく,,ml,,ml_momoko,solo,,2017-08-23,MS01,false,(ソロ)周防桃子
+s_ml_13vsixe,地球儀にない国,,ml,,ml_yuriko,solo,,2017-08-23,MS01,false,(ソロ)七尾百合子
+s_ml_13mc3tt,祈りの羽根,,ml,,ml_fuka,solo,,2017-08-23,MS01,false,(ソロ)豊川風花
+s_ml_0w5bty4,未来系ドリーマー,,ml,,ml_mirai,solo,,2017-08-23,MS01,false,(ソロ)春日未来
+s_ml_1d7ahq0,プリンセス・アラモード,,ml,,ml_matsuri,solo,,2017-09-20,MS02,false,(ソロ)徳川まつり
+s_homerunsong,HOME RUN SONG♪,,ml,,ml_subaru,solo,,2017-09-20,MS02,false,(ソロ)永吉昴
+s_ml_0zy947m,ロケットスター☆,,ml,,ml_tsubasa,solo,,2017-09-20,MS02,false,(ソロ)伊吹翼
+s_catcrossing,CAT CROSSING,,ml,,ml_shiho,solo,,2017-09-20,MS02,false,(ソロ)北沢志保
+s_fairytale,FairyTaleじゃいられない,,ml,,,unit,,2017-10-20,ミリシタイベント,false,(属性)フェアリースターズ
+s_comeonateaparty,Come on a Tea Party!,,ml,,ml_serika,solo,,2017-10-25,MS03,false,(ソロ)箱崎星梨花
+s_ml_13u4gl9,満腹至極フルコォス,,ml,,ml_minako,solo,,2017-10-25,MS03,false,(ソロ)佐竹美奈子
+s_onlyonesecond,Only One Second,,ml,,ml_sayoko,solo,,2017-10-25,MS03,false,(ソロ)高山紗代子
+s_ml_1e3a1ui,To...,,ml,,ml_konomi,solo,,2017-10-25,MS03,false,(ソロ)馬場このみ
+s_singmysong,SING MY SONG,,ml,,ml_shizuka,solo,,2017-10-25,MS03,false,(ソロ)最上静香
+s_aikane,AIKANE？,,ml,,ml_akane,solo,,2017-12-06,MS04,false,(ソロ)野々原茜
+s_ml_0g4qsrk,スポーツ！スポーツ！スポーツ！,,ml,,ml_umi,solo,,2017-12-06,MS04,false,(ソロ)高坂海美
+s_artneedsheartbeats,ART NEEDS HEART BEATS,,ml,,ml_roco,solo,,2017-12-06,MS04,false,(ソロ)ロコ
+s_enterpleasure,ENTER→PLEASURE,,ml,,ml_anna,solo,,2017-12-06,MS04,false,(ソロ)望月杏奈
+s_ml_0jnzb0g,あめにうたおう♪,,ml,,ml_kana,solo,,2017-12-06,MS04,false,(ソロ)矢吹可奈
+s_angelicparade,Angelic Parade♪,,ml,,,unit,,2017-12-21,ミリシタイベント,false,(属性)エンジェルスターズ
+s_princessbeambitious,Princess Be Ambitious!!,,ml,,,unit,,2017-12-21,ミリシタイベント,false,(属性)プリンセススターズ
+s_borderline,Border LINE→→→♡,,ml,,ml_rio,solo,,2018-01-10,MS05,false,(ソロ)百瀬莉緒
+s_ml_1yoia7r,ふわりずむ,,ml,,ml_miya,solo,,2018-01-10,MS05,false,(ソロ)宮尾美也
+s_ml_14vjqv5,たんけんぼうけん☆ハイホー隊,,ml,,ml_tamaki,solo,,2018-01-10,MS05,false,(ソロ)大神環
+s_silentjoker,Silent Joker,,ml,,ml_mizuki,solo,,2018-01-10,MS05,false,(ソロ)真壁瑞希
+s_ml_18lny8z,はなしらべ,,ml,,ml_emily,solo,,2018-01-10,MS05,false,(ソロ)エミリー スチュアート
+s_ml_0opkmwv,昏き星、遠い月,,ml,,,unit,,2018-01-19,ミリシタイベント,false,(UNIT)夜想令嬢
+s_weareone,WE ARE ONE!!,,ml,,ml_noriko,solo,,2018-02-07,MS06,false,(ソロ)福田のり子
+s_homeisacomingnow,Home is a coming now!,,ml,,ml_nao,solo,,2018-02-07,MS06,false,(ソロ)横山奈緒
+s_oliolidisco,Oli Oli DISCO,,ml,,ml_ayumu,solo,,2018-02-07,MS06,false,(ソロ)舞浜歩
+s_ml_1ognxga,ムーンゴールド,,ml,,ml_chizuru,solo,,2018-02-07,MS06,false,(ソロ)二階堂千鶴
+s_ml_1wdvzof,スタートリップ,,ml,,ml_julia,solo,,2018-02-07,MS06,false,(ソロ)ジュリア
+s_letters,虹色letters,,ml,,ml_tsubasa;ml_miya;ml_elena,unit,,2018-02-16,ミリシタイベント,false,(UNIT)Cleasky
+s_everlasting,Everlasting,,ml,,,unit,,2018-02-28,MTG05,false,(UNIT)夜想令嬢
+s_take321space,Take！3. 2. 1. → S・P・A・C・E↑↑,,ml,,ml_arisa,solo,,2018-03-07,MS07,false,(ソロ)松田亜利沙
+s_ml_0iqxq3m,ときどきシーソー,,ml,,ml_iku,solo,,2018-03-07,MS07,false,(ソロ)中谷育
+s_ml_1iwpmfz,スノウレター,,ml,,ml_hinata,solo,,2018-03-07,MS07,false,(ソロ)木下ひなた
+s_lastnote,教えてlast note…,,ml,,ml_karen,solo,,2018-03-07,MS07,false,(ソロ)篠宮可憐
+s_hearty,Hearty!!,,ml,,ml_megumi,solo,,2018-03-07,MS07,false,(ソロ)所恵美
+s_zettaibreak,ZETTAI × BREAK!! トゥインクルリズム,,ml,,,unit,,2018-03-20,ミリシタイベント,false,(UNIT)トゥインクルリズム
+s_ml_01bjjra,想い出はクリアスカイ,,ml,,ml_tsubasa;ml_miya;ml_elena,unit,,2018-03-28,MTG06,false,(UNIT)Cleasky
+s_ml_0mj36jb,シャクネツのパレード,,ml,,ml_elena,solo,,2018-04-04,MS08,false,(ソロ)島原エレナ
+s_ml_1hfmgp4,空に手が触れる場所,,ml,,ml_reika,solo,,2018-04-04,MS08,false,(ソロ)北上麗花
+s_sister,Sister,,ml,,ml_tomoka,solo,,2018-04-04,MS08,false,(ソロ)天空橋朋花
+s_ml_1wnnx9y,シルエット,,ml,,ml_kotoha,solo,,2018-04-04,MS08,false,(ソロ)田中琴葉
+s_meltyfantasia,Melty Fantasia,,ml,,,unit,,2018-04-20,ミリシタイベント,false,(UNIT)EScape
+s_tomorrowprogram,Tomorrow Program,,ml,,,unit,,2018-04-25,MTG07,false,(UNIT)トゥインクルリズム
+s_weekend,花ざかりWeekend✿,,ml,,,unit,,2018-05-21,ミリシタイベント,false,(UNIT)4 Luxury
+s_idescapefromutopia,I.D 〜EScape from Utopia〜,,ml,,,unit,,2018-05-30,MTG08,false,(UNIT)EScape
+s_union,UNION!!,,ml,,,unit,,2018-06-02,ミリオン5th1日目,false,(ミリシタ1周年記念曲)
+s_ml_090np9o,咲くは浮世の君花火,,ml,,ml_nao;ml_sayoko;ml_noriko,unit,,2018-06-03,ミリオン5th2日目,false,(UNIT)閃光☆HANABI団
+s_redzone,RED ZONE,,ml,,,unit,,2018-06-27,MTG09,false,(UNIT)4 Luxury
+s_bornondreamhanabinight,BORN ON DREAM! 〜HANABI☆NIGHT〜,,ml,,ml_nao;ml_sayoko;ml_noriko,unit,,2018-07-25,MTG10,false,(UNIT)閃光☆HANABI団
+s_ml_0h9n3rb,ビッグバンズバリボー!!!!!,,ml,,ml_umi;ml_megumi;ml_sayoko;ml_fuka;cg_nao,unit,,2018-08-20,ミリシタイベント,false,"(TB01)海美,恵美,紗代子,風花,奈緒"
+s_ml_1uwfieh,オーディナリィ・クローバー,,ml,,ml_kaori;ml_shizuka;ml_anna;ml_rio;ml_miya,unit,,2018-09-21,ミリシタイベント,false,"(TB02)歌織,静香,杏奈,莉緒,美也"
+s_ml_0muyoz4,ラスト・アクトレス,,ml,,ml_kotoha;ml_momoko;ml_konomi;ml_mizuki;ml_tsumugi,unit,,2018-10-21,ミリシタ感謝祭,false,"(TB03)琴葉,桃子,このみ,瑞希,紬"
+s_ml_1dup2p1,ハーモニクス,,ml,,,unit,,2018-10-21,ミリシタ感謝祭,false,(UNIT)D/Zeal
+s_ml_01glwel,ハルマチ女子,,ml,,,unit,,2018-12-21,ミリシタイベント,false,(UNIT)りるきゃん 〜3 little candy〜
+s_ml_0717cjs,餞の鳥,,ml,,,unit,,2018-12-26,MTG12,false,(UNIT)D/Zeal
+s_ml_0wdocmu,だってあなたはプリンセス,,ml,,,unit,,2019-01-20,ミリシタイベント,false,(UNIT)Charlotte・Charlotte
+s_ml_05invv6,彼氏になってよ。,,ml,,,unit,,2019-01-30,MTG13,false,(UNIT)りるきゃん 〜3 little candy〜
+s_ml_0ypqrf6,月曜日のクリームソーダ,,ml,,,unit,,2019-02-19,ミリシタイベント,false,(UNIT)Jelly PoP Beans
+s_ml_03foc9f,ミラージュ・ミラー,,ml,,,unit,,2019-02-27,MTG14,false,(UNIT)Charlotte・Charlotte
+s_iiko,ピコピコIIKO! インベーダー,,ml,,,unit,,2019-03-19,ミリシタイベント,false,(UNIT)ピコピコプラネッツ
+s_ididiwill,I did＋I will,,ml,,,unit,,2019-03-27,MTG15,false,(UNIT)Jelly PoP Beans
+s_justiceorvoice,Justice OR Voice,,ml,,,unit,,2019-04-02,ミリシタイベント,false,(UNIT)ジェネシス×ネメシス
+s_episodetiara,Episode. Tiara,,ml,,,unit,,2019-04-19,ミリシタイベント,false,(UNIT)STAR ELEMENTS
+s_getlolgetlolsong,Get lol! Get lol! SONG,,ml,,,unit,,2019-04-24,MTG16,false,(UNIT)ピコピコプラネッツ
+s_ml_1roxjc4,ギブミーメタファー,,ml,,,unit,,2019-05-18,ミリオン6th神戸公演,false,(UNIT)STAR ELEMENTS
+s_leader,LEADER!!,,ml,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2019-05-20,ミリシタイベント,false,(全員曲)765PRO ALLSTARS
+s_whitevows,White Vows,,ml,,ml_fuka;ml_rio;ml_kaori;ml_chizuru;ml_konomi,unit,,2019-06-20,ミリシタイベント,false,"(-)風花,莉緒,歌織,千鶴,このみ"
+s_cloverdays,Clover Days,,ml,,,unit,,2019-06-28,Blooming Clover5巻,false,(UNIT)Clover
+s_flyers,Flyers!!!,,ml,,,unit,,2019-06-29,6th福岡でPV公開,false,(ミリシタ2周年記念曲)
+s_musicjourney,MUSIC JOURNEY,,ml,,ml_kaori,solo,,2019-07-15,ミリシタメインコミュ,false,(ソロ)桜守歌織
+s_danslobscurit,dans l'obscurité,,ml,,ml_mizuki;ml_subaru;ml_roco,unit,,2019-07-23,ミリシタイベント,false,(UNIT)クロノレキシカ
+s_ml_0rmkno9,さかしまの言葉,,ml,,ml_tsumugi,solo,,2019-08-14,ミリシタメインコミュ,false,(ソロ)白石紬
+s_ml_03i1dus,ラビットファー,,ml,,,unit,,2019-08-21,ミリシタイベント,false,(UNIT)Xs
+s_teatime,囚われのTeaTime,,ml,,ml_mizuki;ml_subaru;ml_roco,unit,,2019-08-28,MTW02,false,(UNIT)クロノレキシカ
+s_girlmeetswonder,Girl meets Wonder,,ml,,ml_serika;ml_momoko;ml_matsuri;765as_hibiki;ml_subaru,unit,,2019-09-19,ミリシタイベント,false,"(TC01)星梨花,桃子,まつり,響,昴"
+s_dreamydream,Dreamy Dream,,ml,,,unit,,2019-09-25,MTW03,false,(UNIT)Xs
+s_worldchanger,World Changer,,ml,,765as_chihaya;765as_miki;765as_makoto;ml_emily;765as_haruka,unit,,2019-10-20,ミリシタイベント,false,"(TC02)千早,美希,真,エミリー,春香"
+s_cherrycoloredlove,Cherry Colored Love,,ml,,,unit,,2019-11-18,ミリシタイベント,false,(UNIT)Sherry 'n Cherry
+s_fermatainrapsodia,Fermata in Rapsodia,,ml,,765as_takane;765as_azusa;765as_chihaya,unit,,2019-12-17,ミリシタイベント,false,(UNIT)ARCANA
+s_ml_0vyqkih,夜と、明かりと。,,ml,,,unit,,2019-12-25,MTW04,false,(UNIT)Sherry 'n Cherry
+s_ml_15tnm9x,百花は月下に散りぬるを,,ml,,,unit,,2020-01-19,ミリシタ感謝祭,false,(UNIT)花咲夜
+s_departurefromthelife,DEpArture from THe life,,ml,,765as_takane;765as_azusa;765as_chihaya,unit,,2020-01-29,MTW05,false,(UNIT)ARCANA
+s_superduper,Super Duper,,ml,,,unit,,2020-02-18,ミリシタイベント,false,(UNIT)Jus-2-Mint
+s_ml_0kt758q,矛盾の月,,ml,,,unit,,2020-02-26,MTW06,false,(UNIT)花咲夜
+s_hanginthere,Hang In There!,,ml,,,unit,,2020-03-25,MTW07,false,(UNIT)Jus-2-Mint
+s_ml_0b2u5u4,クルリウタ,,ml,,ml_akane;ml_elena;ml_shiho;ml_kaori;ml_chizuru,unit,,2020-04-19,ミリシタイベント,false,"(TC03)茜,エレナ,志保,歌織,千鶴"
+s_performer,絶対的Performer,,ml,,,unit,,2020-05-18,ミリシタイベント,false,(UNIT)miraclesonic★expassion
+s_dotheidol,Do the IDOL!! 〜断崖絶壁チュパカブラ〜,,ml,,ml_tomoka;ml_emily;ml_subaru;ml_tsubasa;ml_yuriko,unit,,2020-05-24,ミリオン特別生配信Day2,false,"(-)朋花,エミリー,昴,翼,百合子"
+s_specialwonderfulsmile,Special Wonderful Smile,,ml,,,unit,,2020-06-18,ミリシタイベント,false,(UNIT)Fleuranges
+s_glowmap,Glow Map,,ml,,,unit,,2020-06-29,ミリシタイベント,false,(ミリシタ3周年記念曲)
+s_paradedamour,Parade d’amour,,ml,,,unit,,2020-07-20,ミリシタイベント,false,(UNIT)オペラセリア・煌輝座
+s_deepdeepblue,"Deep, Deep Blue",,ml,,,unit,,2020-08-19,ミリシタイベント,false,(UNIT)ダイヤモンドダイバー◇
+s_arriveyou,Arrive You 〜それが運命でも〜,,ml,,,unit,,2020-09-18,ミリシタイベント,false,(UNIT)TIntMe!
+s_voyage,星宙のVoyage,,ml,,,unit,,2020-09-23,MTW11,false,(UNIT)オペラセリア・煌輝座
+s_blackparty,Black★Party,,ml,,,unit,,2020-10-20,ミリシタイベント,false,(UNIT)TRICK&TREAT
+s_viva,VIVA☆アクアリズム,,ml,,,unit,,2020-10-28,MTW12,false,(UNIT)ダイヤモンドダイバー◇
+s_myevolution,My Evolution,,ml,,,unit,,2020-11-25,MTW08,false,(UNIT)miraclesonic★expassion
+s_ml_00d3lda,カーテシーフラワー,,ml,,ml_umi;765as_azusa;ml_iku,unit,,2020-12-18,ミリシタイベント,false,"(聖ミリ)海美,あずさ,育"
+s_ml_03wi6cm,旅立ちのコンパス,,ml,,,unit,,2020-12-23,MTW09,false,(UNIT)Fleuranges
+s_ml_0c7jnwa,愛の旋律,,ml,,ml_chizuru;ml_fuka;ml_julia,unit,,,イベント中止,false,(UNIT)chicAAmor
+s_retale,ReTale,,ml,,,unit,,2021-01-23,ミリシタ感謝祭,false,(UNIT)≡君彩≡
+s_ml_0saqzv6,ライラックにつつまれて,,ml,,,unit,,2021-01-27,MTW13,false,(UNIT)TIntMe!
+s_ml_1rna1pc,フシギトラベラー,,ml,,,unit,,2021-02-24,MTW14,false,(UNIT)TRICK&TREAT
+s_ml_0in8ju3,フリースタイル・トップアイドル！,,ml,,,unit,,2021-03-19,ミリシタイベント,false,(UNIT)ARMooo
+s_absoluterun,ABSOLUTE RUN!!!,,ml,,,unit,,2021-04-18,ミリシタイベント,false,(UNIT)ストロベリーポップムーン
+s_ml_1xwvaws,パンとフィルム,,ml,,,unit,,2021-04-21,MTW16,false,(UNIT)≡君彩≡
+s_ml_1u6rmdt,聖ミリオン女学園校歌,,ml,,,unit,anime,2021-04-23,聖ミリオン女学園OP,false,(聖ミリ)聖ミリオン女学園
+s_everydaystars,EVERYDAY STARS!!,,ml,,,all,,2021-05-18,ミリシタイベント,false,(全体曲・自己紹介曲)
+s_ml_1s4gvxk,ウェイ・ダ・アイドル,,ml,,,unit,,2021-05-26,MTW17,false,(UNIT)ARMooo
+s_ml_1rhp1e1,花びらメモリーズ,,ml,,ml_tsumugi;ml_minako;ml_megumi;ml_momoko,unit,,2021-06-17,ミリシタイベント,false,"(聖ミリ)紬,美奈子,恵美,桃子"
+s_beproud_2,Be proud,,ml,,,unit,,2021-06-23,MTW18,false,(UNIT)ストロベリーポップムーン
+s_harmony4you,Harmony 4 You,,ml,,,unit,,2021-06-29,ミリシタイベント,false,(ミリシタ4周年記念曲)
+s_diamondjoker,DIAMOND JOKER,,ml,,ml_tsubasa;ml_matsuri;765as_takane;ml_megumi,unit,,2021-07-20,ミリシタイベント,false,"(MTS♦)翼,まつり,貴音,恵美"
+s_ml_0j9p221,真夏のダイヤ☆,,ml,,ml_rio;765as_yukiho;ml_kotoha;765as_mami,unit,,2021-08-19,ミリシタイベント,false,"(MTS♦)莉緒,雪歩,琴葉,真美"
+s_ml_0bjck1v,シークレットジュエル 〜魅惑の金剛石〜,,ml,,765as_iori;ml_miya;ml_mirai;ml_kaori;ml_momoko,unit,,2021-09-01,ミリシタイベント,false,"(MTS♦)伊織,美也,未来,歌織,桃子"
+s_ml_0yejmvl,ダイヤモンド・クラリティ,,ml,,,unit,,2021-09-17,ミリシタイベント,false,(MTS♦)BRIGHT DIAMOND
+s_happysteppingdreaming,HAPPY♪STEPPING!!DREAMING☆,,ml,,765as_haruka,solo,,2021-09-29,M@STER SPARKLE2 01,false,(ソロ)天海春香
+s_purplesky,Purple Sky,,ml,,ml_shiho,solo,,2021-09-29,M@STER SPARKLE2 01,false,(ソロ)北沢志保
+s_ml_0cqdan9,あたためますか？,,ml,,ml_minako,solo,,2021-09-29,M@STER SPARKLE2 01,false,(ソロ)佐竹美奈子
+s_ml_05bfq1m,アロー彗星,,ml,,ml_julia,solo,,2021-09-29,M@STER SPARKLE2 01,false,(ソロ)ジュリア
+s_kawaiioftheworld,K・A・W・A・I・I of the WORLD!,,ml,,ml_akane,solo,,2021-09-29,M@STER SPARKLE2 01,false,(ソロ)野々原茜
+s_ml_0qzg2os,深紅のパシオン,,ml,,ml_chizuru;ml_fuka;ml_julia,unit,,2021-10-02,ミリシタイベント,false,(UNIT)chicAAmor
+s_cookking,ワールド・アスレチック・COOK-KING 〜勝者必食！？スポ食の秋〜,,ml,,,unit,,2021-10-18,ミリシタイベント,false,(MTV)クッキング大運動会
+s_ml_0uaa6po,産声とクラブ,,ml,,ml_serika;765as_azusa;ml_roco;ml_umi,unit,,2021-11-16,ミリシタイベント,false,"(MTS♧)星梨花,あずさ,ロコ,海美"
+s_ml_17zm7k7,君に映るポートレイト,,ml,,765as_chihaya,solo,,2021-11-24,M@STER SPARKLE2 02,false,(ソロ)如月千早
+s_fragrance,勇気のfragrance,,ml,,ml_karen,solo,,2021-11-24,M@STER SPARKLE2 02,false,(ソロ)篠宮可憐
+s_ml_0n47kff,ピカリピックアップ！,,ml,,765as_yayoi,solo,,2021-11-24,M@STER SPARKLE2 02,false,(ソロ)高槻やよい
+s_ml_1gagncw,キミが真ん中にいた,,ml,,ml_iku,solo,,2021-11-24,M@STER SPARKLE2 02,false,(ソロ)中谷育
+s_dualstyleidol,Dual Style Idol,,ml,,ml_ayumu,solo,,2021-11-24,M@STER SPARKLE2 02,false,(ソロ)舞浜歩
+s_ml_09rgouc,アイドルは、かく語りき,,ml,,ml_arisa,solo,,2021-11-24,M@STER SPARKLE2 02,false,(ソロ)松田亜利沙
+s_ml_1dz3g3l,トレフル・ド・ノエル,,ml,,765as_makoto;ml_mizuki;ml_elena;ml_chizuru,unit,,2021-12-12,ミリシタイベント,false,"(MTS♧)真,瑞希,エレナ,千鶴"
+s_paradoxoflove,Paradox of LOVE,,ml,,ml_chizuru;ml_fuka;ml_julia,unit,,2021-12-15,MTW15,false,(UNIT)chicAAmor
+s_ml_0s24nvw,セピアカラフル,,ml,,765as_makoto,solo,,2021-12-22,M@STER SPARKLE2 03,false,(ソロ)菊地真
+s_ml_1p3949r,ハッピーマイガーデン,,ml,,ml_hinata,solo,,2021-12-22,M@STER SPARKLE2 03,false,(ソロ)木下ひなた
+s_wawon,恋のWa・Wo・N,,ml,,ml_yuriko,solo,,2021-12-22,M@STER SPARKLE2 03,false,(ソロ)七尾百合子
+s_ml_1iw4jgl,きみがくれた言葉があるから,,ml,,ml_noriko,solo,,2021-12-22,M@STER SPARKLE2 03,false,(ソロ)福田のり子
+s_ml_1gxsu8p,ゆえに…なんです,,ml,,ml_mizuki,solo,,2021-12-22,M@STER SPARKLE2 03,false,(ソロ)真壁瑞希
+s_cloverscry,Clover's Cry 〜神と神降ろしの少女〜,,ml,,cg_nao;ml_konomi;765as_ritsuko;ml_tamaki;ml_hinata,unit,,2022-01-02,ミリシタイベント,false,"(MTS♧)奈緒,このみ,律子,環,ひなた"
+s_shamrockvivace,Shamrock Vivace,,ml,,,unit,,2022-01-18,ミリシタイベント,false,(MTS♧)CLEVER CLOVER
+s_dateparade,DATE PARADE!,,ml,,765as_miki,solo,,2022-01-26,M@STER SPARKLE2 04,false,(ソロ)星井美希
+s_ml_1bu7ib9,折紙物語,,ml,,ml_tsumugi,solo,,2022-01-26,M@STER SPARKLE2 04,false,(ソロ)白石紬
+s_ml_155fzzi,絵羽模様,,ml,,ml_emily,solo,,2022-01-26,M@STER SPARKLE2 04,false,(ソロ)エミリー スチュアート
+s_ml_1bsq0fn,週末だけのハーレクイン,,ml,,ml_rio,solo,,2022-01-26,M@STER SPARKLE2 04,false,(ソロ)百瀬莉緒
+s_ml_062ftjg,グローインミュージック！,,ml,,ml_kana,solo,,2022-01-26,M@STER SPARKLE2 04,false,(ソロ)矢吹可奈
+s_ml_0gr2w84,ショコラブル＊イブ,,ml,,,unit,,2022-02-02,ミリシタイベント,false,(MTV)バレンタイン
+s_loveisgame,LOVE is GAME,,ml,,ml_tomoka;765as_yayoi;ml_minako;ml_yuriko,unit,,2022-03-19,ミリシタイベント,false,"(MTS♡)朋花,やよい,美奈子,百合子"
+s_ml_00j3nrn,プルメリアの花,,ml,,765as_yukiho,solo,,2022-03-23,M@STER SPARKLE2 05,false,(ソロ)萩原雪歩
+s_crossthefuture,Cross the future,,ml,,ml_shizuka,solo,,2022-03-23,M@STER SPARKLE2 05,false,(ソロ)最上静香
+s_ml_01f4xm6,裏表深層心理,,ml,,ml_fuka,solo,,2022-03-23,M@STER SPARKLE2 05,false,(ソロ)豊川風花
+s_beautifulbeliever,Beautiful Believer,,ml,,ml_megumi,solo,,2022-03-23,M@STER SPARKLE2 05,false,(ソロ)所恵美
+s_collierdeperles,Collier De Perles,,ml,,ml_chizuru,solo,,2022-03-23,M@STER SPARKLE2 05,false,(ソロ)二階堂千鶴
+s_ml_1of5zpz,セブンカウント,,ml,,,all,,2022-03-27,AJ2022でMV公開,false,(全体曲)MILLIONSTARS
+s_shishinpenshin,紙・心・ペン・心 - SHISHINPENSHIN -,,ml,,ml_noriko;ml_arisa;765as_chihaya;ml_reika;ml_sayoko,unit,,2022-04-18,ミリシタイベント,false,"(MTS♡)のり子,亜利沙,千早,麗花,紗代子"
+s_ml_0cdlwqm,交わる季節,,ml,,765as_takane,solo,,2022-04-27,M@STER SPARKLE2 06,false,(ソロ)四条貴音
+s_ml_0fdd1f5,ユニーク・スター・プレイヤー!,,ml,,765as_mami,solo,,2022-04-27,M@STER SPARKLE2 06,false,(ソロ)双海真美
+s_ml_0aubf2t,泣き空、のち,,ml,,ml_tsubasa,solo,,2022-04-27,M@STER SPARKLE2 06,false,(ソロ)伊吹翼
+s_moonrisebelief,Moonrise Belief,,ml,,ml_tomoka,solo,,2022-04-27,M@STER SPARKLE2 06,false,(ソロ)天空橋朋花
+s_ml_1behuii,シャル・ウィー・ダンス？,,ml,,ml_matsuri,solo,,2022-04-27,M@STER SPARKLE2 06,false,(ソロ)徳川まつり
+s_ml_1564mmn,わたしルネサンス,,ml,,ml_roco,solo,,2022-04-27,M@STER SPARKLE2 06,false,(ソロ)ロコ
+s_cheerupheartsup,CHEER UP! HEARTS UP!,,ml,,ml_anna;ml_kana;765as_haruka;ml_julia,unit,,2022-05-01,ミリシタイベント,false,"(MTS♡)杏奈,可奈,春香,ジュリア"
+s_birthdaycard,空色♡ Birthday Card,,ml,,,unit,,2022-05-17,ミリシタイベント,false,(MTS♡)LOVERS HEART
+s_superfunkypiece,Super Funky Piece!!,,ml,,765as_hibiki,solo,,2022-05-25,M@STER SPARKLE2 07,false,(ソロ)我那覇響
+s_ml_0zmochg,しあわせエンドロール,,ml,,ml_mirai,solo,,2022-05-25,M@STER SPARKLE2 07,false,(ソロ)春日未来
+s_playgoround,Play GO! Round,,ml,,ml_tamaki,solo,,2022-05-25,M@STER SPARKLE2 07,false,(ソロ)大神環
+s_ml_1cpse0b,パーフェクトゲーム,,ml,,ml_subaru,solo,,2022-05-25,M@STER SPARKLE2 07,false,(ソロ)永吉昴
+s_itsme,it's me,,ml,,ml_konomi,solo,,2022-05-25,M@STER SPARKLE2 07,false,(ソロ)馬場このみ
+s_vacationvssummer,Vacation VS Summer 〜ナツとヤスミのアンビバレント！〜,,ml,,,unit,,2022-06-16,ミリシタイベント,false,(MTV)夏休み
+s_rainbow,夢にかけるRainbow,,ml,,,unit,,2022-06-30,ミリシタイベント,false,(ミリシタ5周年記念曲)
+s_criminallydinner,Criminally Dinner 〜正餐とイーヴルナイフ〜,,ml,,765as_miki;ml_ayumu;ml_karen;ml_iku;ml_shizuka,unit,,2022-07-03,ミリシタ5周年生配信,false,"(MTS♠)美希,歩,可憐,育,静香"
+s_ml_0vrdavo,スペードのQ,,ml,,ml_subaru;765as_ami;ml_emily;ml_shiho,unit,,2022-08-19,ミリシタイベント,false,"(MTS♠)昴,亜美,エミリー,志保"
+s_ml_196xmjx,オン・ステージ・プレーヤー！,,ml,,765as_ami,solo,,2022-08-31,M@STER SPARKLE2 08,false,(ソロ)双海亜美
+s_ml_11bexh6,ピンクローズアプローズ,,ml,,765as_iori,solo,,2022-08-31,M@STER SPARKLE2 08,false,(ソロ)水瀬伊織
+s_ml_1oeprgy,美！美！美！ビルドUP!!,,ml,,ml_umi,solo,,2022-08-31,M@STER SPARKLE2 08,false,(ソロ)高坂海美
+s_contrastet,Contrastet,,ml,,ml_kaori,solo,,2022-08-31,M@STER SPARKLE2 08,false,(ソロ)桜守歌織
+s_magiconceagain,愛のMagic! Once Again!,,ml,,ml_elena,solo,,2022-08-31,M@STER SPARKLE2 08,false,(ソロ)島原エレナ
+s_kingofspade,KING of SPADE,,ml,,ml_tsumugi;765as_hibiki;ml_fuka;ml_akane,unit,,2022-09-01,ミリシタイベント,false,"(MTS♠)紬,響,風花,茜"
+s_espada,ESPADA,,ml,,,unit,,2022-09-17,ミリシタイベント,false,(MTS♠)SHADE OF SPADE
+s_ido,I Do,,ml,,765as_azusa,solo,,2022-09-28,M@STER SPARKLE2 09,false,(ソロ)三浦あずさ
+s_ml_0ytr118,ふたり繋ぐ星座,,ml,,ml_reika,solo,,2022-09-28,M@STER SPARKLE2 09,false,(ソロ)北上麗花
+s_ml_0ebnpzq,きまぐれユモレスク,,ml,,ml_serika,solo,,2022-09-28,M@STER SPARKLE2 09,false,(ソロ)箱崎星梨花
+s_walkingonthesquare,Walking on the Square,,ml,,ml_miya,solo,,2022-09-28,M@STER SPARKLE2 09,false,(ソロ)宮尾美也
+s_ml_0v7ql24,稲妻スピリット,,ml,,ml_nao,solo,,2022-09-28,M@STER SPARKLE2 09,false,(ソロ)横山奈緒
+s_ml_175b1jt,ミスティック・セレモニーへの招待状,,ml,,,unit,,2022-10-18,ミリシタイベント,false,(MTV)魔法学園
+s_ml_1p075gx,サウンド・オブ・ビギニング,,ml,,,unit,,2022-11-17,ミリシタイベント,false,(MTSF)RisingLight
+s_discordarea,Discord Area,,ml,,765as_ritsuko,solo,,2022-11-30,M@STER SPARKLE2 10,false,(ソロ)秋月律子
+s_ml_1qmznxi,リーチ・アップ・ステップ！,,ml,,ml_momoko,solo,,2022-11-30,M@STER SPARKLE2 10,false,(ソロ)周防桃子
+s_reachthesky,REACH THE SKY,,ml,,ml_sayoko,solo,,2022-11-30,M@STER SPARKLE2 10,false,(ソロ)高山紗代子
+s_singawingsong,Sing a Wing Song,,ml,,ml_kotoha,solo,,2022-11-30,M@STER SPARKLE2 10,false,(ソロ)田中琴葉
+s_ml_0q46vfz,スポットライト・ミラーランド,,ml,,ml_anna,solo,,2022-11-30,M@STER SPARKLE2 10,false,(ソロ)望月杏奈
+s_supersonicbooster,Supersonic Booster!,,ml,,,unit,,2022-12-17,ミリシタイベント,false,(MTSF)ShineLight
+s_crossing,Crossing!,,ml,,,unit,,2023-01-14,9th武道館DAY2,false,(ミリオンライブ10周年記念曲)
+s_ml_0sqdbwf,オレンジ・エピソード,,ml,,,unit,,2023-01-18,ミリシタイベント,false,(MTSF)EmotionLight
+s_liketwinklingstars,Like twinkling STARS,,ml,,,unit,,2023-01-31,ミリシタイベント,false,(MTSF)FantasticLight
+s_ml_0yii2h2,春風満帆スターティング,,ml,,,unit,,2023-03-18,ミリシタイベント,false,(MTV)お花見
+s_liberasingalong,リベレイシング／アロン -LiberaSing Along-,,ml,,,unit,,2023-04-19,ミリシタイベント,false,(MTV)アイドルスペースウォーズ
+s_ml_0cgelom,電波感傷,,ml,,,unit,,2023-05-19,ミリシタイベント,false,(UNIT天体)オフィウクス
+s_ml_08p4tk4,わたしは花、あなたは太陽,,ml,,,unit,,2023-05-26,Brand New Song 6,false,(UNIT)FleurS
+s_bride,夢みがちBride,,ml,,,unit,,2023-06-16,ミリシタイベント,false,(MTV)ウェディング
+s_ml_1gkgvgv,グッドサイン,,ml,,,unit,,2023-06-30,ミリシタイベント,false,(ミリシタ6周年記念曲)
+s_ml_1qz55jh,カンパリーナ♡,,ml,,,unit,,2023-07-19,ミリシタイベント,false,(MTV)ナイトプールパーティー
+s_ratatat,Rat A Tat!!!,,ml,,,unit,anime,2023-08-18,1幕先行上映会,false,(TVアニメミリオンライブOP)
+s_danceinthelight,Dance in the Light,,ml,,,unit,,2023-09-01,ミリシタイベント,false,(MTV)ダンス
+s_starimpression,Star Impression,,ml,,,unit,,2023-09-08,ミリアニ2幕先行上映,false,(UNIT)Team1st
+s_ml_1xjnmud,海風とカスタネット,,ml,,,unit,,2023-09-08,ミリアニ2幕先行上映,false,(UNIT)Team2nd
+s_catchmyfeeling,catch my feeling,,ml,,,unit,,2023-09-08,ミリアニ2幕先行上映,false,(UNIT)Team4th
+s_unknownbox,Unknown Boxの開き方,,ml,,,unit,,2023-09-29,ミリアニ3幕先行上映,false,(UNIT)Team6th
+s_giftsign,Gift Sign,,ml,,ml_shizuka,solo,,2023-09-29,ミリアニ3幕先行上映,false,(ソロ)最上静香
+s_ml_1xvw5r1,トワラー,,ml,,,unit,,2023-09-29,ミリアニ3幕先行上映,false,(UNIT)Team7th
+s_ml_0s9ya0n,バトンタッチ,,ml,,,unit,,2023-09-29,ミリアニ3幕先行上映,false,(UNIT)Team5th
+s_ml_0rnn08e,オレンジノキオク,,ml,,,unit,,2023-09-29,ミリアニ3幕先行上映,false,(UNIT)Team3rd
+s_refrainreltion,REFRAIN REL@TION,,ml,,,unit,,2023-09-29,ミリアニ3幕先行上映,false,(UNIT)Team8th
+s_ml_1fox74c,解夏傀儡,,ml,,,unit,,2023-10-18,ミリシタイベント,false,(MCast01)現代伝奇ホラー
+s_ml_0w25y9h,エンダーエンダー,,ml,,,unit,,2023-11-17,ミリシタイベント,false,(MCast02)生き残りゲーム
+s_ml_1rawruz,はぴ！やば！まいまいんど！,,ml,,,unit,,2023-12-16,ミリシタイベント,false,(MTV)ギャル
+s_ml_17idmw2,ミステイク・マーダー！,,ml,,,unit,,2024-01-19,ミリシタイベント,false,(MCast03)逆ミステリー！
+s_ml_0z3m9fb,銀のテーブル木苺ジャム,,ml,,,unit,,2024-02-17,ミリシタイベント,false,(MCast04)悪役？令嬢
+s_sunriser,SunRiser,,ml,,,unit,,2024-03-18,ミリシタイベント,false,(UNIT天体)ソル
+s_ml_1vtdaon,アイドルステアウェイ,,ml,,ml_momoko;ml_umi;ml_matsuri;ml_fuka,unit,,2024-04-18,ミリシタイベント,false,"(MOS_SRT)桃子,海美,まつり,風花"
+s_upperdog,Upper Dog,,ml,,ml_serika;ml_tomoka;ml_akane;ml_konomi,unit,,2024-05-17,ミリシタイベント,false,"(MOS_SRT)星梨花,朋花,茜,このみ"
+s_illuminate,ilLUmiNAte!,,ml,,,unit,,2024-06-16,ミリシタイベント,false,(UNIT天体)ルナ
+s_7daysaweek,7Days A Week!!,,ml,,,unit,,2024-06-30,ミリシタイベント,false,(ミリシタ7周年記念曲)
+s_hypernova,Hypernova,,ml,,ml_subaru;ml_sayoko;ml_karen;ml_chizuru;ml_arisa,unit,,2024-07-19,ミリシタイベント,false,"(MOS_SRT)昴,紗代子,可憐,千鶴,亜利沙"
+s_believeclover,Believe Clover,,ml,,,unit,,2024-07-26,Blooming Clover16巻,false,(UNIT)Clover
+s_ml_0kmi9w1,推しってほんと,,ml,,ml_megumi;ml_elena;ml_minako;ml_kotoha;ml_kana,unit,,2024-08-18,ミリシタイベント,false,"(MOS_SRT)恵美,エレナ,美奈子,琴葉,可奈"
+s_ml_0dff76u,未完成のポラリス,,ml,,ml_miya;ml_anna;ml_ayumu;cg_nao,unit,,2024-09-18,ミリシタイベント,false,"(MOS_SRT)美也,杏奈,歩,奈緒"
+s_skysurvive,Sky Survive,,ml,,ml_tsumugi;ml_noriko;ml_tsubasa;ml_hinata,unit,,2024-10-18,ミリシタイベント,false,"(MOS_SRT)紬,のり子,翼,ひなた"
+s_pomegranate,Pomegranate,,ml,,,unit,,2024-10-31,ミリシタイベント,false,(MTV)魔法学園
+s_colorsoncanvas,COLORS ON CANVAS!,,ml,,ml_roco,solo,,2024-11-10,配信,false,(ソロ)ロコ
+s_ml_17d1v5p,君と同じ物語,,ml,,ml_yuriko,solo,,2024-11-11,配信,false,(ソロ)七尾百合子
+s_stellarlight,Stellar Light,,ml,,,unit,,2024-11-17,ミリシタイベント,false,(UNIT天体)ステラ
+s_allalone,All Alone,,ml,,ml_emily;ml_reika;ml_mirai;ml_shiho,unit,,2024-12-17,ミリシタイベント,false,"(MOS_SRT)エミリー,麗花,未来,志保"
+s_ml_0fcr9gd,唸れ！ミリオンアーマー！,,ml,,ml_kaori;ml_karen,unit,,2024-12-25,ミリシタに実装,false,"(IMA)歌織,可憐"
+s_lullabyforarmors,Lullaby for Armors,,ml,,765as_miki;ml_shiho;ml_emily;ml_sayoko;ml_iku,unit,,2025-01-02,ミリシタイベント,false,"(IMA)美希,志保,エミリー,紗代子,育"
+s_ml_1g367eh,涙を知ること,,ml,,ml_kaori;ml_tamaki;ml_julia;ml_iku,unit,,2025-01-18,ミリシタイベント,false,"(MOS_SRT)歌織,環,ジュリア,育"
+s_ml_0ay990i,I.V.,,ml,,ml_mizuki;ml_yuriko;ml_shizuka;ml_rio;ml_roco,unit,,2025-02-17,ミリシタイベント,false,"(MOS_SRT)瑞希,百合子,静香,莉緒,ロコ"
+s_bestest,Bestest!!,,ml,,ml_konomi;765as_haruka;ml_kotoha;ml_iku;ml_arisa,unit,,2025-03-18,ミリシタイベント,false,"(MOS)このみ,春香,琴葉,育,亜利沙"
+s_ml_07dz0ff,頂上決戦ヴィクトリー!!!!!!,,ml,,ml_shizuka;765as_makoto;ml_emily;ml_tamaki;ml_reika;ml_tomoka,unit,,2025-04-18,ミリシタイベント,false,"(BOT)静香,真,エミリー,環,麗花,朋花"
+s_clashofcolors,Clash of Colors,,ml,,cg_nao;ml_mizuki;ml_subaru;765as_yukiho,unit,,2025-05-18,ミリシタイベント,false,"(BOT)奈緒,瑞希,昴,雪歩"
+s_luvliminalimage,Luvliminal image,,ml,,ml_rio;ml_miya;ml_julia;765as_miki,unit,,2025-06-16,ミリシタイベント,false,"(BOT)莉緒,美也,ジュリア,美希"
+s_ml_1j567kk,蝶々むすび,,ml,,,unit,,2025-06-30,ミリシタイベント,false,(ミリシタ8周年記念曲)
+s_huganiceday,Hug a nice day!,,ml,,ml_umi;ml_tsumugi;ml_fuka;ml_subaru;ml_akane;ml_kana,unit,,2025-07-19,ミリシタイベント,false,"(BOT)海美,紬,風花,昴,茜,可奈"
+s_shimmer,SHIMMER,,ml,,ml_anna;ml_yuriko;ml_mirai;765as_ami,unit,,2025-08-18,ミリシタイベント,false,"(BOT)杏奈,百合子,未来,亜美"
+s_ml_1mzkxj7,鉄の羽のエクソダス,,ml,,ml_serika;ml_minako;ml_tamaki;ml_momoko;ml_megumi;765as_yukiho,unit,,2025-09-18,ミリシタイベント,false,"(BOT)星梨花,美奈子,環,桃子,恵美,雪歩"
+s_irodori,Irodori,,ml,,ml_reika,solo,,2025-10-11,12thライブDAY1,false,(ソロ)北上麗花
+s_enjoyfeel,Enjoy＆Feel,,ml,,ml_kaori,solo,,2025-10-12,12thライブDAY2,false,(ソロ)桜守歌織
+s_ml_1nssrei,不思議発見ラボ！,,ml,,ml_hinata;ml_kana;ml_tsumugi,unit,,2025-10-18,ミリシタイベント,false,"(BOT)ひなた,可奈,紬"
+s_textingyou,Texting you,,ml,,ml_sayoko;ml_akane;ml_megumi,unit,,2025-11-17,ミリシタイベント,false,"(BOT)紗代子,茜,恵美"
+s_faithtofaith,FAITH/TO/FAITH,,ml,,,unit,,2025-12-16,ミリシタイベント,false,(アイドルヒーローズクロニクル)
+s_ml_1v2sc7h,セイクリッド・ブーケ,,ml,,ml_subaru;765as_chihaya;ml_karen,unit,,2026-01-02,ミリシタイベント,false,"(聖ミリ)昴,千早,可憐"
+s_especiallyangel,Especially Angel♡,,ml,,ml_fuka;765as_mami;ml_reika;ml_elena;ml_konomi;765as_azusa,unit,,2026-01-18,ミリシタイベント,false,"(BOT)風花,真美,麗花,エレナ,このみ,あずさ"
+s_fairydays,Fairy Daysは絶え間ない,,ml,,ml_roco;765as_takane;765as_chihaya;ml_chizuru;ml_shizuka,unit,,2026-02-16,ミリシタイベント,false,"(BOT)ロコ,貴音,千早,千鶴,静香"
+s_ml_18ngurw,飛べない僕は泳いだ,,ml,,ml_miya;ml_tomoka;ml_matsuri,unit,,2026-02-26,OVA特別先行視聴,false,"(OVA)美也,朋花,まつり"
+s_primaprincess,Prima Princess!!,,ml,,ml_arisa;ml_emily;ml_umi;ml_minako;ml_kotoha,unit,,2026-03-18,ミリシタイベント,false,"(BOT)亜利沙,エミリー,海美,美奈子,琴葉"
+s_sticktomyweapon,Stick to my weapon,,ml,,ml_julia;765as_yayoi;765as_haruka;ml_konomi;ml_noriko;ml_ayumu,unit,,2026-04-18,ミリシタイベント,false,"(BOT)ジュリア,やよい,春香,このみ,のり子,歩"
+s_sparkers,SPARKERS,,ml,,ml_sayoko,solo,,2026-05-05,13thライブDAY1,false,(ソロ)高山紗代子
+s_ml_0jjbrj7,ムーンライト・プロムナード,,ml,,ml_chizuru,solo,,2026-05-06,13thライブDAY2,false,(ソロ)二階堂千鶴
+s_100,100てん☆ナンバーワン！,,ml,,ml_iku;765as_iori;ml_tamaki;765as_hibiki;ml_momoko;765as_yayoi,unit,,2026-05-19,ミリシタイベント,false,"(BOT)育,伊織,環,響,桃子,やよい"
+s_invisiblelight,INVISIBLE LIGHT,,ml,,ml_tsubasa;ml_noriko;765as_ritsuko;765as_haruka;ml_shiho;ml_serika,unit,,2026-06-16,ミリシタイベント,false,"(BOT)翼,のり子,律子,春香,志保,星梨花"
+s_ml_1jlzr39,ドレスコード：最上級,,ml,,,unit,,2026-06-30,ミリシタイベント,false,(ミリシタ9周年記念曲)
+s_blacklips,BLACK LIPS,,ml,,ml_tomoka;ml_karen;765as_makoto;ml_kaori;ml_matsuri;ml_ayumu,unit,,2026-07-19,ミリシタイベント,false,"(BOT)朋花,可憐,真,歌織,まつり,歩"
+s_glowtogether,Glow Together,,ml,,ml_chizuru;ml_mirai;ml_shiho;ml_hinata;ml_kaori;ml_kana,unit,,2026-08-18,ミリシタイベント,false,"(BOT)千鶴,未来,志保,ひなた,歌織,可奈"
+s_spreadthewings,Spread the Wings!!,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2018-04-24,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_destination,ヒカリのdestination,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2018-04-24,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_18k6ewn,バベルシティ・グレイス,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2018-04-24,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_01rgf9l,アルストロメリア,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2018-04-24,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_afterschool,夢咲きAfter school,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2018-04-24,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_multicoloredsky,Multicolored Sky,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2018-05-14,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_sc_02wsfyj,虹になれ,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2018-06-11,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_silhouette,幻惑SILHOUETTE,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2018-07-03,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_0bgtrvj,太陽キッス,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2018-08-06,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_00x23nm,ハピリリ,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2018-09-03,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_letsgetachance,Let's get a chance,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2018-11-23,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_snowflakesmemories,SNOW FLAKES MEMORIES,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2018-12-14,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_ambitiouseve,Ambitious Eve,,sc,,,all,,2019-03-10,1stライブ1日目,false,(全体曲・1周年記念楽曲)
+s_shinydays,いつか Shiny Days,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2019-03-29,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_wanderingdreamchaser,Wandering Dream Chaser,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2019-04-09,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_wecangonow,We can go now!,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2019-04-12,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_1fq19o8,トライアングル,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2019-05-08,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_neotheoryfantasy,NEO THEORY FANTASY,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2019-05-13,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_0mrq9uu,ラビリンス・レジスタンス,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2019-06-07,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_1glj4w1,ビーチブレイバー,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2019-06-10,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_0emg9ar,よりみちサンセット,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2019-06-25,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_bloomy,Bloomy!,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2019-07-19,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_loveaddiction,Love Addiction,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2019-08-02,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_transcendingtheworld,Transcending The World,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2019-08-26,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_futuritysmile,FUTURITY SMILE,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2019-12-09,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_sweetstep,SWEET♡STEP,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2020-01-13,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_sc_0evm8oa,シャイノグラフィ,,sc,,,all,,2020-03-22,シャイニーカラーズ実装,false,(全体曲・2周年記念楽曲)
+s_everyday,絶対正義 EVERY DAY,,sc,,sc_kaho,solo,,2020-04-01,エイプリルフール企画曲,false,(ソロ)小宮果穂
+s_sc_1fih444,デビ太郎のうた,,sc,,sc_tenka,solo,,2020-04-01,エイプリルフール企画曲,false,(ソロ)大崎甜花
+s_dyethesky,Dye the sky.,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2020-04-03,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_sc_17t1nwd,いつだって僕らは,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2020-04-12,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_twinkleway,Twinkle way,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2020-04-15,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_hideattack,Hide & Attack,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2020-07-21,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_destinedrival,Destined Rival,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2020-07-31,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_sc_1ucp6k1,あの花のように,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2020-08-21,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_happyfunnylucky,Happy Funny Lucky,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2020-09-23,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_blackreverie,Black Reverie,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2020-10-12,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_16bid93,純白トロイメライ,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2020-10-21,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_0uqnxq6,五ツ座流星群,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2020-10-31,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_0pprcje,学祭革命夜明け前,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2020-11-10,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_07c143g,ダブル・イフェクト,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2020-11-20,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_anniversary,Anniversary,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2020-11-25,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_sc_0t2365z,ありったけの輝きで,,sc,,sc_mano,solo,,2020-12-18,シャイニーカラーズ実装,false,(ソロ)櫻木真乃
+s_sc_0w14yhf,チョコデート・サンデー,,sc,,sc_chiyoko,solo,,2020-12-22,シャイニーカラーズ実装,false,(ソロ)園田智代子
+s_sweetmemories,Sweet Memories,,sc,,sc_amana,solo,,2020-12-25,シャイニーカラーズ実装,false,(ソロ)大崎甘奈
+s_sc_1ak9pxk,アポイント・シグナル,,sc,,sc_kogane,solo,,2020-12-28,シャイニーカラーズ実装,false,(ソロ)月岡恋鐘
+s_sc_0xk393y,ハナマルバッジ,,sc,,sc_kaho,solo,,2020-12-28,シャイニーカラーズ実装,false,(ソロ)小宮果穂
+s_sc_06nxycd,夢見鳥,,sc,,sc_madoka,solo,,2021-01-01,シャイニーカラーズ実装,false,(ソロ)樋口円香
+s_sc_1kbsvie,星をめざして,,sc,,sc_asahi,solo,,2021-01-04,シャイニーカラーズ実装,false,(ソロ)芹沢あさひ
+s_planisphere,プラニスフィア 〜planisphere〜,,sc,,,unit,,2021-01-08,シャイニーカラーズ実装,false,(UNIT)Team.Stella
+s_sc_0brba2m,誰ソ彼アイデンティティー,,sc,,sc_mamimi,solo,,2021-01-12,シャイニーカラーズ実装,false,(ソロ)田中摩美々
+s_sc_0k10uor,また明日,,sc,,sc_tenka,solo,,2021-01-12,シャイニーカラーズ実装,false,(ソロ)大崎甜花
+s_sc_1sd510a,プラスチック・アンブレラ,,sc,,sc_yuika,solo,,2021-01-16,シャイニーカラーズ実装,false,(ソロ)三峰結華
+s_sc_0yzfysq,わたしの主人公はわたしだから！,,sc,,sc_koito,solo,,2021-01-19,シャイニーカラーズ実装,false,(ソロ)福丸小糸
+s_sc_1mxqgka,常咲の庭,,sc,,sc_rinze,solo,,2021-01-23,シャイニーカラーズ実装,false,(ソロ)杜野凛世
+s_sc_1vf48z5,雪・月・風・花,,sc,,sc_kiriko,solo,,2021-01-27,シャイニーカラーズ実装,false,(ソロ)幽谷霧子
+s_goingmyway,Going my way,,sc,,sc_mei,solo,,2021-01-31,シャイニーカラーズ実装,false,(ソロ)和泉愛依
+s_sc_0v867em,スローモーション,,sc,,sc_hiori,solo,,2021-01-31,シャイニーカラーズ実装,false,(ソロ)風野灯織
+s_sc_0ps1z5v,リフレクトサイン,,sc,,,unit,,2021-02-04,シャイニーカラーズ実装,false,(UNIT)Team.Luna
+s_harebare,HAREBARE!!,,sc,,sc_megumi,solo,,2021-02-08,シャイニーカラーズ実装,false,(ソロ)八宮めぐる
+s_damascuscocktail,Damascus Cocktail,,sc,,sc_natsuha,solo,,2021-02-08,シャイニーカラーズ実装,false,(ソロ)有栖川夏葉
+s_sc_130cccd,あおぞらサイダー,,sc,,sc_hinana,solo,,2021-02-12,シャイニーカラーズ実装,false,(ソロ)市川雛菜
+s_statice,statice,,sc,,sc_toru,solo,,2021-02-16,シャイニーカラーズ実装,false,(ソロ)浅倉透
+s_sos,SOS,,sc,,sc_fuyuko,solo,,2021-02-20,シャイニーカラーズ実装,false,(ソロ)黛冬優子
+s_sc_0fwfhgf,過純性ブリーチ,,sc,,sc_juri,solo,,2021-02-24,シャイニーカラーズ実装,false,(ソロ)西城樹里
+s_darlingyou,Darling you!,,sc,,sc_chiyuki,solo,,2021-02-28,シャイニーカラーズ実装,false,(ソロ)桑山千雪
+s_sc_0o4gmgs,千夜アリア,,sc,,sc_sakuya,solo,,2021-02-28,シャイニーカラーズ実装,false,(ソロ)白瀬咲耶
+s_solarway,SOLAR WAY,,sc,,,unit,,2021-03-05,シャイニーカラーズ実装,false,(UNIT)Team.Sol
+s_resonance,Resonance⁺,,sc,,,all,,2021-03-21,シャイニーカラーズ実装,false,(全体曲・3周年記念楽曲)
+s_colordays,Color Days,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2021-04-04,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_ohmygod,OH MY GOD,,sc,,sc_nichika;sc_mikoto,unit,,2021-04-08,シャイニーカラーズ実装,false,(UNIT)シーズ
+s_prisism,PRISISM,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2021-04-25,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_171awu2,スマイルシンフォニア,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2021-05-06,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_abyssofconflict,abyss of conflict,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2021-05-10,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_0qbp72b,革命進化論,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2021-05-24,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_1gbmdnd,クライマックスアイランド,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2021-06-21,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_0wxtvva,拝啓タイムカプセル,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2021-06-28,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_066v48i,パステルカラー パスカラカラー,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2021-07-19,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_sc_11nth1i,ラブ・ボナペティート,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2021-07-31,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_anotherrampage,Another Rampage,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2021-08-10,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_timelessshootingstar,Timeless Shooting Star,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2021-08-20,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_sc_1p0h5kb,僕らだけの未来の空,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2021-09-10,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_sc_1jk7dfe,今しかない瞬間を,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2021-09-21,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_flyandfly,Fly and Fly,,sc,,sc_nichika;sc_mikoto,unit,,2021-09-25,シャイニーカラーズ実装,false,(UNIT)シーズ
+s_sc_0u19aak,神様は死んだ、って,,sc,,sc_luca,solo,,2021-12-19,Xmas Party DAY2,false,(ソロ)斑鳩ルカ
+s_secretutopia,Secret utopIA,,sc,,sc_mano;sc_hiori;sc_megumi;sc_amana;sc_tenka;sc_chiyuki;sc_nichika;sc_mikoto,unit,,2022-02-19,シャイニーカラーズ実装,false,"(Synthe03)イルミネーションスターズ,アルストロメリア,シーズ"
+s_sc_1we1gxp,相合学舎,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2022-02-28,シャイニーカラーズ実装,false,"(Synthe02)放課後クライマックスガールズ,ノクチル"
+s_killermission,Killer×Mission,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_asahi;sc_fuyuko;sc_mei,unit,,2022-03-10,シャイニーカラーズ実装,false,"(Synthe01)アンティーカ,ストレイライト"
+s_sc_057f771,虹の行方,,sc,,,all,,2022-03-19,シャイニーカラーズ実装,false,(全体曲・4周年記念楽曲)
+s_daybreakage,Daybreak Age,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2022-03-29,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_felice,FELICE,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2022-04-25,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_11b982x,イルミネイトコンサート,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2022-04-30,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_1lgtm6w,浮動性イノセンス,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2022-05-20,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_1qhkuyd,愚者の独白,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2022-05-30,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_1r4i3h1,一閃は君が導く,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2022-06-20,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_1dmp6db,キャットスクワッド,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2022-06-27,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_veryberrylove,VERY BERRY LOVE,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2022-07-21,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_givemesomemore,Give me some more...,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2022-07-29,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_283,283体操,,sc,,,unit,,2022-08-01,配信,false,(283プロ健康プロジェクト)
+s_sc_0thb1dr,シャイニーエクササイズ,,sc,,,unit,,2022-08-13,B☆Health,false,(283プロ健康プロジェクト)
+s_tracingdefender,Tracing Defender,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2022-08-13,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_overdriveemotion,Overdrive Emotion,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2022-08-31,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_catchthebreeze,Catch the Breeze,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2022-09-20,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_sc_1sk7n27,アスファルトを鳴らして,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2022-09-29,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_fashionable,Fashionable,,sc,,sc_nichika;sc_mikoto,unit,,2022-10-22,MUGEN BEAT DAY1,false,(UNIT)シーズ
+s_bouncygirl,Bouncy Girl,,sc,,sc_nichika;sc_mikoto,unit,,2022-10-22,MUGEN BEAT DAY1,false,(UNIT)シーズ
+s_forwardmarch,Forward March！！！,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2023-03-20,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_1r5n2yf,星が流れて,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2023-03-27,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_brightestwhite,BRIGHTEST WHITE,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2023-03-30,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_1ek8hzi,とある英雄たちの物語,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2023-04-12,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_shinystories,Shiny Stories,,sc,,,all,,2023-04-20,シャイニーカラーズ実装,false,(5周年記念楽曲)
+s_unsungheroes,Unsung Heroes,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2023-04-21,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_05k9g5m,有彩色ユリイカ,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2023-04-30,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_0fipke0,ハナサカサイサイ,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2023-05-11,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_03grka2,全力アンサー,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2023-05-22,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_1lvwyjo,ひめくりモザイク,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2023-05-31,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_0673q2e,メッセージ,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2023-06-09,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_loveletter,Love Letter,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2023-06-20,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_sc_041jaws,グラデーション,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2023-06-30,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_imitationghost,Imitation Ghost,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2023-07-10,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_sc_1496och,フェアリー・ガール,,sc,,sc_nichika,solo,,2023-07-22,我儘なままDAY1,false,(ソロ)七草にちか
+s_lookuptothesky,Look up to the sky,,sc,,sc_mikoto,solo,,2023-07-22,我儘なままDAY1,false,(ソロ)緋田美琴
+s_burnburn,BURN BURN,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2023-07-23,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_startupstandup,Start up Stand up,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2023-07-31,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_reflection,Reflection,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2023-08-09,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_sc_19y8g0f,夢が夢じゃなくなるその日まで,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2023-08-21,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_sc_11gyyh6,青とオレンジ,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2023-08-31,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_forbiddenparadise,Forbidden Paradise,,sc,,sc_nichika;sc_mikoto,unit,,2023-09-11,シャイニーカラーズ実装,false,(UNIT)シーズ
+s_sweetestbite,SWEETEST BITE,,sc,,sc_nichika;sc_mikoto,unit,,2023-09-21,シャイニーカラーズ実装,false,(UNIT)シーズ
+s_sc_0c6c46r,無自覚アプリオリ,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2023-09-23,配信,false,(UNIT)コメティック
+s_whitestory,White Story,,sc,,sc_nichika;sc_mikoto,unit,,2023-09-30,シャイニーカラーズ実装,false,(UNIT)シーズ
+s_sc_1letcpc,星の声,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2023-10-18,CD Song for Prism,false,(全体曲)シャイニーカラーズ
+s_sc_0aomxeh,くだらないや,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2023-10-21,5.5thライブDAY1,false,(UNIT)コメティック
+s_sc_0o78e8e,平行線の美学,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2023-10-21,5.5thライブDAY1,false,(UNIT)コメティック
+s_sc_1v389bj,ツバサグラビティ,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2023-10-22,5.5thライブDAY2,false,(全体曲)シャイニーカラーズ
+s_sc_1uqui9i,想像のつばさ,,sc,,sc_mano,solo,,2023-10-27,シャニアニ1章先行上映,false,(ソロ)櫻木真乃
+s_sc_0bzq3ba,ホムラインビテーション,,sc,,,unit,collab,2023-11-06,MV公開,false,(コラボ)HOMURA-GIRLS
+s_sc_043qjlk,裸足じゃイラレナイ,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2023-11-15,Song for Prismイベント,false,(UNIT)放課後クライマックスガールズ
+s_beautifulday,明日もBeautiful Day,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2023-11-30,Song for Prismイベント,false,(UNIT)アルストロメリア
+s_sc_0q1u6wd,ハナムケのハナタバ,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2023-12-31,Song for Prismイベント,false,(UNIT)コメティック
+s_sc_1wmppi7,輝きにかわる,,sc,,,unit,collab,2024-01-30,MV公開,false,(コラボ)PRオファーVol.1
+s_sc_1t6yxnh,青空,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2024-01-31,Song for Prismイベント,false,(UNIT)ノクチル
+s_onestar,ONE STAR,,sc,,,unit,collab,2024-02-28,MV公開,false,(コラボ)PRオファーVol.2
+s_happier,Happier,,sc,,sc_nichika;sc_mikoto,unit,,2024-02-29,Song for Prismイベント,false,(UNIT)シーズ
+s_gotcha,GOTCHA,,sc,,,unit,collab,2024-03-29,MV公開,false,(コラボ)PRオファーVol.3
+s_sc_1aba7ay,枕木の歌,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2024-03-31,Song for Prismイベント,false,(UNIT)イルミネーションスターズ
+s_sc_0c662d9,時限式狂騒ワンダーランド,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2024-04-30,Song for Prismイベント,false,(UNIT)アンティーカ
+s_sc_0appxzf,文明開花輪舞 -シティ・ハレルヤ-,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2024-05-09,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_sc_1u1p5gf,秋の終わり、僕の記憶,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2024-05-21,シャイニーカラーズ実装,false,(UNIT)アンティーカ
+s_migratoryechoes,Migratory Echoes,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2024-05-30,シャイニーカラーズ実装,false,(全体曲)シャイニーカラーズ
+s_links,LINKs,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2024-05-31,Song for Prismイベント,false,(UNIT)ストレイライト
+s_sc_1wzv6vz,放課後マギア,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2024-06-07,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_sc_0kaskci,パーティーマジックデザイナー,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2024-06-19,シャイニーカラーズ実装,false,(UNIT)放課後クライマックスガールズ
+s_afterrun,After Run,,sc,,sc_nichika;sc_mikoto,unit,,2024-06-30,Song for Prismイベント,false,(UNIT)シーズ
+s_sc_1fr93pb,プリズムフレア,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2024-07-05,2nd1章先行上映,false,(全体曲)シャイニーカラーズ
+s_openthenewworld,OPEN the New world,,sc,,,unit,,2024-07-05,2nd1章先行上映,false,(HwUNIT)ポップゾンビ
+s_midnightparade,Midnight parade!,,sc,,,unit,,2024-07-05,2nd1章先行上映,false,(HwUNIT)ナイトウィッチ
+s_sc_0huwrr7,ねぇ、ねぇ、ねぇ,,sc,,,unit,,2024-07-05,2nd1章先行上映,false,(HwUNIT)スイートアニマル
+s_candyuniverse,CANDY UNIVERSE,,sc,,,unit,,2024-07-05,2nd1章先行上映,false,(HwUNIT)ジョイフルデビル
+s_poisonberrydaughters,Poison Berry Daughters,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2024-07-05,2nd1章先行上映,false,(全体曲)シャイニーカラーズ
+s_sc_1elkppn,アスタラブビスタ,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2024-07-09,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_daydreamlove,DAYDREAM LOVE,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2024-07-18,シャイニーカラーズ実装,false,(UNIT)アルストロメリア
+s_mellowmellow,mellow mellow,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2024-07-31,Song for Prismイベント,false,(UNIT)アルストロメリア
+s_sc_0yjut7y,サマーサマーオーシャンパーリィバケーション,,sc,,sc_megumi;sc_yuika;sc_kaho;sc_tenka;sc_fuyuko;sc_koito;sc_mikoto;sc_haruki,unit,,2024-08-01,Song for Prism実装,false,"(イベント)めぐる,結華,果穂,甜花,冬優子,小糸,美琴,はるき"
+s_cyberparkour,Cyber Parkour,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2024-08-07,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_livelivelive,LIVE LIVE LIVE!,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2024-08-19,シャイニーカラーズ実装,false,(UNIT)ストレイライト
+s_sc_06zzyof,橙より未来,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2024-08-23,2nd2章先行上映,false,(UNIT)アンティーカ
+s_withyou,With you,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2024-08-23,2nd2章先行上映,false,(UNIT)アルストロメリア
+s_headsortails,Heads or Tails？,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2024-08-31,Song for Prismイベント,false,(UNIT)コメティック
+s_sc_1qpimpw,いつかのキミへ,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2024-09-09,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_365,365日のストーリー,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2024-09-18,シャイニーカラーズ実装,false,(UNIT)ノクチル
+s_futuredesigner,Future Designer,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2024-09-20,2nd3章先行上映,false,(UNIT)ストレイライト
+s_sc_00b4zsa,さあ舞い上がれ,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2024-09-20,2nd3章先行上映,false,(UNIT)放課後クライマックスガールズ
+s_sign,未来へのSign,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2024-09-20,2nd3章先行上映,false,(UNIT)ノクチル
+s_sc_0m724cz,星の数だけ,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2024-09-20,2nd3章先行上映,false,(UNIT)イルミネーションスターズ
+s_sc_1ja2edk,グッバイ,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2024-09-30,Song for Prismイベント,false,(UNIT)ノクチル
+s_monochromatic,Monochromatic,,sc,,sc_nichika;sc_mikoto,unit,,2024-10-05,シャイニーカラーズ実装,false,(UNIT)シーズ
+s_snowflake,Snowflake,,sc,,sc_nichika;sc_mikoto,unit,,2024-10-18,シャイニーカラーズ実装,false,(UNIT)シーズ
+s_showeroflight,Shower of light,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2024-11-01,Song for Prismイベント,false,(UNIT)イルミネーションスターズ
+s_sc_15uvv4w,泥濘鳴鳴,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2024-11-08,シャイニーカラーズ実装,false,(UNIT)コメティック
+s_cmonjoinus,C'mon! Join Us,,sc,,,all,,2024-11-10,Song for Prismイベント,false,(全体曲・シャニソン1周年記念曲)
+s_view,愛なView,,sc,,,all,,2024-11-14,Song for Prismイベント,false,(全体曲・シャニソン1周年記念曲)
+s_cleancleanup,Clean.Clean up,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2024-11-19,シャイニーカラーズ実装,false,(UNIT)コメティック
+s_sc_1m27utm,無垢,,sc,,sc_hana,solo,,2024-11-20,Song for Prism実装,false,(ソロ)鈴木羽那
+s_sc_0x8ppja,快盗Vを見逃すな,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2024-11-29,YouTubeでMV公開,false,(UNIT)放課後クライマックスガールズ
+s_sc_1tul46e,夢模様キャンバス,,sc,,sc_haruki,solo,,2024-12-04,COLORFUL FE@THERS,false,(ソロ)郁田はるき
+s_sc_0vpew3y,1/3,,sc,,sc_luca,solo,,2024-12-04,COLORFUL FE@THERS,false,(ソロ)斑鳩ルカ
+s_starryplace,STARRY PLACE,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2024-12-11,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_sc_1sgesus,晴れのちバルーン,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2024-12-19,シャイニーカラーズ実装,false,(UNIT)イルミネーションスターズ
+s_realmindshakes,Real Mind Shakes,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2024-12-31,Song for Prismイベント,false,(UNIT)ストレイライト
+s_thelastpride,THE LAST PRIDE,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2025-01-31,Song for Prismイベント,false,(UNIT)アンティーカ
+s_sc_1adrk58,愛しき日々,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2025-02-28,Song for Prismイベント,false,(UNIT)ノクチル
+s_fadingstars,Fading Stars,,sc,,sc_nichika;sc_mikoto,unit,,2025-03-31,Song for Prismイベント,false,(UNIT)シーズ
+s_futuretransit,Future Transit,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2025-04-30,Song for Prismイベント,false,(UNIT)ストレイライト
+s_sc_00ya6ej,ブレイク・アウト・セレンディピティ,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2025-05-30,シャイニーカラーズに実装,false,(UNIT)アンティーカ
+s_sc_0s7wi6b,クローバー,,sc,,sc_rinze;sc_amana;sc_hinana;sc_nichika,unit,,2025-05-31,Song for Prismイベント,false,"(-)杜野凛世,大崎甘奈,市川雛菜,七草にちか"
+s_pioneerimpact,Pioneer Impact,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_nichika;sc_mikoto,unit,,2025-06-04,円環 01,false,"(円環)アンティーカ,シーズ"
+s_breakchain,Break Chain,,sc,,sc_nichika;sc_mikoto,unit,,2025-06-04,円環 01,false,(UNIT)シーズ
+s_sc_1nlk2j3,進路は超銀河,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2025-06-29,シャイニーカラーズに実装,false,(UNIT)放課後クライマックスガールズ
+s_getover,GET OVER,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2025-06-29,シャイニーカラーズに実装,false,(UNIT)ストレイライト
+s_koikyun,KoiKyun！,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2025-06-30,Song for Prism実装,false,(UNIT)イルミネーションスターズ
+s_sc_1145o1k,迅雷鉄火,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_asahi;sc_fuyuko;sc_mei,unit,,2025-07-02,円環 02,false,"(円環)放課後クライマックスガールズ,ストレイライト"
+s_sc_05vnzih,ルピラ,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2025-07-18,シャイニーカラーズに実装,false,(UNIT)アルストロメリア
+s_sc_0haaeqn,似セ者,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2025-07-30,シャイニーカラーズに実装,false,(UNIT)コメティック
+s_summernightparadise,Summer Night Paradise,,sc,,sc_mano;sc_mamimi;sc_natsuha;sc_chiyuki;sc_mei;sc_madoka;sc_mikoto;sc_hana,unit,,2025-08-01,Song for Prism実装,false,"(イベント)真乃,摩美々,夏葉,千雪,愛依,円香,美琴,羽那"
+s_sc_0qeeu8q,リフレインブレイン,,sc,,sc_amana;sc_tenka;sc_chiyuki;sc_luca;sc_hana;sc_haruki,unit,,2025-08-06,円環 03,false,"(円環)アルストロメリア,コメティック"
+s_rewriting,REWRITING,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,2025-08-30,シャイニーカラーズに実装,false,(UNIT)イルミネーションスターズ
+s_queenofthepirates,QUEEN OF THE PIRATES,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2025-08-31,Song for Prism実装,false,(UNIT)アンティーカ
+s_swingit,Swing it!,,sc,,sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2025-09-09,シャイニーカラーズに実装,false,(UNIT)ノクチル
+s_sparkle,Sparkle,,sc,,sc_mano;sc_hiori;sc_megumi;sc_toru;sc_madoka;sc_koito;sc_hinana,unit,,2025-09-10,円環 04,false,"(円環)イルミネーションスターズ,ノクチル"
+s_exe,キラピコ.exe,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2025-09-30,Song for Prismイベント,false,(UNIT)放課後クライマックスガールズ
+s_borderline_2,Borderline,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2025-10-25,7th螺旋DAY1,false,(全体曲)シャイニーカラーズ
+s_sc_1dzxg2f,乱舞る,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2025-10-26,7th螺旋DAY2,false,(UNIT)放課後クライマックスガールズ
+s_sc_0rnuwzd,カウントダウンラブ,,sc,,,unit,,2025-11-10,Song for Prismイベント,false,(PJ:R)I'm a Cutie Finder
+s_sleeplessnights,Sleepless Nights,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,2025-11-20,Song for Prismイベント,false,(UNIT)アルストロメリア
+s_kawaii_2,KAWAII♡めたもる交響曲,,sc,,,unit,,2025-11-22,2DMV公開,false,(PJ:R)I'm a Cutie Finder
+s_sc_1og79sj,アイノウ,,sc,,sc_luca;sc_hana;sc_haruki,unit,,2025-11-30,Song for Prismイベント,false,(UNIT)コメティック
+s_karma,Karma,,sc,,,unit,,2025-12-10,Song for Prismイベント,false,(PJ:R)Fumage
+s_naraku,Naraku,,sc,,,unit,,2025-12-20,2DMV公開,false,(PJ:R)Fumage
+s_bladeoftruth,銀翼のアレジアンス -blade of truth-,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2025-12-27,『騎士団のヴェール』DAY1,false,(UNIT)アンティーカ
+s_sc_16vhe7q,メモワール・アンタクト,,sc,,sc_kiriko,solo,,2025-12-27,『騎士団のヴェール』DAY1,false,(ソロ)幽谷霧子
+s_sc_0csp6g4,月影のアンシェネ,,sc,,sc_mamimi,solo,,2025-12-27,『騎士団のヴェール』DAY1,false,(ソロ)田中摩美々
+s_sc_00mkocc,運命前夜,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2025-12-27,『騎士団のヴェール』DAY1,false,(UNIT)アンティーカ
+s_becomethebrave,銀翼のアヴニール -become the brave-,,sc,,sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko,unit,,2025-12-27,『騎士団のヴェール』DAY1,false,(UNIT)アンティーカ
+s_onceuponasecret,Once Upon a Secret,,sc,,sc_yuika,solo,,2025-12-28,『騎士団のヴェール』DAY2,false,(ソロ)三峰結華
+s_sc_1lfbshq,ボーダーレス・ノンストレス,,sc,,,unit,,2025-12-31,Song for Prismイベント,false,(PJ:R)Sonic Heart (and Signal)
+s_ohyeah,Oh Yeah!!,,sc,,,unit,,2026-01-21,2DMV実装,false,(PJ:R)Sonic Heart (and Signal)
+s_sc_0nddsza,感謝のコントレイル,,sc,,sc_mano;sc_hiori;sc_megumi;sc_kogane;sc_mamimi;sc_sakuya;sc_yuika;sc_kiriko;sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha;sc_amana;sc_tenka;sc_chiyuki;sc_asahi;sc_fuyuko;sc_mei;sc_toru;sc_madoka;sc_koito;sc_hinana;sc_nichika;sc_mikoto;sc_luca;sc_hana;sc_haruki,all,,2026-01-28,2DMV公開,false,(全体曲)シャイニーカラーズ
+s_superduperdreamer,SUPER DUPER DREAMER,,sc,,,unit,,2026-01-31,Song for Prismイベント,false,(PJ:R)∑ Desire
+s_sc_0ui8htp,キズナシェアリング,,sc,,,unit,,2026-02-14,配信,false,(UNIT)Team.Stella
+s_litupmysky,Lit up my sky,,sc,,,unit,,2026-02-14,配信,false,(UNIT)Team.Luna
+s_sc_1v8vti6,永遠色アーチ,,sc,,,unit,,2026-02-14,配信,false,(UNIT)Team.Sol
+s_sc_01v2hfk,放っておかないファイヴァーズ,,sc,,sc_kaho;sc_chiyoko;sc_juri;sc_rinze;sc_natsuha,unit,,2026-02-19,デュエプレ実装,false,(UNIT)放課後クライマックスガールズ
+s_beastmode,BEAST MODE,,sc,,,unit,,2026-02-20,2DMV実装,false,(PJ:R)∑ Desire
+s_ringringring,Ring Ring Ringの魔法,,sc,,,unit,,2026-02-28,Song for Prismイベント,false,(PJ:R)ザ・ふたりトラベラー
+s_sc_0viya7i,街角メランコリー,,sc,,,unit,,2026-03-20,2DMV公開,false,(PJ:R)ザ・ふたりトラベラー
+s_sanka,散花-sanka-,,sc,,,unit,,2026-03-31,Song for Prismイベント,false,(PJ:R)彼岸流
+s_benibana,紅花-benibana-,,sc,,,unit,,2026-04-20,2DMV公開,false,(PJ:R)彼岸流
+s_oneliveonelove,One Live One Love,,sc,,sc_asahi;sc_fuyuko;sc_mei,unit,,2026-04-11,XXX= S/N-GUL4R1TY,false,(UNIT)ストレイライト
+s_tokyo,Tokyo自由系*ガール,,sc,,,unit,,2026-04-30,Song for Prismイベント,false,(PJ:R)No 1 feel alone
+s_mytime,My time,,sc,,,unit,,2026-05-20,2DMV公開,false,(PJ:R)No 1 feel alone
+s_sc_0xcyegs,泡沫に染まる,,sc,,sc_hiori;sc_kogane;sc_chiyoko;sc_amana;sc_asahi;sc_toru;sc_nichika;sc_luca,unit,,2026-08-01,Song for Prism実装,false,"(イベント)灯織,恋鐘,智代子,甘奈,あさひ,透,にちか,ルカ"
+s_sc_030lq07,あこがれフリルドレスで,,sc,,,unit,,2026-08-18,OST vol.2,false,-
+s_magicalforest,MAGICAL FOREST,,sc,,sc_mano,solo,,2026-09-16,HF Stella,false,(ソロ)櫻木真乃
+s_sc_0na8gaj,恋するクオリア,,sc,,sc_kogane,solo,,2026-09-16,HF Stella,false,(ソロ)月岡恋鐘
+s_sc_1l4qjsq,ハグルマヒマワリ,,sc,,sc_kaho,solo,,2026-09-16,HF Stella,false,(ソロ)小宮果穂
+s_sc_0rmvyu9,ナイススパイス研究会,,sc,,sc_chiyoko,solo,,2026-09-16,HF Stella,false,(ソロ)園田智代子
+s_love,どっちみちLOVE,,sc,,sc_amana,solo,,2026-09-16,HF Stella,false,(ソロ)大崎甘奈
+s_sc_0p3nl6f,ワタシグラビティ,,sc,,sc_asahi,solo,,2026-09-16,HF Stella,false,(ソロ)芹沢あさひ
+s_sc_0mty26t,ダミーガール,,sc,,sc_madoka,solo,,2026-09-16,HF Stella,false,(ソロ)樋口円香
+s_cryingdiamond,Crying Diamond,,sc,,sc_mikoto,solo,,2026-09-16,HF Stella,false,(ソロ)緋田美琴
+s_imaginary,Imaginary,,sc,,sc_hana,solo,,2026-09-16,HF Stella,false,(ソロ)鈴木羽那
+s_embersglow,Embers glow,,sc,,sc_hiori,solo,,2026-09-16,HF Luna,false,(ソロ)風野灯織
+s_sc_0dords0,正解な不正解,,sc,,sc_mamimi,solo,,2026-09-16,HF Luna,false,(ソロ)田中摩美々
+s_sc_04kfvxs,最上級パンチライン,,sc,,sc_yuika,solo,,2026-09-16,HF Luna,false,(ソロ)三峰結華
+s_sc_1lk13ie,カラースプレーとうさぎさん,,sc,,sc_kiriko,solo,,2026-09-16,HF Luna,false,(ソロ)幽谷霧子
+s_sc_00show6,月とネオンと薄紅と,,sc,,sc_rinze,solo,,2026-09-16,HF Luna,false,(ソロ)杜野凛世
+s_odette,Odette,,sc,,sc_tenka,solo,,2026-09-16,HF Luna,false,(ソロ)大崎甜花
+s_holdonme,Hold on me,,sc,,sc_mei,solo,,2026-09-16,HF Luna,false,(ソロ)和泉愛依
+s_hereforyou,Here for you,,sc,,sc_koito,solo,,2026-09-16,HF Luna,false,(ソロ)福丸小糸
+s_hello_2,HELL-O,,sc,,sc_luca,solo,,2026-09-16,HF Luna,false,(ソロ)斑鳩ルカ
+s_takeurtime,Take Ur Time,,sc,,sc_megumi,solo,,2026-09-16,HF Sol,false,(ソロ)八宮めぐる
+s_lightsonme,Lights on me,,sc,,sc_sakuya,solo,,2026-09-16,HF Sol,false,(ソロ)白瀬咲耶
+s_sc_0p12thc,パラボラ,,sc,,sc_juri,solo,,2026-09-16,HF Sol,false,(ソロ)西城樹里
+s_bewitched,Be-witched,,sc,,sc_natsuha,solo,,2026-09-16,HF Sol,false,(ソロ)有栖川夏葉
+s_sweetboozy,Sweet Boozy,,sc,,sc_chiyuki,solo,,2026-09-16,HF Sol,false,(ソロ)桑山千雪
+s_sc_1jeey73,ガガリズム,,sc,,sc_fuyuko,solo,,2026-09-16,HF Sol,false,(ソロ)黛冬優子
+s_paradox,Paradox,,sc,,sc_toru,solo,,2026-09-16,HF Sol,false,(ソロ)浅倉透
+s_sc_0pvnhov,ハートフルデイ ハートフルミー,,sc,,sc_hinana,solo,,2026-09-16,HF Sol,false,(ソロ)市川雛菜
+s_unstoppable,Unstoppable,,sc,,sc_nichika,solo,,2026-09-16,HF Sol,false,(ソロ)七草にちか
+s_hsv,HSV色空間,,sc,,sc_haruki,solo,,2026-09-16,HF Sol,false,(ソロ)郁田はるき
+s_beam,BEAM,,sc,,sc_amana;sc_tenka;sc_chiyuki,unit,,,未発表,false,(UNIT)アルストロメリア
+s_iwe,I=WE,,sc,,sc_mano;sc_hiori;sc_megumi,unit,,,未発表,false,(UNIT)イルミネーションスターズ
+s_neversaynever,Never say never,,cg,,cg_rin,solo,,2012-04-18,CINDERELLA MASTER 001,false,(ソロ)渋谷凛
+s_cg_1uq2xbt,あんずのうた,,cg,,cg_anzu,solo,,2012-04-18,CINDERELLA MASTER 002,false,(ソロ)双葉杏
+s_cg_0p89ylq,ショコラ・ティアラ,,cg,,cg_kanako,solo,,2012-04-18,CINDERELLA MASTER 003,false,(ソロ)三村かな子
+s_cg_1pby151,こいかぜ,,cg,,cg_kaede,solo,,2012-04-18,CINDERELLA MASTER 004,false,(ソロ)高垣楓
+s_dokidoki,DOKIDOKIリズム,,cg,,cg_rika,solo,,2012-04-18,CINDERELLA MASTER 005,false,(ソロ)城ヶ崎莉嘉
+s_cg_18hwmad,華蕾夢ミル狂詩曲〜魂ノ導〜,,cg,,cg_ranko,solo,,2012-08-08,CINDERELLA MASTER 006,false,(ソロ)神崎蘭子
+s_shallwe,おねだり Shall We 〜？,,cg,,cg_miku,solo,,2012-08-08,CINDERELLA MASTER 007,false,(ソロ)前川みく
+s_cg_1hpx94t,ましゅまろ☆キッス,,cg,,cg_kirari,solo,,2012-08-08,CINDERELLA MASTER 008,false,(ソロ)諸星きらり
+s_tokimeki,TOKIMEKIエスカレート,,cg,,cg_mika,solo,,2012-08-08,CINDERELLA MASTER 009,false,(ソロ)城ヶ崎美嘉
+s_smileing,S(mile)ING！,,cg,,cg_uzuki,solo,,2012-08-08,CINDERELLA MASTER 010,false,(ソロ)島村卯月
+s_nakedromance,Naked Romance,,cg,,cg_miho,solo,,2013-01-23,CINDERELLA MASTER 011,false,(ソロ)小日向美穂
+s_twilightsky,Twilight Sky,,cg,,cg_riina,solo,,2013-01-23,CINDERELLA MASTER 012,false,(ソロ)多田李衣菜
+s_cg_1dz5f4w,アップルパイ・プリンセス,,cg,,cg_airi,solo,,2013-01-23,CINDERELLA MASTER 013,false,(ソロ)十時愛梨
+s_angelbreeze,Angel Breeze,,cg,,cg_mizuki,solo,,2013-01-23,CINDERELLA MASTER 014,false,(ソロ)川島瑞樹
+s_cg_0ljcypm,ミツボシ☆☆★,,cg,,cg_mio,solo,,2013-01-23,CINDERELLA MASTER 015,false,(ソロ)本田未央
+s_cg_0i6kt8w,お願い！シンデレラ,,cg,,,all,,2013-02-10,ワンフェス,false,(全体曲)
+s_cg_0p2enp3,熱血乙女A,,cg,,cg_x035,solo,,2013-05-22,CINDERELLA MASTER 016,false,(ソロ)日野茜
+s_romanticnow,Romantic Now,,cg,,cg_x001,solo,,2013-05-22,CINDERELLA MASTER 017,false,(ソロ)赤城みりあ
+s_cg_0awiioa,メルヘンデビュー！,,cg,,cg_nana,solo,,2013-05-22,CINDERELLA MASTER 018,false,(ソロ)安部菜々
+s_cg_1vne491,ヴィーナスシンドローム,,cg,,cg_x030,solo,,2013-05-22,CINDERELLA MASTER 019,false,(ソロ)新田美波
+s_tomydarling,To my darling...,,cg,,cg_x013,solo,,2013-05-22,CINDERELLA MASTER 020,false,(ソロ)輿水幸子
+s_cg_06g0140,輝く世界の魔法,,cg,,cg_ranko;cg_anastasia;cg_kaede;cg_rin,unit,,2013-08-14,第2回総選挙CD,false,"(02選挙)蘭子,アナスタシア,楓,幸子,凛"
+s_nationblue,Nation Blue,,cg,,,unit,,2013-09-25,Cool jewelries001,false,jewelries! 001(Cool曲)
+s_jewelparade,ススメ☆オトメ 〜jewel parade〜,,cg,,,all,,2013-09-25,Cool jewelries001,false,jewelries! 001共通曲
+s_orangesapphire,Orange Sapphire,,cg,,,unit,,2013-10-02,Passion jewelries001,false,jewelries! 001(Passion曲)
+s_cg_1w3tio2,アタシポンコツアンドロイド,,cg,,,unit,,2013-10-09,Cute jewelries001,false,jewelries! 001(Cute曲)
+s_cg_0gtbrdp,エヴリデイドリーム,,cg,,cg_mayu,solo,,2013-11-13,CINDERELLA MASTER 021,false,(ソロ)佐久間まゆ
+s_cg_198ahav,小さな恋の密室事件,,cg,,cg_koume,solo,,2013-11-13,CINDERELLA MASTER 022,false,(ソロ)白坂小梅
+s_cg_0d3woi7,風色メロディ,,cg,,cg_chieri,solo,,2013-11-13,CINDERELLA MASTER 023,false,(ソロ)緒方智絵里
+s_yourestarsshineonme,You're stars shine on me,,cg,,cg_anastasia,solo,,2013-11-13,CINDERELLA MASTER 024,false,(ソロ)アナスタシア
+s_cg_0hqddno,お散歩カメラ,,cg,,cg_aiko,solo,,2013-11-13,CINDERELLA MASTER 025,false,(ソロ)高森藍子
+s_cg_0b67aly,毒茸伝説,,cg,,cg_shiki,solo,,2014-04-30,CINDERELLA MASTER 026,false,(ソロ)星輝子
+s_2ndside,2nd SIDE,,cg,,cg_nao,solo,,2014-04-30,CINDERELLA MASTER 027,false,(ソロ)神谷奈緒
+s_cg_1ukrk0t,薄荷 -ハッカ-,,cg,,cg_karen,solo,,2014-04-30,CINDERELLA MASTER 028,false,(ソロ)北条加蓮
+s_hanakanzashi,花簪 HANAKANZASHI,,cg,,cg_sae,solo,,2014-04-30,CINDERELLA MASTER 029,false,(ソロ)小早川紗枝
+s_cg_0w2h5yv,ミラクルテレパシー,,cg,,cg_yuko,solo,,2014-04-30,CINDERELLA MASTER 030,false,(ソロ)堀裕子
+s_werethefriends,We're the friends!,,cg,,cg_rin;cg_fumika;cg_kaede;cg_nana;cg_chieri;cg_uzuki;cg_mio;cg_yuki;cg_aiko,unit,,2014-07-30,第3回総選挙CD,false,"(03選挙)凛,文香,楓,菜々,智絵里,卯月,未央,友紀,藍子"
+s_cg_0673q2e,メッセージ,,cg,,cg_rin;cg_nana;cg_chieri;cg_uzuki;cg_mio,unit,,2014-07-30,第3回総選挙CD,false,"(03選挙)凛,菜々,智絵里,卯月,未央"
+s_star,Star!!,,cg,,,unit,,2014-11-30,シンデレラ2nd,false,CINDERELLA PROJECT
+s_cg_0yaps6z,オルゴールの小箱,,cg,,,unit,,2014-12-17,Cool jewelries002,false,jewelries! 002(Cool曲)
+s_partynight,ゴキゲンParty Night,,cg,,,all,,2014-12-17,Cool jewelries002,false,jewelries! 002共通曲
+s_cg_10fw229,絶対特権主張しますっ！,,cg,,,unit,,2014-12-24,Passion jewelries002,false,jewelries! 002(Passion曲)
+s_cg_1p6mchp,パステルピンクな恋,,cg,,,unit,,2014-12-31,Cute jewelries002,false,jewelries! 002(Cute曲)
+s_cg_1i23hie,夕映えプレゼント,,cg,,,unit,anime,2015-01-17,アニメ2話,false,CINDERELLA PROJECT
+s_brightblue,Bright Blue,,cg,,cg_fumika,solo,,2015-02-04,CINDERELLA MASTER 031,false,(ソロ)鷺沢文香
+s_cg_1goitzn,気持ちいいよね　一等賞！,,cg,,cg_yuki,solo,,2015-02-04,CINDERELLA MASTER 032,false,(ソロ)姫川友紀
+s_cafeaulait,き・ま・ぐ・れ☆Cafe au lait!,,cg,,cg_frederica,solo,,2015-02-04,CINDERELLA MASTER 033,false,(ソロ)宮本フレデリカ
+s_hotelmoonside,Hotel Moonside,,cg,,cg_kanade,solo,,2015-02-04,CINDERELLA MASTER 034,false,(ソロ)速水奏
+s_cg_064xr4j,みんなのきもち,,cg,,cg_nina,solo,,2015-02-04,CINDERELLA MASTER 035,false,(ソロ)市原仁奈
+s_memories,Memories,,cg,,,unit,anime,2015-02-14,アニメ6話,false,(UNIT)LOVE LAIKA
+s_legne,-LEGNE- 仇なす剣 光の旋律,,cg,,,unit,anime,2015-03-07,アニメ8話,false,(UNIT)Rosenburg Engel
+s_happy2days,Happy×2 Days,,cg,,,unit,anime,2015-03-14,アニメ9話,false,(UNIT)CANDY ISLAND
+s_letsgohappy,LET'S GO HAPPY!!,,cg,,,unit,anime,2015-03-21,アニメ10話,false,(UNIT)凸レーション
+s_ver,ØωØver!!,,cg,,,unit,anime,2015-03-28,アニメ11話,false,(UNIT)＊(Asterisk)
+s_evorevogeneration,できたてEvo! Revo! Generation!,,cg,,cg_uzuki;cg_rin;cg_mio,unit,anime,2015-04-11,アニメ13話,false,(UNIT)new generations
+s_goin,GOIN'!!!,,cg,,,unit,anime,2015-04-11,アニメ13話,false,CINDERELLA PROJECT
+s_nocturne,Nocturne,,cg,,cg_kaede;cg_mizuki,unit,,2015-04-23,346Pro IDOL selection 1,false,"(-)高垣楓,川島瑞樹"
+s_cg_0aeccqz,夢色ハーモニー,,cg,,,unit,anime,2015-07-18,アニメ14話,false,CINDERELLA PROJECT
+s_shabonsong,shabon song,,cg,,cg_mika;cg_miho,unit,,2015-07-23,346Pro IDOL selection 2,false,"(-)城ヶ崎美嘉,小日向美穂"
+s_shine,Shine!!,,cg,,,unit,anime,2015-07-25,アニメ15話,false,CINDERELLA PROJECT
+s_absolutenine,Absolute NIne,,cg,,cg_kaede;cg_rin;cg_miku;cg_shiki2;cg_uzuki;cg_yumi;cg_mika,unit,,2015-07-29,第4回総選挙CD,false,"(04選挙)周子,楓,凛,みく,志希,卯月,夕美,美嘉,拓海"
+s_cg_0vh2a4m,つぼみ,,cg,,cg_miku;cg_kaede;cg_yumi;cg_shiki2,unit,,2015-07-29,第4回総選挙CD,false,"(04選挙)周子,みく,楓,夕美,志希"
+s_cg_118yoj6,とどけ！アイドル,,cg,,cg_uzuki;cg_rin;cg_mio;cg_anzu;cg_kirari,unit,,2015-08-05,AM 2nd01,false,"(-)卯月,凛,未央,杏,きらり"
+s_cg_0iq0spl,私色ギフト,,cg,,,unit,anime,2015-08-08,アニメ17話,false,(UNIT)凸レーション with 城ヶ崎美嘉
+s_heartvoice,Heart Voice,,cg,,,unit,anime,2015-08-15,アニメ18話,false,(UNIT)CANDY ISLAND with 輿水幸子
+s_wondergoeson,Wonder goes on!!,,cg,,,unit,anime,2015-08-22,アニメ19話,false,(UNIT)＊(Asterisk) with なつなな
+s_rockinemotion,Rockin' Emotion,,cg,,cg_natsuki,solo,anime,2015-08-22,アニメ19話,false,(ソロ)木村夏樹
+s_cg_1qcd6c5,この空の下,,cg,,,unit,anime,2015-08-29,アニメ20話,false,(UNIT)LOVE LAIKA with Rosenburg Engel
+s_cg_118gajq,青空エール,,cg,,cg_chieri;cg_mika,unit,,2015-09-12,CD青空エール,false,"(-)みりあ,智絵里,美嘉,珠美"
+s_trancingpulse,Trancing Pulse,,cg,,,unit,anime,2015-09-12,アニメ22話,false,(UNIT)Triad Primus
+s_nebulasky,Nebula Sky,,cg,,cg_anastasia,solo,anime,2015-09-12,アニメ22話,false,(ソロ)アナスタシア
+s_cg_0nw7j2i,心もよう,,cg,,cg_uzuki;cg_rin;cg_mio,unit,anime,2015-09-19,アニメ23話,false,(UNIT)new generations
+s_cg_1wjkcgu,あいくるしい,,cg,,cg_mayu;cg_sae,unit,,2015-09-25,346Pro IDOL selection 3,false,"(-)佐久間まゆ,小早川紗枝"
+s_cg_0ucbqmc,流れ星キセキ,,cg,,cg_uzuki;cg_rin;cg_mio,unit,anime,2015-10-17,アニメ25話,false,(UNIT)new generations
+s_mgic,M@GIC☆,,cg,,,unit,anime,2015-10-17,アニメ25話,false,CINDERELLA PROJECT
+s_infact,in fact,,cg,,cg_arisu,solo,,2015-11-18,CINDERELLA MASTER 036,false,(ソロ)橘ありす
+s_cantstop,Can't Stop!!,,cg,,cg_sanae,solo,,2015-11-18,CINDERELLA MASTER 037,false,(ソロ)片桐早苗
+s_cg_072d3gu,秘密のトワレ,,cg,,cg_shiki2,solo,,2015-11-18,CINDERELLA MASTER 038,false,(ソロ)一ノ瀬志希
+s_cg_0fpptws,青の一番星,,cg,,cg_syuko,solo,,2015-11-18,CINDERELLA MASTER 039,false,(ソロ)塩見周子
+s_cg_1kyet7b,ラヴィアンローズ,,cg,,cg_touka,solo,,2015-11-18,CINDERELLA MASTER 040,false,(ソロ)櫻井桃華
+s_snowwings,Snow Wings,,cg,,cg_uzuki;cg_rin;cg_mio;cg_yui,unit,,2015-12-18,デレステイベント,false,"(-)卯月,凛,未央,唯,春菜"
+s_lunaticshow,Lunatic Show,,cg,,cg_shiki;cg_koume,unit,,2015-12-23,346Pro IDOL selection 4,false,"(-)星輝子,白坂小梅"
+s_tulip,Tulip,,cg,,cg_syuko;cg_mika;cg_shiki2;cg_kanade;cg_nao,unit,,2016-01-31,デレステイベント,false,(UNIT)LiPPS
+s_flipflop,Flip Flop,,cg,,cg_x035;cg_aiko,unit,,2016-02-25,346Pro IDOL selection 5,false,"(-)日野茜,高森藍子"
+s_radiohappy,Radio Happy,,cg,,cg_yui,solo,,2016-03-02,CINDERELLA MASTER 041,false,(ソロ)大槻唯
+s_cg_0oj0k5m,恋色エナジー,,cg,,cg_x026,solo,,2016-03-02,CINDERELLA MASTER 042,false,(ソロ)中野有香
+s_cg_0vgoz86,共鳴世界の存在論,,cg,,cg_asuka,solo,,2016-03-02,CINDERELLA MASTER 043,false,(ソロ)二宮飛鳥
+s_lilactime,lilac time,,cg,,cg_yumi,solo,,2016-03-02,CINDERELLA MASTER 044,false,(ソロ)相葉夕美
+s_hamburg,恋のHamburg♪,,cg,,cg_kyoko,solo,,2016-03-02,CINDERELLA MASTER 045,false,(ソロ)五十嵐響子
+s_story,STORY,,cg,,cg_uzuki;cg_mio;cg_rin;cg_nao;cg_karen,unit,,2016-03-30,AP OST,false,"(-)卯月,未央,凛,奈緒,加蓮"
+s_days,はにかみdays,,cg,,cg_uzuki,solo,,2016-03-30,STARLIGHT MASTER 01,false,(ソロ)島村卯月
+s_anemonestar,AnemoneStar,,cg,,cg_rin,solo,,2016-03-30,STARLIGHT MASTER 01,false,(ソロ)渋谷凛
+s_cg_0xzx4dx,ハイファイ☆デイズ,,cg,,,unit,,2016-03-31,デレステイベント,false,(UNIT)L.M.B.G
+s_cg_0r8nga1,生存本能ヴァルキュリア,,cg,,,unit,,2016-04-30,デレステイベント,false,(UNIT)アインフェリア
+s_cg_0169r0r,ステップ！,,cg,,cg_mio,solo,,2016-05-18,STARLIGHT MASTER 02,false,(ソロ)本田未央
+s_cg_0oj9r0h,ニャンと☆スペクタクル,,cg,,cg_miku,solo,,2016-05-18,STARLIGHT MASTER 02,false,(ソロ)前川みく
+s_cg_1bz25vh,明日また会えるよね,,cg,,,unit,,2016-05-19,Cute jewelries003,false,jewelries! 003(Cute曲)
+s_midnight,純情Midnight伝説,,cg,,,unit,,2016-05-31,デレステイベント,false,(UNIT)炎陣
+s_neartoyou,Near to You,,cg,,,all,,2016-06-01,Cute jewelries003,false,jewelries! 003共通曲
+s_cg_0lj2qeg,きみにいっぱい☆,,cg,,,unit,,2016-06-15,Passion jewelries003,false,jewelries! 003(Passion曲)
+s_jewel,咲いてJewel,,cg,,,unit,,2016-06-20,Cool jewelries003,false,jewelries! 003(Cool曲)
+s_superlove,SUPERLOVE☆,,cg,,cg_rika,solo,,2016-06-22,STARLIGHT MASTER 03,false,(ソロ)城ヶ崎莉嘉
+s_nudie,NUDIE★,,cg,,cg_mika,solo,,2016-06-22,STARLIGHT MASTER 03,false,(ソロ)城ヶ崎美嘉
+s_lovedestiny,Love∞Destiny,,cg,,,unit,,2016-06-30,デレステイベント,false,(UNIT)Masque:Rade
+s_cg_1wu4ab8,空と風と恋のワルツ,,cg,,cg_miho,solo,,2016-07-27,STARLIGHT MASTER 04,false,(ソロ)小日向美穂
+s_sparklinggirl,Sparkling Girl,,cg,,cg_riina,solo,,2016-07-27,STARLIGHT MASTER 04,false,(ソロ)多田李衣菜
+s_cg_035irem,サマカニ！！,,cg,,,unit,,2016-07-31,デレステイベント,false,(UNIT)サマプリ
+s_cg_1cjqsm5,おかしな国のおかし屋さん,,cg,,cg_kanako,solo,,2016-08-31,STARLIGHT MASTER 05,false,(ソロ)三村かな子
+s_bloodyfesta,Bloody Festa,,cg,,cg_koume,solo,,2016-08-31,STARLIGHT MASTER 05,false,(ソロ)白坂小梅
+s_beyondthestarlight,BEYOND THE STARLIGHT,,cg,,,unit,,2016-08-31,デレステイベント,false,(デレステ1周年)
+s_cg_1epbex9,ラブレター,,cg,,,unit,,2016-09-20,デレステイベント,false,(UNIT)P.C.S
+s_yespartytime,Yes! Party Time!!,,cg,,cg_uzuki;cg_rin;cg_mio;cg_nana,unit,,2016-10-13,VR,false,"(-)卯月,凛,未央,みりあ,菜々"
+s_evermore,EVERMORE,,cg,,,unit,,2016-10-15,4thSSA1日目,false,(シンデレラガールズ5周年)
+s_jettothefuture,Jet to the Future,,cg,,,unit,,2016-10-20,デレステイベント,false,(UNIT)Rock the Beat
+s_cg_0cecaq8,青空リレーション,,cg,,cg_aiko,solo,,2016-10-26,STARLIGHT MASTER 06,false,(ソロ)高森藍子
+s_pandemicalone,PANDEMIC ALONE,,cg,,cg_shiki,solo,,2016-10-26,STARLIGHT MASTER 06,false,(ソロ)星輝子
+s_treasure,Treasure☆,,cg,,cg_uzuki;cg_rin;cg_mika;cg_mio;cg_riina,unit,,2016-10-31,デレラジ,false,"(-)卯月,凛,美嘉,未央,李衣菜"
+s_takemetakeyou,Take me☆Take you,,cg,,cg_kaede;cg_miyu;cg_nono;cg_uzuki;cg_nana;cg_miku;cg_yoshino;cg_mio,unit,,2016-11-16,総選挙CD,false,"(05選挙)楓,美優,乃々,卯月,菜々,みく,芳乃,未央,心"
+s_cg_0qnezje,キミのそばでずっと,,cg,,cg_uzuki;cg_kaede;cg_miyu;cg_nono;cg_yoshino,unit,,2016-11-16,総選挙CD,false,"(05選挙)卯月,楓,美優,乃々,芳乃"
+s_cg_0v0xstd,にょわにょわーるど☆,,cg,,cg_kirari,solo,,2016-12-07,STARLIGHT MASTER 07,false,(ソロ)諸星きらり
+s_cherrymerrycherry,cherry＊merry＊cherry,,cg,,cg_chieri,solo,,2016-12-07,STARLIGHT MASTER 07,false,(ソロ)緒方智絵里
+s_cg_0kdh4ma,あんきら！？狂騒曲,,cg,,,unit,,2016-12-21,デレステイベント,false,(UNIT)HappyHappyTwin
+s_cg_1reejoo,命燃やして恋せよ乙女,,cg,,,unit,,2016-12-31,デレステイベント,false,(UNIT)宵乙女
+s_sweetwitchesnight6,Sweet Witches' Night 〜6人目はだぁれ〜,,cg,,,unit,,2017-01-31,デレステイベント,false,(UNIT)Sweetches
+s_cg_1wirwk4,スローライフ・ファンタジー,,cg,,cg_anzu,solo,,2017-02-01,STARLIGHT MASTER 08,false,(ソロ)双葉杏
+s_frozentears,Frozen Tears,,cg,,cg_karen,solo,,2017-02-01,STARLIGHT MASTER 08,false,(ソロ)北条加蓮
+s_cg_0h9pdgv,情熱ファンファンファーレ,,cg,,,unit,,2017-02-17,デレステイベント,false,(UNIT)ポジティブパッション
+s_cg_0jzdtok,桜の頃,,cg,,,unit,,2017-02-28,デレステイベント,false,(UNIT)春霞
+s_cg_03j57t2,メルヘン∞メタモルフォーゼ！,,cg,,cg_nana,solo,,2017-03-01,STARLIGHT MASTER 09,false,(ソロ)安部菜々
+s_cg_0dtly02,薄紅,,cg,,cg_sae,solo,,2017-03-01,STARLIGHT MASTER 09,false,(ソロ)小早川紗枝
+s_running,追い風Running,,cg,,cg_x008,solo,,2017-03-15,CINDERELLA MASTER 046,false,(ソロ)乙倉悠貴
+s_onelife,One Life,,cg,,cg_x038,solo,,2017-03-15,CINDERELLA MASTER 047,false,(ソロ)松永涼
+s_cg_05fv9am,祈りの花,,cg,,cg_yoshino,solo,,2017-03-15,CINDERELLA MASTER 048,false,(ソロ)依田芳乃
+s_nswer,∀NSWER,,cg,,,unit,,2017-03-21,デレステイベント,false,(UNIT)individuals
+s_cg_0wpc2gk,キラッ！満開スマイル,,cg,,cg_uzuki;cg_miho;cg_mayu;cg_touka;cg_anzu,unit,,2017-04-04,しんげきで放映,false,"(しんげき1期)卯月,美穂,まゆ,桃華,杏"
+s_cg_10nsv4m,たくさん！,,cg,,cg_anastasia,solo,,2017-04-19,STARLIGHT MASTER 10,false,(ソロ)アナスタシア
+s_cg_0wo8ct4,ぴにゃこら太絵かき歌,,cg,,cg_uzuki,solo,,2017-04-26,しんげきCD,false,(ソロ)島村卯月
+s_nothingbutyou,Nothing but You,,cg,,,unit,,2017-04-30,デレステイベント,false,(UNIT)NEX-US
+s_cg_11he9on,エチュードは1曲だけ,,cg,,cg_rin;cg_nao;cg_ranko;cg_miyu,unit,,2017-05-02,しんげきで放映,false,"(しんげき1期)凛,春菜,奈緒,蘭子,美優"
+s_cg_0uuzb14,モーレツ★世直しギルティ！,,cg,,,unit,,2017-05-19,デレステイベント,false,(UNIT)セクシーギルティ
+s_neobeautifulpain,Neo Beautiful Pain,,cg,,cg_nao,solo,,2017-05-31,STARLIGHT MASTER 11,false,(ソロ)神谷奈緒
+s_withlove,With Love,,cg,,,unit,,2017-05-31,デレステイベント,false,(UNIT)Love Yell
+s_sunflower,SUN♡FLOWER,,cg,,cg_mio;cg_sanae;cg_mika;cg_kirari,unit,,2017-06-06,しんげきで放映,false,"(しんげき1期)未央,早苗,心,美嘉,きらり"
+s_cg_17b4fmr,きらりんロボのテーマ,,cg,,cg_kirari,solo,,2017-06-13,しんげき1期11話,false,(ソロ)諸星きらり
+s_cg_0a67wta,リトルリドル,,cg,,,unit,,2017-06-30,デレステイベント,false,(UNIT)LittlePOPS
+s_kawaiimakemyday,Kawaii make MY day!,,cg,,,unit,,2017-07-20,デレステイベント,false,(UNIT)メロウ・イエロー
+s_cg_0p0di4j,マイ・スイート・ハネムーン,,cg,,cg_mayu,solo,,2017-08-09,STARLIGHT MASTER 12,false,(ソロ)佐久間まゆ
+s_cg_15ddkbg,銀のイルカと熱い風,,cg,,cg_yui;cg_chieri,unit,,2017-08-09,SEASONS SUMMER,false,"(S夏)唯,智絵里,美波"
+s_cg_16op5vz,とんでいっちゃいたいの,,cg,,cg_shiki2;cg_kanako;cg_frederica,unit,,2017-08-09,SEASONS SUMMER,false,"(S夏)志希,かな子,フレデリカ"
+s_natsukoi,夏恋 -NATSU KOI-,,cg,,cg_arisu;sm_ryo,unit,,2017-08-09,SEASONS SUMMER,false,"(S夏)周子,ありす,涼"
+s_cocoholiday,CoCo夏夏夏 Holiday,,cg,,cg_airi,unit,,2017-08-09,SEASONS SUMMER,false,"(S夏)鈴帆,心,愛梨"
+s_cg_15sgyz0,双翼の独奏歌,,cg,,,unit,,2017-08-21,デレステイベント,false,(UNIT)ダークイルミネイト
+s_cg_0ve4tgn,イリュージョニスタ！,,cg,,,unit,,2017-08-31,デレステイベント,false,(デレステ2周年)
+s_cg_1fueoox,わたぐも,,cg,,cg_x001,solo,,2017-09-13,STARLIGHT MASTER 13,false,(ソロ)赤城みりあ
+s_twin,Twin☆くるっ★テール,,cg,,,unit,,2017-09-20,デレステイベント,false,(UNIT)ファミリアツイン
+s_bloomingdays,Blooming Days,,cg,,cg_nana;cg_kyoko;cg_chieri,unit,,2017-10-03,しんげきで放映,false,"(しんげき2期)菜々,響子,智絵里,歌鈴,美玲"
+s_cg_0jeraou,秋風に手を振って,,cg,,cg_yumi;cg_riina,unit,,2017-10-18,SEASONS秋,false,"(S秋)夕美,李衣菜,有香"
+s_halloweencode,Halloween♥Code,,cg,,cg_nana;cg_miku,unit,,2017-10-18,SEASONS秋,false,"(S秋)菜々,悠貴,みく"
+s_cg_043urg5,さよならアンドロメダ,,cg,,cg_rin;cg_nono,unit,,2017-10-18,SEASONS秋,false,"(S秋)凛,乃々,亜季"
+s_cg_1r9ktiw,空想探査計画,,cg,,cg_natsuki;ml_akane,unit,,2017-10-18,SEASONS秋,false,"(S秋)夏樹,あやめ,茜"
+s_dingdongdang,秋めいて Ding Dong Dang!,,cg,,cg_anastasia;cg_kanade;cg_karen,unit,,2017-11-07,しんげきで放映,false,"(しんげき2期)アナスタシア,千枝,奏,加蓮,美波"
+s_cg_084jauv,サイキック！ぱーりーないと☆,,cg,,cg_yuko,solo,,2017-11-08,STARLIGHT MASTER 14,false,(ソロ)堀裕子
+s_virginlove,Virgin Love,,cg,,,unit,,2017-11-08,WWG4巻,false,(UNIT)ノーティギャルズ
+s_trinityfield,Trinity Field,,cg,,,unit,,2017-11-19,デレステイベント,false,(UNIT)Triad Primus
+s_snowlove,Snow＊Love,,cg,,cg_nina;cg_yui;cg_aiko;cg_yoshino,unit,,2017-12-05,しんげきで放映,false,"(しんげき2期)仁奈,雫,唯,藍子,芳乃"
+s_cg_1bmuuum,恋が咲く季節,,cg,,cg_kaede;cg_mio;cg_mayu;cg_chieri,unit,,2017-12-13,総選挙CD,false,"(06選挙)楓,未央,肇,比奈,柚,まゆ,巴,裕美,智絵里"
+s_always,always,,cg,,cg_kaede;cg_mio,unit,,2017-12-13,総選挙CD,false,"(06選挙)楓,未央,肇,比奈,柚"
+s_cg_0ve66v3,ツインテールの風,,cg,,cg_miho;cg_mika;cg_kanade,unit,,2017-12-13,SEASONS冬,false,"(S冬)美穂,美嘉,奏"
+s_whiteagain,White again,,cg,,cg_sae;cg_touka;cg_uzuki,unit,,2017-12-13,SEASONS冬,false,"(S冬)紗枝,桃華,卯月"
+s_frost,Frost,,cg,,cg_nao;cg_ranko,unit,,2017-12-13,SEASONS冬,false,"(S冬)奈緒,蘭子,珠美"
+s_cg_0appsgh,冬空プレシャス,,cg,,cg_sanae;cg_yuki,unit,,2017-12-13,SEASONS冬,false,"(S冬)早苗,笑美,友紀"
+s_cg_1dee0dp,こいかぜ ー花葉ー,,cg,,cg_kaede,solo,,2017-12-31,デレステ実装,false,(ソロ)高垣楓
+s_happynewyeah,Happy New Yeah!,,cg,,cg_uzuki;cg_rin;cg_mio;cg_kanako,unit,,2018-01-01,デレステイベント,false,"(-)卯月,凛,未央,心,かな子"
+s_cg_1fea4wl,美に入り彩を穿つ,,cg,,,unit,,2018-01-12,デレステイベント,false,(UNIT)羽衣小町
+s_cg_0kounfq,炎の華,,cg,,cg_x041,solo,,2018-03-08,WWG5巻,false,(ソロ)向井拓海
+s_cg_0up5ete,フレデリカ、猫やめるよ,,cg,,cg_frederica,solo,,2018-03-14,STARLIGHT MASTER 15,false,(ソロ)宮本フレデリカ
+s_vastworld,Vast world,,cg,,cg_chieri;cg_koume;cg_yuko;cg_anzu;cg_kirari,unit,,2018-04-02,デレステイベント,false,"(-)智絵里,小梅,裕子,杏,きらり"
+s_cg_03nzzri,楽園,,cg,,cg_x022,solo,,2018-04-04,CINDERELLA MASTER 049,false,(ソロ)関裕美
+s_lastkiss,Last Kiss,,cg,,cg_miyu,solo,,2018-04-04,CINDERELLA MASTER 050,false,(ソロ)三船美優
+s_cg_04tgis2,おんなの道は星の道,,cg,,cg_x043,solo,,2018-04-04,CINDERELLA MASTER 051,false,(ソロ)村上巴
+s_cg_198bg79,桜の風,,cg,,cg_anastasia;cg_kyoko;cg_yoshino,unit,,2018-04-11,SEASONS春,false,"(S春)アナスタシア,響子,芳乃"
+s_harurunrun,HARURUNRUN,,cg,,,unit,,2018-04-11,SEASONS春,false,"(S春)裕美,ゆかり,愛海"
+s_cg_1wh7wdf,未完成の歴史,,cg,,cg_asuka;cg_karen,unit,,2018-04-11,SEASONS春,false,"(S春)飛鳥,肇,加蓮"
+s_springscreaming,Spring Screaming,,cg,,cg_mio;sm_kaoru,unit,,2018-04-11,SEASONS春,false,"(S春)柚,未央,薫"
+s_dreamingofyou,Dreaming of you,,cg,,cg_mizuki,solo,,2018-04-18,STARLIGHT MASTER 16,false,(ソロ)川島瑞樹
+s_voyage_2,Voyage,,cg,,cg_x030,solo,,2018-04-18,STARLIGHT MASTER 16,false,(ソロ)新田美波
+s_cg_0ku0jdg,みなぎれ！ボボボンバー,,cg,,cg_x035,solo,,2018-05-23,STARLIGHT MASTER 17,false,(ソロ)日野茜
+s_prousteffect,PROUST EFFECT,,cg,,cg_shiki2,solo,,2018-05-23,STARLIGHT MASTER 17,false,(ソロ)一ノ瀬志希
+s_cg_0a5r8ah,ドレミファクトリー！,,cg,,cg_touka;cg_arisu;sm_kaoru,unit,,2018-05-30,U149 3巻,false,"(-)桃華,千枝,ありす,晴,薫"
+s_cg_0fvk4cm,if,,cg,,cg_kanade,solo,,2018-06-20,STARLIGHT MASTER 18,false,(ソロ)速水奏
+s_cg_0y37niz,踊りまくろ☆ダンシング・ナイト,,cg,,cg_sanae,solo,,2018-06-20,STARLIGHT MASTER 18,false,(ソロ)片桐早苗
+s_cg_1peaysi,いとしーさー♥,,cg,,cg_riina;cg_nono,unit,,2018-07-03,しんげきで放映,false,"(しんげき3期)幸子,李衣菜,肇,ゆかり,乃々"
+s_stagebyestage,Stage Bye Stage,,cg,,cg_uzuki;cg_rin;cg_mio,unit,,2018-07-04,VRZONE公開ゲネプロ,false,"(-)卯月,凛,未央"
+s_cg_0jm6sdp,銀河図書館,,cg,,cg_fumika,solo,,2018-07-18,STARLIGHT MASTER 19,false,(ソロ)鷺沢文香
+s_cg_0ftf27s,凸凹スピードスター,,cg,,,unit,,2018-07-31,デレステイベント,false,(UNIT)しゅがしゅが☆み〜ん
+s_cg_0zzl97l,なつっこ音頭,,cg,,cg_rika;cg_arisu;sm_kaoru,unit,,2018-08-07,しんげきで放映,false,"(しんげき3期)みりあ,莉嘉,ありす,晴,薫"
+s_cg_0hd0fuj,クレイジークレイジー,,cg,,,unit,,2018-08-19,デレステイベント,false,(UNIT)レイジー・レイジー
+s_cg_1qay6er,アツアツ♪マカロニグラタン,,cg,,cg_kyoko,solo,,2018-08-22,STARLIGHT MASTER 20,false,(ソロ)五十嵐響子
+s_privatesign,Private Sign,,cg,,cg_syuko,solo,,2018-08-22,STARLIGHT MASTER 20,false,(ソロ)塩見周子
+s_cg_1devir8,ガールズ・イン・ザ・フロンティア,,cg,,,unit,,2018-08-31,デレステイベント,false,(デレステ3周年)
+s_cg_14xue0t,さよならアロハ,,cg,,cg_natsuki;cg_airi;cg_frederica,unit,,2018-09-04,しんげきで放映,false,"(しんげき3期)夏樹,愛梨,有香,里奈,フレデリカ"
+s_trustme,Trust me,,cg,,cg_nana;cg_mio;cg_karen;cg_fumika;cg_shiki2;cg_mayu,unit,,2018-09-09,SS3A2日目,false,"(07選挙)菜々,未央,加蓮,茄子,文香,志希,まゆ,光,日菜子"
+s_dearmydreamers,Dear My Dreamers,,cg,,cg_yuki,solo,,2018-09-19,STARLIGHT MASTER 21,false,(ソロ)姫川友紀
+s_prettyliar,Pretty Liar,,cg,,,unit,,2018-09-19,デレステイベント,false,(UNIT)ミステリアスアイズ
+s_dreamingstar,Dreaming Star,,cg,,cg_yumi,solo,,2018-09-25,しんげきで放映,false,(ソロ)相葉夕美
+s_cg_1pmbxat,ハピガ！,,cg,,cg_x013,solo,,2018-10-17,STARLIGHT MASTER 22,false,(ソロ)輿水幸子
+s_cg_1sdcu3x,アンデッド・ダンスロック,,cg,,,unit,,2018-10-19,デレステイベント,false,(UNIT)エルドリッチ・ロアテラー
+s_cg_0gyt92b,君への詩,,cg,,cg_nana;cg_mio;cg_karen;cg_fumika,unit,,2018-10-31,総選挙CD,false,"(07選挙)菜々,未央,加蓮,茄子,文香"
+s_starrygoround,Starry-Go-Round,,cg,,cg_miku;cg_yui;cg_anastasia;cg_yuki;cg_asuka,unit,,2018-10-31,デレステイベント,false,"(-)みく,唯,アナスタシア,友紀,飛鳥"
+s_sunshineseemay,Sunshine See May,,cg,,,unit,,2018-11-19,デレステイベント,false,(UNIT)山紫水明
+s_cg_18faw2n,花のことば,,cg,,cg_yumi,solo,,2018-11-21,STARLIGHT MASTER 23,false,(ソロ)相葉夕美
+s_palette,Palette,,cg,,,unit,,2019-01-01,デレステイベント,false,(UNIT)P.C.S
+s_cg_0xcvwlt,スパイスパラダイス,,cg,,,unit,,2019-01-21,デレステイベント,false,(UNIT)ポジティブパッション
+s_cg_0hkncol,ヒトトキトキメキ,,cg,,cg_airi,solo,,2019-01-23,STARLIGHT MASTER 24,false,(ソロ)十時愛梨
+s_cg_0mt8wko,義勇忍侠花吹雪,,cg,,,unit,,2019-01-31,デレステイベント,false,(UNIT)可惜夜月
+s_cg_1sexigz,谷の底で咲く花は,,cg,,cg_hotaru,solo,,2019-02-09,デレステに実装,false,(ソロ)白菊ほたる
+s_needlelight,Needle Light,,cg,,,unit,,2019-02-19,デレステイベント,false,(UNIT)サイバーグラス
+s_cg_13unen2,夢幻ノ救憐唱 〜堕チル星ノ調ベ〜,,cg,,cg_ranko,solo,,2019-02-20,SM26,false,(ソロ)神崎蘭子
+s_fascinate,Fascinate,,cg,,,unit,,2019-02-28,デレステイベント,false,(UNIT)VelvetRose
+s_love_2,LOVE☆ハズカム,,cg,,cg_x036,solo,,2019-03-08,WWG第6巻,false,(ソロ)藤本里奈
+s_toyouforme,to you for me,,cg,,cg_arisu,solo,,2019-03-20,STARLIGHT MASTER 27,false,(ソロ)橘ありす
+s_okurimonosunday,O-Ku-Ri-Mo-No Sunday!,,cg,,,unit,,2019-04-02,デレステイベント,false,(UNIT)miroir
+s_cg_18wodau,きゅん・きゅん・まっくす,,cg,,cg_shiki2;cg_miku,unit,anime,2019-04-02,しんげきCSCuED曲,false,"(しんげき4期)志希,悠貴,法子,みく,愛海"
+s_cg_1iet8nb,無重力シャトル,,cg,,cg_yumi;cg_rika;cg_nana;cg_riina,unit,,2019-04-30,デレステイベント,false,"(-)夕美,莉嘉,菜々,美波,李衣菜"
+s_rebellionidentity,反逆的同一性 -Rebellion Identity-,,cg,,cg_asuka,solo,,2019-05-01,STARLIGHT MASTER 28,false,(ソロ)二宮飛鳥
+s_maxbeat,Max Beat,,cg,,cg_kaede;cg_asuka;sm_ryo,unit,anime,2019-05-12,しんげきCSCoED曲,false,"(しんげき4期)楓,茄子,飛鳥,涼,亜季"
+s_cg_1hiwy0r,もりのくにから,,cg,,cg_nono,solo,,2019-05-15,CINDERELLA MASTER 053,false,(ソロ)森久保乃々
+s_cg_1u7wrb1,しゅがーはぁと☆レボリューション,,cg,,cg_x018,solo,,2019-05-15,CINDERELLA MASTER 054,false,(ソロ)佐藤心
+s_takamariclimaxxx,TAKAMARI☆CLIMAXXX!!!!!,,cg,,ml_akane;cg_yuki,unit,anime,2019-06-04,しんげきCSPaED曲,false,"(しんげき4期)日菜子,柚,光,茜,友紀"
+s_cg_0pgwicz,愛の讃歌,,cg,,cg_touka,solo,,2019-06-19,STARLIGHT MASTER 29,false,(ソロ)櫻井桃華
+s_cg_1c6v5x2,おねえちゃんデスコ,,cg,,cg_nina,solo,,2019-07-17,STARLIGHT MASTER 30,false,(ソロ)市原仁奈
+s_cg_1dpldt7,バベル,,cg,,,unit,,2019-07-22,デレステイベント,false,(UNIT)Dimension-3
+s_cg_1pzfl7x,ヒカリ→シンコキュウ→ミライ,,cg,,cg_x026,solo,,2019-08-14,STARLIGHT MASTER 31,false,(ソロ)中野有香
+s_comiccosmic,comic cosmic,,cg,,cg_mayu;cg_yuko,unit,,2019-08-20,デレステイベント,false,"(-)まゆ,颯,有香,千枝,裕子"
+s_truecolors,TRUE COLORS,,cg,,,unit,,2019-08-31,デレステイベント,false,(デレステ4周年)
+s_gossipclub,Gossip Club,,cg,,,unit,,2019-09-03,7th幕張1日目,false,(UNIT)セクシーギャルズ
+s_cg_0pq874v,サニードロップ,,cg,,cg_yui,solo,,2019-09-18,STARLIGHT MASTER 32,false,(ソロ)大槻唯
+s_cg_0nqtq0u,ステップ＆スキップ,,cg,,,unit,,2019-09-20,デレステイベント,false,(UNIT)ワンステップス
+s_cg_18yr1yy,ミラーボール・ラブ,,cg,,cg_frederica;cg_yuki,unit,,2019-10-31,デレステイベント,false,"(-)フレデリカ,愛海,雫,比奈,友紀"
+s_cg_05sgb1r,夢をのぞいたら,,cg,,,unit,,2019-11-09,シンデレラ7th名古屋,false,(08選挙)総選挙9人曲
+s_secretdaybreak,Secret Daybreak,,cg,,,unit,,2019-11-09,シンデレラ7th名古屋,false,(UNIT)デア・アウローラ
+s_cg_02vk8cr,オウムアムアに幸運を,,cg,,cg_shiki2;cg_nao,unit,,2019-11-10,Spin-off!,false,"(-)志希,奈緒,ちとせ,心,梨沙"
+s_canvas,不埒なCANVAS,,cg,,cg_yumi,unit,,2019-11-13,3chord for the Pops!,false,"(-)幸子,周子,夕美"
+s_cg_1k76yyy,印象,,cg,,cg_hotaru;cg_miyu,unit,,2019-11-13,3chord for the Pops!,false,"(-)あやめ,ほたる,美優"
+s_sunhighgold,Sun！High！Gold！,,cg,,cg_mio;cg_karen,unit,,2019-11-30,デレステイベント,false,"(08選挙)未央,加蓮,りあむ,こずえ,雪美"
+s_blessing,Blessing,,cg,,cg_kaede,solo,,2019-12-11,STARLIGHT MASTER 34,false,(ソロ)高垣楓
+s_milkyway,ギュっとMilky Way,,cg,,,unit,,2019-12-20,デレステイベント,false,(UNIT)ドリームアウェイ
+s_cg_1dfblqy,幸せの法則〜ルール〜,,cg,,,unit,,2020-01-20,デレステイベント,false,(UNIT)ミス・フォーチュン
+s_unlockstarbeat,Unlock Starbeat,,cg,,cg_ranko;cg_riina;cg_kyoko;cg_shiki,unit,,2020-01-31,デレステイベント,false,"(-)蘭子,千夜,李衣菜,響子,輝子"
+s_gazeandgaze,Gaze and Gaze,,cg,,,unit,,2020-02-15,シンデレラ7th大阪1日目,false,(UNIT)フォーリンシーサイド
+s_greatjourney,Great Journey,,cg,,cg_uzuki;cg_rin;cg_mio,unit,,2020-02-16,シンデレラ7th大阪2日目,false,(UNIT)new generations
+s_flagship,躍るFLAGSHIP,,cg,,cg_miho;cg_karen,unit,,2020-02-19,3chord for the Dance!,false,"(-)美穂,心,加蓮"
+s_athanasia,Athanasia,,cg,,cg_x027;cg_sae;cg_koume,unit,,2020-02-19,3chord for the Dance!,false,"(-)ナターリア,紗枝,小梅"
+s_cg_16upqe6,輝け！ビートシューター,,cg,,,unit,,2020-03-21,デレステイベント,false,(UNIT)ビートシューター
+s_singtheprologue,Sing the Prologue♪,,cg,,cg_kanako;cg_yuko,unit,,2020-03-24,しんげきえくすて,false,"(しんげき5期)かな子,裕美,凪,こずえ,裕子"
+s_cg_0t5du64,春恋フレーム,,cg,,cg_x009,solo,anime,2020-03-24,しんげきえくすて4話ED,false,(ソロ)上条春菜
+s_clawmyheart,Claw My Heart,,cg,,cg_x032,solo,,2020-04-22,CINDERELLA MASTER 055,false,(ソロ)早坂美玲
+s_cg_0a9zlqu,あらかねの器,,cg,,cg_x037,solo,,2020-04-22,CINDERELLA MASTER 056,false,(ソロ)藤原肇
+s_otahen,OTAHEN アンセム,,cg,,cg_x047,solo,,2020-04-22,CINDERELLA MASTER 057,false,(ソロ)夢見りあむ
+s_cg_051ey55,あこがれステッチ,,cg,,cg_x016,solo,,2020-04-30,U149第6巻,false,(ソロ)佐々木千枝
+s_islove,オタク is LOVE!,,cg,,,unit,,2020-04-30,デレステイベント,false,(UNIT)虹色ドリーマー
+s_diary,ほほえみDiary,,cg,,,unit,,2020-05-31,デレステイベント,false,(UNIT)インディゴ・ベル
+s_cg_1h9b7kl,私色のプレリュード,,cg,,cg_x040,solo,anime,2020-05-31,しんげきえくすて8話ED,false,(ソロ)水本ゆかり
+s_goahead,イケナイGO AHEAD,,cg,,cg_touka;cg_arisu,unit,,2020-07-01,3chord for the Rock!,false,"(-)桃華,ありす,巴"
+s_drivingmyway,Driving My Way,,cg,,sm_ryo;cg_natsuki,unit,,2020-07-01,3chord for the Rock!,false,"(-)ちとせ,涼,夏樹"
+s_cg_17oirk1,太陽の絵の具箱,,cg,,,unit,,2020-07-20,デレステイベント,false,(UNIT)Sonoritia
+s_joker,Joker,,cg,,sm_ryo;cg_yuki;cg_miku,unit,,2020-07-31,デレステイベント,false,"(-)涼,亜季,有香,友紀,みく"
+s_orkiss,世界滅亡 or KISS,,cg,,cg_x010,solo,anime,2020-08-04,しんげきえくすて12話ED,false,(ソロ)喜多日菜子
+s_cg_1n3cgw6,ダイアモンド・アテンション,,cg,,cg_x027,unit,,2020-08-11,しんげきえくすて,false,"(しんげき5期)柚,笑美,法子,ナターリア,珠美"
+s_cg_0228awd,ヒーローヴァーサスレイナンジョー,,cg,,,unit,,2020-08-19,デレステイベント,false,(UNIT)ヒーローヴァーサス
+s_gojustgo,Go Just Go!,,cg,,,unit,,2020-08-31,デレステイベント,false,(デレステ5周年)
+s_cg_0nybi2d,オヤマトペ♪,,cg,,cg_x042,solo,anime,2020-09-01,しんげきえくすて16話ED,false,(ソロ)棟方愛海
+s_cg_0sn6qqx,オレンジタイム,,cg,,,unit,,2020-09-20,デレステイベント,false,(UNIT)142's
+s_cg_1a7o3r6,弾丸サバイバー,,cg,,cg_x044,solo,anime,2020-09-29,しんげきえくすて20話ED,false,(ソロ)大和亜季
+s_brandnew,Brand new!,,cg,,cg_x024;cg_x021;cg_tsukasa,unit,,2020-09-30,デレステイベント,false,"(01ボイス)辻野あかり,砂塚あきら,桐生つかさ"
+s_thevillainsnight,THE VILLAIN'S NIGHT,,cg,,,unit,,2020-10-20,デレステイベント,false,(UNIT)Caper Parade
+s_shinobi40,Shinobi 4.0 忍者のすゝめ,,cg,,cg_x031,solo,anime,2020-10-27,しんげきえくすて24話ED,false,(ソロ)浜口あやめ
+s_cg_11ayici,君のステージ衣装、本当は…,,cg,,cg_kanade,unit,,2020-11-03,しんげきえくすて,false,"(しんげき5期)奏,千夜,雪美,梨沙,比奈"
+s_cyu,プライスレス ドーナッCyu♡,,cg,,cg_x019,solo,anime,2020-11-24,しんげきえくすて28話ED,false,(ソロ)椎名法子
+s_neverends,Never ends,,cg,,cg_karen;cg_fumika;cg_shiki2;cg_nao;cg_kaede,unit,,2020-12-02,第9回総選挙CD,false,"(09選挙)加蓮,文香,志希,奈緒,楓"
+s_cg_0j18vqy,思い出じゃない今日を,,cg,,cg_x011,solo,anime,2020-12-22,しんげきえくすて32話ED,false,(ソロ)喜多見柚
+s_wishyouhappiness,Wish you Happiness!!,,cg,,cg_nana;cg_sae;cg_x027,unit,,2021-01-01,デレステイベント,false,"(-)菜々,美波,紗枝,周子,あやめ,ナターリア,あかり"
+s_cg_1bfz8nb,初夢をあなたと,,cg,,cg_x023,solo,anime,2021-01-05,しんげきえくすて34話ED,false,(ソロ)鷹富士茄子
+s_lifeisharmony,Life is HaRMONY,,cg,,cg_tsukasa;cg_hotaru;cg_fumika;cg_kirari,unit,,2021-01-26,しんげきえくすて,false,"(しんげき5期)つかさ,ちとせ,ほたる,文香,きらり"
+s_evillive,EVIL LIVE,,cg,,,unit,,2021-01-30,デレステイベント,false,(UNIT)BAD BEAST
+s_milkymode,Milky Mode,,cg,,cg_x006,solo,anime,2021-02-02,しんげきえくすて38話ED,false,(ソロ)及川雫
+s_cg_0bkirxy,泡沫のアイオーン,,cg,,cg_x003,solo,anime,2021-03-02,しんげきえくすて42話ED,false,(ソロ)荒木比奈
+s_cg_0iifuu2,満願成就♪巫女の神頼み！,,cg,,cg_x025,solo,anime,2021-03-30,しんげきえくすて46話ED,false,(ソロ)道明寺歌鈴
+s_he4dshot,#HE4DSHOT,,cg,,cg_x021,solo,,2021-04-13,デレステに実装,false,(ソロ)砂塚あきら
+s_justusjustice,Just Us Justice,,cg,,,unit,,2021-04-29,デレステイベント,false,(UNIT)バーニング・バスターズ
+s_cg_1azn69u,ひまわりマークをさがせ！,,cg,,cg_x049,solo,,2021-04-30,U149第7巻,false,(ソロ)龍崎薫
+s_beatofthenight,Beat of the Night,,cg,,cg_x012,solo,,2021-05-16,デレステに実装,false,(ソロ)黒埼ちとせ
+s_cg_1sawywk,14平米にスーベニア,,cg,,cg_x033,solo,,2021-05-19,CINDERELLA MASTER 060,false,(ソロ)久川凪
+s_hungrybambi,Hungry Bambi,,cg,,,unit,,2021-05-30,デレステイベント,false,(UNIT)キュリオスター
+s_homesweethome,Home Sweet Home,,cg,,,unit,,2021-06-29,デレステイベント,false,(UNIT)Merry Terrors
+s_cg_0eb1bcx,パ・リ・ラ,,cg,,,unit,,2021-07-19,デレステイベント,false,(UNIT)Bom Dia
+s_secretmirage,Secret Mirage,,cg,,,unit,,2021-07-30,デレステイベント,false,(UNIT)Rêve Pur
+s_cg_089g3eu,レッド・ソール,,cg,,,unit,,2021-08-19,デレステイベント,false,(UNIT)Flamme Martini
+s_cg_0jviv4o,星環世界,,cg,,,unit,,2021-08-30,デレステイベント,false,(デレステ6周年)
+s_drasticmelody,Drastic Melody,,cg,,,unit,,2021-09-17,デレステイベント,false,(UNIT)Sirius Chord
+s_cg_16qc4v0,ずるじゃん,,cg,,cg_x008,solo,,2021-09-22,GOLD RUSH10,false,(ソロ)乙倉悠貴
+s_cg_0seb7fj,かぼちゃ姫,,cg,,,unit,,2021-09-29,デレステイベント,false,(10周年ツアー名古屋主題歌)
+s_everlasting_2,EVERLASTING,,cg,,,unit,,2021-10-03,10周年福岡DAY1,false,(10周年記念曲)
+s_letssailaway,Let's Sail Away!!!,,cg,,cg_x002;cg_x015;cg_makino,unit,,2021-10-19,デレステイベント,false,"(02ボイス)浅利七海,西園寺琴歌,八神マキノ"
+s_cg_1enuwvd,堕ちる果実,,cg,,,unit,,2021-10-30,デレステイベント,false,(UNIT)Fortuna Regina
+s_cg_1prdpya,日々あどべんちゃーなのでしてー,,cg,,cg_yoshino,solo,,2021-11-17,GOLD RUSH12,false,(ソロ)依田芳乃
+s_cg_05xhhwe,キセキの証,,cg,,cg_fumika;cg_shiki2;cg_nao;cg_aiko;cg_mayu,unit,,2021-11-17,10周年DAY1,false,"(10選挙)文香,志希,奈緒,藍子,まゆ"
+s_cg_07y6a2e,ココカラミライヘ！,,cg,,,unit,,2022-01-01,デレステイベント,false,(歴代シンデレラガール)
+s_cg_19cql99,トロピカルガール,,cg,,,unit,,2022-01-20,デレステイベント,false,(10周年ツアー沖縄主題歌)
+s_cg_1x94adl,ソウソウ,,cg,,cg_x027,solo,,2022-01-29,10周年トロピカルDAY1,false,(ソロ)ナターリア
+s_myself,Myself,,cg,,cg_x038,solo,,2022-02-16,SM R/LOCK ON! 02,false,(ソロ)松永涼
+s_demolish,Demolish,,cg,,,unit,,2022-02-17,デレステイベント,false,(UNIT)Threat Sign
+s_cg_0vddp9w,ストリート・ランウェイ,,cg,,,unit,,2022-02-27,デレステイベント,false,(UNIT)ラピエサージュ
+s_story_2,純情接近STORY,,cg,,cg_uzuki,solo,,2022-03-16,SM R/LOCK ON!03,false,(ソロ)島村卯月
+s_cg_0zlkc8q,ラビューダ♡トライアングル,,cg,,,unit,,2022-03-20,デレステイベント,false,(UNIT)アミマネラ
+s_newbrightstars,New bright stars,,cg,,,unit,,2022-03-30,デレステイベント,false,(10周年Final公演主題歌)
+s_gemstone,GEMSTONE,,cg,,cg_x039,solo,,2022-04-08,U149第9巻,false,(ソロ)的場梨沙
+s_cg_0sfyro8,まほうのまくら,,cg,,,unit,,2022-04-19,デレステイベント,false,(UNIT)ららりる
+s_reflectiveilluminationnight,Reflective illumination night,,cg,,cg_rin,solo,,2022-04-20,SM R/LOCK ON!04,false,(ソロ)渋谷凛
+s_cg_048ppsy,トキメキは赤くて甘い,,cg,,cg_x024,solo,,2022-04-20,CINDERELLA MASTER 061,false,(ソロ)辻野あかり
+s_packingherfavorite,Packing Her Favorite,,cg,,cg_x034,solo,,2022-04-20,CINDERELLA MASTER 062,false,(ソロ)久川颯
+s_cg_0l6usvv,メモリーブロッサム,,cg,,,unit,,2022-04-29,デレステイベント,false,(UNIT)フェスタ・フェリーチェ
+s_nooneknows,No One Knows,,cg,,,unit,,2022-05-30,デレステイベント,false,(UNIT)∫nTegrαl
+s_cg_0duom72,チカラ！イズ！ぱわー！！,,cg,,,unit,,2022-06-19,デレステイベント,false,(UNIT)サイキックヒーツ
+s_cg_1jcyar4,ささのはに、うたかたに。,,cg,,,unit,,2022-06-29,デレステイベント,false,(UNIT)夕星灯
+s_cg_0vk0vlr,サマーサイダー,,cg,,,unit,,2022-07-20,デレステイベント,false,(UNIT)Sola-iris
+s_cg_1sl7qf3,ギョーてん！しーわーるど！,,cg,,,unit,,2022-07-30,デレステイベント,false,(UNIT)まりんぱ
+s_cg_00ozvea,廻談詣り,,cg,,,unit,,2022-08-19,デレステイベント,false,(UNIT)かくりよがたり
+s_motto,MOTTO!,,cg,,,unit,,2022-08-30,デレステイベント,false,(デレステ7周年)
+s_cg_00p7jz4,ハンドメイドスマイル,,cg,,cg_x022,solo,,2022-09-03,cg_ootd DAY1,false,(ソロ)関裕美
+s_uniqu3voices,UNIQU3 VOICES!!!,,cg,,,unit,,2022-09-03,cg_ootd DAY1,false,(UNIT)#UNICUS
+s_cg_0i42cxz,認めてくれなくたっていいよ,,cg,,,all,,2022-09-03,cg_ootd DAY1,false,jewelries! 004共通曲
+s_cg_0g2gumt,チョコレート？レモネード？どっち？？,,cg,,,unit,,2022-09-28,Cute jewelries! 004,false,jewelries! 004(Cute曲)
+s_cg_15bdtho,ダンシング・デッド,,cg,,,unit,,2022-10-19,デレステイベント,false,(UNIT)Fav+rica
+s_delight,DELIGHT,,cg,,cg_mio,solo,,2022-10-19,SM R/LOCK ON! 09,false,(ソロ)本田未央
+s_arrowhead,Arrowhead,,cg,,cg_riina,solo,,2022-11-09,SM R/LOCK ON! 10,false,(ソロ)多田李衣菜
+s_bulletride,Bullet Ride,,cg,,cg_natsuki,solo,,2022-11-09,SM R/LOCK ON! 10,false,(ソロ)木村夏樹
+s_cg_095pfuc,ネコドル☆オーバー・ザ・ワールド,,cg,,cg_miku,solo,,2022-11-26,CGコンステDAY1,false,(ソロ)前川みく
+s_majoramtherapie,Majoram Therapie,,cg,,,unit,collab,2022-11-26,CGコンステDAY1,false,(コラボ)ももクロ×デレステ
+s_dreamyanniversary,Dreamy Anniversary,,cg,,,unit,,2023-01-01,デレステイベント,false,(選挙SfC)GroupA BEST5
+s_cg_0600ytp,ハートボイルドウォーズ,,cg,,,unit,,2023-01-20,デレステイベント,false,(UNIT)ガンズパーティー
+s_isosceles,Isosceles,,cg,,,unit,,2023-01-30,デレステイベント,false,(UNIT)フェアリーテイル＊マイテイル
+s_nornotesofrevolution,N.O.R.〜Notes of Revolution〜革命についての覚書,,cg,,,unit,,2023-02-18,デレステイベント,false,(UNIT)SOUL LEATHERS
+s_starrynight,Starry Night,,cg,,,unit,,2023-02-27,デレステイベント,false,jewelries! 004(Cool曲)
+s_cg_0v87vtv,ミライコンパス,,cg,,,unit,,2023-03-21,デレステイベント,false,(UNIT)エフェメラ
+s_cg_1nqt786,よりみちリトルスター,,cg,,,unit,,2023-03-26,U149先行上映会,false,(UNIT)U149
+s_shineinthesky,Shine In The Sky☆,,cg,,,unit,,2023-03-26,U149先行上映会,false,(UNIT)U149
+s_cg_1yz531e,さやけき花の生命に,,cg,,,unit,,2023-04-02,デレステイベント,false,(UNIT)フィオレンティナ
+s_cg_0qq7xpd,サイン・オブ・ホープ,,cg,,cg_x028,solo,,2023-04-28,デレステに実装,false,(ソロ)南条光
+s_cg_004lswj,全開！ミラクルアドベンチャー！,,cg,,,unit,,2023-04-30,デレステイベント,false,(UNIT)はぴのす
+s_nightwear,Nightwear,,cg,,cg_syuko;cg_mika;cg_shiki2;cg_kanade;cg_nao,unit,,2023-05-11,U149 第6話,false,(UNIT)LiPPS
+s_ace,ACE,,cg,,cg_x045,solo,anime,2023-05-11,U149 第6話 ED,false,(ソロ)結城晴
+s_cg_1tu2x9k,アイム・ア・リトル・プリンセス 〜お星さまにお願い〜,,cg,,cg_koharu,solo,,2023-05-18,U149 第7話,false,(ソロ)古賀小春
+s_nautilussonar,ノーチラスソナー -Nautilus Sonar-,,cg,,cg_makino,solo,,2023-05-29,デレステに実装,false,(ソロ)八神マキノ
+s_cg_1ahotvf,アタシガルール,,cg,,cg_tsukasa,solo,,2023-06-01,U149 第8話,false,(ソロ)桐生つかさ
+s_cg_038wews,セレブレイト・スターレイル,,cg,,cg_x015,solo,,2023-06-07,CINDERELLA MASTER 064,false,(ソロ)西園寺琴歌
+s_cg_0dsarlt,大阪タコちゃんラブちゃん,,cg,,cg_x029,solo,,2023-06-10,燿城夜祭 DAY1,false,(ソロ)難波笑美
+s_cg_0w9ka7h,悠久星涼,,cg,,,all,,2023-06-10,燿城夜祭 DAY1,false,(燿城夜祭テーマソング)
+s_nighttimewander,Night Time Wander,,cg,,,unit,,2023-06-10,燿城夜祭 DAY1,false,(UNIT)ルビーカウンテス
+s_cg_0nttq71,ゼロトゥワン!!,,cg,,,unit,,2023-06-14,U149 第10話,false,(UNIT)U149
+s_cg_0w4pkv7,グッデイ・グッナイ,,cg,,,unit,,2023-06-14,U149 第10話,false,(UNIT)U149
+s_nextchapter,Next Chapter,,cg,,,unit,,2023-06-29,デレステイベント,false,(選挙SfC)GroupB BEST5
+s_cg_17sl32t,キラメキ☆,,cg,,,unit,,2023-06-29,U149 第12話,false,(UNIT)U149
+s_cg_0wdgvt9,ノートの中のテラリウム,,cg,,,unit,,2023-08-19,デレステイベント,false,(UNIT)なの・くらうん
+s_lplove,無限L∞PだLOVE♡,,cg,,,unit,,2023-08-30,デレステイベント,false,(デレステ8周年)
+s_wet,WET,,cg,,cg_shiki,solo,,2023-09-06,PLATINUM NUMBER 07,false,(ソロ)星輝子
+s_cg_03520kq,パジャマジャマ,,cg,,,unit,,2023-09-09,SoL DAY1,false,(選挙SfC)GroupC BEST5
+s_littlemore,Little More,,cg,,cg_miyu,solo,,2023-09-09,SoL DAY1,false,(ソロ)三船美優
+s_hardcoretoyworld,Hardcore Toyworld,,cg,,,unit,,2023-09-09,SoL DAY1,false,(UNIT)My-Style Revo
+s_cg_14ba76m,なみだのくに,,cg,,cg_nono,solo,,2023-09-10,SoL DAY2,false,(ソロ)森久保乃々
+s_darklilysgrin,D-ark L-ily's Grin,,cg,,,unit,,2023-09-10,SoL DAY2,false,(UNIT)モノクロームリリィ
+s_halloweengame,HALLOWEEN GAME,,cg,,,unit,,2023-10-19,デレステイベント,false,(UNIT)パンプキンプリン
+s_cg_1pnbtsq,とくとく…… とく……,,cg,,cg_x017,solo,,2023-10-25,U149BD4巻,false,(ソロ)佐城雪美
+s_cg_0u15ex9,おめざめめーめー,,cg,,cg_x046,solo,,2023-10-25,U149BD4巻,false,(ソロ)遊佐こずえ
+s_script,読んで！甘辛Script,,cg,,cg_kanako,solo,,2023-11-01,PLATINUM NUMBER 11,false,(ソロ)三村かな子
+s_cg_12tiwhj,この恋の解を答えなさい,,cg,,,unit,,2023-11-19,デレステイベント,false,(選挙SfC)GroupD BEST5
+s_teeenagegroovin,Teeenage☆Groovin',,cg,,,unit,,2023-11-29,デレステイベント,false,(UNIT)LINK-RING
+s_winterandwindow,WINTER and WINDOW,,cg,,,unit,,2023-12-20,デレステイベント,false,(選挙SfC)本選 BEST5
+s_cometoyou,Come to you,,cg,,,unit,,2024-01-01,デレステイベント,false,(UNITツアーテーマ曲)
+s_cg_0p89oe7,碧空ノ一路,,cg,,cg_x050,solo,,2024-01-17,HEART TICKER! 02,false,(ソロ)脇山珠美
+s_cg_1gvd7v9,ワタシ御伽ばなシ,,cg,,,unit,,2024-01-30,デレステイベント,false,(UNIT)ファブラ・フォリオ
+s_cg_01c2bz8,ミステリーハート,,cg,,,unit,,2024-02-03,ConnecTrip山形昼公演,false,(UNIT)FrenchKisS
+s_cg_0bv2m11,スバル,,cg,,,unit,,2024-02-28,デレステイベント,false,(UNIT)プロローグノーツ
+s_cg_12uivhi,書きかけのラブレター,,cg,,,unit,,2024-03-10,ConnecTrip岩手昼公演,false,(UNIT)ワンステップス
+s_cg_0swjks9,ジュビリー,,cg,,cg_kaede,unit,collab,2024-03-22,星街すいせい6周年記念LIVE,false,"(コラボ)すいせい,高垣楓"
+s_clockhands,Clock Hands,,cg,,cg_x020,solo,,2024-04-06,ConnecTrip大阪昼公演,false,(ソロ)白雪千夜
+s_cg_1pmcxmy,神様！絶対だよ,,cg,,,unit,,2024-04-30,デレステイベント,false,(UNIT)Innocent Drops
+s_dynamitefevermegamix,DYNAMITE FEVER MEGAMIX,,cg,,cg_sanae,solo,,2024-05-15,HEART TICKER! 06,false,(ソロ)片桐早苗
+s_wanna,青春のWanna!,,cg,,cg_x014,solo,,2024-05-19,ConnecTrip福岡昼公演,false,(ソロ)小関麗奈
+s_maharajapaaan,アッパレ♪Mahara★Japaaan!,,cg,,,unit,,2024-05-19,ConnecTrip福岡昼公演,false,(UNIT)セクシーギルティ
+s_cg_1qe0hgl,あの子が街に来なサンタ,,cg,,cg_x004,solo,,2024-05-28,Celebration Night,false,(ソロ)イヴ・サンタクロース
+s_cg_12bn4eu,流星浪漫,,cg,,,unit,,2024-05-30,デレステイベント,false,(UNIT)星纏天女
+s_enishi,Enishi,,cg,,,unit,,2024-06-16,ConnecTrip石川昼公演,false,(UNIT)羽衣小町
+s_merrywarmbodies,Merry Warm Bodies,,cg,,cg_koume,solo,,2024-06-16,ConnecTrip石川夜公演,false,(ソロ)白坂小梅
+s_cg_1dx6i6i,バラカストーリア 〜月と太陽に祝福を〜,,cg,,,unit,,2024-06-28,デレステイベント,false,(UNIT)ソル・カマル
+s_cg_1vfd3xk,モラトリアム,,cg,,,unit,,2024-07-29,デレステイベント,false,(UNIT)リアンコリック
+s_cg_185ybyh,にんぎょひめ練習中！,,cg,,cg_x002,solo,,2024-08-21,CINDERELLA MASTER 068,false,(ソロ)浅利七海
+s_fantasiaforthegirls,Fantasia for the Girls,,cg,,,unit,,2024-08-30,デレステイベント,false,(デレステ9周年)
+s_fine,Fin[e]〜美しき終焉〜,,cg,,,unit,,2024-09-14,STARLIGHT FANTASY D1,false,(UNIT)MedeN
+s_ephemeralarow,EPHEMERAL AЯROW,,cg,,,unit,,2024-09-15,STARLIGHT FANTASY D2,false,(UNIT)XENOЯOS
+s_darkness,Darkness,,cg,,cg_hotaru,solo,,2024-11-13,HEART TICKER! 11,false,(ソロ)白菊ほたる
+s_wewishyoursmile,We wish your smile,,cg,,,unit,,2024-11-29,デレステイベント,false,(UNIT)メリー・ベル
+s_cg_0h0ehuj,スマイルファンタジー,,cg,,,unit,,2025-01-01,デレステイベント,false,(UNIT)＼ゴライコー ! ／
+s_cg_1n4al49,熱情エナモラル,,cg,,,unit,,2025-01-22,Passion jewelries004,false,jewelries! 004(Passion曲)
+s_cg_1tcwg8j,イーリャンサンキュー,,cg,,,unit,,2025-01-30,デレステイベント,false,(UNIT)天真飯店
+s_cg_04ctbv1,スターライトステージ,,cg,,,unit,,2025-02-27,デレステイベント,false,(デレステ10周年ツアーテーマ曲)
+s_cg_1b3zt25,メサイア,,cg,,cg_hijiri,solo,,2025-03-09,デレステ10th大阪D2,false,(ソロ)望月聖
+s_cg_05qdhsl,禍魂朧夜,,cg,,,unit,,2025-03-28,デレステイベント,false,(UNIT)黒百合夜叉
+s_cosmocosme,Cosmo Cosme,,cg,,cg_mika,solo,,2025-04-16,CRYSTAL QUALIA 04,false,(ソロ)城ヶ崎美嘉
+s_morgana,Morgana,,cg,,,unit,,2025-04-28,デレステイベント,false,(UNIT)ファタ・モルガーナ
+s_numberless,Numberless,,cg,,cg_x007,solo,,2025-05-14,CINDERELLA MASTER 070,false,(ソロ)大石泉
+s_alflaylawalayla,千夜一夜(Alf Layla wa Layla),,cg,,cg_x048,solo,,2025-05-14,CINDERELLA MASTER 072,false,(ソロ)ライラ
+s_cg_1b8ewng,さいきっく☆うぉんちゅー！,,cg,,cg_yuko,solo,,2025-05-21,CRYSTAL QUALIA 05,false,(ソロ)堀裕子
+s_cg_1tkwfzl,オトメゴコロ更新中,,cg,,,unit,,2025-05-29,デレステイベント,false,(UNIT)ハートリット
+s_coffretcomet,Coffret Comet,,cg,,cg_rika,solo,,2025-06-11,CRYSTAL QUALIA 06,false,(ソロ)城ヶ崎莉嘉
+s_cg_18enog3,ひだまりの中で,,cg,,cg_miho,solo,,2025-06-28,SS10th福岡DAY1,false,(ソロ)小日向美穂
+s_cg_186z0pr,がおちゅー♪さふぁりぱーく！,,cg,,,unit,,2025-07-28,デレステイベント,false,(UNIT)がおがおわんだぁ
+s_everafter,EVERAFTER,,cg,,,unit,,2025-09-03,デレステイベント,false,(デレステ10周年)
+s_cg_0ig048h,もしも「カワイイ」が世界からなくなっても,,cg,,,unit,,2025-10-24,3DCG動画公開,false,(UNIT)カワスウィーティーなボクはぁと(仮)
+s_cg_0e2wx1k,恒久のユニバース,,cg,,,unit,,2025-11-15,リリックビデオ公開,false,(UNIT)BRIGHT:LIGHTS
+s_neonsphere,Neon Sphere,,cg,,cg_syuko;cg_mika;cg_shiki2;cg_kanade;cg_nao,unit,,2025-11-21,LiPPS新曲発表ミニライブ,false,(UNIT)LiPPS
+s_cg_13zqwze,クロス×オーバー！,,cg,,cg_uzuki;cg_rin;cg_mio,unit,,2025-11-30,第4公演 Ever Starlight,false,"(UNIT)new generations,#UNICUS"
+s_cg_1ysz0uj,そのままで,,cg,,cg_nana,solo,,2025-12-10,CRYSTAL QUALIA 11,false,(ソロ)安部菜々
+s_no1,シンデレラNo.1,,cg,,,unit,,2026-03-11,デレパ 590回,false,(総選挙応援楽曲)
+s_rose,ROSE 〜禁じられた愛〜,,cg,,,unit,,2026-07-01,MASTER NUMBER ONE,false,(総選挙応援楽曲)
+s_cg_14nlqxz,大好きのブーケ,,cg,,,unit,,2026-07-29,MV公開,false,(総選挙応援楽曲)
+s_poppinparapong,Poppin' para Pong!,,cg,,cg_nina,unit,,2026-08-13,『Pop'n ToyBox!!』,false,"(xR)みりあ,仁奈,法子"
+s_cookiedough,Cookie Dough,,cg,,cg_kaede;cg_miyu,unit,,2026-08-13,『Pop'n ToyBox!!』,false,"(xR)楓,美優,亜季"
+s_cg_00qvfif,すりーぷすきっぷ,,cg,,,unit,,2026-08-26,CD発売,false,(総選挙応援楽曲)
+s_765as_10d695k,蒼い鳥,,765as,,765as_chihaya,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)如月千早
+s_firststage,First Stage,,765as,,765as_yukiho,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)萩原雪歩
+s_herewego,Here we go!!,,765as,,765as_iori,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)水瀬伊織
+s_902pm,9:02pm,,765as,,765as_azusa,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)三浦あずさ
+s_765as_04w95th,太陽のジェラシー,,765as,,765as_haruka,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)天海春香
+s_765as_0g3r6tw,おはよう！！朝ご飯,,765as,,765as_yayoi,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)高槻やよい
+s_765as_1lzgvkp,魔法をかけて！,,765as,,765as_ritsuko,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)秋月律子
+s_765as_1wqprrg,エージェント夜を往く,,765as,,765as_makoto,solo,,2005-07-26,アーケード版稼働日,false,(ソロ)菊地真
+s_765as_01wogu2,ポジティブ！,,765as,,765as_ami;765as_mami,unit,,2005-07-26,アーケード版稼働日,false,"(-)双海亜美,双海真美"
+s_theidolmster,THE IDOLM@STER,,765as,,,all,,2005-07-26,アーケード版稼働日,false,(全員曲・アーケード)
+s_gomyway,GO MY WAY!!,,765as,,,all,,2006-07-23,765AS1st新木場,false,(全員曲・Xbox360)
+s_relations,relations,,765as,,,all,,2006-09-23,TGS2006,false,(全員曲・Xbox360)
+s_765as_09fmqny,私はアイドル♡,,765as,,,all,,2006-12-20,MW00,false,(全員曲・Xbox360)
+s_birthday_2,神さまのBirthday,,765as,,765as_miki;765as_haruka;765as_chihaya,unit,,2006-12-20,MW00,false,"(C/W・MW)美希,春香,千早"
+s_765as_1qeqw2i,思い出をありがとう,,765as,,,all,,2007-01-25,Xbox360版発売日,false,(全員曲・Xbox360)
+s_mybestfriend,My Best Friend,,765as,,,all,,2007-01-25,Xbox360版発売日,false,(全員曲・Xbox360)
+s_765as_1rh5ojr,まっすぐ,,765as,,,all,,2007-01-25,Xbox360版発売日,false,(全員曲・Xbox360)
+s_765as_1thtbr8,i,,765as,,,all,,2007-07-18,MA01,false,(全員曲・MA1)
+s_765as_1ewun46,キラメキラリ,,765as,,765as_yayoi,solo,,2007-07-18,MA02,false,(ソロ)高槻やよい
+s_iwant,I Want,,765as,,765as_haruka,solo,,2007-07-18,MA01,false,(ソロ)天海春香
+s_765as_0cs3uhv,ふるふるフューチャー☆,,765as,,765as_miki,solo,,2007-08-01,MA03,false,(ソロ)星井美希
+s_mind,迷走Mind,,765as,,765as_makoto,solo,,2007-08-01,MA04,false,(ソロ)菊地真
+s_765as_0z1h8sy,目が逢う瞬間,,765as,,765as_chihaya,solo,,2007-08-22,MA05,false,(ソロ)如月千早
+s_765as_1ygb16r,スタ→トスタ→,,765as,,765as_ami;765as_mami,unit,,2007-08-22,MA06,false,"(-)双海亜美,双海真美"
+s_765as_06ef4dj,隣に…,,765as,,765as_azusa,solo,,2007-09-05,MA07,false,(ソロ)三浦あずさ
+s_765as_0gyyy0n,フタリの記憶,,765as,,765as_iori,solo,,2007-09-05,MA08,false,(ソロ)水瀬伊織
+s_765as_15l8a85,いっぱいいっぱい,,765as,,765as_ritsuko,solo,,2007-09-19,MA10,false,(ソロ)秋月律子
+s_kosmoscosmos,"Kosmos, Cosmos",,765as,,765as_yukiho,solo,,2007-10-03,MA09,false,(ソロ)萩原雪歩
+s_765as_163szvq,団結,,765as,,,all,,2007-10-18,ビューティフル塊魂,false,(全員曲)
+s_765as_1yw5ep9,空,,765as,,765as_kotori,solo,,2007-10-24,MA FINALE,false,(ソロ)音無小鳥
+s_idol,ID:[OL],,765as,,765as_kotori,solo,,2007-10-24,MA FINALE,false,(ソロ)音無小鳥
+s_765as_05sigqy,メリー,,765as,,765as_haruka;765as_chihaya;765as_yayoi;765as_makoto;765as_miki,unit,,2007-12-19,C4U,false,"(シーズン)春香,千早,やよい,真,美希"
+s_shinysmile,shiny smile,,765as,,,unit,,2008-01-18,LIVE For Press,false,(DLC・L4U)
+s_765as_1rrkinm,バレンタイン,,765as,,765as_miki;765as_ami;765as_mami,unit,,2008-01-18,LIVE For Press,false,"(C/W・ML)美希,亜美,真美"
+s_765as_0m6b6hy,いっしょ,,765as,,765as_haruka;765as_yayoi;765as_miki;765as_azusa;765as_ami;765as_mami,unit,,2008-03-05,ML01,false,"(C/W・ML)春香,やよい,美希,あずさ,亜美,真美"
+s_labyrinth,Labyrinth,,765as,,765as_yayoi,solo,,2008-03-25,ファミソン8BIT01,false,(ソロ)高槻やよい
+s_765as_1bky309,L＜＞R,,765as,,765as_ami;765as_mami,unit,,2008-03-25,ファミソン8BIT01,false,"(-)双海亜美,双海真美"
+s_765as_0zlj53z,強い女,,765as,,765as_haruka,solo,,2008-04-02,ファミソン8BIT02,false,(ソロ)天海春香
+s_shooting,Shooting!!!,,765as,,765as_miki,solo,,2008-04-02,ファミソン8BIT02,false,(ソロ)星井美希
+s_itsshow,It's Show,,765as,,765as_chihaya;765as_iori;765as_ritsuko;765as_makoto;765as_yukiho;765as_kotori,unit,,2008-04-16,ML02,false,"(C/W・ML)千早,伊織,律子,真,雪歩,小鳥"
+s_towerofadventure,Tower of Adventure,,765as,,765as_ritsuko,solo,,2008-04-23,ファミソン8BIT03,false,(ソロ)秋月律子
+s_765as_1kmmai3,禁恋歌,,765as,,765as_azusa,solo,,2008-04-23,ファミソン8BIT03,false,(ソロ)三浦あずさ
+s_dodai,Do-Dai,,765as,,,unit,,2008-04-30,L4U DLC,false,(DLC・L4U)
+s_yes,YES♪,,765as,,765as_haruka;765as_makoto,unit,,2008-05-14,ML03,false,"(C/W・ML)春香,真"
+s_excavate,EXCAVATE,,765as,,765as_yukiho,solo,,2008-05-28,ファミソン8BIT04,false,(ソロ)萩原雪歩
+s_765as_1sqy4xb,ハリキリ★ラリー,,765as,,765as_makoto,solo,,2008-05-28,ファミソン8BIT04,false,(ソロ)菊地真
+s_mysong,my song,,765as,,,unit,,2008-05-28,L4U DLC,false,(DLC・L4U)
+s_inferno,inferno,,765as,,765as_chihaya;765as_yukiho,unit,,2008-06-18,ML04,false,"(C/W・ML)千早,雪歩"
+s_765as_0h74h0o,乙女心盗んで！,,765as,,765as_iori,solo,,2008-06-25,ファミソン8BIT05,false,(ソロ)水瀬伊織
+s_flyhigh,Fly High!,,765as,,765as_chihaya,solo,,2008-06-25,ファミソン8BIT05,false,(ソロ)如月千早
+s_765as_0t7ksp3,サニー,,765as,,765as_ami;765as_mami;765as_azusa;765as_iori;765as_yukiho;765as_ritsuko,unit,,2008-07-23,V4U,false,"(シーズン)亜美,真美,あずさ,伊織,雪歩,律子"
+s_colorfuldays,Colorful Days,,765as,,,all,,2008-10-11,TGS2008,false,(全員曲・SP)
+s_765as_0l41xup,シャララ,,765as,,765as_azusa;765as_ritsuko,unit,,2008-10-29,ML ENCORE,false,"(C/W・ML)あずさ,律子"
+s_765as_1dqoyos,花,,765as,,765as_kotori,solo,,2008-10-29,ML ENCORE,false,(ソロ)音無小鳥
+s_765as_1jctvx7,スキ,,765as,,765as_haruka;765as_chihaya;765as_ami,unit,,2008-12-10,MS765,false,"(C/W・MS)春香,千早,亜美"
+s_765as_18pabse,ストレートラブ！,,765as,,,unit,,2008-12-25,Eternal Prism01,false,(ドラマ・EP)
+s_lobm,L・O・B・M,,765as,,,all,,2009-01-17,MS961シクレ,false,(全員曲・MS)
+s_765as_0jrjjeg,白い犬,,765as,,,unit,,2009-01-23,Eternal Prism02,false,(ドラマ・EP)
+s_765as_0sjai7d,乙女よ大志を抱け！！,,765as,,765as_haruka,solo,,2009-02-04,MS01,false,(ソロ)天海春香
+s_765as_0e62b1l,ゲンキトリッパー,,765as,,765as_yayoi,solo,,2009-02-04,MS01,false,(ソロ)高槻やよい
+s_meltedsnow,Melted Snow,,765as,,,unit,,2009-02-25,Eternal Prism03,false,(ドラマ・EP)
+s_live,livE,,765as,,765as_ritsuko,solo,,2009-03-04,MS02,false,(ソロ)秋月律子
+s_765as_12kw6vn,黎明スターライン,,765as,,765as_ami;765as_mami,unit,,2009-03-04,MS02,false,"(-)双海亜美,双海真美"
+s_arcadia,arcadia,,765as,,765as_chihaya,solo,,2009-04-01,MS03,false,(ソロ)如月千早
+s_nextlife,Next Life,,765as,,765as_hibiki,solo,,2009-04-01,MS03,false,(ソロ)我那覇響
+s_alright,ALRIGHT*,,765as,,765as_yukiho,solo,,2009-05-13,MS04,false,(ソロ)萩原雪歩
+s_765as_0za1sbd,フラワーガール,,765as,,765as_takane,solo,,2009-05-13,MS04,false,(ソロ)四条貴音
+s_mythmaker,Mythmaker,,765as,,765as_azusa,solo,,2009-05-30,765AS4th東京,false,(ソロ)三浦あずさ
+s_765as_168eu4l,自転車,,765as,,765as_makoto,solo,,2009-07-01,MS05,false,(ソロ)菊地真
+s_765as_1ov71rm,キミはメロディ,,765as,,,unit,,2009-07-23,765AS4th大阪,false,(DLC・SP)
+s_765as_01mbphu,ショッキングな彼,,765as,,765as_miki,solo,,2009-08-05,MS06,false,(ソロ)星井美希
+s_765as_0cb6rw0,リゾラ,,765as,,765as_iori,solo,,2009-08-05,MS06,false,(ソロ)水瀬伊織
+s_765as_1vw6xud,またね,,765as,,,unit,,2009-09-26,TGS2009,false,(DLC・SP)
+s_largesizeparty,Large Size Party,,765as,,765as_azusa;765as_takane;765as_chihaya,unit,,2009-12-16,MS WINTER,false,"(シーズン)あずさ,貴音,千早"
+s_765as_0jdvs4w,あったかな雪,,765as,,765as_miki;765as_yayoi;765as_ami;765as_mami,unit,,2009-12-16,MS WINTER,false,"(シーズン)美希,やよい,亜美,真美"
+s_765as_1je5mfb,チェリー,,765as,,765as_haruka;765as_iori;765as_hibiki;765as_ritsuko;765as_makoto;765as_yukiho,unit,,2010-03-17,MS SPRING,false,"(シーズン)春香,伊織,響,律子,真,雪歩"
+s_765as_1fx8o5s,笑って！,,765as,,765as_haruka,solo,,2010-03-17,MS SPRING,false,(ソロ)天海春香
+s_virginload,Virgin Load,,765as,,765as_makoto;765as_miki;765as_takane,unit,,2010-04-21,Vocal Collection 02,false,"(VC)真,美希,貴音"
+s_765as_12z5yz0,仲良しでいようね♡,,765as,,765as_yayoi;765as_iori,unit,,2010-04-21,Vocal Collection 02,false,"(VC)やよい,伊織"
+s_the,THE 愛,,765as,,765as_haruka;765as_makoto;765as_yayoi;765as_hibiki;876_ai,unit,,2010-05-12,765+876 01,false,"(765+876)春香,真,やよい,響,日高愛"
+s_dream,DREAM,,765as,,765as_yukiho;765as_ritsuko;765as_miki;765as_takane;876_ryo,unit,,2010-06-02,765+876 02,false,"(765+876)雪歩,律子,美希,貴音,秋月涼"
+s_lost,LOST,,765as,,765as_chihaya;765as_azusa;765as_iori;765as_ami;765as_mami;876_eri,unit,,2010-06-23,765+876 03,false,"(765+876)千早,あずさ,伊織,亜美,真美,水谷絵理"
+s_theworldisallone,The world is all one !!,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2010-07-03,765AS5th1日目,false,(全員曲・アイマス2)765PRO ALLSTARS
+s_smokythrill,SMOKY THRILL,,765as,,765as_ami;765as_iori;765as_ritsuko;765as_azusa,unit,,2010-09-18,TGS2010,false,(UNIT)竜宮小町
+s_2010,団結2010,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2010-09-22,MA2 Prologue,false,(全員曲)765PRO ALLSTARS
+s_765as_1kp1yzo,光,,765as,,765as_kotori,solo,,2010-09-22,MA2 Prologue,false,(ソロ)音無小鳥
+s_start,START!!,,765as,,765as_haruka,solo,,2010-11-03,MA2 FS01,false,(ソロ)天海春香
+s_megare,MEGARE!,,765as,,,all,,2010-11-03,MA2 FS01,false,(全員曲・MA2)
+s_trialdance,TRIAL DANCE,,765as,,765as_hibiki,solo,,2010-11-03,MA2 FS02,false,(ソロ)我那覇響
+s_dayofthefuture,Day of the future,,765as,,765as_miki,solo,,2010-11-03,MA2 FS03,false,(ソロ)星井美希
+s_tear,tear,,765as,,765as_makoto,solo,,2010-12-01,MA2 FS04,false,(ソロ)菊地真
+s_765as_06516fm,風花,,765as,,765as_takane,solo,,2010-12-01,MA2 FS06,false,(ソロ)四条貴音
+s_765as_07un66k,眠り姫,,765as,,765as_chihaya,solo,,2010-12-08,MA2 FS05,false,(ソロ)如月千早
+s_765as_1yqfoib,何度も言えるよ,,765as,,765as_yukiho,solo,,2010-12-29,MA2 FS07,false,(ソロ)萩原雪歩
+s_765as_0nxvcqr,ジェミー,,765as,,765as_mami,solo,,2010-12-29,MA2 FS08,false,(ソロ)双海真美
+s_765as_1n54kyz,スマイル体操,,765as,,765as_yayoi,solo,,2010-12-29,MA2 FS09,false,(ソロ)高槻やよい
+s_765as_09csbul,恋するミカタ,,765as,,765as_ritsuko,solo,,2011-02-09,SMOKY THRILL,false,(ソロ)秋月律子
+s_765as_0jqujd3,チクタク,,765as,,765as_miki;765as_yukiho;765as_yayoi,unit,,2011-02-09,SMOKY THRILL,false,"(C/W・ST)美希,雪歩,やよい"
+s_littlematchgirl,Little Match Girl,,765as,,,unit,,2011-02-24,アイマス2(360)DLC,false,(DLC・アイマス2)
+s_firststep,First Step,,765as,,765as_yukiho,solo,,2011-02-24,アイマス2(Xbox360),false,(ソロ)萩原雪歩
+s_honeyheartbeat,Honey Heartbeat,,765as,,,unit,,2011-04-01,アイマス2(360)DLC,false,(DLC・アイマス2)
+s_765as_1ifgqom,ぷちどるのうた,,765as,,,unit,,2011-04-27,ぷちますドラマCD1,false,(ぷちます)
+s_like,愛 LIKE ハンバーガー,,765as,,,unit,,2011-04-28,アイマス2(360)DLC,false,(DLC・アイマス2)
+s_diamond,DIAMOND,,765as,,765as_iori,solo,,2011-05-25,MA2 SS01,false,(ソロ)水瀬伊織
+s_youmy,YOU往MY進！,,765as,,765as_ami,solo,,2011-05-25,MA2 SS02,false,(ソロ)双海亜美
+s_765as_1wk61fu,きゅんっ！ヴァンパイアガール,,765as,,,unit,,2011-06-01,アイマス2(360)DLC,false,(DLC・アイマス2)
+s_765as_1tpdcnf,ラ♥ブ♥リ♥,,765as,,765as_azusa,solo,,2011-06-22,MA2 SS03,false,(ソロ)三浦あずさ
+s_love_3,LOVEオーダーメイド,,765as,,765as_ritsuko,solo,,2011-06-22,MA2 SS04,false,(ソロ)秋月律子
+s_ready,READY!!,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,anime,2011-06-25,765AS6th東京,false,(全員曲・アニメ)765PRO ALLSTARS
+s_summer,神SUMMER!!,,765as,,765as_haruka;765as_yayoi;765as_ami;765as_mami;765as_yukiho;765as_iori;765as_takane,unit,anime,2011-08-05,アニメ5話,false,"(アニメ)春香,やよい,亜美,真美,雪歩,伊織,貴音"
+s_moony,MOONY,,765as,,765as_chihaya;765as_azusa;765as_makoto;765as_miki;765as_hibiki;765as_ritsuko,unit,anime,2011-08-05,アニメ5話,false,"(アニメ)千早,あずさ,真,美希,響,律子"
+s_765as_0cyq15o,おとなのはじまり,,765as,,765as_iori;765as_yayoi;765as_ami;765as_mami,unit,anime,2011-08-10,AM01,false,"(アニメ)伊織,やよい,亜美,真美"
+s_765as_0s6awth,おもいでのはじまり,,765as,,765as_haruka;765as_yukiho;765as_makoto,unit,anime,2011-08-10,AM01,false,"(アニメ)春香,雪歩,真"
+s_765as_1x56k9p,晴れ色,,765as,,765as_azusa,solo,anime,2011-08-26,アニメ8話,false,(ソロ)三浦あずさ
+s_765as_0rfjg19,ハニカミ！ファーストバイト,,765as,,765as_ami;765as_iori;765as_ritsuko;765as_azusa,unit,anime,2011-08-26,アニメ8話,false,(UNIT)竜宮小町
+s_765as_1pbe8rs,マリオネットの心,,765as,,765as_miki,solo,anime,2011-09-30,アニメ13話,false,(ソロ)星井美希
+s_restrt,自分REST@RT,,765as,,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_mami;765as_takane;765as_hibiki,unit,anime,2011-09-30,アニメ13話,false,"(アニメ)春香,美希,千早,やよい,雪歩,真,真美,貴音,響"
+s_change,CHANGE!!!!,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,anime,2011-10-07,アニメ14話,false,(全員曲・アニメ)765PRO ALLSTARS
+s_765as_11jd78b,うれし・あやかし道中記,,765as,,765as_hibiki,solo,,2011-10-19,ファミソン8BITベスト,false,(ソロ)我那覇響
+s_765as_08e86ly,旅の途中で,,765as,,765as_takane,solo,,2011-10-19,ファミソン8BITベスト,false,(ソロ)四条貴音
+s_765as_0gis3w3,飛べ！スカイキッド,,765as,,765as_kotori,solo,,2011-10-19,ファミソン8BITベスト,false,(ソロ)音無小鳥
+s_brandnewday,Brand New Day!,,765as,,765as_hibiki,solo,anime,2011-10-21,アニメ16話,false,(ソロ)我那覇響
+s_imsofree,I'm so free!,,765as,,765as_miki;765as_azusa;765as_takane,unit,anime,2011-10-27,PERFECT IDOL01,false,"(アニメ)美希,あずさ,貴音"
+s_765as_075qgo1,七彩ボタン,,765as,,765as_ami;765as_iori;765as_ritsuko;765as_azusa,unit,,2011-10-27,アイマス2(PS3),false,(UNIT)竜宮小町
+s_765as_16p1x0m,チアリングレター,,765as,,765as_makoto,solo,anime,2011-10-28,アニメ17話,false,(ソロ)菊地真
+s_wejuststarted,We just started,,765as,,765as_miki;765as_takane;765as_ritsuko,unit,anime,2011-11-09,AM04,false,"(アニメ)美希,貴音,律子"
+s_765as_0rhe8hy,今 スタート！,,765as,,765as_chihaya;765as_azusa;765as_hibiki,unit,anime,2011-11-09,AM04,false,"(アニメ)千早,あずさ,響"
+s_765as_1nzrf50,約束,,765as,,765as_chihaya,solo,anime,2011-11-18,アニメ20話,false,(ソロ)如月千早
+s_mywish,My Wish,,765as,,765as_miki;765as_yayoi;765as_yukiho;765as_makoto;765as_iori;765as_ritsuko,unit,anime,2011-12-02,アニメ22話,false,"(アニメ)美希,やよい,雪歩,真,伊織,律子"
+s_happychristmas,Happy Christmas,,765as,,765as_haruka;765as_chihaya;765as_ami;765as_mami;765as_azusa;765as_takane;765as_hibiki,unit,anime,2011-12-02,アニメ22話,false,"(アニメ)春香,千早,亜美,真美,あずさ,貴音,響"
+s_765as_0ejryrx,さよならをありがとう,,765as,,765as_haruka,solo,anime,2011-12-16,アニメ24話,false,(ソロ)天海春香
+s_765as_1snprhs,私たちはずっと…でしょう？,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,anime,2011-12-23,アニメ25話,false,(全員曲・アニメ)765PRO ALLSTARS
+s_765as_1gk9a0f,コーヒー1杯のイマージュ,,765as,,765as_makoto;765as_ami;765as_mami;765as_hibiki,unit,anime,2011-12-29,PERFECT IDOL02,false,"(アニメ)真,亜美,真美,響"
+s_765as_0x92otx,見つめて,,765as,,765as_yukiho;765as_takane,unit,anime,2012-02-01,AM07,false,"(アニメ)雪歩,貴音"
+s_765as_0nveofx,君のままで,,765as,,765as_haruka;765as_yukiho;765as_ritsuko,unit,anime,2012-02-23,PERFECT IDOL03,false,"(アニメ)春香,雪歩,律子"
+s_slapphappy,Slapp Happy!!!,,765as,,765as_chihaya;765as_yayoi;765as_iori,unit,anime,2012-04-26,PERFECT IDOL04,false,"(アニメ)千早,やよい,伊織"
+s_wehaveadream,We Have A Dream,,765as,,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_hibiki,unit,,2012-07-01,LIVE in SLOT,false,"(LiS)春香,美希,千早,やよい,雪歩,響"
+s_765as_0646d63,初恋 〜一章 片想いの桜〜,,765as,,765as_miki;765as_takane;765as_hibiki,unit,,2012-08-15,生っすかSP01,false,"(組曲)美希,貴音,響"
+s_765as_13uni40,初恋 〜二章 告白の花火〜,,765as,,765as_iori;765as_azusa;765as_ami,unit,,2012-09-05,生っすかSP02,false,"(組曲)伊織,あずさ,亜美"
+s_music,MUSIC♪,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2012-09-22,TGS2012,false,(全員曲・SF)765PRO ALLSTARS
+s_eden,edeN,,765as,,765as_miki;765as_yukiho;765as_makoto;765as_takane,unit,,2012-09-22,TGS2012,false,"(SF)美希,雪歩,真,貴音"
+s_vaultthatborderline,Vault That Borderline!,,765as,,765as_haruka;765as_chihaya;765as_azusa;765as_ritsuko,unit,,2012-09-22,TGS2012,false,"(SF)春香,千早,あずさ,律子"
+s_765as_0tyu2w5,ビジョナリー,,765as,,765as_yayoi;765as_ami;765as_mami;765as_iori;765as_hibiki,unit,,2012-09-22,TGS2012,false,"(SF)やよい,亜美,真美,伊織,響"
+s_765as_1xc9e9d,初恋 〜三章 幸せの紅葉〜,,765as,,765as_ritsuko;765as_yayoi,unit,,2012-09-26,生っすかSP03,false,"(組曲)律子,やよい"
+s_765as_1t7kelk,初恋 〜四章 運命のイヴ〜,,765as,,765as_haruka;765as_makoto;765as_mami,unit,,2012-10-17,生っすかSP04,false,"(組曲)春香,真,真美"
+s_765as_1sajhrw,初恋 〜五章 永遠のクリスマス〜,,765as,,765as_chihaya;765as_yukiho,unit,,2012-11-07,生っすかSP05,false,"(組曲)千早,雪歩"
+s_765as_0kwac2i,ら♪ら♪ら♪わんだぁらんど,,765as,,,all,,2012-11-28,ぷちどるCD,false,(全員曲・ぷちます)
+s_yesterdays,あ・り・が・と・YESTERDAYS,,765as,,,unit,,2013-01-01,ぷちます!で放映,false,(ぷちます)
+s_princesssnowwhite,Princess Snow White,,765as,,765as_takane,solo,,2013-01-09,12Seasons01,false,(ソロ)四条貴音
+s_maybetomorrow,Maybe TOMORROW,,765as,,,unit,,2013-01-09,12Seasons01,false,(ぷちます)
+s_chocofondue,choco fondue,,765as,,765as_chihaya,solo,,2013-01-09,12Seasons02,false,(ソロ)如月千早
+s_todaywithme,TODAY with ME,,765as,,,unit,,2013-01-09,12Seasons02,false,(ぷちます)
+s_765as_13kebkb,まほろば,,765as,,765as_yayoi,solo,,2013-01-30,12Seasons03,false,(ソロ)高槻やよい
+s_switchon,SWITCH ON,,765as,,765as_haruka,solo,,2013-01-30,12Seasons04,false,(ソロ)天海春香
+s_765as_1y9yljb,幸,,765as,,765as_kotori,solo,,2013-01-30,生SPカーテンコール,false,(ソロ)音無小鳥
+s_765as_1vkzfqz,カーテンコール,,765as,,765as_makoto;765as_ami;765as_mami;765as_iori;765as_azusa;765as_takane;765as_ritsuko,unit,,2013-01-30,生SPカーテンコール,false,"(C/W・AM)真,亜美,真美,伊織,あずさ,貴音,律子"
+s_765as_03rwxfp,ドキッ♥ラブアトラクション,,765as,,765as_ami;765as_mami,unit,,2013-02-06,12Seasons05,false,"(-)双海亜美,双海真美"
+s_weddingbell,WEDDING BELL,,765as,,765as_ritsuko,solo,,2013-02-06,12Seasons06,false,(ソロ)秋月律子
+s_zoneoffortune,zone of fortune,,765as,,765as_azusa,solo,,2013-02-27,12Seasons07,false,(ソロ)三浦あずさ
+s_765as_1thwh6d,ヨーイドン!!,,765as,,765as_makoto,solo,,2013-02-27,12Seasons08,false,(ソロ)菊地真
+s_765as_013f6jf,ロイヤルストレートフラッシュ,,765as,,765as_iori,solo,,2013-03-06,12Seasons09,false,(ソロ)水瀬伊織
+s_765as_01pm3lb,しあわせのレシピ,,765as,,765as_hibiki,solo,,2013-03-06,12Seasons10,false,(ソロ)我那覇響
+s_closetfashionlover,Closet Fashion Lover,,765as,,765as_miki,solo,,2013-03-27,12Seasons11,false,(ソロ)星井美希
+s_765as_1rsht36,ねがいひとつ,,765as,,765as_yukiho,solo,,2013-03-27,12Seasons12,false,(ソロ)萩原雪歩
+s_765as_1w8ehoa,待ち受けプリンス,,765as,,,unit,,2013-10-02,シャイニーTV,false,(シャイニーTV)
+s_msterpiece,M@STERPIECE,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,anime,2014-01-25,劇場版公開,false,(全員曲・アニメ)765PRO ALLSTARS
+s_765as_00r74oc,ラムネ色 青春,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,anime,2014-01-25,劇場版公開,false,(全員曲・アニメ)765PRO ALLSTARS
+s_765as_1qi3e18,虹色ミラクル,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,anime,2014-01-25,劇場版公開,false,(全員曲・アニメ)765PRO ALLSTARS
+s_fateoftheworld,Fate of the World,,765as,,765as_haruka;765as_miki;765as_chihaya,unit,anime,2014-01-25,劇場版公開,false,"(アニメ)春香,美希,千早"
+s_765as_0aue2ch,君が選ぶ道,,765as,,765as_kotori,solo,,2014-01-29,劇場版CD,false,(ソロ)音無小鳥
+s_765as_0e4hukg,♪（おんぷ）,,765as,,765as_kotori,solo,,2014-03-22,かんしゃさいCD,false,(ソロ)音無小鳥
+s_765as_1nl4rwo,オハヨ○サンシャイン,,765as,,,unit,,2014-04-01,ぷちます!!で放映,false,(ぷちます)
+s_765as_1soowms,1人ぼっちの歌,,765as,,,unit,,2014-04-16,ぷちます!!で放映,false,(ぷちます)
+s_765as_0hfxguv,ハロー＊ランチタイム,,765as,,,unit,,2014-04-30,ぷちます!!で放映,false,(ぷちます)
+s_onlymynote,ONLY MY NOTE,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2014-05-15,OFA,false,(全員曲・OFA)765PRO ALLSTARS
+s_destiny,Destiny,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2014-05-15,OFA,false,(全員曲・OFA)765PRO ALLSTARS
+s_765as_0llmbpo,カンゲキハッピーエコロジー,,765as,,765as_yayoi,solo,,2014-05-28,12Campaigns01,false,(ソロ)高槻やよい
+s_765as_0ndprts,エピソードラブ,,765as,,765as_iori,solo,,2014-05-28,12Campaigns01,false,(ソロ)水瀬伊織
+s_765as_1l8ab02,グッナイ☆スターズ,,765as,,,unit,anime,2014-05-28,ぷちます!!EDシングル,false,(ぷちます)
+s_765as_1csdw11,月ノ桜,,765as,,765as_takane,solo,,2014-06-04,12Campaigns02,false,(ソロ)四条貴音
+s_765as_1nuk2p5,天と海の島,,765as,,765as_hibiki,solo,,2014-06-04,12Campaigns02,false,(ソロ)我那覇響
+s_765as_0wiqnct,Q&A,,765as,,765as_ritsuko,solo,,2014-06-25,12Campaigns03,false,(ソロ)秋月律子
+s_765as_1qk5nae,前向きで行こう♪,,765as,,765as_haruka,solo,,2014-06-25,12Campaigns03,false,(ソロ)天海春香
+s_765as_068qsj6,キミ＊チャンネル,,765as,,,unit,,2014-06-25,OFA DLC,false,(DLC・OFA)
+s_765as_1s729p0,しっくりとゆっくりと,,765as,,765as_chihaya,solo,,2014-07-09,12Campaigns04,false,(ソロ)如月千早
+s_765as_1s706ub,たいせつなひと,,765as,,765as_makoto,solo,,2014-07-09,12Campaigns04,false,(ソロ)菊地真
+s_pururu,Pu-Ru-Ru,,765as,,765as_yukiho,solo,,2014-07-30,12Campaigns05,false,(ソロ)萩原雪歩
+s_765as_0sopvw9,チャンピオン,,765as,,765as_miki,solo,,2014-07-30,12Campaigns05,false,(ソロ)星井美希
+s_765as_1x6xcy9,どっきり☆ハピバ,,765as,,765as_ami;765as_mami,unit,,2014-08-06,12Campaigns06,false,"(-)双海亜美,双海真美"
+s_lookthesky,LOOK THE SKY,,765as,,765as_azusa,solo,,2014-08-06,12Campaigns06,false,(ソロ)三浦あずさ
+s_765as_16tkw1w,ステキハピネス,,765as,,765as_haruka,solo,,2014-08-26,OFA DLC,false,(ソロ)天海春香
+s_pondebeach,Pon De Beach,,765as,,765as_hibiki,solo,,2014-08-26,OFA DLC,false,(ソロ)我那覇響
+s_765as_0gulhiv,絶険、あるいは逃げられぬ恋,,765as,,765as_makoto,solo,,2014-08-26,OFA DLC,false,(ソロ)菊地真
+s_nostalgia,Nostalgia,,765as,,765as_miki,solo,,2014-08-26,OFA DLC,false,(ソロ)星井美希
+s_765as_0i9uxim,全力アイドル,,765as,,765as_iori,solo,,2014-08-26,OFA DLC,false,(ソロ)水瀬伊織
+s_765as_18ypnt1,ふたつの月,,765as,,765as_takane,solo,,2014-08-26,OFA DLC,false,(ソロ)四条貴音
+s_765as_1hm64i0,細氷,,765as,,765as_chihaya,solo,,2014-08-26,OFA DLC,false,(ソロ)如月千早
+s_765as_0pmbub0,放課後ジャンプ,,765as,,765as_mami,solo,,2014-08-26,OFA DLC,false,(ソロ)双海真美
+s_765as_1gcwlc3,あの日のナミダ,,765as,,765as_yukiho,solo,,2014-08-26,OFA DLC,false,(ソロ)萩原雪歩
+s_765as_0kvhlnh,プラ・ソニック・ラブ！,,765as,,765as_yayoi,solo,,2014-08-26,OFA DLC,false,(ソロ)高槻やよい
+s_765as_07tkq4k,コイ・ココロ,,765as,,765as_azusa,solo,,2014-08-26,OFA DLC,false,(ソロ)三浦あずさ
+s_angel,トリプルAngel,,765as,,765as_ami,solo,,2014-08-26,OFA DLC,false,(ソロ)双海亜美
+s_765as_1gqd600,私だって女の子,,765as,,765as_ritsuko,solo,,2014-08-26,OFA DLC,false,(ソロ)秋月律子
+s_99nights,99 Nights,,765as,,,unit,,2014-09-25,OFA DLC,false,(DLC・OFA)
+s_765as_17e0sbg,静かな夜に願いを…,,765as,,,unit,,2014-11-25,OFA DLC,false,(DLC・OFA)
+s_goodbyes,Good-Byes,,765as,,,unit,,2015-03-25,OFA DLC,false,(DLC・OFA)
+s_765as_15z3n26,マジで…！？,,765as,,,all,,2015-06-11,太鼓の達人へ配信日,false,(全員曲・太鼓の達人)
+s_happy,Happy!,,765as,,,all,,2016-07-20,PLATINUM MASTER 00,false,(全員曲・プラチナ)
+s_show,ザ・ライブ革命でSHOW！,,765as,,,all,,2016-07-20,プラチナスターズ,false,(全員曲・プラチナ)
+s_miraclenight,Miracle Night,,765as,,,unit,,2016-07-28,プラチナスターズDLC,false,(DLC・プラチナ)
+s_smokyfruits,SMOKY FRUITS,,765as,,765as_iori;765as_azusa;765as_ami,unit,,2016-08-17,PLATINUM MASTER 01,false,"(C/W・PM)伊織,あずさ,亜美"
+s_resistance,僕たちのResistance,,765as,,,unit,,2016-08-25,プラチナスターズDLC,false,(DLC・プラチナ)
+s_765as_083izl3,アマテラス,,765as,,,unit,,2016-10-05,プラチナスターズDLC,false,(DLC・プラチナ)
+s_765as_1bb7f5b,飛べない鳥は夜に鳴く,,765as,,765as_kotori,unit,,2016-10-19,PLATINUM MASTER 03,false,(C/W・PM)音無小鳥
+s_765as_1eqbxkr,紅白応援V,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2016-12-20,アイステニコ生,false,(全員曲)765PRO ALLSTARS
+s_bravestar,BRAVE STAR,,765as,,765as_haruka;765as_chihaya;765as_takane;765as_ritsuko,unit,anime,2017-08-22,MP RED,false,"(MPRR)春香,千早,貴音,律子"
+s_crimsonlovers,CRIMSON LOVERS,,765as,,765as_haruka;765as_chihaya,unit,anime,2017-08-22,MP RED,false,"(MPRR)春香,千早"
+s_765as_0p3xv0o,聖炎の女神,,765as,,765as_takane;765as_ritsuko,unit,anime,2017-08-22,MP RED,false,"(MPRR)貴音,律子"
+s_lightyearsong,Light Year Song,,765as,,765as_yayoi;765as_makoto;765as_ami;765as_mami;765as_hibiki,unit,,2017-10-18,MP BLUE,false,"(MPDB)やよい,真,亜美,真美,響"
+s_funnylogic,Funny Logic,,765as,,765as_yayoi;765as_ami;765as_mami,unit,,2017-10-18,MP BLUE,false,"(MPDB)やよい,亜美,真美"
+s_765as_164j6j9,ブルウ・スタア,,765as,,765as_makoto;765as_hibiki,unit,,2017-10-18,MP BLUE,false,"(MPDB)真,響"
+s_top,ToP!!!!!!!!!!!!!,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2017-12-21,ステラステージ,false,(全員曲・ステラ)765PRO ALLSTARS
+s_vertexmeister,Vertex Meister,,765as,,,unit,,2017-12-21,ステラステージDLC,false,(DLC・ステラ)
+s_shyshining,shy→shining,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2017-12-21,ステラステージ,false,(全員曲・ステラ)765PRO ALLSTARS
+s_765as_1fjsp3j,虹のデスティネーション,,765as,,765as_miki;765as_yukiho;765as_iori;765as_azusa,unit,,2017-12-22,MP YELLOW,false,"(MPPY)美希,雪歩,伊織,あずさ"
+s_dontworry,始めのDon't worry,,765as,,765as_miki;765as_iori,unit,,2017-12-22,MP YELLOW,false,"(MPPY)美希,伊織"
+s_lemonade,LEMONADE,,765as,,765as_yukiho;765as_azusa,unit,,2017-12-22,MP YELLOW,false,"(MPPY)雪歩,あずさ"
+s_765as_0fzoweq,星彩ステッパー,,765as,,,unit,,2018-01-11,ステラステージDLC,false,(DLC・ステラ)
+s_765as_07q58ky,そしてぼくらは旅にでる,,765as,,,unit,,2018-01-25,ステラステージDLC,false,(DLC・ステラ)
+s_infernosquaring,inferno SQUARING,,765as,,765as_chihaya;765as_yukiho,unit,,2018-02-07,STELLA MASTER01,false,"(C/W・SM)千早,雪歩"
+s_twistshout,恋するTwist＆Shout,,765as,,765as_yayoi;765as_ritsuko,unit,,2018-03-14,STELLA MASTER02,false,"(C/W・SM)やよい,律子"
+s_765as_0hqnzux,咲きませ！！乙女塾,,765as,,765as_haruka;765as_makoto;765as_mami,unit,,2018-04-18,STELLA MASTER03,false,"(C/W・SM)春香,真,真美"
+s_newmecontinued,"New Me, Continued",,765as,,,all,,2020-08-05,MASTER ARTIST4共通曲,false,(全員曲・MA4)
+s_imyours,I'm yours,,765as,,765as_haruka,solo,,2020-08-05,MASTER ARTIST4 01,false,(ソロ)天海春香
+s_765as_0m7qo1k,炎ノ鳥,,765as,,765as_takane,solo,,2020-08-05,MASTER ARTIST4 02,false,(ソロ)四条貴音
+s_765as_10cyf7c,ピピカ・リリカ,,765as,,765as_yayoi,solo,,2020-08-05,MASTER ARTIST4 03,false,(ソロ)高槻やよい
+s_eversunny,Ever Sunny,,765as,,765as_makoto,solo,,2020-11-11,MASTER ARTIST4 04,false,(ソロ)菊地真
+s_hug,HUG,,765as,,765as_hibiki,solo,,2020-11-11,MASTER ARTIST4 05,false,(ソロ)我那覇響
+s_765as_18724lx,ポジティブシンカー！,,765as,,765as_ami,solo,,2020-11-11,MASTER ARTIST4 06,false,(ソロ)双海亜美
+s_765as_1m0sxsz,アプデ,,765as,,765as_miki,solo,,2021-02-10,MASTER ARTIST4 07,false,(ソロ)星井美希
+s_velvetquiet,VELVET QUIET,,765as,,765as_azusa,solo,,2021-02-10,MASTER ARTIST4 08,false,(ソロ)三浦あずさ
+s_765as_1t2r0ri,灯,,765as,,765as_ritsuko,solo,,2021-02-10,MASTER ARTIST4 09,false,(ソロ)秋月律子
+s_comingsmile,Coming Smile,,765as,,765as_chihaya,solo,,2021-06-16,MASTER ARTIST4 10,false,(ソロ)如月千早
+s_765as_06c5icc,芽吹の季,,765as,,765as_yukiho,solo,,2021-06-16,MASTER ARTIST4 11,false,(ソロ)萩原雪歩
+s_765as_0znwlxq,ソナー,,765as,,765as_iori,solo,,2021-06-16,MASTER ARTIST4 12,false,(ソロ)水瀬伊織
+s_765as_07sk0if,セクシータイフーン,,765as,,765as_mami,solo,,2021-06-16,MASTER ARTIST4 13,false,(ソロ)双海真美
+s_idolheart,IDOL☆HEART,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2022-03-10,スタマスDLC vol.6,false,(全員曲・スタマス)765PRO ALLSTARS
+s_765as_0xpblq3,翼,,765as,,765as_kotori,solo,,2022-03-26,朝焼けは黄金色5巻,false,(ソロ)音無小鳥
+s_765as_0c655y2,想い出は永遠に,,765as,,765as_kotori,solo,,2022-03-26,朝焼けは黄金色5巻,false,(ソロ)音無小鳥
+s_halftone,Halftone,,765as,,765as_makoto;765as_yukiho,unit,,2024-03-16,『はんげつであえたら』,false,"(xR)菊地真,萩原雪歩"
+s_flowerknows,Flower Knows,,765as,,765as_yayoi;765as_iori,unit,,2025-10-18,『いつまでもなかよし！』,false,"(xR)高槻やよい,水瀬伊織"
+s_765as_162lri4,輝夜,,765as,,765as_chihaya,unit,,2026-01-24,『Oath ONE』,false,(xR)如月千早
+s_lafestasottolaluna,月下祭 ~la festa sotto la luna~,,765as,,765as_chihaya,unit,,2026-01-25,『Oath ONE』,false,(xR)如月千早
+s_765as_17joc25,北極星をズラしちゃえ！,,765as,,765as_ami;765as_mami,unit,,2026-08-06,『ふたごぼしのつばさ』,false,"(xR)双海亜美,双海真美"
+s_binarystar,Binary Star,,765as,,765as_azusa;765as_ritsuko,unit,,2026-08-07,『つみまつよるまち』,false,"(xR)三浦あずさ,秋月律子"
+s_hello_3,“HELLO!!”,,876,,876_ai;876_eri;876_ryo,all,,2009-05-30,765AS4th東京,false,(全体曲)ディアリースターズ
+s_876_1ow7uyq,ハッピース,,876,,876_ai;876_eri;876_ryo,all,,2009-09-09,DS00,false,(全体曲)ディアリースターズ
+s_876_1aiqkof,プリコグ,,876,,876_eri,solo,,2009-09-17,ディアリースターズ,false,(ソロ)水谷絵理
+s_dazzlingworld,Dazzling World,,876,,876_ryo,solo,,2009-09-17,ディアリースターズ,false,(ソロ)秋月涼
+s_alive,ALIVE,,876,,876_ai,solo,,2009-09-17,ディアリースターズ,false,(ソロ)日高愛
+s_876_0zqe39a,クロスワード,,876,,876_eri,solo,,2009-10-14,DS01,false,(ソロ)水谷絵理
+s_876_1mmmh93,ヒミツの珊瑚礁,,876,,876_ryo,solo,,2009-11-04,DS02,false,(ソロ)秋月涼
+s_876_0rura9j,はなまる,,876,,876_ai,solo,,2009-12-02,DS03,false,(ソロ)日高愛
+s_876_1gk4dzf,ソライロ！,,876,,,all,,2026-02-21,876 PRODUCTION FES.,false,(全体曲)876PRO ALLSTARS
+s_valiv_0ong9jp,リローディング,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2023-11-26,ヴイアラ3Dお披露目配信,false,(UNIT)vα-liv
+s_valiv_1148axe,ともすれば、（中略）アイドル,,valiv,,valiv_manaka,solo,,2024-06-30,灯里愛夏誕生祭,false,(ソロ)灯里愛夏
+s_valiv_0qqqwye,群青イニシエーション,,valiv,,valiv_letora,solo,,2024-08-30,歌枠ASOBINOTES縛り,false,(ソロ)レトラ
+s_valiv_0t8ch6a,公転周期,,valiv,,valiv_cosmo,solo,,2024-09-12,上水流宇宙誕生祭,false,(ソロ)上水流宇宙
+s_valiv_12u4gz7,きみの一等星,,valiv,,valiv_letora,solo,,2024-11-11,レトラ誕生祭,false,(ソロ)レトラ
+s_valiv_15xz8sc,あっちこっちプリンセス,,valiv,,valiv_manaka,solo,,2024-12-14,アイマスエキスポDAY1,false,(ソロ)灯里愛夏
+s_valiv_11o6t6t,クライヤ,,valiv,,valiv_cosmo,solo,,2024-12-14,アイマスエキスポDAY1,false,(ソロ)上水流宇宙
+s_breaker,Breaker,,valiv,,valiv_letora,solo,,2025-02-15,歌枠ASOBINOTES縛り,false,(ソロ)レトラ
+s_valiv_1qvfugv,虹の王国の物語〜エトワールを目指して〜,,valiv,,valiv_manaka,solo,,2025-02-15,歌枠ASOBINOTES縛り,false,(ソロ)灯里愛夏
+s_scarletrose,Scarlet Rose,,valiv,,valiv_cosmo,solo,,2025-02-15,歌枠ASOBINOTES縛り,false,(ソロ)上水流宇宙
+s_valiv_1wiblsj,ヴヴヴ,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-03-11,未発表楽曲披露配信,false,(UNIT)vα-liv
+s_valiv_0stcdcp,CQ,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-03-19,ユニットアルバム「彼方」,false,(UNIT)vα-liv
+s_fieldonme,FIELD ON ME,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-03-19,ユニットアルバム「彼方」,false,(UNIT)vα-liv
+s_dyebadday,DYE BAD DAY,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-03-19,ユニットアルバム「彼方」,false,(UNIT)vα-liv
+s_shootingstar,SHOOTING STAR,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-03-19,ユニットアルバム「彼方」,false,(UNIT)vα-liv
+s_valiv_03u49hm,クリスタライン,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-03-21,配信,false,(UNIT)vα-liv
+s_beyondmydestiny,Beyond My Destiny,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-06-27,配信,false,(UNIT)vα-liv
+s_berryberrylady,Berry Berry Lady,,valiv,,valiv_manaka,solo,,2025-07-01,愛夏BDライブ,false,(ソロ)灯里愛夏
+s_valiv_1qp5kfc,アエルシグナル,,valiv,,valiv_letora,solo,,2025-07-28,配信,false,(ソロ)レトラ
+s_zerogravity,ZeroGravity,,valiv,,valiv_cosmo,solo,,2025-09-12,宇宙BDライブ,false,(ソロ)上水流宇宙
+s_no8,No.8,,valiv,,valiv_cosmo,solo,,2025-11-05,MV公開,false,(ソロ)上水流宇宙
+s_glass,Glass,,valiv,,valiv_letora,solo,,2025-11-11,レトラBDライブ,false,(ソロ)レトラ
+s_valiv_02jkx2u,エキセントリック・ラブ,,valiv,,valiv_manaka,solo,,2025-11-15,KPF2025イベント,false,(ソロ)灯里愛夏
+s_valiv_0ufv4k9,まだ見ぬ明日,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2025-11-26,MV公開,false,(UNIT)vα-liv
+s_valiv_12hpvx7,はらぺこ泣き虫,,valiv,,valiv_manaka,solo,,2026-01-14,ありがとう配信,false,(ソロ)灯里愛夏
+s_triangledrive,TRI-ANGLE DRIVE,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,,2026-02-16,配信,false,(UNIT)vα-liv
+s_novachro,Nova Chro,,valiv,,valiv_cosmo,solo,,2026-02-21,上水流宇宙 2nd EP,false,(ソロ)上水流宇宙
+s_valiv_1d9eb2c,思い出の花束、二度目の恋。,,valiv,,valiv_letora,solo,,2026-02-21,レトラ 2nd EP,false,(ソロ)レトラ
+s_reloading,RELOADING,,valiv,,valiv_manaka;valiv_cosmo;valiv_letora,unit,remix,2025-03-19,ユニットアルバム「彼方」,false,(UNIT)vα-liv
+s_brandnewfield,BRAND NEW FIELD,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2015-04-15,SL01,false,(UNIT)Jupiter
+s_planetscape,Planet scape,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2015-04-15,SL01,false,(UNIT)Jupiter
+s_drivealive,DRIVE A LIVE,,sm,,,all,,2015-04-15,SL01,false,(全体曲)
+s_starlightcelebrate,STARLIGHT CELEBRATE!,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2015-04-15,SL02,false,(UNIT)DRAMATIC STARS
+s_dramaticnonfiction,DRAMATIC NONFICTION,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2015-04-15,SL02,false,(UNIT)DRAMATIC STARS
+s_sm_16jihsx,スマイル・エンゲージ,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2015-07-22,SL03,false,(UNIT)Beit
+s_eternity,想いはETERNITY,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2015-07-22,SL03,false,(UNIT)Beit
+s_highjumpnolimit,HIGH JUMP NO LIMIT,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2015-07-22,SL04,false,(UNIT)High×Joker
+s_joker_2,JOKER↗オールマイティ,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2015-07-22,SL04,false,(UNIT)High×Joker
+s_victorybeliever,VICTORY BELIEVER,,sm,,sm_yusuke;sm_kyosuke,unit,,2015-10-21,SL05,false,(UNIT)W
+s_pleasureforever,Pleasure Forever...,,sm,,sm_yusuke;sm_kyosuke,unit,,2015-10-21,SL05,false,(UNIT)W
+s_possibilities,∞ Possibilities,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2015-10-21,SL06,false,(UNIT)S.E.M
+s_studyequalmagic,Study Equal Magic!,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2015-10-21,SL06,false,(UNIT)S.E.M
+s_sm_0uh6i24,喝彩！〜花鳥風月〜,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2016-01-27,SL07,false,(UNIT)彩
+s_wanderfulnippon,和風堂々！〜WAnderful NIPPON！〜,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2016-01-27,SL07,false,(UNIT)彩
+s_sm_0zf4f4d,勇敢なるキミへ,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2016-01-27,SL08,false,(UNIT)FRAME
+s_missionis,MISSION is ピースフル！,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2016-01-27,SL08,false,(UNIT)FRAME
+s_sm_1eqghhu,バーニン・クールで輝いて,,sm,,sm_suzaku;sm_genbu,unit,,2016-04-20,SL09,false,(UNIT)神速一魂
+s_sm_0xppg2s,オレたちの最強伝説〜一世一代、破羅駄威棲！〜,,sm,,sm_suzaku;sm_genbu,unit,,2016-04-20,SL09,false,(UNIT)神速一魂
+s_cafparade,Café Parade!,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2016-04-20,SL10,false,(UNIT)Café Parade
+s_lacartefreedom,À La Carte FREEDOM♪,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2016-04-20,SL10,false,(UNIT)Café Parade
+s_sm_1b5a4bz,夜空を煌めく星のように,,sm,,sm_teru;sm_kaoru;sm_tsubasa;sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2016-07-13,SideM 2ndAD01,false,"(ANV2nd)DRAMATIC STARS,High×Joker"
+s_moonnight,MOON NIGHTのせいにして,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2016-07-13,SideM 2ndAD01,false,(UNIT)DRAMATIC STARS
+s_oursong,OUR SONG -それは世界でひとつだけ-,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2016-07-13,SideM 2ndAD01,false,(UNIT)High×Joker
+s_the1stmovement,The 1st Movement 〜未来のための二重奏〜,,sm,,sm_kei;sm_rei,unit,,2016-07-27,SL11,false,(UNIT)Altessimo
+s_neverendopus,Never end「Opus」,,sm,,sm_kei;sm_rei,unit,,2016-07-27,SL11,false,(UNIT)Altessimo
+s_sm_1czd79j,強く尊き獣たち,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2016-07-27,SL12,false,(UNIT)THE 虎牙道
+s_fighter,情熱...FIGHTER,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2016-07-27,SL12,false,(UNIT)THE 虎牙道
+s_sm_1tq7f8q,エウレカダイアリー,,sm,,sm_kyoji;sm_pierre;sm_minori;sm_michio;sm_rui;sm_jiro,unit,,2016-08-31,SideM 2ndAD02,false,"(ANV2nd)Beit,S.E.M"
+s_funfunfesta,Fun! Fun! Festa!,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2016-08-31,SideM 2ndAD02,false,(UNIT)Beit
+s_summerholiday,サ・ヨ・ナ・ラ Summer Holiday,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2016-08-31,SideM 2ndAD02,false,(UNIT)S.E.M
+s_tourhythm,カレイド TOURHYTHM,,sm,,sm_touma;sm_hokuto;sm_shota;sm_yusuke;sm_kyosuke,unit,,2016-10-05,SideM 2ndAD03,false,"(ANV2nd)Jupiter,W"
+s_gloriamoment,GLORIA MOMENT,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2016-10-05,SideM 2ndAD03,false,(UNIT)Jupiter
+s_leadingyourdream,LEADING YOUR DREAM,,sm,,sm_yusuke;sm_kyosuke,unit,,2016-10-05,SideM 2ndAD03,false,(UNIT)W
+s_sm_0fm40fl,うぇるかむ・はぴきらパーク！,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2016-10-26,SL13,false,(UNIT)もふもふえん
+s_sm_0h2qotw,もっふ・いんざぼっくす♪,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2016-10-26,SL13,false,(UNIT)もふもふえん
+s_voyager,夢色VOYAGER,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2016-10-26,SL14,false,(UNIT)F-LAGS
+s_withstory,With…STORY,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2016-10-26,SL14,false,(UNIT)F-LAGS
+s_legacyofspirit,Legacy of Spirit,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2016-10-26,SL15,false,(UNIT)Legenders
+s_stringoffate,String of Fate,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2016-10-26,SL15,false,(UNIT)Legenders
+s_thefirststar,THE FIRST STAR,,sm,,sm_teru,solo,anime,2016-11-16,OP01,false,(ソロ)天道輝
+s_goldno79,GOLD 〜No.79〜,,sm,,sm_jiro,solo,anime,2016-11-16,OP01,false,(ソロ)山下次郎
+s_sm_0ubnk6o,だいぶ・いんとぅ・にゅ〜・わあるど！,,sm,,sm_kirio,solo,anime,2016-11-16,OP01,false,(ソロ)猫柳キリオ
+s_sm_1dz1mku,我が混沌のサバト・マリアージュ,,sm,,sm_aslan,solo,anime,2016-11-16,OP01,false,(ソロ)アスラン＝ベルゼビュートⅡ世
+s_sm_057uakh,新世代ワールド・ビッグスター！,,sm,,sm_shiro,solo,anime,2016-11-16,OP01,false,(ソロ)橘志狼
+s_flyinghawk,Flying Hawk,,sm,,sm_kyoji,solo,anime,2016-12-21,OP02,false,(ソロ)鷹城恭二
+s_sm_1djhkds,ぴんとこな 〜蝶よ華よ〜,,sm,,sm_shoma,solo,anime,2016-12-21,OP02,false,(ソロ)華村翔真
+s_happygounlucky,Happy-Go-Unlucky!,,sm,,sm_ryu,solo,anime,2016-12-21,OP02,false,(ソロ)木村龍
+s_echoesmynote,Echoes My Note,,sm,,sm_rei,solo,anime,2016-12-21,OP02,false,(ソロ)神楽麗
+s_mysoul,羽ばたきのMy Soul,,sm,,876_ryo,solo,anime,2016-12-21,OP02,false,(ソロ)秋月涼
+s_sm_05hvu1q,約束はドリーミングフライト,,sm,,sm_tsubasa,solo,anime,2017-02-01,OP03,false,(ソロ)柏木翼
+s_countup,サイコーCOUNT UP!,,sm,,sm_shiki,solo,anime,2017-02-01,OP03,false,(ソロ)伊瀬谷四季
+s_piecemontee,Piece Montee,,sm,,sm_soichiro,solo,anime,2017-02-01,OP03,false,(ソロ)東雲荘一郎
+s_sm_1wowhfs,ふわもこシフォンなゆめのなか♪,,sm,,sm_kanon,solo,anime,2017-02-01,OP03,false,(ソロ)姫野かのん
+s_undiscoveredworld,Undiscovered WORLD,,sm,,sm_chris,solo,anime,2017-02-01,OP03,false,(ソロ)古論クリス
+s_beyondthedream,Beyond The Dream,,sm,,,all,,2017-02-01,Beyond The Dream,false,(全体曲)
+s_romanticshaker,ROMANTIC SHAKER,,sm,,sm_hokuto,solo,anime,2017-04-26,OP04,false,(ソロ)伊集院北斗
+s_because,Because,,sm,,sm_kaoru,solo,anime,2017-04-26,OP04,false,(ソロ)桜庭薫
+s_sm_0znfvvu,流るゝ風の如く 〜和敬清寂〜,,sm,,sm_kuro,solo,anime,2017-04-26,OP04,false,(ソロ)清澄九郎
+s_sm_0c0kbkr,フェイバリットに踊らせて,,sm,,sm_saki,solo,anime,2017-04-26,OP04,false,(ソロ)水嶋咲
+s_sanctuaryworld,Sanctuary World,,sm,,sm_kei,solo,anime,2017-04-26,OP04,false,(ソロ)都築圭
+s_wonderfultactics,“W”onderful Tactics!,,sm,,sm_kyosuke,solo,anime,2017-06-28,OP05,false,(ソロ)蒼井享介
+s_sm_1ay7d1r,威風堂々と,,sm,,sm_genbu,solo,anime,2017-06-28,OP05,false,(ソロ)黒野玄武
+s_rule,RULE 〜牙ヲ穿テヨ〜,,sm,,sm_ren,solo,anime,2017-06-28,OP05,false,(ソロ)牙崎漣
+s_sm_1hfh1ki,ほっぷ・すてっぷ・ハイ、しーぷ！,,sm,,sm_naoto,solo,anime,2017-06-28,OP05,false,(ソロ)岡村直央
+s_sweepyourgloom,Sweep Your Gloom,,sm,,sm_amehiko,solo,anime,2017-06-28,OP05,false,(ソロ)葛之葉雨彦
+s_happyhappy,HAPPY×HAPPYミーティング,,sm,,sm_touma,solo,anime,2017-08-09,OP06,false,(ソロ)天ヶ瀬冬馬
+s_sm_0109jly,青春！サティスファクション,,sm,,sm_haruna,solo,anime,2017-08-09,OP06,false,(ソロ)若里春名
+s_goaheadsmile,GO AHEAD SMILE!,,sm,,sm_seiji,solo,anime,2017-08-09,OP06,false,(ソロ)信玄誠司
+s_sm_0tb3bm3,漢一貫ロックン・ロール,,sm,,sm_suzaku,solo,anime,2017-08-09,OP06,false,(ソロ)紅井朱雀
+s_roadtothefuture,ROAD TO THE FUTURE,,sm,,sm_michiru,solo,anime,2017-08-09,OP06,false,(ソロ)円城寺道流
+s_flowingfreedom,Flowing Freedom,,sm,,sm_sora,solo,anime,2017-08-09,OP06,false,(ソロ)北村想楽
+s_genesiscontact,Genesis Contact,,sm,,,unit,,2017-08-30,SideMサイバネ,false,(ドラマ)Cybernetics Wars
+s_backflipemotion,BACK FLIP☆EMOTION,,sm,,sm_shota,solo,anime,2017-09-06,OP07,false,(ソロ)御手洗翔太
+s_records,ナツゾラRecords,,sm,,sm_natsuki,solo,anime,2017-09-06,OP07,false,(ソロ)榊夏来
+s_acupofhappiness,A CUP OF HAPPINESS,,sm,,sm_yukihiro,solo,anime,2017-09-06,OP07,false,(ソロ)神谷幸広
+s_keeponfighting,その場所へ行くために-KEEP ON FIGHTING-,,sm,,sm_takeru,solo,anime,2017-09-06,OP07,false,(ソロ)大河タケル
+s_sm_09uyrb0,…掲げよう、偽りなき自分を。,,sm,,sm_kazuki,solo,anime,2017-09-06,OP07,false,(ソロ)九十九一希
+s_reason,Reason!!,,sm,,,all,anime,2017-10-14,アニメ1話,false,(全体曲)
+s_cherishbouquet,Cherish BOUQUET,,sm,,sm_minori,solo,anime,2017-10-18,OP08,false,(ソロ)渡辺みのり
+s_genuinefeelings,Genuine feelings,,sm,,sm_shun,solo,anime,2017-10-18,OP08,false,(ソロ)冬美旬
+s_learningmessage,Learning Message,,sm,,sm_michio,solo,anime,2017-10-18,OP08,false,(ソロ)硲道夫
+s_sm_0ku97l2,ハートフル・パトローラー,,sm,,sm_hideo,solo,anime,2017-10-18,OP08,false,(ソロ)握野英雄
+s_hanamarulife,HANAMARU LIFE,,sm,,sm_daigo,solo,anime,2017-10-18,OP08,false,(ソロ)兜大吾
+s_tomorrowdiamond,TOMORROW DIAMOND,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,anime,2017-10-28,アニメ4話,false,(UNIT)Beit
+s_fromteachertofuture,From Teacher To Future!,,sm,,sm_michio;sm_rui;sm_jiro,unit,anime,2017-11-04,アニメ5話,false,(UNIT)S.E.M
+s_aftertherain,AFTER THE RAIN,,sm,,sm_yusuke;sm_kyosuke,unit,anime,2017-11-11,アニメ6話,false,(UNIT)W
+s_parade,流星PARADE,,sm,,sm_teru;sm_kaoru;sm_tsubasa;sm_michio;sm_rui;sm_jiro;sm_touma;sm_hokuto;sm_shota,unit,,2017-11-15,SideM AP01,false,"(Anime)DRAMATIC STARS,S.E.M,Jupiter"
+s_sm_0f28nd9,夏時間グラフィティ,,sm,,sm_kyoji;sm_pierre;sm_minori;sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki;sm_yusuke;sm_kyosuke,unit,,2017-11-15,SideM AP01,false,"(Anime)Beit,High×Joker,W"
+s_divetogravitation,DIVE to GRAVITATION,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2017-11-22,EoJ特典CD,false,(UNIT)Jupiter
+s_overagain,Over AGAIN,,sm,,sm_touma;sm_hokuto;sm_shota,unit,anime,2017-12-02,アニメ9話,false,(UNIT)Jupiter
+s_sm_0luv50t,魔法のステアー,,sm,,sm_pierre,solo,anime,2017-12-06,OP09,false,(ソロ)ピエール
+s_precioustone,PRECIOUS TONE,,sm,,sm_hayato,solo,anime,2017-12-06,OP09,false,(ソロ)秋山隼人
+s_worldwideambitions,“W”orldwide Ambitions!,,sm,,sm_yusuke,solo,anime,2017-12-06,OP09,false,(ソロ)蒼井悠介
+s_thisisit,THIS IS IT!,,sm,,sm_rui,solo,anime,2017-12-06,OP09,false,(ソロ)舞田類
+s_sm_06m4404,ワンホール＝ワンダーランド！,,sm,,sm_mao,solo,anime,2017-12-06,OP09,false,(ソロ)卯月巻緒
+s_sunsetcolors,Sunset★Colors,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,anime,2017-12-09,アニメ10話,false,(UNIT)High×Joker
+s_arrivetostar,ARRIVE TO STAR,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,anime,2017-12-23,アニメ12話,false,(UNIT)DRAMATIC STARS
+s_sm_0l2pw18,冬の日のエトランゼ,,sm,,sm_teru;sm_kaoru;sm_tsubasa;sm_kyoji;sm_pierre;sm_minori,unit,,2017-12-27,315SC01,false,"(Anime)DRAMATIC STARS,Beit"
+s_gloriousrod,GLORIOUS RO@D,,sm,,,all,anime,2017-12-30,アニメ13話,false,(全体曲)
+s_reversedmasquerade,Reversed Masquerade,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2018-01-17,SideM 3rdAD01,false,(UNIT)Café Parade
+s_tonesdestiny,Tone's Destiny,,sm,,sm_kei;sm_rei,unit,,2018-01-17,SideM 3rdAD01,false,(UNIT)Altessimo
+s_symphonicbrave,Symphonic Brave,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2018-01-17,SideM 3rdAD01,false,(UNIT)Legenders
+s_eternalfantasia,Eternal Fantasia,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki;sm_kei;sm_rei;sm_amehiko;sm_sora;sm_chris,unit,,2018-01-17,SideM 3rdAD01,false,"(ANV3rd)Café Parade,Altessimo,Legenders"
+s_sm_10cdrge,いつかこの瞬間に名前をつけるなら,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki;sm_yusuke;sm_kyosuke,unit,,2018-01-24,315SC02,false,"(Anime)High×Joker,W"
+s_sm_0g6ipme,桜彩,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2018-02-03,SideM3rd幕張1日目,false,(UNIT)彩
+s_sm_05piwqh,永遠なる四銃士,,sm,,,unit,,2018-02-12,Mステイベント,false,(WT)フランス
+s_swingyourleaves,Swing Your Leaves,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2018-02-14,SideM 3rdAD02,false,(UNIT)FRAME
+s_sm_02ybj06,伝えたいのはこんなきもち,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2018-02-14,SideM 3rdAD02,false,(UNIT)もふもふえん
+s_cupids,♡Cupids!,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2018-02-14,SideM 3rdAD02,false,(UNIT)F-LAGS
+s_compassgripper,Compass Gripper!!!,,sm,,sm_hideo;sm_ryu;sm_seiji;sm_naoto;sm_shiro;sm_kanon;sm_ryo;sm_daigo;sm_kazuki,unit,,2018-02-14,SideM 3rdAD02,false,"(ANV3rd)FRAME,もふもふえん,F-LAGS"
+s_secretplayfuldrive,Secret！Playful！Drive！,,sm,,sm_michio;sm_rui;sm_jiro;sm_touma;sm_hokuto;sm_shota,unit,,2018-02-28,315SC03,false,"(Anime)S.E.M,Jupiter"
+s_rightwaysoulmate,"RIGHT WAY, SOUL MATE",,sm,,sm_suzaku;sm_genbu,unit,,2018-03-21,SideM 3rdAD03,false,(UNIT)神速一魂
+s_rayoflight,RAY OF LIGHT,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2018-03-21,SideM 3rdAD03,false,(UNIT)THE 虎牙道
+s_sm_0b29td7,笑顔の祭りにゃ、福来る,,sm,,sm_kirio;sm_shoma;sm_kuro;sm_suzaku;sm_genbu;sm_takeru;sm_michiru;sm_ren,unit,,2018-03-21,SideM 3rdAD03,false,"(ANV3rd)彩,神速一魂,THE 虎牙道"
+s_sm_1le1x7o,トレジャー・パーティー！,,sm,,,unit,,2018-04-03,Mステイベント,false,(WT)アメリカ
+s_315,嗚呼、情熱に星は輝く〜315プロダクション社歌〜,,sm,,,unit,anime,2018-04-25,アニメ第5巻,false,(Anime)社歌
+s_meettheworld,MEET THE WORLD!,,sm,,,all,,2018-05-09,SideM WT01,false,(全体曲)
+s_baileapasionado,Baile Apasionado,,sm,,,unit,,2018-06-01,Mステイベント,false,(WT)スペイン
+s_315steelo,315 Steelo!,,sm,,,unit,anime,2018-06-27,アニメ7巻,false,(Anime)特別編挿入歌
+s_sm_05p65gz,千客万来ニーハオサァカス！,,sm,,,unit,,2018-08-01,Mステイベント,false,(WT)中国
+s_alohahappycreator,ALOHA! HAPPY CREATOR!,,sm,,,unit,,2018-10-01,Mステイベント,false,(WT)ハワイ
+s_letsgo,LET'S GO!!,,sm,,,unit,,2018-10-16,理由あってmini,false,(315STARS)フィジカル
+s_friendlysmile,Friendly Smile,,sm,,,unit,,2018-11-08,理由あってmini,false,(315STARS)メンタル
+s_hallofreunde,"Hallo, Freunde!",,sm,,,unit,,2018-12-01,Mステイベント,false,(WT)ドイツ
+s_pokerfaith,POKER FAITH -ポーカーフェイス-,,sm,,,unit,,2018-12-04,理由あってmini,false,(315STARS)インテリ
+s_purelykindly,Purely&Kindly,,sm,,,unit,,2019-02-02,Mステイベント,false,(WT)フィンランド
+s_sugaringoffparty,Sugaring Off Party!,,sm,,,unit,,2019-04-02,Mステイベント,false,(WT)カナダ
+s_liveinyoursmile,LIVE in your SMILE,,sm,,sm_kei;sm_rei;sm_yusuke;sm_kyosuke;sm_hideo;sm_ryu;sm_seiji;sm_kirio;sm_shoma;sm_kuro;sm_suzaku;sm_genbu;sm_michio;sm_rui;sm_jiro;sm_takeru;sm_michiru;sm_ren;sm_amehiko;sm_sora;sm_chris,unit,,2019-05-10,4th ANNIVERSARY DISC,false,"(ANV4th)Altessimo,W,FRAME,彩,神速一魂,S.E.M,THE 虎牙道,Legenders"
+s_dreamjourney,DREAM JOURNEY,,sm,,sm_teru;sm_kaoru;sm_tsubasa;sm_touma;sm_hokuto;sm_shota;sm_kyoji;sm_pierre;sm_minori;sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki;sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki;sm_naoto;sm_shiro;sm_kanon;sm_ryo;sm_daigo;sm_kazuki,unit,,2019-05-10,4th ANNIVERSARY DISC,false,"(ANV4th)DRAMATIC STARS,Jupiter,Beit,High×Joker,Café Parade,もふもふえん,F-LAGS"
+s_sm_116p3td,眠らぬ夜にスパシーバ！,,sm,,,unit,,2019-06-01,Mステイベント,false,(WT)ロシア
+s_mypenlightsmile,"My pen light, SMILE",,sm,,,unit,,2019-08-01,Mステイベント,false,(WT)タイ
+s_pridestar,PRIDE STAR,,sm,,,all,,2019-08-25,SideM 5th Anniversary,false,(全体曲)
+s_night,もくろみインディアNight,,sm,,,unit,,2019-10-01,Mステイベント,false,(WT)インド
+s_allnornothing,ALL nOR NOTHING,,sm,,,unit,,2019-10-23,ドラマCD,false,(ドラマ)BEST GAME2
+s_yournobility,Your Nobility,,sm,,,unit,,2019-12-01,Mステイベント,false,(WT)イギリス
+s_asterisk,ASTERISK,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2020-01-22,5th ANNV DISC 02,false,(UNIT)DRAMATIC STARS
+s_sm_0sa7uq4,オモイノウタ,,sm,,sm_suzaku;sm_genbu,unit,,2020-01-22,5th ANNV DISC 02,false,(UNIT)神速一魂
+s_wavingflags,Waving FLAGS,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2020-01-22,5th ANNV DISC 02,false,(UNIT)F-LAGS
+s_finedayfindway,Fine Day！ Find Way！,,sm,,sm_teru;sm_kaoru;sm_tsubasa;sm_suzaku;sm_genbu;sm_ryo;sm_daigo;sm_kazuki,unit,,2020-01-22,5th ANNV DISC 02,false,"(ANV5th)DRAMATIC STARS,神速一魂,F-LAGS"
+s_welcometojapan,Welcome to Japan！,,sm,,,unit,,2020-02-01,Mステイベント,false,(WT)日本
+s_greatsympathy,Great Sympathy,,sm,,sm_yusuke;sm_kyosuke,unit,,2020-02-19,5th ANNV DISC 03,false,(UNIT)W
+s_presentforyouadayinthecaf,Present For You!!!!! ~A day in the café~,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2020-02-19,5th ANNV DISC 03,false,(UNIT)Café Parade
+s_sm_1bcdc8n,はんどめいど・きみはーと！,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2020-02-19,5th ANNV DISC 03,false,(UNIT)もふもふえん
+s_sm_0lq6zoi,ミュージアムジカ,,sm,,sm_yusuke;sm_kyosuke;sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki;sm_naoto;sm_shiro;sm_kanon,unit,,2020-02-19,5th ANNV DISC 03,false,"(ANV5th)W,Café Parade,もふもふえん"
+s_sm_0hnjg57,スリーブレス,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2020-03-18,5th ANNV DISC 04,false,(UNIT)FRAME
+s_evolution,√EVOLUTION,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2020-03-18,5th ANNV DISC 04,false,(UNIT)S.E.M
+s_makenewlegend,Make New Legend,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2020-03-18,5th ANNV DISC 04,false,(UNIT)Legenders
+s_betyourintuition,Bet your intuition!,,sm,,sm_hideo;sm_ryu;sm_seiji;sm_michio;sm_rui;sm_jiro;sm_amehiko;sm_sora;sm_chris,unit,,2020-03-18,5th ANNV DISC 04,false,"(ANV5th)FRAME,S.E.M,Legenders"
+s_mermaidfermata,mermaid fermata,,sm,,sm_kei;sm_rei,unit,,2020-04-22,5th ANNV DISC 05,false,(UNIT)Altessimo
+s_sm_14virxy,祝彩！,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2020-04-22,5th ANNV DISC 05,false,(UNIT)彩
+s_seasoninthefive,SEASON IN THE FIVE,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2020-04-22,5th ANNV DISC 05,false,(UNIT)High×Joker
+s_singingexplorers,Singing Explorers,,sm,,sm_kei;sm_rei;sm_kirio;sm_shoma;sm_kuro;sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2020-04-22,5th ANNV DISC 05,false,"(ANV5th)Altessimo,彩,High×Joker"
+s_sm_1qucty8,運命光年,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2020-07-15,5th ANNV DISC 06,false,(UNIT)Jupiter
+s_avenueillusion,Avenue Illusion!,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2020-07-15,5th ANNV DISC 06,false,(UNIT)Beit
+s_proofofoneself,PROOF OF ONESELF,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2020-07-15,5th ANNV DISC 06,false,(UNIT)THE 虎牙道
+s_sm_00sk9cz,いつかのトライアングル,,sm,,sm_touma;sm_hokuto;sm_shota;sm_kyoji;sm_pierre;sm_minori;sm_takeru;sm_michiru;sm_ren,unit,,2020-07-15,5th ANNV DISC 06,false,"(ANV5th)Jupiter,Beit,THE 虎牙道"
+s_nextstage,NEXT STAGE！,,sm,,,all,,2020-10-07,NEW STAGE EPISODE,false,(全体曲)
+s_sm_1f30sj9,わんだー×まーちんぐ！,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2020-10-07,NEW STAGE EPISODE 01,false,(UNIT)もふもふえん
+s_hungry,Hungry?,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2020-10-07,NEW STAGE EPISODE 02,false,(UNIT)THE 虎牙道
+s_braverbeat,Braver Beat,,sm,,,unit,,2020-10-21,ドラマCD,false,(ドラマ)ビーストクロニクル
+s_radiantletter,Radiant Letter,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2020-11-04,NEW STAGE EPISODE 03,false,(UNIT)Jupiter
+s_deliciousdelivery,Delicious Delivery,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2020-11-04,NEW STAGE EPISODE 04,false,(UNIT)Café Parade
+s_secretornament,Secret Ornament,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2020-12-02,NEW STAGE EPISODE 05,false,(UNIT)Beit
+s_burnitup,喜怒哀楽万国共通-Burn it up!-,,sm,,sm_suzaku;sm_genbu,unit,,2020-12-02,NEW STAGE EPISODE 06,false,(UNIT)神速一魂
+s_attaccascenery,Attacca Scenery,,sm,,sm_kei;sm_rei,unit,,2021-01-06,NEW STAGE EPISODE 07,false,(UNIT)Altessimo
+s_smilesinwonderland,Smiles In Wonderland!,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2021-01-06,NEW STAGE EPISODE 08,false,(UNIT)High×Joker
+s_yellofdelight,YELL OF DELIGHT,,sm,,sm_yusuke;sm_kyosuke,unit,,2021-02-03,NEW STAGE EPISODE 09,false,(UNIT)W
+s_focusonyourlife,FOCUS ON YOUR LIFE,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2021-02-03,NEW STAGE EPISODE 10,false,(UNIT)Legenders
+s_sm_0yqyke8,リビングアイズヒーロー,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2021-03-03,NEW STAGE EPISODE 11,false,(UNIT)FRAME
+s_goodnewmorning,GOOD NEW MORNING,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2021-03-03,NEW STAGE EPISODE 12,false,(UNIT)DRAMATIC STARS
+s_happysbirthday,Happy's Birthday,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2021-04-07,NEW STAGE EPISODE 13,false,(UNIT)S.E.M
+s_sobeautiful,装 -So Beautiful-,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2021-04-07,NEW STAGE EPISODE 14,false,(UNIT)彩
+s_hopesjourney,Hope's Journey,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2021-04-07,NEW STAGE EPISODE 15,false,(UNIT)F-LAGS
+s_growingsmiles,Growing Smiles！,,sm,,,all,,2021-07-18,先行配信,false,(全体曲)
+s_weretheone,We're the one,,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2021-08-10,先行配信,false,(UNIT)C.FIRST
+s_notalone,Not Alone,,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2021-10-10,サイスタイベント,false,(UNIT)C.FIRST
+s_stories,Stories,,sm,,,unit,,2021-10-27,ドラマCD,false,(ドラマ)緑陰のGymnasium
+s_plus1goodday,Plus 1 Good Day!,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2021-11-01,サイスタイベント,false,(UNIT)FRAME
+s_pavtoiles,Pavé Étoiles,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2021-11-30,サイスタイベント,false,(UNIT)Café Parade
+s_timebeforetime,Time Before Time,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2021-12-31,サイスタイベント,false,(UNIT)Legenders
+s_soothingplace,SOOTHING PLACE,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2022-01-12,GROWING SIGN@L03,false,(UNIT)FRAME
+s_sm_02clr03,いとをかし！〜一彩×合彩〜,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2022-01-31,サイスタイベント,false,(UNIT)彩
+s_teatimeclich,Teatime Cliché,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2022-02-09,GROWING SIGN@L04,false,(UNIT)Café Parade
+s_truehorizon,True Horizon,,sm,,,unit,,2022-02-15,サイスタ実装,false,(サイスタ1章完結記念曲)
+s_sm_0d62or5,はるかぜバトン,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2022-02-28,サイスタ実装,false,(UNIT)もふもふえん
+s_permafrost,PERMAFROST,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2022-03-09,GROWING SIGN@L05,false,(UNIT)Legenders
+s_redhotbeat,RED HOT BEAT!!,,sm,,,unit,,2022-03-12,PF PHYSICAL,false,(315STARS)フィジカル
+s_sm_0l9gvud,リトルハピネス,,sm,,,unit,,2022-03-12,PF MENTAL,false,(315STARS)メンタル
+s_anywhere,ANYWHERE,,sm,,,unit,,2022-03-12,PF INTELLIGENCE,false,(315STARS)インテリ
+s_infiniteoctave,Infinite Octave!,,sm,,sm_kei;sm_rei,unit,,2022-03-31,サイスタ実装,false,(UNIT)Altessimo
+s_sm_1eth4io,彩リノ歌,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2022-04-06,GROWING SIGN@L06,false,(UNIT)彩
+s_knowonly,K.now O.nly,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2022-04-30,サイスタ実装,false,(UNIT)THE 虎牙道
+s_sm_17x77gv,そだてっ！たいむかぷせる,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2022-05-11,GROWING SIGN@L07,false,(UNIT)もふもふえん
+s_madein,Made in「 ♪ 」,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2022-05-31,サイスタ実装,false,(UNIT)F-LAGS
+s_signofhope,Sign of Hope,,sm,,sm_kei;sm_rei,unit,,2022-06-08,GROWING SIGN@L08,false,(UNIT)Altessimo
+s_route77,ROUTE77,,sm,,sm_suzaku;sm_genbu,unit,,2022-06-30,サイスタ実装,false,(UNIT)神速一魂
+s_catchmeifyoucan,CATCH ME IF YOU CAN,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2022-07-06,GROWING SIGN@L09,false,(UNIT)THE 虎牙道
+s_starrytune,キセキ的 STARRY-TUNE!!!!!,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2022-07-20,49 ELEMENTS-01,false,(UNIT)High×Joker
+s_heatbeatidentity,HEAT BEAT “Identity”,,sm,,sm_hayato,solo,,2022-07-20,49 ELEMENTS-01,false,(ソロ)秋山隼人
+s_scorebookmemories,SCOREBOOK Memories,,sm,,sm_shun,solo,,2022-07-20,49 ELEMENTS-01,false,(ソロ)冬美旬
+s_sm_0ohnycw,ダイヤモンド・メゾフォルテ,,sm,,sm_natsuki,solo,,2022-07-20,49 ELEMENTS-01,false,(ソロ)榊夏来
+s_likearollingdonuts,Like a Rolling Donuts!!,,sm,,sm_haruna,solo,,2022-07-20,49 ELEMENTS-01,false,(ソロ)若里春名
+s_sm_0g1e9f4,ハイパービリーバー!!,,sm,,sm_shiki,solo,,2022-07-20,49 ELEMENTS-01,false,(ソロ)伊瀬谷四季
+s_trustmenow,Trust me now,,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2022-07-20,49 ELEMENTS-02,false,(UNIT)C.FIRST
+s_gonext,GO NEXT,,sm,,sm_shu,solo,,2022-07-20,49 ELEMENTS-02,false,(ソロ)天峰秀
+s_hundredscolor,Hundreds Color,,sm,,sm_momondo,solo,,2022-07-20,49 ELEMENTS-02,false,(ソロ)花園百々人
+s_karma_2,KARMA,,sm,,sm_eishin,solo,,2022-07-20,49 ELEMENTS-02,false,(ソロ)眉見鋭心
+s_innerdignity,Inner Dignity,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2022-07-31,サイスタ実装,false,(UNIT)Jupiter
+s_casually,Casually!,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2022-08-03,GROWING SIGN@L10,false,(UNIT)F-LAGS
+s_multipleentertainmentshow,Multiple Entertainment Show!,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2022-08-31,サイスタ実装,false,(UNIT)S.E.M
+s_bluesy,タソガレドキ、Bluesy,,sm,,sm_suzaku;sm_genbu,unit,,2022-09-07,GROWING SIGN@L11,false,(UNIT)神速一魂
+s_sm_14bvy0k,マイドラマティックヒロイン,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2022-09-21,49 ELEMENTS-03,false,(UNIT)Beit
+s_possessionmind,Possession Mind,,sm,,sm_kyoji,solo,,2022-09-21,49 ELEMENTS-03,false,(ソロ)鷹城恭二
+s_keytothedream,KEY to the DREAM,,sm,,sm_pierre,solo,,2022-09-21,49 ELEMENTS-03,false,(ソロ)ピエール
+s_sm_1t66clf,カラフル・シンメトリー,,sm,,sm_minori,solo,,2022-09-21,49 ELEMENTS-03,false,(ソロ)渡辺みのり
+s_growingroovin,Growin’Groovin’,,sm,,sm_yusuke;sm_kyosuke,unit,,2022-09-21,49 ELEMENTS-04,false,(UNIT)W
+s_hotinspirationyeah,HOT INSPIRATION〜世界のテッペンYeah！〜,,sm,,sm_yusuke,solo,,2022-09-21,49 ELEMENTS-04,false,(ソロ)蒼井悠介
+s_coolsensationneed,COOL SENSATION〜絶対Need！〜,,sm,,sm_kyosuke,solo,,2022-09-21,49 ELEMENTS-04,false,(ソロ)蒼井享介
+s_changetochance,Change to Chance,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2022-09-30,サイスタ実装,false,(UNIT)DRAMATIC STARS
+s_takeastump,Take a StuMp!,,sm,,,unit,,2022-10-01,SideM7th愛知DAY1,false,(サイスタ1周年記念曲)
+s_viva_2,VIVA!!ファミリーリズム,,sm,,sm_yusuke;sm_kyosuke,unit,,2022-10-01,SideM7th愛知DAY1,false,(UNIT)W
+s_beforelongdelight,"Before long, DELIGHT",,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2022-10-05,GROWING SIGN@L12,false,(UNIT)Jupiter
+s_danceintheschool,Dance in the school！,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2022-11-09,GROWING SIGN@L13,false,(UNIT)S.E.M
+s_spacyparadise,SPACY PARADISE,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2022-11-23,49 ELEMENTS-05,false,(UNIT)Jupiter
+s_tomorrowgazer,Tomorrow Gazer,,sm,,sm_touma,solo,,2022-11-23,49 ELEMENTS-05,false,(ソロ)天ヶ瀬冬馬
+s_greetingcharm,GREETING CHARM,,sm,,sm_shota,solo,,2022-11-23,49 ELEMENTS-05,false,(ソロ)御手洗翔太
+s_congrazia,素敵にCon grazia！,,sm,,sm_hokuto,solo,,2022-11-23,49 ELEMENTS-05,false,(ソロ)伊集院北斗
+s_reflectionbreakers,Reflection BREAKERS,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2022-11-23,49 ELEMENTS-06,false,(UNIT)THE 虎牙道
+s_resolution,Resolution,,sm,,sm_takeru,solo,,2022-11-23,49 ELEMENTS-06,false,(ソロ)大河タケル
+s_determinedsoul,Determined Soul,,sm,,sm_michiru,solo,,2022-11-23,49 ELEMENTS-06,false,(ソロ)円城寺道流
+s_fromgenius,From Genius,,sm,,sm_ren,solo,,2022-11-23,49 ELEMENTS-06,false,(ソロ)牙崎漣
+s_platinummask,Platinum MASK,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2022-11-30,サイスタイベント,false,(UNIT)Beit
+s_makeupmagic,Make up↑ Magic,,sm,,sm_saki,solo,,2022-12-03,7th横浜DAY1,false,(ソロ)水嶋咲
+s_journeyjoyblend,Journey JOY Blend,,sm,,sm_yukihiro,solo,,2022-12-03,7th横浜DAY1,false,(ソロ)神谷幸広
+s_givemefusion,GIVE ME × FUSION,,sm,,sm_mao,solo,,2022-12-03,7th横浜DAY1,false,(ソロ)卯月巻緒
+s_joyfulheartmaker,JOYFUL HEART MAKER,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2022-12-04,7th横浜DAY2,false,(UNIT)High×Joker
+s_rainymemories,Rainy Memories,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2022-12-07,GROWING SIGN@L14,false,(UNIT)DRAMATIC STARS
+s_goforit,GO FOR IT!!,,sm,,,unit,,2022-12-29,サイスタに実装,false,(サイスタ2章完結記念曲)
+s_watchword,Watchword,,sm,,sm_yusuke;sm_kyosuke,unit,,2023-01-11,GROWING SIGN@L16,false,(UNIT)W
+s_thesymphonicdaylight,The Symphonic Daylight,,sm,,sm_kei;sm_rei,unit,,2023-01-25,49 ELEMENTS-07,false,(UNIT)Altessimo
+s_resonateblessing,Resonate Blessing,,sm,,sm_kei,solo,,2023-01-25,49 ELEMENTS-07,false,(ソロ)都築圭
+s_sm_0955dzs,オーロラ・モーメント,,sm,,sm_rei,solo,,2023-01-25,49 ELEMENTS-07,false,(ソロ)神楽麗
+s_smilingplatter,Smiling Platter！,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2023-01-25,49 ELEMENTS-08,false,(UNIT)Café Parade
+s_sweetdiamant,Sweet Diamant,,sm,,sm_soichiro,solo,,2023-01-25,49 ELEMENTS-08,false,(ソロ)東雲荘一郎
+s_sm_00p36iw,暗黒への前奏曲,,sm,,sm_aslan,solo,,2023-01-25,49 ELEMENTS-08,false,(ソロ)アスラン＝ベルゼビュートⅡ世
+s_flashlight,FLASH LIGHT,,sm,,,unit,,2023-01-31,サイスタイベント,false,(サイスタバレンタインデー曲)
+s_mirroroftruth,MIRROR of TRUTH,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2023-02-08,GROWING SIGN@L17,false,(UNIT)Beit
+s_preciouslove,precious love,,sm,,,unit,,2023-02-28,サイスタイベント,false,(サイスタホワイトデー曲)
+s_towardpolestar,Toward Pole Star,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2023-03-08,GROWING SIGN@L18,false,(UNIT)High×Joker
+s_utopia,幻想のUtopia,,sm,,,unit,,2023-03-11,SideM 超常事変,false,(朗読劇)超常事変
+s_dystopia,安寧のDystopia,,sm,,,unit,,2023-03-11,SideM 超常事変,false,(朗読劇)超常事変
+s_onetodream,ONE to DREAM！,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2023-03-29,49 ELEMENTS-09,false,(UNIT)FRAME
+s_sm_1pp28bk,アトモスフィア,,sm,,sm_hideo,solo,,2023-03-29,49 ELEMENTS-09,false,(ソロ)握野英雄
+s_sparklesign,SPARKLE SIGN,,sm,,sm_ryu,solo,,2023-03-29,49 ELEMENTS-09,false,(ソロ)木村龍
+s_ticktackvoice,Tick Tack Voice,,sm,,sm_seiji,solo,,2023-03-29,49 ELEMENTS-09,false,(ソロ)信玄誠司
+s_tricolorrendezvous,Tricolor Rendezvous,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2023-03-29,49 ELEMENTS-10,false,(UNIT)F-LAGS
+s_yellsong,Yell Song,,sm,,876_ryo,solo,,2023-03-29,49 ELEMENTS-10,false,(ソロ)秋月涼
+s_sashofsmile,SASH OF SMILE,,sm,,sm_daigo,solo,,2023-03-29,49 ELEMENTS-10,false,(ソロ)兜大吾
+s_sm_1qxqg2x,筆跡の彼方,,sm,,sm_kazuki,solo,,2023-03-29,49 ELEMENTS-10,false,(ソロ)九十九一希
+s_eclipseoftheheart,Eclipse of the Heart,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2023-05-31,49 ELEMENTS-11,false,(UNIT)Legenders
+s_radianceofheart,Radiance of Heart,,sm,,sm_amehiko,solo,,2023-05-31,49 ELEMENTS-11,false,(ソロ)葛之葉雨彦
+s_youre,you’re,,sm,,sm_sora,solo,,2023-05-31,49 ELEMENTS-11,false,(ソロ)北村想楽
+s_saillightsail,Sail→Light→Sail,,sm,,sm_chris,solo,,2023-05-31,49 ELEMENTS-11,false,(ソロ)古論クリス
+s_calling,CALLING,,sm,,sm_suzaku;sm_genbu,unit,,2023-05-31,49 ELEMENTS-12,false,(UNIT)神速一魂
+s_burningvoltage,熱情! Burning Voltage,,sm,,sm_suzaku,solo,,2023-05-31,49 ELEMENTS-12,false,(ソロ)紅井朱雀
+s_moonshape,Moon Shape/明鏡止水,,sm,,sm_genbu,solo,,2023-05-31,49 ELEMENTS-12,false,(ソロ)黒野玄武
+s_dramaticanthem,Dramatic Anthem,,sm,,sm_teru;sm_kaoru;sm_tsubasa;sm_michio;sm_rui;sm_jiro,unit,,2023-07-09,SideMF@NCOMLIVE,false,"(F@NCOM)DRAMATIC STARS,S.E.M"
+s_sm_1em90et,もふ・きゅ～と・デイズ☆,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2023-07-26,49 ELEMENTS-13,false,(UNIT)もふもふえん
+s_sm_00ewspj,トキメキ・ぷろろーぐ!,,sm,,sm_naoto,solo,,2023-07-26,49 ELEMENTS-13,false,(ソロ)岡村直央
+s_sm_0calc4g,リトルマイシューズ,,sm,,sm_shiro,solo,,2023-07-26,49 ELEMENTS-13,false,(ソロ)橘志狼
+s_sm_109nver,ぽっぷこーん・くろーぜっと！,,sm,,sm_kanon,solo,,2023-07-26,49 ELEMENTS-13,false,(ソロ)姫野かのん
+s_besideemotion,BeSide EMotion,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2023-07-26,49 ELEMENTS-14,false,(UNIT)S.E.M
+s_quoderatdemonstrandum,Quod Erat Demonstrandum,,sm,,sm_michio,solo,,2023-07-26,49 ELEMENTS-14,false,(ソロ)硲道夫
+s_lifeisbeautiful,Life is Beautiful!,,sm,,sm_rui,solo,,2023-07-26,49 ELEMENTS-14,false,(ソロ)舞田類
+s_fireworkswannabeastar,Fireworks -Wanna Be A Star-,,sm,,sm_jiro,solo,,2023-07-26,49 ELEMENTS-14,false,(ソロ)山下次郎
+s_sm_0z6kyn5,愛笑華！,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2023-09-27,49 ELEMENTS-15,false,(UNIT)彩
+s_sm_0cbykvj,わんだふる哉、人生！,,sm,,sm_kirio,solo,,2023-09-27,49 ELEMENTS-15,false,(ソロ)猫柳キリオ
+s_sm_1kla7c1,今宵、笑むように,,sm,,sm_shoma,solo,,2023-09-27,49 ELEMENTS-15,false,(ソロ)華村翔真
+s_sm_0ilxx90,ゆきゆきて華やかに,,sm,,sm_kuro,solo,,2023-09-27,49 ELEMENTS-15,false,(ソロ)清澄九郎
+s_starting,S!T!A!R!ting,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2023-09-27,49 ELEMENTS-16,false,(UNIT)DRAMATIC STARS
+s_beginningtomorrow,Beginning Tomorrow,,sm,,sm_teru,solo,,2023-09-27,49 ELEMENTS-16,false,(ソロ)天道輝
+s_mystarrysong,My Starry Song,,sm,,sm_kaoru,solo,,2023-09-27,49 ELEMENTS-16,false,(ソロ)桜庭薫
+s_sm_1v0c20a,スカイスケープノート,,sm,,sm_tsubasa,solo,,2023-09-27,49 ELEMENTS-16,false,(ソロ)柏木翼
+s_handsclaps,Hands & Claps!,,sm,,,all,,2023-10-28,SideM 8th DAY1,false,(全体曲)
+s_sm_047up1w,来来美食,,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2023-10-29,SideM 8th DAY2,false,(UNIT)C.FIRST
+s_secretlight,Secret Light,,sm,,sm_amehiko;sm_sora;sm_chris;sm_shu;sm_eishin;sm_momondo,unit,,2023-11-18,SideMF@NCOMLIVE,false,"(F@NCOM)Legenders,C.FIRST"
+s_toallagesconcerto,組曲 -to All Ages Concerto-,,sm,,sm_kei;sm_rei;sm_kirio;sm_shoma;sm_kuro,unit,,2023-11-18,SideMF@NCOMLIVE,false,"(F@NCOM)Altessimo,彩"
+s_facetheworld,Face the World,,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2023-12-27,CIRCLE OF DELIGHT 01,false,(UNIT)C.FIRST
+s_ambercoloroasis,Amber Color Oasis,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2023-12-27,CIRCLE OF DELIGHT 02,false,(UNIT)FRAME
+s_sm_10zfd5z,「また明日」の約束を,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2023-12-27,CIRCLE OF DELIGHT 02,false,(UNIT)FRAME
+s_heartmadecookies,Heartmade Cookies,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2024-01-31,CIRCLE OF DELIGHT 03,false,(UNIT)Café Parade
+s_dearyoucheers,"Dear you, Cheers!!",,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2024-01-31,CIRCLE OF DELIGHT 03,false,(UNIT)Café Parade
+s_sm_1nqqihp,からふる・とれじゃ～わ～るど！,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2024-01-31,CIRCLE OF DELIGHT 04,false,(UNIT)もふもふえん
+s_sm_1csqbt5,もふデビ★うぉんてっど,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2024-01-31,CIRCLE OF DELIGHT 04,false,(UNIT)もふもふえん
+s_sm_01l9rxt,四心争乱 -天地一指-,,sm,,,unit,anime,2024-02-10,SideM 天地四心伝OP,false,(朗読劇)天地四心伝
+s_sm_0hd7pol,千夜一夜に瞬く星よ,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2024-02-28,CIRCLE OF DELIGHT 05,false,(UNIT)Beit
+s_sm_1z11e2m,ハナビラメールの空,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2024-02-28,CIRCLE OF DELIGHT 05,false,(UNIT)Beit
+s_brightestawaking,BRIGHTEST AWAKING,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2024-02-28,CIRCLE OF DELIGHT 06,false,(UNIT)Jupiter
+s_staytunedorbit,STAY TUNED ORBIT,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2024-02-28,CIRCLE OF DELIGHT 06,false,(UNIT)Jupiter
+s_windyroad,かざぐるま 〜Windy Road〜,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2024-03-15,先行配信,false,(UNIT)Jupiter
+s_bittersweet_2,Bitter Sweetアドレセンス,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2024-03-27,CIRCLE OF DELIGHT 07,false,(UNIT)F-LAGS
+s_fantasticdiscotheque,FANTASTIC DISCOTHEQUE,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2024-03-27,CIRCLE OF DELIGHT 07,false,(UNIT)F-LAGS
+s_sm_1jxhmcc,宵闇のイリュージョン,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2024-03-27,CIRCLE OF DELIGHT 08,false,(UNIT)THE 虎牙道
+s_fighting,究極…FIGHTING,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2024-03-27,CIRCLE OF DELIGHT 08,false,(UNIT)THE 虎牙道
+s_onelife_2,ONE LIFE,,sm,,sm_kyoji;sm_pierre;sm_minori;sm_suzaku;sm_genbu,unit,,2024-04-13,SideM F@NCOMLIVE,false,"(F@NCOM)Beit,神速一魂"
+s_vsbelievers,vs.BELIEVERS,,sm,,sm_yusuke;sm_kyosuke;sm_takeru;sm_michiru;sm_ren,unit,,2024-04-13,SideM F@NCOMLIVE,false,"(F@NCOM)W,THE 虎牙道"
+s_sm_0a5fuyo,ヒカリ待つ明日へ,,sm,,sm_suzaku;sm_genbu,unit,,2024-04-27,CIRCLE OF DELIGHT 09,false,(UNIT)神速一魂
+s_godspeedignition,Godspeed IGNITION!!,,sm,,sm_suzaku;sm_genbu,unit,,2024-04-27,CIRCLE OF DELIGHT 09,false,(UNIT)神速一魂
+s_azur,AZUR,,sm,,sm_yusuke;sm_kyosuke,unit,,2024-04-27,CIRCLE OF DELIGHT 10,false,(UNIT)W
+s_feeeelgooood,Feeeel Gooood！,,sm,,sm_yusuke;sm_kyosuke,unit,,2024-04-27,CIRCLE OF DELIGHT 10,false,(UNIT)W
+s_sm_0hdn3zk,君と咲いた未来へ,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2024-05-29,CIRCLE OF DELIGHT 11,false,(UNIT)彩
+s_sm_049fffw,幸燦燦と！,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2024-05-29,CIRCLE OF DELIGHT 11,false,(UNIT)彩
+s_poppinplanet,POPPIN' PLANET,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2024-05-29,CIRCLE OF DELIGHT 12,false,(UNIT)High×Joker
+s_sm_10556dq,セブンデイズ・アルペジオ,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2024-05-29,CIRCLE OF DELIGHT 12,false,(UNIT)High×Joker
+s_sm_0fpuf8f,劇星☆戦隊ドラスターズ,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2024-06-26,CIRCLE OF DELIGHT 13,false,(UNIT)DRAMATIC STARS
+s_sm_1s1hvwg,ハローハイドレンジア,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2024-06-26,CIRCLE OF DELIGHT 13,false,(UNIT)DRAMATIC STARS
+s_sm_0n25y19,夢の不思議なラビリンス,,sm,,sm_kei;sm_rei,unit,,2024-06-26,CIRCLE OF DELIGHT 14,false,(UNIT)Altessimo
+s_preciousordinarydays,Precious ordinary days,,sm,,sm_kei;sm_rei,unit,,2024-06-26,CIRCLE OF DELIGHT 14,false,(UNIT)Altessimo
+s_gatherround,Gather Round!,,sm,,,all,,2024-07-13,SideM 9thテーマソング,false,(全体曲)
+s_amazingmoment,Amazing Moment,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,collab,2024-07-21,VΔLZ×ドラスタコラボ,false,"(コラボ)VΔLZ,DRAMATIC STARS"
+s_lifessidemenu,Life’s Side Menu!,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2024-07-31,CIRCLE OF DELIGHT 15,false,(UNIT)S.E.M
+s_eterniteenage,Eterniteen Age!!!,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2024-07-31,CIRCLE OF DELIGHT 15,false,(UNIT)S.E.M
+s_sm_0iwgeyd,リフレインアトリウム,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2024-07-31,CIRCLE OF DELIGHT 16,false,(UNIT)Legenders
+s_nothingtolose,“NOTHING TO LOSE”,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2024-07-31,CIRCLE OF DELIGHT 16,false,(UNIT)Legenders
+s_staroverstar,STAR over STAR,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2024-10-30,10th P@SSION 01,false,(UNIT)DRAMATIC STARS
+s_delightexcursion,Delight Excursion,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2024-10-30,10th P@SSION 01,false,(UNIT)DRAMATIC STARS
+s_sm_0tn1xjp,惑星が瞬いた夜に,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2024-11-13,10th P@SSION 02,false,(UNIT)Jupiter
+s_sm_142u2us,トロンプルイユ・ダンスホール,,sm,,sm_touma;sm_hokuto;sm_shota,unit,,2024-11-13,10th P@SSION 02,false,(UNIT)Jupiter
+s_vivamente,Vivamente！,,sm,,sm_kei;sm_rei,unit,,2024-11-27,10th P@SSION 03,false,(UNIT)Altessimo
+s_panoramasfanfare,Panorama's Fanfare,,sm,,sm_kei;sm_rei,unit,,2024-11-27,10th P@SSION 03,false,(UNIT)Altessimo
+s_prizepinata,PRIZE PINATA！,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki;sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2024-12-01,SideMF@NCOMLIVE,false,"(F@NCOM)High×Joker,Café Parade"
+s_magicofprincess,Magic of Princess,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2024-12-11,10th P@SSION 04,false,(UNIT)Beit
+s_bestwishes,Best Wishes.,,sm,,sm_kyoji;sm_pierre;sm_minori,unit,,2024-12-11,10th P@SSION 04,false,(UNIT)Beit
+s_superkickrap,SUPER KICK & RAP,,sm,,sm_yusuke;sm_kyosuke,unit,,2024-12-25,10th P@SSION 05,false,(UNIT)W
+s_playforfuntasy,PLAY FOR FUN-TASY,,sm,,sm_yusuke;sm_kyosuke,unit,,2024-12-25,10th P@SSION 05,false,(UNIT)W
+s_sm_1coxlo6,スターチスを束にして,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2025-01-08,10th P@SSION 06,false,(UNIT)FRAME
+s_ultimateflame,ULTIMATE FLAME,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2025-01-08,10th P@SSION 06,false,(UNIT)FRAME
+s_entertainments,縁会！〜ENTERTAINMENTS！〜,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2025-01-22,10th P@SSION 07,false,(UNIT)彩
+s_sm_0s0kko9,らんまん開花!,,sm,,sm_kirio;sm_shoma;sm_kuro,unit,,2025-01-22,10th P@SSION 07,false,(UNIT)彩
+s_theradicaljoker,The Radical JOKER,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2025-02-05,10th P@SSION 08,false,(UNIT)High×Joker
+s_mixxxxxed,Mixxxxxed!!,,sm,,sm_hayato;sm_shun;sm_natsuki;sm_haruna;sm_shiki,unit,,2025-02-05,10th P@SSION 08,false,(UNIT)High×Joker
+s_firedup,FIRED UP！,,sm,,sm_suzaku;sm_genbu,unit,,2025-02-19,10th P@SSION 09,false,(UNIT)神速一魂
+s_stillnessmovement,Stillness≒Movement,,sm,,sm_suzaku;sm_genbu,unit,,2025-02-19,10th P@SSION 09,false,(UNIT)神速一魂
+s_happystarting,HAPPY STARTING,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2025-03-05,10th P@SSION 10,false,(UNIT)Café Parade
+s_chocolatespecial,Chocolate Special,,sm,,sm_yukihiro;sm_soichiro;sm_aslan;sm_mao;sm_saki,unit,,2025-03-05,10th P@SSION 10,false,(UNIT)Café Parade
+s_sm_0rytzgi,もふっと・ゆにばぁ〜す・とらべら〜！,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2025-03-19,10th P@SSION 11,false,(UNIT)もふもふえん
+s_sm_0s8ra0e,＊ましゅまろ色のまほう使い＊,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2025-03-19,10th P@SSION 11,false,(UNIT)もふもふえん
+s_aroundfindworld,Around Find World！,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2025-04-02,10th P@SSION 12,false,(UNIT)S.E.M
+s_dearmylight,"Dear My Light,",,sm,,sm_michio;sm_rui;sm_jiro,unit,,2025-04-02,10th P@SSION 12,false,(UNIT)S.E.M
+s_supernova,SUPERNOVA,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2025-04-16,10th P@SSION 13,false,(UNIT)THE 虎牙道
+s_miraculouswhiteday,Miraculous White Day,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2025-04-16,10th P@SSION 13,false,(UNIT)THE 虎牙道
+s_brightsunnyday,BRIGHT SUNNY DAY,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2025-04-30,10th P@SSION 14,false,(UNIT)F-LAGS
+s_sm_1vc20m6,ミート・ユメノトピア,,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2025-04-30,10th P@SSION 14,false,(UNIT)F-LAGS
+s_meteoricswarm,Meteoric Swarm,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2025-05-14,10th P@SSION 15,false,(UNIT)Legenders
+s_illshowyou,I’ll show you,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2025-05-14,10th P@SSION 15,false,(UNIT)Legenders
+s_sm_1oxh658,ムゲンダイグロウアップ！,,sm,,sm_hideo;sm_ryu;sm_seiji;sm_naoto;sm_shiro;sm_kanon,unit,,2025-05-17,SideM F@NCOMLIVE,false,"(F@NCOM)FRAME,もふもふえん"
+s_grandnewuniverse,GRAND-NEW UNIVERSE,,sm,,sm_touma;sm_hokuto;sm_shota;sm_ryo;sm_daigo;sm_kazuki,unit,,2025-05-18,SideM F@NCOMLIVE,false,"(F@NCOM)Jupiter,F-LAGS"
+s_wellfindaway,We’ll find a way,,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2025-05-28,10th P@SSION 16,false,(UNIT)C.FIRST
+s_sunnydayperfectday,"Sunny day, Perfect day",,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2025-05-28,10th P@SSION 16,false,(UNIT)C.FIRST
+s_supremestars,SUPREME STARS !!!,,sm,,,all,,2025-06-11,10th P@SSION 17,false,(全体曲)
+s_crownusking,CROWN US KING!,,sm,,,unit,,2025-09-26,MV配信,false,(F@NCOM)BATTLE FES
+s_wonderlandersparty,Wonderlander's Party,,sm,,,unit,,2025-10-01,TRANSCENDENT T@LES01,false,(T@LES)不思議の国のアリス
+s_sm_0vh9c1g,竜宮逢幻記,,sm,,,unit,,2025-11-05,TRANSCENDENT T@LES02,false,(T@LES)浦島太郎
+s_breakalltime,Break All Time!,,sm,,sm_michio;sm_rui;sm_jiro,unit,,2025-11-26,MONTHLY THEME SONG01,false,(UNIT)S.E.M
+s_castaspell,CAST A SPELL,,sm,,,unit,,2025-12-03,TRANSCENDENT T@LES03,false,(T@LES)アリババと40人の盗賊
+s_earnest,Earnest,,sm,,sm_suzaku;sm_genbu,unit,,2025-12-24,MONTHLY THEME SONG02,false,(UNIT)神速一魂
+s_letshave,LET'S HAVE!,,sm,,,unit,,2026-01-07,TRANSCENDENT T@LES04,false,(T@LES)桃太郎
+s_datetoday,Date.today,,sm,,sm_yusuke;sm_kyosuke,unit,,2026-01-28,MONTHLY THEME SONG03,false,(UNIT)W
+s_yellow,YELLOW!,,sm,,,unit,,2026-02-04,TRANSCENDENT T@LES05,false,(T@LES)ライオンとネズミ
+s_whitestarlitnight,White Starlit Night,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2026-02-25,MONTHLY THEME SONG04,false,(UNIT)DRAMATIC STARS
+s_ducklingsoars,Duckling Soars,,sm,,,unit,,2026-03-04,TRANSCENDENT T@LES06,false,(T@LES)みにくいアヒルの子
+s_sm_08wr9l3,アニマ・フォルトゥナ,,sm,,,unit,,2026-03-14,「魂環の人形」,false,(朗読劇)魂環の人形
+s_sm_0uczpz5,ディソナンス・エデン,,sm,,sm_kei;sm_rei,unit,,2026-03-25,MONTHLY THEME SONG05,false,(UNIT)Altessimo
+s_sm_05qxkw9,てのうえで踊るメヌエット,,sm,,,unit,,2026-04-01,TRANSCENDENT T@LES07,false,(T@LES)カエルの王様
+s_rerainbow,Re RAINBOW,,sm,,sm_takeru;sm_michiru;sm_ren,unit,,2026-04-29,MONTHLY THEME SONG06,false,(UNIT)THE 虎牙道
+s_fantasticrhapsody,奇想天外狂詩曲-FANTASTIC RHAPSODY-,,sm,,,unit,,2026-05-06,TRANSCENDENT T@LES08,false,(T@LES)ブレーメンの音楽隊
+s_oneroundworld,One Round World,,sm,,sm_hideo;sm_ryu;sm_seiji,unit,,2026-05-27,MONTHLY THEME SONG07,false,(UNIT)FRAME
+s_sm_0sq4muf,お菓子なアドベンチャー,,sm,,,unit,,2026-06-03,TRANSCENDENT T@LES09,false,(T@LES)ヘンゼルとグレーテル
+s_awakened,Awakened,,sm,,sm_shu;sm_eishin;sm_momondo,unit,,2026-06-24,MONTHLY THEME SONG08,false,(UNIT)C.FIRST
+s_olympusgodstars,OLYMPUS GOD STARS,,sm,,,unit,,2026-07-01,TRANSCENDENT T@LES10,false,(T@LES)ヘラクレス
+s_remainviable,Remain Viable,,sm,,sm_amehiko;sm_sora;sm_chris,unit,,2026-07-29,MONTHLY THEME SONG09,false,(UNIT)Legenders
+s_ringdingwrong,Ring Ding Wrong,,sm,,,unit,,2026-08-05,TRANSCENDENT T@LES11,false,(T@LES)長靴をはいた猫
+s_sm_0ojt9da,もふパ・で・いりゅ～じょん！,,sm,,sm_naoto;sm_shiro;sm_kanon,unit,,2026-08-26,MONTHLY THEME SONG10,false,(UNIT)もふもふえん
+s_trueendstapestry,True End’s Tapestry,,sm,,,unit,,2026-09-02,TRANSCENDENT T@LES12,false,(T@LES)オズの魔法使い
+s_summerbeginssummermoves,"Summer Begins, Summer Moves",,sm,,sm_ryo;sm_daigo;sm_kazuki,unit,,2026-09-30,MONTHLY THEME SONG11,false,(UNIT)F-LAGS
+s_town,TOWN,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2025-08-02,NEVER END IDOL DAY1,false,(全員曲)765PRO ALLSTARS

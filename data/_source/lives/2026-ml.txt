@@ -1,0 +1,49 @@
+@live id=20260505_ml13th_d1 tour=t_ml_13th title=THE IDOLM@STER MILLION LIVE! 13thLIVE 全力援走 day=DAY1 date=2026-05-05 venue=v_ariake_arena brand=ml event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|Only One Second|駒形友梨、山崎はるか、Machico、角元明日香、諏訪彩花、小笠原早紀、原嶋あかり、木戸衣吹、渡部優衣、稲川英里、桐谷蝶々、浜崎奈々、近藤唯、平山笑美
+2|main|ランニング・ハイッ|渡部優衣、原嶋あかり、駒形友梨、角元明日香、稲川英里
+3|main|ビッグバンズバリボー!!!!!|浜崎奈々、山崎はるか、小笠原早紀、木戸衣吹、駒形友梨、渡部優衣
+4|main|Hypernova|Machico、近藤唯、桐谷蝶々、駒形友梨
+5|main|brave HARMONY|角元明日香、平山笑美、渡部優衣、駒形友梨
+6|main|全力アイドル|山崎はるか、木戸衣吹、諏訪彩花、駒形友梨
+7|main|Texting you|駒形友梨、小笠原早紀
+8|main|バトンタッチ|原嶋あかり、駒形友梨、桐谷蝶々、小笠原早紀
+9|main|君想いBirthday|Machico、稲川英里
+10|main|空色♡ Birthday Card|平山笑美、木戸衣吹、浜崎奈々
+11|main|想い出はクリアスカイ|桐谷蝶々、角元明日香
+12|main|vivid color|諏訪彩花、近藤唯
+13|main|ジレるハートに火をつけて|山崎はるか、稲川英里、桐谷蝶々
+14|main|聖炎の女神|近藤唯、原嶋あかり、木戸衣吹
+15|main|REACH THE SKY|Machico、駒形友梨、平山笑美
+16|main|Dance in the Light|Machico、駒形友梨、渡部優衣、角元明日香
+17|main|Raise the FLAG|近藤唯、平山笑美、駒形友梨、山崎はるか
+18|main|BORN ON DREAM! 〜HANABI☆NIGHT〜|渡部優衣、駒形友梨、浜崎奈々
+19|main|My Evolution|小笠原早紀、角元明日香、駒形友梨、浜崎奈々、Machico
+20|main|紅白応援V|山崎はるか、稲川英里、近藤唯、渡部優衣、小笠原早紀、角元明日香、浜崎奈々、原嶋あかり、諏訪彩花、平山笑美、木戸衣吹、桐谷蝶々、Machico、駒形友梨
+21|main|SPARKERS|駒形友梨|premiere
+22|encore|蝶々むすび|駒形友梨、山崎はるか、Machico、角元明日香、諏訪彩花、小笠原早紀、原嶋あかり、木戸衣吹、渡部優衣、稲川英里、桐谷蝶々、浜崎奈々、近藤唯、平山笑美
+23|encore|咲くは浮世の君花火|駒形友梨、山崎はるか、Machico、角元明日香、諏訪彩花、小笠原早紀、原嶋あかり、木戸衣吹、渡部優衣、稲川英里、桐谷蝶々、浜崎奈々、近藤唯、平山笑美
+
+@live id=20260506_ml13th_d2 tour=t_ml_13th title=THE IDOLM@STER MILLION LIVE! 13thLIVE Grand bal masqué day=DAY2 date=2026-05-06 venue=v_ariake_arena brand=ml event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|ムーンライト・プロムナード|野村香菜子|premiere
+2|main|囚われのTeaTime|阿部里果、斉藤佑圭、中村温姫
+3|main|Criminally Dinner 〜正餐とイーヴルナイフ〜|末柄里恵、大関英里、小岩井ことり、愛美
+4|main|ラスト・アクトレス|髙橋ミナミ、阿部里果、渡部恵子、南早紀
+5|main|Pomegranate|香里有佐、野村香菜子、中村温姫
+6|main|ムーンゴールド|野村香菜子
+7|main|ふたつの月|小岩井ことり、南早紀、愛美
+8|main|プリムラ|香里有佐、斉藤佑圭、髙橋ミナミ
+9|main|P.S I Love You|阿部里果、小岩井ことり、野村香菜子
+10|main|White Vows|髙橋ミナミ、末柄里恵、野村香菜子、山口立花子、香里有佐
+11|main|深紅のパシオン|野村香菜子、末柄里恵、愛美
+12|main|恋の音色ライン|中村温姫、小岩井ことり
+13|main|relations|愛美、阿部里果
+14|main|ESPADA|大関英里、山口立花子、渡部恵子、香里有佐
+15|main|アイドルステアウェイ|渡部恵子、末柄里恵
+16|main|Luvliminal image|山口立花子、愛美
+17|main|Collier De Perles|中村温姫、南早紀、野村香菜子、阿部里果、斉藤佑圭
+18|main|カンパリーナ♡|髙橋ミナミ、山口立花子、香里有佐
+19|main|Shamrock Vivace|末柄里恵、南早紀、大関英里、渡部恵子、斉藤佑圭
+20|main|Persona Voice|野村香菜子、小岩井ことり
+21|main|恋心マスカレード|野村香菜子、阿部里果、小岩井ことり、渡部恵子、斉藤佑圭、末柄里恵、香里有佐、髙橋ミナミ、南早紀、山口立花子、愛美、中村温姫、大関英里
+22|encore|蝶々むすび|野村香菜子、大関英里、中村温姫、小岩井ことり、髙橋ミナミ、末柄里恵、阿部里果、山口立花子、斉藤佑圭、渡部恵子、愛美、南早紀、香里有佐
+23|encore|星屑のシンフォニア|野村香菜子、大関英里、中村温姫、小岩井ことり、髙橋ミナミ、末柄里恵、阿部里果、山口立花子、斉藤佑圭、渡部恵子、愛美、南早紀、香里有佐

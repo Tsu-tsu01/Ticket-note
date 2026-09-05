@@ -1,0 +1,111 @@
+@live id=20140222_moiw2014_d1 tour=t_moiw2014 title=THE IDOLM@STER M@STERS OF IDOL WORLD!!2014 day=DAY1 date=2014-02-22 venue=v_saitama_ssa brand=crossover event=festival perf=cast stream=false lv=true archive=false status=confirmed
+1|main|THE IDOLM@STER|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里、福原綾香、松嵜麗、佳村はるか、大橋彩香、原紗友里、青木瑠璃子、麻倉もも、田所あずさ、山崎はるか、渡部優衣、木戸衣吹、Machico、伊藤美来、夏川椎菜、雨宮天、藤井ゆきよ、愛美
+2|main|READY!!|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里
+3|main|CHANGE!!!!|中村繪里子、たかはし智秋、浅倉杏美、仁後真耶子
+4|main|ラムネ色 青春|釘宮理恵、平田宏美、滝田樹里、長谷川明子
+5|main|Rebellion|沼倉愛美
+6|main|Mythmaker|たかはし智秋
+7|main|ビジョナリー|下田麻美
+8|main|乙女よ大志を抱け！！|中村繪里子
+9|main|The world is all one !!|中村繪里子、山崎はるか、大橋彩香
+10|main|アタシポンコツアンドロイド|大橋彩香、松嵜麗
+11|main|TOKIMEKIエスカレート|佳村はるか
+12|main|ましゅまろ☆キッス|松嵜麗
+13|main|ミツボシ☆☆★|原紗友里
+14|main|MEGARE!|長谷川明子、Machico、原紗友里
+15|main|Blue Symphony|田所あずさ、雨宮天、藤井ゆきよ、Machico
+16|main|ライアー・ルージュ|雨宮天
+17|main|流星群|愛美
+18|main|PRETTY DREAMER|山崎はるか、夏川椎菜、渡部優衣
+19|main|ALRIGHT*|浅倉杏美
+20|main|自転車|平田宏美
+21|main|edeN|長谷川明子
+22|main|自分REST@RT|今井麻美、原由実、下田麻美、沼倉愛美
+23|main|キラメキラリ|仁後真耶子、釘宮理恵、山崎はるか、松嵜麗|ver:medley
+24|main|ラ♥ブ♥リ♥|たかはし智秋、渡部優衣、佳村はるか|ver:medley
+25|main|私はアイドル♡|中村繪里子、浅倉杏美、滝田樹里、Machico|ver:medley
+26|main|エージェント夜を往く|平田宏美、下田麻美、青木瑠璃子|ver:medley
+27|main|arcadia|今井麻美、長谷川明子、雨宮天|ver:medley
+28|main|Alice or Guilty|沼倉愛美、たかはし智秋、愛美、福原綾香|ver:medley
+29|main|“HELLO!!”|原由実、夏川椎菜、大橋彩香|ver:medley
+30|main|GO MY WAY!!|浅倉杏美、長谷川明子、麻倉もも、田所あずさ|ver:medley
+31|main|待ち受けプリンス|釘宮理恵、平田宏美、藤井ゆきよ|ver:medley
+32|main|i|今井麻美、下田麻美、木戸衣吹、原紗友里|ver:medley
+33|main|いっぱいいっぱい|仁後真耶子、原由実|ver:medley
+34|main|Vault That Borderline!|沼倉愛美、中村繪里子、伊藤美来|ver:medley
+35|main|空|滝田樹里|ver:medley
+36|main|お願い！シンデレラ|福原綾香、松嵜麗、佳村はるか、大橋彩香、原紗友里、青木瑠璃子
+37|main|Orange Sapphire|原紗友里、佳村はるか
+38|main|Nation Blue|青木瑠璃子、福原綾香
+39|main|Twilight Sky|青木瑠璃子
+40|main|S(mile)ING！|大橋彩香
+41|main|Never say never|福原綾香
+42|main|MUSIC♪|今井麻美、田所あずさ、福原綾香
+43|main|アフタースクールパーリータイム|藤井ゆきよ、今井麻美
+44|main|Happy Darling|夏川椎菜
+45|main|透明なプロローグ|伊藤美来
+46|main|Sentimental Venus|釘宮理恵、麻倉もも、木戸衣吹、伊藤美来、愛美
+47|main|my song|釘宮理恵
+48|main|チクタク|仁後真耶子
+49|main|恋花|原由実
+50|main|君が選ぶ道|滝田樹里
+51|main|約束|今井麻美
+52|main|Thank You!|麻倉もも、田所あずさ、山崎はるか、渡部優衣、木戸衣吹、Machico、伊藤美来、夏川椎菜、雨宮天、藤井ゆきよ、愛美
+53|main|M@STERPIECE|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里
+54|main|IDOL POWER RAINBOW|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里、福原綾香、松嵜麗、佳村はるか、大橋彩香、原紗友里、青木瑠璃子、麻倉もも、田所あずさ、山崎はるか、渡部優衣、木戸衣吹、Machico、伊藤美来、夏川椎菜、雨宮天、藤井ゆきよ、愛美
+
+@live id=20140223_moiw2014_d2 tour=t_moiw2014 title=THE IDOLM@STER M@STERS OF IDOL WORLD!!2014 day=DAY2 date=2014-02-23 venue=v_saitama_ssa brand=crossover event=festival perf=cast stream=false lv=true archive=false status=confirmed
+1|main|THE IDOLM@STER|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里、福原綾香、松嵜麗、佳村はるか、大橋彩香、原紗友里、青木瑠璃子、五十嵐裕美、山本希望、高森奈津美、黒沢ともよ、三宅麻理恵、麻倉もも、田所あずさ、山崎はるか、渡部優衣、木戸衣吹、Machico
+2|main|READY!!|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里
+3|main|CHANGE!!!!|中村繪里子、たかはし智秋、浅倉杏美、仁後真耶子
+4|main|ラムネ色 青春|釘宮理恵、平田宏美、滝田樹里、長谷川明子
+5|main|Rebellion|沼倉愛美
+6|main|Mythmaker|たかはし智秋
+7|main|ビジョナリー|下田麻美
+8|main|乙女よ大志を抱け！！|中村繪里子
+9|main|The world is all one !!|中村繪里子、山崎はるか、大橋彩香
+10|main|PRETTY DREAMER|山崎はるか、渡部優衣
+11|main|トキメキの音符になって|麻倉もも
+12|main|オリジナル声になって|木戸衣吹
+13|main|Blue Symphony|田所あずさ、Machico
+14|main|MEGARE!|長谷川明子、Machico、原紗友里
+15|main|Orange Sapphire|原紗友里、佳村はるか、三宅麻理恵、山本希望
+16|main|あんずのうた|五十嵐裕美
+17|main|おねだり Shall We 〜？|高森奈津美
+18|main|メルヘンデビュー！|三宅麻理恵
+19|main|ALRIGHT*|浅倉杏美
+20|main|自転車|平田宏美
+21|main|edeN|長谷川明子
+22|main|自分REST@RT|今井麻美、原由実、下田麻美、沼倉愛美
+23|main|キラメキラリ|仁後真耶子、釘宮理恵、山崎はるか、松嵜麗|ver:medley
+24|main|ラ♥ブ♥リ♥|たかはし智秋、渡部優衣、佳村はるか|ver:medley
+25|main|私はアイドル♡|中村繪里子、浅倉杏美、滝田樹里、Machico|ver:medley
+26|main|エージェント夜を往く|平田宏美、下田麻美、青木瑠璃子|ver:medley
+27|main|arcadia|今井麻美、長谷川明子、黒沢ともよ|ver:medley
+28|main|Alice or Guilty|沼倉愛美、たかはし智秋、福原綾香、三宅麻理恵|ver:medley
+29|main|“HELLO!!”|戸松遥|ver:medley
+30|main|GO MY WAY!!|浅倉杏美、長谷川明子、原由実、麻倉もも、田所あずさ、大橋彩香、高森奈津美|ver:medley
+31|main|待ち受けプリンス|釘宮理恵、平田宏美、山本希望|ver:medley
+32|main|i|今井麻美、下田麻美、木戸衣吹、原紗友里|ver:medley
+33|main|いっぱいいっぱい|仁後真耶子、原由実|ver:medley
+34|main|Vault That Borderline!|沼倉愛美、中村繪里子、五十嵐裕美|ver:medley
+35|main|空|滝田樹里|ver:medley
+36|main|Thank You!|麻倉もも、田所あずさ、山崎はるか、渡部優衣、木戸衣吹、Machico
+37|main|お願い！シンデレラ|福原綾香、松嵜麗、佳村はるか、大橋彩香、原紗友里、青木瑠璃子、五十嵐裕美、山本希望、高森奈津美、黒沢ともよ、三宅麻理恵
+38|main|Romantic Now|黒沢ともよ
+39|main|DOKIDOKIリズム|山本希望
+40|main|アタシポンコツアンドロイド|大橋彩香、松嵜麗、五十嵐裕美、高森奈津美
+41|main|Nation Blue|青木瑠璃子、福原綾香、黒沢ともよ
+42|main|MUSIC♪|今井麻美、田所あずさ、福原綾香
+43|main|Precious Grain|田所あずさ
+44|main|素敵なキセキ|山崎はるか
+45|main|ハッピー☆ラッキー☆ジェットマシーン|渡部優衣
+46|main|恋のLesson初級編|Machico
+47|main|Sentimental Venus|釘宮理恵、麻倉もも、木戸衣吹
+48|main|my song|釘宮理恵
+49|main|チクタク|仁後真耶子
+50|main|恋花|原由実
+51|main|君が選ぶ道|滝田樹里
+52|main|約束|今井麻美、中村繪里子、長谷川明子、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里
+53|main|M@STERPIECE|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里
+54|main|IDOL POWER RAINBOW|中村繪里子、長谷川明子、今井麻美、仁後真耶子、浅倉杏美、平田宏美、下田麻美、釘宮理恵、たかはし智秋、原由実、沼倉愛美、滝田樹里、福原綾香、松嵜麗、佳村はるか、大橋彩香、原紗友里、青木瑠璃子、五十嵐裕美、山本希望、高森奈津美、黒沢ともよ、三宅麻理恵、麻倉もも、田所あずさ、山崎はるか、渡部優衣、木戸衣吹、Machico、戸松遥
