@@ -1,0 +1,100 @@
+@live id=20260314_ml11th_d1 tour=t_ml_11th title=THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!! day=DAY1 date=2026-03-14 venue=v_kitakyushu_messe brand=ml event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|IMPRESSION→LOCOMOTION！|中村温姫、田所あずさ、小笠原早紀、駒形友梨、渡部優衣、野村香菜子、髙橋ミナミ、桐谷蝶々、浜崎奈々、斉藤佑圭、平山笑美、愛美、南早紀
+2|main|fruity love|小笠原早紀、中村温姫
+3|main|紙・心・ペン・心 - SHISHINPENSHIN -|駒形友梨、浜崎奈々、平山笑美
+4|main|Bigバルーン◎|小笠原早紀、髙橋ミナミ、斉藤佑圭
+5|main|わたしルネサンス|中村温姫、野村香菜子
+6|main|catch my feeling|愛美、渡部優衣、田所あずさ、平山笑美
+7|main|Birth of Color|南早紀、斉藤佑圭、浜崎奈々
+8|main|Sweet Sweet Soul|桐谷蝶々、渡部優衣、愛美
+9|main|Upper Dog|髙橋ミナミ、小笠原早紀
+10|main|Fairy Daysは絶え間ない|田所あずさ、中村温姫、野村香菜子
+11|main|Sky Survive|南早紀、浜崎奈々
+12|main|フリースタイル・トップアイドル！|愛美、駒形友梨、野村香菜子
+13|main|STEREOPHONIC ISOTONIC|南早紀、田所あずさ
+14|main|産声とクラブ|駒形友梨、中村温姫、野村香菜子
+15|main|LEMONADE|髙橋ミナミ、平山笑美
+16|main|I did＋I will|田所あずさ、桐谷蝶々、渡部優衣
+17|main|月曜日のクリームソーダ|中村温姫、平山笑美、浜崎奈々、斉藤佑圭
+18|main|ラビットファー|小笠原早紀、桐谷蝶々
+19|main|Shamrock Vivace|髙橋ミナミ、中村温姫、野村香菜子、渡部優衣
+20|main|Colorful Days|駒形友梨、南早紀、田所あずさ、愛美、斉藤佑圭
+21|main|COLORS ON CANVAS!|中村温姫
+22|main|ART NEEDS HEART BEATS|中村温姫、田所あずさ、小笠原早紀、駒形友梨、渡部優衣、野村香菜子、髙橋ミナミ、桐谷蝶々、浜崎奈々、斉藤佑圭、平山笑美、愛美、南早紀
+23|encore|7Days A Week!!|中村温姫、田所あずさ、小笠原早紀、駒形友梨、渡部優衣、野村香菜子、髙橋ミナミ、桐谷蝶々、浜崎奈々、斉藤佑圭、平山笑美、愛美、南早紀
+24|encore|DIAMOND DAYS|中村温姫、田所あずさ、小笠原早紀、駒形友梨、渡部優衣、野村香菜子、髙橋ミナミ、桐谷蝶々、浜崎奈々、斉藤佑圭、平山笑美、愛美、南早紀
+
+@live id=20260315_ml11th_d2 tour=t_ml_11th title=THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア day=DAY2 date=2026-03-15 venue=v_kitakyushu_messe brand=ml event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|空想文学少女|伊藤美来
+2|main|透明なプロローグ|Machico、角元明日香、大関英里、麻倉もも、夏川椎菜、原嶋あかり、小岩井ことり、郁原ゆう、稲川英里、末柄里恵、阿部里果、近藤唯、山口立花子、渡部恵子、香里有佐、伊藤美来
+3|main|Princess Be Ambitious!!|末柄里恵、近藤唯、渡部恵子、山口立花子
+4|main|恋のWa・Wo・N|夏川椎菜、阿部里果、Machico
+5|main|スペードのQ|麻倉もも、郁原ゆう、小岩井ことり、香里有佐
+6|main|成長Chu→LOVER!!|伊藤美来、夏川椎菜
+7|main|ライラックにつつまれて|渡部恵子、稲川英里、原嶋あかり
+8|main|プリムラ|角元明日香、近藤唯、大関英里
+9|main|オレンジノキオク|小岩井ことり、末柄里恵、稲川英里、近藤唯
+10|main|Light Year Song|Machico、大関英里、阿部里果、郁原ゆう
+11|main|Fermata in Rapsodia|香里有佐、小岩井ことり、山口立花子
+12|main|Clover's Cry 〜神と神降ろしの少女〜|阿部里果、麻倉もも、稲川英里、角元明日香
+13|main|dans l'obscurité|原嶋あかり、伊藤美来、大関英里
+14|main|Criminally Dinner 〜正餐とイーヴルナイフ〜|郁原ゆう、近藤唯、原嶋あかり、末柄里恵
+15|main|Pomegranate|麻倉もも、角元明日香、香里有佐
+16|main|インヴィンシブル・ジャスティス|Machico、山口立花子
+17|main|ZETTAI × BREAK!! トゥインクルリズム|夏川椎菜、伊藤美来、原嶋あかり、渡部恵子、末柄里恵
+18|main|空|麻倉もも、角元明日香、香里有佐、渡部恵子、Machico
+19|main|地球儀にない国|稲川英里、山口立花子、小岩井ことり、夏川椎菜、大関英里、阿部里果、郁原ゆう、伊藤美来
+20|main|君と同じ物語|伊藤美来
+21|main|Tomorrow Program|伊藤美来、Machico、角元明日香、大関英里、麻倉もも、夏川椎菜、原嶋あかり、小岩井ことり、郁原ゆう、稲川英里、末柄里恵、阿部里果、近藤唯、山口立花子、渡部恵子、香里有佐
+22|encore|7Days A Week!!|伊藤美来、Machico、角元明日香、大関英里、麻倉もも、夏川椎菜、原嶋あかり、小岩井ことり、郁原ゆう、稲川英里、末柄里恵、阿部里果、近藤唯、山口立花子、渡部恵子、香里有佐
+23|encore|Legend Girls!!|伊藤美来、Machico、角元明日香、大関英里、麻倉もも、夏川椎菜、原嶋あかり、小岩井ことり、郁原ゆう、稲川英里、末柄里恵、阿部里果、近藤唯、山口立花子、渡部恵子、香里有佐
+
+@live id=20260124_765_oathone_d1 tour=t_765_oathone title=如月千早武道館単独公演「OathONE」 day=1/24 date=2026-01-24 venue=v_budokan brand=765as event=solo perf=xr stream=true lv=false archive=true status=confirmed
+1|main|蒼い鳥|如月千早
+2|main|静かな夜に願いを…|如月千早
+3|main|9:02pm|如月千早
+4|main|目が逢う瞬間|如月千早
+5|main|arcadia|如月千早
+6|main|inferno|如月千早
+7|main|relations|如月千早
+8|main|Fate of the World|如月千早
+9|main|眠り姫|如月千早|ver:acoustic
+10|main|Snow White|如月千早
+11|main|LOST|如月千早
+12|main|隣に…|如月千早
+13|main|輝夜|如月千早
+14|main|my song|如月千早
+15|main|Kosmos, Cosmos|如月千早
+16|main|Light Year Song|如月千早
+17|main|空|如月千早
+18|main|君に映るポートレイト|如月千早
+19|main|Coming Smile|如月千早
+20|main|Just be myself!!|如月千早
+21|main|M@STERPIECE|如月千早|ver:acoustic
+22|encore|細氷|如月千早
+23|encore|約束|如月千早
+
+@live id=20260125_765_oathone_d2 tour=t_765_oathone title=如月千早武道館単独公演「OathONE」 day=1/25 date=2026-01-25 venue=v_budokan brand=765as event=solo perf=xr stream=true lv=false archive=true status=confirmed
+1|main|蒼い鳥|如月千早
+2|main|輝夜|如月千早
+3|main|月下祭 ~la festa sotto la luna~|如月千早
+4|main|アイヴイ|如月千早
+5|main|arcadia|如月千早
+6|main|目が逢う瞬間|如月千早
+7|main|静かな夜に願いを…|如月千早
+8|main|スローモーション|如月千早
+9|main|眠り姫|如月千早
+10|main|Little Match Girl|如月千早
+11|main|Snow White|如月千早
+12|main|SING MY SONG|如月千早
+13|main|細氷|如月千早
+14|main|my song|如月千早
+15|main|Light Year Song|如月千早
+16|main|My Starry Song|如月千早
+17|main|しっくりとゆっくりと|如月千早
+18|main|Coming Smile|如月千早
+19|main|Just be myself!!|如月千早
+20|main|Never say never|如月千早
+21|main|GR@TITUDE|如月千早
+22|encore|ToP!!!!!!!!!!!!!|如月千早
+23|encore|約束|如月千早

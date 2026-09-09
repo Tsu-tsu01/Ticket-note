@@ -1,0 +1,70 @@
+@live id=20260724_iwsf2026_d1 tour=t_iwsf2026 title=IDOL WORLD SUPER FESTIVAL 2026 -YAKUDOU- day=DAY1 date=2026-07-24 venue=v_keio_arena brand=crossover event=festival perf=xr stream=true lv=true archive=true status=confirmed
+1|main|Dance in the Light|舞浜歩、牙崎漣、菊地真、城ヶ崎美嘉
+2|main|Choo Choo Choo|十王星南
+3|main|ミラーボール・ラブ|星井美希、紫雲清夏、上水流宇宙、伊吹翼
+4|main|Love & Joy|紫雲清夏
+5|main|リトルマイシューズ|菊地真、橘志狼、城ヶ崎美嘉
+6|main|クライヤ|上水流宇宙
+7|main|Marionetteは眠らない|伊吹翼
+8|main|Break Chain|玲音、紫雲清夏、舞浜歩、城ヶ崎美嘉
+9|main|小さな野望|十王星南、上水流宇宙、神谷奈緒
+10|main|絶険、あるいは逃げられぬ恋|菊地真、橘志狼、神谷奈緒、玲音、牙崎漣
+11|main|RAY OF LIGHT|橘志狼、舞浜歩、牙崎漣
+12|main|Hide & Attack|神谷奈緒、芹沢あさひ、伊吹翼
+13|main|OH MY GOD|星井美希、緋田美琴
+14|main|エクストリーム・オーバードライブ|玲音|premiere
+15|main|Day of the future|星井美希
+16|main|Neon Sphere|緋田美琴、上水流宇宙、城ヶ崎美嘉、伊吹翼、紫雲清夏
+17|main|vs.BELIEVERS|舞浜歩、緋田美琴、牙崎漣、橘志狼、芹沢あさひ、菊地真
+18|main|FlaME|星井美希、玲音、緋田美琴
+19|main|2nd SIDE|芹沢あさひ、神谷奈緒、上水流宇宙
+20|main|Shamrock Vivace|芹沢あさひ、菊地真、十王星南、神谷奈緒
+21|main|ダンス・ダンス・ダンス|星井美希、菊地真、神谷奈緒、城ヶ崎美嘉、伊吹翼、舞浜歩、牙崎漣、橘志狼、芹沢あさひ、緋田美琴、紫雲清夏、十王星南、上水流宇宙、玲音
+
+@live id=20260725_iwsf2026_d2 tour=t_iwsf2026 title=IDOL WORLD SUPER FESTIVAL 2026 -ZESSYOU- day=DAY2 date=2026-07-25 venue=v_keio_arena brand=crossover event=festival perf=xr stream=true lv=true archive=true status=confirmed
+1|main|隣に…|三浦あずさ
+2|main|細氷|如月千早
+3|main|CRIMSON LOVERS|樋口円香、斑鳩ルカ
+4|main|群青イニシエーション|レトラ、樋口円香、ジュリア
+5|main|アイヴイ|月村手毬、如月千早
+6|main|流星群|ジュリア、レトラ、最上静香
+7|main|Rockin' Emotion|木村夏樹、雨夜燕、斑鳩ルカ
+8|main|Dye the sky.|都築圭、三浦あずさ、望月聖
+9|main|Sanctuary World|都築圭、アスラン＝ベルゼビュートⅡ世
+10|main|我が混沌のサバト・マリアージュ|アスラン＝ベルゼビュートⅡ世、都築圭、望月聖、三浦あずさ
+11|main|メサイア|望月聖、如月千早、詩花
+12|main|SING MY SONG|最上静香、月村手毬
+13|main|夢見鳥|樋口円香、木村夏樹、ジュリア
+14|main|1/3|斑鳩ルカ、月村手毬、レトラ
+15|main|アライアンス・スターダスト|望月聖、詩花
+16|main|ガールズ・イン・ザ・フロンティア|雨夜燕、詩花、木村夏樹、樋口円香
+17|main|三分半の創世|雨夜燕、斑鳩ルカ、三浦あずさ
+18|main|SHOOTING STAR|雨夜燕、最上静香、アスラン＝ベルゼビュートⅡ世
+19|main|JOYFUL HEART MAKER|木村夏樹、ジュリア、レトラ
+20|main|ENDLESS DANCE|如月千早、月村手毬、最上静香
+21|main|アライブファクター|如月千早、三浦あずさ、木村夏樹、望月聖、最上静香、ジュリア、都築圭、アスラン＝ベルゼビュートⅡ世、斑鳩ルカ、樋口円香、雨夜燕、月村手毬、レトラ、詩花
+
+@live id=20260726_iwsf2026_d3 tour=t_iwsf2026 title=IDOL WORLD SUPER FESTIVAL 2026 -KYOUMEI- day=DAY3 date=2026-07-26 venue=v_keio_arena brand=crossover event=festival perf=xr stream=true lv=true archive=true status=confirmed
+1|main|キラメキラリ|高槻やよい、日高愛
+2|main|できたてEvo! Revo! Generation!|櫻木真乃、島村卯月、藤田ことね
+3|main|素敵なキセキ|春日未来、奥空心白
+4|main|We can go now!|島村卯月、櫻木真乃、花海咲季
+5|main|GR@TITUDE|春日未来、高槻やよい、天海春香、奥空心白、安部菜々、小宮果穂
+6|main|MOON NIGHTのせいにして|天道輝、花海咲季、島村卯月
+7|main|ビーチブレイバー|灯里愛夏、小宮果穂、天道輝
+8|main|喜怒哀楽万国共通-Burn it up!-|小宮果穂、紅井朱雀、高槻やよい
+9|main|Fighting My Way|花海咲季
+10|main|アイドルは、かく語りき|松田亜利沙、安部菜々、灯里愛夏、櫻木真乃、藤田ことね
+11|main|ともすれば、（中略）アイドル|灯里愛夏、松田亜利沙
+12|main|メルヘンデビュー！|紅井朱雀、安部菜々、天道輝
+13|main|自己肯定感爆上げ↑↑しゅきしゅきソング|藤田ことね、春日未来、日高愛、松田亜利沙
+14|main|GO MY WAY!!|天海春香、日高愛
+15|main|THE IDOLM@STER|花海咲季、天海春香、高槻やよい、日高愛|medley:m1
+16|main|Campus mode!!|島村卯月、灯里愛夏、花海咲季、藤田ことね、小宮果穂|medley:m1
+17|main|Rat A Tat!!!|藤田ことね、松田亜利沙、春日未来、櫻木真乃、安部菜々|medley:m1
+18|main|GOIN'!!!|天道輝、春日未来、島村卯月、安部菜々、奥空心白、日高愛|medley:m1
+19|main|Beyond The Dream|松田亜利沙、天海春香、天道輝、紅井朱雀、灯里愛夏|medley:m1
+20|main|Migratory Echoes|紅井朱雀、小宮果穂、櫻木真乃、高槻やよい、奥空心白|medley:m1
+21|main|I'm yours|天海春香
+22|main|shy→shining|灯里愛夏、櫻木真乃、春日未来、天海春香、島村卯月、天道輝、花海咲季、日高愛
+23|main|アイ NEED YOU（FOR WONDERFUL STORY）|天海春香、高槻やよい、島村卯月、安部菜々、春日未来、松田亜利沙、天道輝、紅井朱雀、櫻木真乃、小宮果穂、花海咲季、藤田ことね、灯里愛夏、奥空心白、日高愛

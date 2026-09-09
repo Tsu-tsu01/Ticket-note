@@ -1,0 +1,87 @@
+@live id=20251011_ml12th_d1 tour=t_ml_12th title=THE IDOLM@STER MILLION LIVE! 12thLIVE DAY1 ありのままに。 day=DAY1 date=2025-10-11 venue=v_keio_arena brand=ml event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|空に手が触れる場所|平山笑美
+2|main|The world is all one !!|近藤唯、山口立花子、野村香菜子、小岩井ことり、中村温姫、浜崎奈々
+3|main|サマ☆トリ ~Summer trip~|桐谷蝶々、平山笑美
+4|main|ランニング・ハイッ|中村温姫、渡部優衣、山口立花子
+5|main|春風満帆スターティング|桐谷蝶々、浜崎奈々、田所あずさ、駒形友梨
+6|main|Supersonic Booster!|渡部優衣、平山笑美、阿部里果、野村香菜子
+7|main|ふたり繋ぐ星座|浜崎奈々、末柄里恵、田所あずさ
+8|main|待ちぼうけのLacrima|阿部里果、駒形友梨、近藤唯
+9|main|リフレインキス|野村香菜子、末柄里恵、山口立花子
+10|main|piece of cake|平山笑美、田所あずさ
+11|main|追憶のサンドグラス|渡部優衣、小岩井ことり、野村香菜子
+12|main|君のままで|末柄里恵、近藤唯、平山笑美
+13|main|バトンタッチ|桐谷蝶々、駒形友梨
+14|main|赤い世界が消える頃|中村温姫、近藤唯、阿部里果、平山笑美、小岩井ことり
+15|main|Welcome!!|浜崎奈々、渡部優衣、阿部里果、山口立花子、桐谷蝶々、末柄里恵
+16|main|エンダーエンダー|中村温姫、平山笑美
+17|main|ilLUmiNAte!|田所あずさ、駒形友梨、近藤唯、小岩井ことり
+18|main|My Evolution|山口立花子、浜崎奈々、中村温姫、渡部優衣
+19|main|花ざかりWeekend✿|桐谷蝶々、阿部里果、駒形友梨、末柄里恵、小岩井ことり、野村香菜子、平山笑美
+20|main|Irodori|平山笑美|premiere
+21|main|FIND YOUR WIND!|近藤唯、阿部里果、山口立花子、野村香菜子、末柄里恵、小岩井ことり、平山笑美、田所あずさ、中村温姫、駒形友梨、浜崎奈々、桐谷蝶々、渡部優衣
+22|encore|蝶々むすび|近藤唯、阿部里果、山口立花子、野村香菜子、末柄里恵、小岩井ことり、平山笑美、田所あずさ、中村温姫、駒形友梨、浜崎奈々、桐谷蝶々、渡部優衣
+23|encore|Flyers!!!|近藤唯、阿部里果、山口立花子、野村香菜子、末柄里恵、小岩井ことり、平山笑美、田所あずさ、中村温姫、駒形友梨、浜崎奈々、桐谷蝶々、渡部優衣
+
+@live id=20251012_ml12th_d2 tour=t_ml_12th title=THE IDOLM@STER MILLION LIVE! 12thLIVE DAY2 Let's Sing! day=DAY2 date=2025-10-12 venue=v_keio_arena brand=ml event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|ハミングバード|香里有佐
+2|main|Contrastet|香里有佐、山崎はるか、Machico、角元明日香、大関英里、小笠原早紀、原嶋あかり、郁原ゆう、稲川英里、斉藤佑圭、渡部恵子、愛美、南早紀
+3|main|Get lol! Get lol! SONG|香里有佐、南早紀、角元明日香、原嶋あかり、稲川英里、郁原ゆう、愛美、渡部恵子、山崎はるか、大関英里、Machico、小笠原早紀、斉藤佑圭|ver:game
+4|main|Helloコンチェルト|山崎はるか、Machico
+5|main|サンリズム・オーケストラ♪|南早紀、愛美、渡部恵子
+6|main|Eternal Harmony|小笠原早紀、原嶋あかり、斉藤佑圭
+7|main|瞳の中のシリウス|大関英里、郁原ゆう
+8|main|カワラナイモノ|南早紀、山崎はるか
+9|main|空色♡ Birthday Card|Machico、角元明日香、斉藤佑圭
+10|main|涙を知ること|原嶋あかり、愛美、香里有佐、稲川英里
+11|main|オーディナリィ・クローバー|原嶋あかり、香里有佐、渡部恵子
+12|main|BORN ON DREAM! 〜HANABI☆NIGHT〜|斉藤佑圭、稲川英里、小笠原早紀
+13|main|NO CURRY NO LIFE|山崎はるか、郁原ゆう
+14|main|Parade d’amour|山崎はるか、Machico、大関英里、角元明日香
+15|main|Justice OR Voice|愛美、香里有佐、南早紀、小笠原早紀
+16|main|電波感傷|南早紀、香里有佐
+17|main|White Vows|稲川英里、渡部恵子、原嶋あかり
+18|main|ダイヤモンド・クラリティ|山崎はるか、郁原ゆう、斉藤佑圭、Machico
+19|main|シークレットジュエル 〜魅惑の金剛石〜|小笠原早紀、愛美、角元明日香、大関英里
+20|main|Enjoy＆Feel|香里有佐|premiere
+21|main|MUSIC JOURNEY|大関英里、山崎はるか、Machico、斉藤佑圭、角元明日香、香里有佐、稲川英里、渡部恵子、原嶋あかり、南早紀、郁原ゆう、愛美、小笠原早紀
+22|encore|蝶々むすび|渡部恵子、原嶋あかり、角元明日香、大関英里、南早紀、山崎はるか、香里有佐、Machico、郁原ゆう、斉藤佑圭、稲川英里、愛美、小笠原早紀
+23|encore|MUSIC♪|渡部恵子、原嶋あかり、角元明日香、大関英里、南早紀、山崎はるか、香里有佐、Machico、郁原ゆう、斉藤佑圭、稲川英里、愛美、小笠原早紀
+
+@live id=20250920_gk_undokai_d1 tour=t_gk_undokai title=学園アイドルマスター クラス対抗初星大運動会 day=DAY1 date=2025-09-20 venue=v_yoyogi_1 brand=gk event=event perf=cast stream=true lv=false archive=true status=confirmed
+1|main|標|小鹿なお、花岩香奈、長月あおい、湊みや、飯田ヒカル、七瀬つむぎ、天音ゆかり、陽高真白、村田綾香、薄井友里、春咲暖、伊藤舞音、松田彩音、川村玲奈
+2|main|初星体操第一|長月あおい、小鹿なお、飯田ヒカル、花岩香奈、湊みや、伊藤舞音、川村玲奈、松田彩音、春咲暖、七瀬つむぎ、薄井友里、陽高真白、天音ゆかり
+3|main|SUPREMACY|長月あおい、湊みや、花岩香奈、飯田ヒカル、小鹿なお
+4|main|Let's GO!! ICHI-NO-NI!!|伊藤舞音、松田彩音、春咲暖、川村玲奈
+5|main|ナイワ|七瀬つむぎ、陽高真白、天音ゆかり、薄井友里
+6|main|つよつよ最強エクササイズ|松田彩音、伊藤舞音、川村玲奈
+7|main|ハッピーミルフィーユ|陽高真白、薄井友里、七瀬つむぎ
+8|main|仮装狂騒曲|陽高真白、春咲暖、湊みや
+9|main|がむしゃらに行こう！|川村玲奈、春咲暖、伊藤舞音、松田彩音
+10|main|Yellow Big Bang！|花岩香奈、湊みや、飯田ヒカル、長月あおい
+11|main|ENDLESS DANCE|七瀬つむぎ、天音ゆかり、陽高真白、薄井友里
+12|main|Howling over the World|小鹿なお、花岩香奈
+13|main|ミラクルナナウ(ﾟ∀ﾟ)！|川村玲奈、七瀬つむぎ、湊みや
+14|main|EGO|小鹿なお、長月あおい、飯田ヒカル
+15|main|キミとセミブルー|川村玲奈、松田彩音、春咲暖、伊藤舞音、湊みや、小鹿なお、長月あおい、飯田ヒカル、花岩香奈、陽高真白、七瀬つむぎ、薄井友里、天音ゆかり
+16|main|SUPREMACY|長月あおい、湊みや、花岩香奈、飯田ヒカル、小鹿なお
+17|main|Campus mode!!|伊藤舞音、川村玲奈、春咲暖、松田彩音、花岩香奈、小鹿なお、長月あおい、飯田ヒカル、湊みや、天音ゆかり、七瀬つむぎ、陽高真白、薄井友里
+
+@live id=20250921_gk_undokai_d2 tour=t_gk_undokai title=学園アイドルマスター クラス対抗初星大運動会 day=DAY2 date=2025-09-21 venue=v_yoyogi_1 brand=gk event=event perf=cast stream=true lv=false archive=true status=confirmed
+1|main|標|小鹿なお、花岩香奈、長月あおい、湊みや、七瀬つむぎ、天音ゆかり、陽高真白、村田綾香、薄井友里、春咲暖、伊藤舞音、松田彩音、川村玲奈
+2|main|初星体操第一|長月あおい、小鹿なお、花岩香奈、湊みや、伊藤舞音、川村玲奈、松田彩音、春咲暖、七瀬つむぎ、薄井友里、陽高真白、天音ゆかり
+3|main|古今東西ちょちょいのちょい|飯田ヒカル、陽高真白、松田彩音
+4|main|SUPREMACY|長月あおい、湊みや、花岩香奈、飯田ヒカル、小鹿なお
+5|main|Our Chant|七瀬つむぎ、陽高真白、天音ゆかり、薄井友里
+6|main|グースーピー|川村玲奈、春咲暖、松田彩音、伊藤舞音
+7|main|世界一可愛い私|花岩香奈、湊みや、飯田ヒカル、長月あおい、小鹿なお
+8|main|Let's GO!! ICHI-NO-NI!!|伊藤舞音、松田彩音、春咲暖、川村玲奈
+9|main|仮装狂騒曲|小鹿なお、天音ゆかり、伊藤舞音
+10|main|白線|湊みや、花岩香奈、長月あおい
+11|main|clumsy trick|薄井友里、七瀬つむぎ
+12|main|ENDLESS DANCE|春咲暖、川村玲奈
+13|main|ナイワ|七瀬つむぎ、陽高真白、天音ゆかり、薄井友里
+14|main|初|薄井友里、陽高真白、天音ゆかり、七瀬つむぎ、湊みや、小鹿なお、長月あおい、飯田ヒカル、花岩香奈、松田彩音、川村玲奈、春咲暖、伊藤舞音
+15|encore|SUPREMACY|長月あおい、湊みや、花岩香奈、飯田ヒカル、小鹿なお
+16|encore|Campus mode!!|伊藤舞音、川村玲奈、春咲暖、松田彩音、花岩香奈、小鹿なお、長月あおい、飯田ヒカル、湊みや、天音ゆかり、七瀬つむぎ、陽高真白、薄井友里
+17|encore|理論武装して|天音ゆかり|premiere

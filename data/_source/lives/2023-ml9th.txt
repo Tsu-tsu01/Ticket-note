@@ -1,0 +1,65 @@
+@live id=20230114_ml9th_d1 tour=t_ml_9th title=THE IDOLM@STER MILLION LIVE! 9thLIVE ChoruSp@rkle!! day=DAY1 date=2023-01-14 venue=v_budokan brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|夢にかけるRainbow|Machico、平山笑美、近藤唯、角元明日香、南早紀、渡部恵子、諏訪彩花、末柄里恵、原嶋あかり、伊藤美来、野村香菜子、麻倉もも、浜崎奈々、桐谷蝶々、夏川椎菜、渡部優衣
+2|main|brave HARMONY|浜崎奈々、夏川椎菜、Machico、末柄里恵|ver:chorusparkle
+3|main|稲妻スピリット|渡部優衣
+4|main|勇気のfragrance|近藤唯
+5|main|愛のMagic! Once Again!|角元明日香
+6|main|Walking on the Square|桐谷蝶々
+7|main|創造は始まりの風を連れて|近藤唯、渡部恵子、諏訪彩花、野村香菜子、渡部優衣|ver:chorusparkle
+8|main|裏表深層心理|末柄里恵
+9|main|Collier De Perles|野村香菜子
+10|main|シャル・ウィー・ダンス？|諏訪彩花
+11|main|絵羽模様|郁原ゆう
+12|main|折紙物語|南早紀
+13|main|永遠の花|平山笑美、原嶋あかり、麻倉もも、桐谷蝶々|ver:chorusparkle
+14|main|HOME, SWEET FRIENDSHIP|伊藤美来、南早紀、角元明日香|ver:chorusparkle
+15|main|リーチ・アップ・ステップ！|渡部恵子
+16|main|キミが真ん中にいた|原嶋あかり
+17|main|スポットライト・ミラーランド|夏川椎菜
+18|main|恋のWa・Wo・N|伊藤美来
+19|main|ダイヤモンド・クラリティ|渡部恵子、諏訪彩花、Machico、桐谷蝶々|ver:medley
+20|main|Shamrock Vivace|角元明日香、野村香菜子、麻倉もも、渡部優衣|ver:medley
+21|main|空色♡ Birthday Card|浜崎奈々、平山笑美、伊藤美来、夏川椎菜|ver:medley
+22|main|ESPADA|末柄里恵、近藤唯、原嶋あかり、南早紀|ver:medley
+23|main|きまぐれユモレスク|麻倉もも
+24|main|きみがくれた言葉があるから|浜崎奈々
+25|main|ふたり繋ぐ星座|平山笑美
+26|main|泣き空、のち|Machico
+27|main|FairyTaleじゃいられない|浜崎奈々、伊藤美来、平山笑美、麻倉もも、夏川椎菜、渡部優衣、桐谷蝶々|ver:chorusparkle
+28|main|咲くは浮世の君花火|原嶋あかり、角元明日香、南早紀、諏訪彩花、末柄里恵、Machico、渡部恵子、近藤唯、野村香菜子|ver:chorusparkle
+29|main|DIAMOND DAYS|Machico、平山笑美、近藤唯、角元明日香、南早紀、渡部恵子、諏訪彩花、末柄里恵、原嶋あかり、伊藤美来、野村香菜子、麻倉もも、浜崎奈々、桐谷蝶々、夏川椎菜、渡部優衣|ver:chorusparkle
+30|encore|セブンカウント|Machico、郁原ゆう、平山笑美、近藤唯、角元明日香、南早紀、渡部恵子、諏訪彩花、末柄里恵、原嶋あかり、伊藤美来、野村香菜子、麻倉もも、浜崎奈々、桐谷蝶々、夏川椎菜、渡部優衣
+31|encore|Thank You! -MR remix-|Machico、郁原ゆう、平山笑美、近藤唯、角元明日香、南早紀、渡部恵子、諏訪彩花、末柄里恵、原嶋あかり、伊藤美来、野村香菜子、麻倉もも、浜崎奈々、桐谷蝶々、夏川椎菜、渡部優衣
+
+@live id=20230115_ml9th_d2 tour=t_ml_9th title=THE IDOLM@STER MILLION LIVE! 9thLIVE ChoruSp@rkle!! day=DAY2 date=2023-01-15 venue=v_budokan brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|夢にかけるRainbow|山崎はるか、田所あずさ、稲川英里、雨宮天、田村奈央、香里有佐、大関英里、駒形友梨、小岩井ことり、藤井ゆきよ、斉藤佑圭、小笠原早紀、高橋未奈美、阿部里果、木戸衣吹、中村温姫
+2|main|Flooding|小岩井ことり、藤井ゆきよ、阿部里果、高橋未奈美|ver:chorusparkle
+3|main|Play GO! Round|稲川英里
+4|main|K・A・W・A・I・I of the WORLD!|小笠原早紀
+5|main|あたためますか？|大関英里
+6|main|グローインミュージック！|木戸衣吹
+7|main|Eternal Harmony|駒形友梨、斉藤佑圭、山崎はるか、小笠原早紀|ver:chorusparkle
+8|main|Contrastet|香里有佐
+9|main|ハッピーマイガーデン|田村奈央
+10|main|REACH THE SKY|駒形友梨
+11|main|パーフェクトゲーム|斉藤佑圭
+12|main|Growing Storm!|中村温姫、田所あずさ、稲川英里、大関英里、田村奈央|ver:chorusparkle
+13|main|プリムラ|雨宮天、香里有佐、木戸衣吹|ver:chorusparkle
+14|main|わたしルネサンス|中村温姫
+15|main|it's me|高橋未奈美
+16|main|ゆえに…なんです|阿部里果
+17|main|Purple Sky|雨宮天
+18|main|ダイヤモンド・クラリティ|藤井ゆきよ、山崎はるか、香里有佐|ver:medley
+19|main|Shamrock Vivace|阿部里果、田村奈央、稲川英里、高橋未奈美、中村温姫|ver:medley
+20|main|空色♡ Birthday Card|駒形友梨、小岩井ことり、大関英里、木戸衣吹|ver:medley
+21|main|ESPADA|小笠原早紀、田所あずさ、雨宮天、斉藤佑圭|ver:medley
+22|main|週末だけのハーレクイン|山口立花子
+23|main|Beautiful Believer|藤井ゆきよ
+24|main|Moonrise Belief|小岩井ことり
+25|main|Cross the future|田所あずさ
+26|main|しあわせエンドロール|山崎はるか
+27|main|花ざかりWeekend✿|大関英里、木戸衣吹、駒形友梨、中村温姫、斉藤佑圭、小笠原早紀、稲川英里|ver:chorusparkle
+28|main|LEADER!!|小岩井ことり、田村奈央、山崎はるか、香里有佐、藤井ゆきよ、田所あずさ、高橋未奈美、阿部里果、雨宮天|ver:chorusparkle
+29|main|DIAMOND DAYS|山崎はるか、田所あずさ、稲川英里、雨宮天、田村奈央、香里有佐、大関英里、駒形友梨、小岩井ことり、藤井ゆきよ、斉藤佑圭、小笠原早紀、高橋未奈美、阿部里果、木戸衣吹、中村温姫|ver:chorusparkle
+30|encore|セブンカウント|山崎はるか、田所あずさ、稲川英里、雨宮天、田村奈央、香里有佐、大関英里、駒形友梨、小岩井ことり、藤井ゆきよ、斉藤佑圭、小笠原早紀、高橋未奈美、阿部里果、山口立花子、木戸衣吹、中村温姫
+31|encore|Thank You! -MR remix-|山崎はるか、田所あずさ、稲川英里、雨宮天、田村奈央、香里有佐、大関英里、駒形友梨、小岩井ことり、藤井ゆきよ、斉藤佑圭、小笠原早紀、高橋未奈美、阿部里果、山口立花子、木戸衣吹、中村温姫

@@ -1,0 +1,268 @@
+@live id=20230422_ml10th_act1_d1 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-1 H@PPY 4 YOU! day=Act1 DAY1 date=2023-04-22 venue=v_saitama_ssa brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Thank You!|渡部優衣、藤井ゆきよ、浜崎奈々、野村香菜子、中村温姫、種田梨沙、平山笑美、山崎はるか、夏川椎菜、角元明日香、郁原ゆう、末柄里恵、小笠原早紀、渡部恵子、斉藤佑圭
+2|main|素敵なキセキ|山崎はるか
+3|main|ハッピー☆ラッキー☆ジェットマシーン|渡部優衣
+4|main|Heart♡・デイズ・Night☆|小笠原早紀
+5|main|IMPRESSION→LOCOMOTION！|中村温姫
+6|main|MY STYLE! OUR STYLE!!!!|渡部恵子
+7|main|求ム VS マイ・フューチャー|浜崎奈々
+8|main|Eternal Harmony|山崎はるか、角元明日香、郁原ゆう、末柄里恵、小笠原早紀、平山笑美、夏川椎菜
+9|main|Blue Symphony|藤井ゆきよ、野村香菜子、種田梨沙、郁原ゆう、斉藤佑圭、平山笑美
+10|main|bitter sweet|末柄里恵
+11|main|Day After "Yesterday"|斉藤佑圭
+12|main|サマ☆トリ ~Summer trip~|平山笑美
+13|main|HOME, SWEET FRIENDSHIP|浜崎奈々、渡部恵子、渡部優衣
+14|main|リフレインキス|トライスタービジョン[藤井ゆきよ、種田梨沙、角元明日香]
+15|main|恋の音色ライン|野村香菜子
+16|main|想いはCarnaval|角元明日香
+17|main|君だけの欠片|郁原ゆう
+18|main|ホントウノワタシ|種田梨沙
+19|main|ココロがかえる場所|野村香菜子、渡部恵子、中村温姫
+20|main|Dreamscape|浜崎奈々、斉藤佑圭
+21|main|VIVID イマジネーション|夏川椎菜
+22|main|アフタースクールパーリータイム|藤井ゆきよ
+23|main|fruity love|小笠原早紀、中村温姫
+24|main|PRETTY DREAMER|末柄里恵、渡部優衣、夏川椎菜、山崎はるか
+25|main|Shooting Stars|藤井ゆきよ、小笠原早紀、平山笑美、斉藤佑圭
+26|main|STANDING ALIVE|種田梨沙、中村温姫、角元明日香、浜崎奈々、末柄里恵
+27|main|U・N・M・E・I ライブ|渡部恵子、野村香菜子、山崎はるか、夏川椎菜、郁原ゆう、渡部優衣
+28|main|Dreaming!|渡部優衣、藤井ゆきよ、浜崎奈々、野村香菜子、中村温姫、種田梨沙、平山笑美、山崎はるか、夏川椎菜、角元明日香、郁原ゆう、末柄里恵、小笠原早紀、渡部恵子、斉藤佑圭
+29|encore|Crossing!|渡部優衣、藤井ゆきよ、浜崎奈々、野村香菜子、中村温姫、種田梨沙、平山笑美、山崎はるか、夏川椎菜、角元明日香、郁原ゆう、末柄里恵、小笠原早紀、渡部恵子、斉藤佑圭
+30|encore|Thank You!|渡部優衣、藤井ゆきよ、浜崎奈々、野村香菜子、中村温姫、種田梨沙、平山笑美、山崎はるか、夏川椎菜、角元明日香、郁原ゆう、末柄里恵、小笠原早紀、渡部恵子、斉藤佑圭
+
+@live id=20230423_ml10th_act1_d2 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-1 H@PPY 4 YOU! day=Act1 DAY2 date=2023-04-23 venue=v_saitama_ssa brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Thank You!|小岩井ことり、大関英里、駒形友梨、山口立花子、稲川英里、麻倉もも、Machico、諏訪彩花、愛美、木戸衣吹、高橋未奈美、原嶋あかり、桐谷蝶々、阿部里果、近藤唯
+2|main|ドリームトラベラー|麻倉もも、大関英里、高橋未奈美、原嶋あかり、稲川英里
+3|main|POKER POKER|阿部里果
+4|main|君想いBirthday|駒形友梨
+5|main|ハッピ〜 エフェクト！|桐谷蝶々
+6|main|グッデイ・サンシャイン!|原嶋あかり
+7|main|スマイルいちばん|大関英里
+8|main|ジャングル☆パーティー|近藤唯、諏訪彩花、Machico、稲川英里、高橋未奈美、駒形友梨、木戸衣吹、山口立花子
+9|main|P.S I Love You|愛美、高橋未奈美、近藤唯、小岩井ことり、阿部里果、山口立花子
+10|main|Good-Sleep, Baby♡|木戸衣吹、原嶋あかり、稲川英里
+11|main|Smiling Crescent|麻倉もも、桐谷蝶々
+12|main|Melody in scape|大関英里、駒形友梨
+13|main|合言葉はスタートアップ！|マイペースユニット[諏訪彩花、桐谷蝶々、小岩井ことり]
+14|main|HELLO, YOUR ANGEL♪|原嶋あかり、小岩井ことり
+15|main|Be My Boy|山口立花子
+16|main|水中キャンディ|高橋未奈美
+17|main|オリジナル声になって|木戸衣吹
+18|main|ちいさな恋の足音|近藤唯
+19|main|たしかな足跡|阿部里果、麻倉もも、山口立花子、Machico、大関英里、木戸衣吹
+20|main|瞳の中のシリウス|愛美、駒形友梨、諏訪彩花、桐谷蝶々、近藤唯
+21|main|トキメキの音符になって|麻倉もも
+22|main|カーニヴァル・ジャパネスク|諏訪彩花
+23|main|BOUNCING♪ SMILE!|稲川英里
+24|main|Maria Trap|小岩井ことり
+25|main|Believe my change!|Machico
+26|main|プラリネ|愛美
+27|main|アイル|阿部里果、Machico、愛美|ver:harmonized
+28|main|Dreaming!|小岩井ことり、大関英里、駒形友梨、山口立花子、稲川英里、麻倉もも、Machico、諏訪彩花、愛美、木戸衣吹、高橋未奈美、原嶋あかり、桐谷蝶々、阿部里果、近藤唯
+29|encore|Crossing!|小岩井ことり、大関英里、駒形友梨、山口立花子、稲川英里、麻倉もも、Machico、諏訪彩花、愛美、木戸衣吹、高橋未奈美、原嶋あかり、桐谷蝶々、阿部里果、近藤唯
+30|encore|Thank You!|小岩井ことり、大関英里、駒形友梨、山口立花子、稲川英里、麻倉もも、Machico、諏訪彩花、愛美、木戸衣吹、高橋未奈美、原嶋あかり、桐谷蝶々、阿部里果、近藤唯
+
+@live id=20230729_ml10th_act2_d1 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-2 5 TO SP@RKLE!! day=Act2 DAY1 date=2023-07-29 venue=v_portmesse_nagoya brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Brand New Theater!|渡部恵子、小笠原早紀、木戸衣吹、雨宮天、阿部里果、浜崎奈々、田村奈央、山崎はるか、末柄里恵、駒形友梨、野村香菜子、南早紀、角元明日香、平山笑美、藤井ゆきよ
+2|main|未来系ドリーマー|山崎はるか
+3|main|Hearty!!|藤井ゆきよ
+4|main|シャクネツのパレード|角元明日香
+5|main|グローインミュージック！|木戸衣吹
+6|main|WE ARE ONE!!|浜崎奈々
+7|main|Black★Party|TRICK&TREAT[小笠原早紀、平山笑美]
+8|main|ムーンゴールド|野村香菜子
+9|main|スノウレター|田村奈央
+10|main|祈りの羽根|末柄里恵
+11|main|ふたり繋ぐ星座|平山笑美
+12|main|Melty Fantasia|EScape[南早紀、阿部里果、雨宮天]
+13|main|AIKANE？|小笠原早紀
+14|main|リーチ・アップ・ステップ！|渡部恵子
+15|main|ゆえに…なんです|阿部里果
+16|main|さかしまの言葉|南早紀
+17|main|REACH THE SKY|駒形友梨
+18|main|CAT CROSSING|雨宮天
+19|main|Angelic Parade♪|小笠原早紀、田村奈央、末柄里恵、角元明日香、平山笑美|ver:gameversion
+20|main|Princess Be Ambitious!!|浜崎奈々、木戸衣吹、山崎はるか、駒形友梨|ver:gameversion
+21|main|FairyTaleじゃいられない|渡部恵子、雨宮天、阿部里果、野村香菜子、南早紀、藤井ゆきよ|ver:gameversion
+22|main|Do the IDOL!! 〜断崖絶壁チュパカブラ〜|渡部恵子、小笠原早紀、木戸衣吹、雨宮天、阿部里果、浜崎奈々、田村奈央、山崎はるか、末柄里恵、駒形友梨、野村香菜子、南早紀、角元明日香、平山笑美、藤井ゆきよ|ver:choruchuparkle
+23|main|Episode. Tiara|小笠原早紀、田村奈央、藤井ゆきよ、駒形友梨|ver:choruchuparkle
+24|main|Cherry Colored Love|末柄里恵、野村香菜子、阿部里果、南早紀|ver:choruchuparkle
+25|main|ReTale|平山笑美、角元明日香、浜崎奈々|ver:choruchuparkle
+26|main|ZETTAI × BREAK!! トゥインクルリズム|山崎はるか、渡部恵子、木戸衣吹、雨宮天|ver:choruchuparkle
+28|main|Glow Map|渡部恵子、木戸衣吹、小笠原早紀、阿部里果、雨宮天、田村奈央、浜崎奈々、山崎はるか、駒形友梨、末柄里恵、南早紀、野村香菜子、平山笑美、角元明日香、藤井ゆきよ
+29|encore|Crossing!|渡部恵子、木戸衣吹、小笠原早紀、阿部里果、雨宮天、田村奈央、浜崎奈々、山崎はるか、駒形友梨、末柄里恵、南早紀、野村香菜子、平山笑美、角元明日香、藤井ゆきよ
+30|encore|グッドサイン|渡部恵子、小笠原早紀、木戸衣吹、雨宮天、阿部里果、浜崎奈々、田村奈央、山崎はるか、末柄里恵、駒形友梨、野村香菜子、南早紀、角元明日香、平山笑美、藤井ゆきよ
+31|encore|Thank You!|渡部恵子、小笠原早紀、木戸衣吹、雨宮天、阿部里果、浜崎奈々、田村奈央、山崎はるか、末柄里恵、駒形友梨、野村香菜子、南早紀、角元明日香、平山笑美、藤井ゆきよ
+
+@live id=20230730_ml10th_act2_d2 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-2 5 TO SP@RKLE!! day=Act2 DAY2 date=2023-07-30 venue=v_portmesse_nagoya brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Brand New Theater!|桐谷蝶々、近藤唯、郁原ゆう、大関英里、中村温姫、山口立花子、田所あずさ、香里有佐、Machico、伊藤美来、渡部優衣、原嶋あかり、愛美、小岩井ことり
+2|main|ART NEEDS HEART BEATS|中村温姫
+3|main|ふわりずむ|桐谷蝶々
+4|main|週末だけのハーレクイン|山口立花子
+5|main|Super Duper|Jus-2-Mint[渡部優衣、大関英里]
+6|main|アロー彗星|愛美
+7|main|恋のWa・Wo・N|伊藤美来
+8|main|勇気のfragrance|近藤唯
+9|main|Angelic Parade♪|近藤唯、Machico、香里有佐、桐谷蝶々|ver:gameversion
+10|main|Princess Be Ambitious!!|大関英里、伊藤美来、郁原ゆう、原嶋あかり、渡部優衣|ver:gameversion
+11|main|FairyTaleじゃいられない|小岩井ことり、中村温姫、田所あずさ、愛美、山口立花子|ver:gameversion
+12|main|ときどきシーソー|原嶋あかり
+13|main|満腹至極フルコォス|大関英里
+14|main|MUSIC JOURNEY|香里有佐
+15|main|Do the IDOL!! 〜断崖絶壁チュパカブラ〜|桐谷蝶々、近藤唯、大関英里、中村温姫、山口立花子、田所あずさ、香里有佐、Machico、伊藤美来、渡部優衣、原嶋あかり、愛美、小岩井ことり|ver:choruchuparkle
+16|main|ピコピコIIKO! インベーダー|大関英里、香里有佐、小岩井ことり|ver:choruchuparkle
+17|main|月曜日のクリームソーダ|Machico、近藤唯、原嶋あかり、桐谷蝶々|ver:choruchuparkle
+18|main|Parade d'amour|伊藤美来、愛美、田所あずさ、中村温姫|ver:choruchuparkle
+19|main|絶対的Performer|渡部優衣、山口立花子|ver:choruchuparkle
+21|main|ハーモニクス|D/Zeal[田所あずさ、愛美]
+22|main|稲妻スピリット|渡部優衣
+23|main|Sister|小岩井ことり
+24|main|はなしらべ|郁原ゆう
+25|main|泣き空、のち|Machico
+26|main|SING MY SONG|田所あずさ
+27|main|Flyers!!!|桐谷蝶々、近藤唯、郁原ゆう、大関英里、中村温姫、山口立花子、田所あずさ、香里有佐、Machico、伊藤美来、渡部優衣、原嶋あかり、愛美、小岩井ことり
+28|encore|Crossing!|桐谷蝶々、近藤唯、郁原ゆう、大関英里、中村温姫、山口立花子、田所あずさ、香里有佐、Machico、伊藤美来、渡部優衣、原嶋あかり、愛美、小岩井ことり
+29|encore|グッドサイン|桐谷蝶々、近藤唯、郁原ゆう、大関英里、中村温姫、山口立花子、田所あずさ、香里有佐、Machico、伊藤美来、渡部優衣、原嶋あかり、愛美、小岩井ことり
+30|encore|Thank You!|桐谷蝶々、近藤唯、郁原ゆう、大関英里、中村温姫、山口立花子、田所あずさ、香里有佐、Machico、伊藤美来、渡部優衣、原嶋あかり、愛美、小岩井ことり
+
+@live id=20231104_ml10th_act3_d1 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-3 R@ISE THE DREAM!!! day=Act3 DAY1 date=2023-11-04 venue=v_kitakyushu_messe brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Rat A Tat!!!|渡部優衣、桐谷蝶々、山口立花子、原嶋あかり、大関英里、浜崎奈々、駒形友梨、愛美、阿部里果、小岩井ことり、木戸衣吹、渡部恵子、香里有佐、田所あずさ、野村香菜子、山崎はるか、南早紀、Machico、小笠原早紀、高橋未奈美、中村温姫、平山笑美
+2|main|ToP!!!!!!!!!!!!!|田所あずさ、山崎はるか
+3|main|We Have A Dream|木戸衣吹、原嶋あかり、南早紀、香里有佐、小笠原早紀、中村温姫、浜崎奈々
+4|main|Star Impression|大関英里、小岩井ことり
+5|main|CHANGE!!!!|浜崎奈々、木戸衣吹、原嶋あかり、愛美、小笠原早紀、高橋未奈美、桐谷蝶々、平山笑美
+6|main|海風とカスタネット|阿部里果、浜崎奈々、山口立花子
+7|main|catch my feeling|中村温姫、渡部優衣、高橋未奈美、渡部恵子、野村香菜子
+8|main|迷走Mind|大関英里、Machico、木戸衣吹、小岩井ことり、愛美
+9|main|arcadia|浜崎奈々、阿部里果、田所あずさ、山口立花子、平山笑美
+10|main|チョー↑元気Show☆アイドルch@ng!|桐谷蝶々、駒形友梨、小笠原早紀、原嶋あかり、中村温姫、野村香菜子、高橋未奈美、渡部恵子、渡部優衣
+11|main|ハミングバード|香里有佐
+12|main|バトンタッチ|原嶋あかり、駒形友梨、桐谷蝶々、小笠原早紀
+13|main|Sentimental Venus|渡部優衣、阿部里果、山口立花子
+14|main|SMOKY THRILL|ストロベリーポップムーン[田所あずさ、山崎はるか、Machico]
+15|main|ALRIGHT*|駒形友梨、桐谷蝶々、南早紀、阿部里果、渡部優衣
+16|main|READY!!|大関英里、駒形友梨、山崎はるか、小岩井ことり、中村温姫、野村香菜子、山口立花子、渡部恵子
+17|main|マリオネットの心|平山笑美、Machico、愛美
+18|main|瑠璃色金魚と花菖蒲|南早紀
+19|main|my song|高橋未奈美、野村香菜子、大関英里、田所あずさ、渡部恵子、香里有佐、小岩井ことり
+20|main|トワラー|木戸衣吹、愛美、平山笑美
+21|main|REFRAIN REL@TION|香里有佐、田所あずさ、山崎はるか、Machico、南早紀
+22|encore|Thank You!|小岩井ことり、駒形友梨、野村香菜子、高橋未奈美、阿部里果、愛美、大関英里、小笠原早紀、香里有佐、田所あずさ、山崎はるか、Machico、南早紀、平山笑美、山口立花子、中村温姫、原嶋あかり、桐谷蝶々、木戸衣吹、浜崎奈々、渡部恵子、渡部優衣
+23|encore|M@STERPIECE|小岩井ことり、駒形友梨、野村香菜子、高橋未奈美、阿部里果、愛美、大関英里、小笠原早紀、香里有佐、田所あずさ、山崎はるか、Machico、南早紀、平山笑美、山口立花子、中村温姫、原嶋あかり、桐谷蝶々、木戸衣吹、浜崎奈々、渡部恵子、渡部優衣
+
+@live id=20231105_ml10th_act3_d2 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-3 R@ISE THE DREAM!!! day=Act3 DAY2 date=2023-11-05 venue=v_kitakyushu_messe brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Rat A Tat!!!|渡部優衣、桐谷蝶々、山口立花子、原嶋あかり、大関英里、浜崎奈々、駒形友梨、愛美、阿部里果、小岩井ことり、木戸衣吹、渡部恵子、香里有佐、田所あずさ、野村香菜子、山崎はるか、南早紀、Machico、小笠原早紀、高橋未奈美、中村温姫、平山笑美
+2|main|ロケットスター☆|Machico
+3|main|We Have A Dream|木戸衣吹、原嶋あかり、南早紀、香里有佐、小笠原早紀、中村温姫、浜崎奈々
+4|main|Star Impression|大関英里、小岩井ことり
+5|main|CHANGE!!!!|浜崎奈々、木戸衣吹、原嶋あかり、愛美、小笠原早紀、高橋未奈美、桐谷蝶々、平山笑美
+6|main|my song|高橋未奈美、野村香菜子、大関英里、田所あずさ、渡部恵子、香里有佐、小岩井ことり
+7|main|海風とカスタネット|阿部里果、浜崎奈々、山口立花子
+8|main|マリオネットの心|平山笑美、Machico、愛美
+9|main|catch my feeling|中村温姫、渡部優衣、高橋未奈美、渡部恵子、野村香菜子
+10|main|フェスタ・イルミネーション|山口立花子、大関英里、木戸衣吹、阿部里果、小岩井ことり、平山笑美、Machico、浜崎奈々
+11|main|バトンタッチ|原嶋あかり、駒形友梨、桐谷蝶々、小笠原早紀
+12|main|Sentimental Venus|渡部優衣、阿部里果、山口立花子
+13|main|SMOKY THRILL|ストロベリーポップムーン[田所あずさ、山崎はるか、Machico]
+14|main|ALRIGHT*|駒形友梨、桐谷蝶々、南早紀、阿部里果、渡部優衣
+15|main|READY!!|大関英里、駒形友梨、山崎はるか、小岩井ことり、中村温姫、野村香菜子、山口立花子、渡部恵子
+16|main|エージェント夜を往く|小笠原早紀、香里有佐、原嶋あかり、高橋未奈美、桐谷蝶々、渡部優衣
+17|main|Next Life|南早紀、野村香菜子、中村温姫、渡部恵子、駒形友梨、山崎はるか
+18|main|トワラー|木戸衣吹、愛美、平山笑美
+19|main|Gift Sign|田所あずさ
+20|main|REFRAIN REL@TION|香里有佐、田所あずさ、山崎はるか、Machico、南早紀
+21|main|Brand New Theater!|小岩井ことり、駒形友梨、野村香菜子、高橋未奈美、阿部里果、愛美、大関英里、小笠原早紀、香里有佐、田所あずさ、山崎はるか、Machico、南早紀、平山笑美、山口立花子、中村温姫、原嶋あかり、桐谷蝶々、木戸衣吹、浜崎奈々、渡部恵子、渡部優衣
+22|encore|M@STERPIECE|小岩井ことり、駒形友梨、野村香菜子、高橋未奈美、阿部里果、愛美、大関英里、小笠原早紀、香里有佐、田所あずさ、山崎はるか、Machico、南早紀、平山笑美、山口立花子、中村温姫、原嶋あかり、桐谷蝶々、木戸衣吹、浜崎奈々、渡部恵子、渡部優衣
+23|encore|Thank You!|小岩井ことり、駒形友梨、野村香菜子、高橋未奈美、阿部里果、愛美、大関英里、小笠原早紀、香里有佐、田所あずさ、山崎はるか、Machico、南早紀、平山笑美、山口立花子、中村温姫、原嶋あかり、桐谷蝶々、木戸衣吹、浜崎奈々、渡部恵子、渡部優衣
+
+@live id=20240224_ml10th_act4_d1 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! day=Act4 DAY1 date=2024-02-24 venue=v_k_arena brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Welcome!!|山崎はるか、Machico、角元明日香、大関英里、藤井ゆきよ、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐
+2|main|Legend Girls!!|伊藤美来、麻倉もも、小岩井ことり
+3|main|AIKANE？|小笠原早紀|ver:gameversion
+4|main|FIND YOUR WIND!|平山笑美|ver:gameversion
+5|main|Only One Second|駒形友梨|ver:gameversion
+6|main|SUPER SIZE LOVE!!|大関英里|ver:gameversion
+7|main|ゲキテキ！ムテキ！恋したい！|レオ[中村温姫、原嶋あかり、角元明日香]
+8|main|ショコラブル＊イブ|駒形友梨、山崎はるか、藤井ゆきよ、夏川椎菜、小笠原早紀
+9|main|花びらメモリーズ|藤井ゆきよ、大関英里、南早紀、渡部恵子
+10|main|スペードのQ|郁原ゆう、斉藤佑圭、雨宮天
+11|main|Border LINE→→→♡|山口立花子|ver:gameversion
+12|main|オレンジの空の下|末柄里恵|ver:gameversion
+13|main|STEREOPHONIC ISOTONIC|中村温姫|ver:gameversion
+14|main|マイペース☆マイウェイ|浜崎奈々|ver:gameversion
+15|main|おまじない|木戸衣吹|ver:gameversion
+16|main|旅立ちのコンパス|Fleuranges[田村奈央、麻倉もも、近藤唯、桐谷蝶々]
+17|main|Harmony 4 You|伊藤美来、香里有佐、小岩井ことり
+18|main|CHEER UP! HEARTS UP!|愛美、木戸衣吹、夏川椎菜
+19|main|夢みがちBride|桐谷蝶々、阿部里果、渡部優衣
+20|main|絵羽模様|郁原ゆう|ver:short
+21|main|あのね、聞いてほしいことがあるんだ|田村奈央|ver:gameversion
+22|main|アニマル☆ステイション！|原嶋あかり|ver:gameversion
+23|main|たんけんぼうけん☆ハイホー隊|稲川英里|ver:gameversion
+24|main|流星群|愛美|ver:gameversion
+25|main|昏き星、遠い月|夜想令嬢 -GRACE NOCTURNE-[藤井ゆきよ、小岩井ことり、山口立花子、野村香菜子]
+26|main|dans l'obscurité|Chrono-Lexica[阿部里果、夏川椎菜、伊藤美来、斉藤佑圭、中村温姫]
+27|main|きまぐれユモレスク|麻倉もも|ver:short
+28|main|ローリング△さんかく|渡部恵子|ver:gameversion
+29|main|ライアー・ルージュ|雨宮天|ver:gameversion
+30|main|透明なプロローグ|伊藤美来|ver:gameversion
+31|main|Super Lover|渡部優衣|ver:gameversion
+32|main|矛盾の月|花咲夜[小岩井ことり、郁原ゆう、南早紀]
+33|main|カワラナイモノ|駒形友梨、浜崎奈々、近藤唯
+34|main|カンパリーナ♡|平山笑美、野村香菜子、末柄里恵
+35|main|クルリウタ|野村香菜子、角元明日香、小笠原早紀、香里有佐、雨宮天
+36|main|赤い世界が消える頃|近藤唯、阿部里果、木戸衣吹、大関英里、平山笑美
+37|main|DIAMOND JOKER|Machico、藤井ゆきよ
+38|main|電波感傷|オフィウクス[南早紀、香里有佐]
+39|main|Marionetteは眠らない|平山笑美、Machico、愛美
+40|main|シークレットジュエル 〜魅惑の金剛石〜|香里有佐、渡部恵子、桐谷蝶々、山崎はるか
+41|main|Shamrock Vivace|中村温姫、野村香菜子、田村奈央、阿部里果、角元明日香、渡部優衣
+42|main|EVERYDAY STARS!!|山崎はるか、Machico、角元明日香、大関英里、藤井ゆきよ、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐
+43|encore|Crossing!|山崎はるか、Machico、角元明日香、大関英里、藤井ゆきよ、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐
+44|encore|Rat A Tat!!!|山崎はるか、Machico、角元明日香、大関英里、藤井ゆきよ、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐
+
+@live id=20240225_ml10th_act4_d2 tour=t_ml_10th title=THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! day=Act4 DAY2 date=2024-02-25 venue=v_k_arena brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Rat A Tat!!!|山崎はるか、田所あずさ、Machico、種田梨沙、角元明日香、大関英里、藤井ゆきよ、諏訪彩花、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、村川梨衣、上田麗奈、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、高橋未奈美、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐
+2|main|サウンド・オブ・ビギニング|RisingLight[渡部恵子、中村温姫、種田梨沙、野村香菜子、桐谷蝶々]
+3|main|Star Impression|MILLIONSTARS Team1st[夏川椎菜、大関英里、雨宮天、小岩井ことり]
+4|main|フェスタ・イルミネーション|諏訪彩花|ver:gameversion
+5|main|ファンタジスタ・カーニバル|角元明日香|ver:gameversion
+6|main|ユニゾン☆ビート|戸田めぐみ|ver:gameversion
+7|main|MUSIC JOURNEY|香里有佐|ver:gameversion
+8|main|海風とカスタネット|MILLIONSTARS Team2nd[近藤唯、阿部里果、上田麗奈、浜崎奈々、山口立花子]
+9|main|オレンジノキオク|MILLIONSTARS Team3rd[末柄里恵、藤井ゆきよ、種田梨沙、稲川英里、伊藤美来]
+10|main|ABSOLUTE RUN!!!|ストロベリーポップムーン[Machico、山崎はるか、田所あずさ]
+11|main|catch my feeling|MILLIONSTARS Team4th[中村温姫、渡部優衣、高橋未奈美、渡部恵子、村川梨衣、野村香菜子]
+12|main|バトンタッチ|MILLIONSTARS Team5th[小笠原早紀、桐谷蝶々、駒形友梨、麻倉もも、原嶋あかり]
+13|main|恋愛ロードランナー|上田麗奈|ver:short
+14|main|パーフェクトゲーム|斉藤佑圭|ver:gameversion
+15|main|フローズン・ワード|藤井ゆきよ|ver:gameversion
+16|main|Sing a Wing Song|種田梨沙|ver:short
+17|main|花ざかりWeekend✿|4 Luxury[平山笑美、香里有佐、末柄里恵、高橋未奈美]
+18|main|Unknown Boxの開き方|MILLIONSTARS Team6th[斉藤佑圭、角元明日香、諏訪彩花、郁原ゆう、田村奈央]
+19|main|...In The Name Of。 ...LOVE?|阿部里果|ver:gameversion
+20|main|教えてlast note…|近藤唯|ver:gameversion
+21|main|初恋バタフライ|桐谷蝶々|ver:gameversion
+22|main|恋心マスカレード|野村香菜子|ver:gameversion
+23|main|dear...|高橋未奈美|ver:gameversion
+24|main|トワラー|MILLIONSTARS Team7th[木戸衣吹、愛美、戸田めぐみ、平山笑美]
+25|main|わたしは花、あなたは太陽|FleurS[渡部恵子、伊藤美来、高橋未奈美]
+26|main|Dance in the Light|山口立花子、駒形友梨、戸田めぐみ、斉藤佑圭
+27|main|鳥籠スクリプチュア|小岩井ことり|ver:gameversion
+28|main|瑠璃色金魚と花菖蒲|南早紀|ver:gameversion
+29|main|Up!10sion♪Pleeeeeeeeease!|村川梨衣|ver:gameversion
+30|main|Happy Darling|夏川椎菜|ver:gameversion
+31|main|Clover Days|Clover[麻倉もも、上田麗奈、木戸衣吹、雨宮天]
+32|main|REFRAIN REL@TION|MILLIONSTARS Team8th[香里有佐、田所あずさ、山崎はるか、Machico、南早紀]
+33|main|BORN ON DREAM! 〜HANABI☆NIGHT〜|閃光☆HANABI団[大関英里、渡部優衣、駒形友梨、上田麗奈、浜崎奈々]
+34|main|深層マーメイド|田所あずさ、Machico
+35|main|ESPADA|南早紀、近藤唯、原嶋あかり、末柄里恵、小笠原早紀、郁原ゆう、斉藤佑圭
+36|main|俠気乱舞|浜崎奈々、稲川英里、愛美、渡部恵子、田村奈央
+37|main|Shooting Stars|クレシェンドブルー[雨宮天、麻倉もも、田所あずさ、小笠原早紀、平山笑美]
+38|main|夢にかけるRainbow|種田梨沙、愛美、南早紀、郁原ゆう、山口立花子
+39|main|恋のLesson初級編|Machico|ver:gameversion
+40|main|Precious Grain|田所あずさ|ver:gameversion
+41|main|未来飛行|山崎はるか
+42|main|UNION!!|山崎はるか、田所あずさ、Machico、種田梨沙、角元明日香、大関英里、藤井ゆきよ、諏訪彩花、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、村川梨衣、上田麗奈、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、高橋未奈美、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐
+43|encore|Crossing!|山崎はるか、田所あずさ、Machico、種田梨沙、角元明日香、大関英里、藤井ゆきよ、諏訪彩花、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、村川梨衣、上田麗奈、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、高橋未奈美、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐
+44|encore|Thank You!|山崎はるか、田所あずさ、Machico、種田梨沙、角元明日香、大関英里、藤井ゆきよ、諏訪彩花、麻倉もも、小笠原早紀、夏川椎菜、中村温姫、伊藤美来、駒形友梨、村川梨衣、上田麗奈、原嶋あかり、小岩井ことり、郁原ゆう、雨宮天、田村奈央、木戸衣吹、渡部優衣、野村香菜子、高橋未奈美、稲川英里、末柄里恵、桐谷蝶々、浜崎奈々、阿部里果、近藤唯、山口立花子、斉藤佑圭、平山笑美、渡部恵子、愛美、南早紀、香里有佐、戸田めぐみ
