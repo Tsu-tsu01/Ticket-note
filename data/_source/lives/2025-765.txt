@@ -1,0 +1,77 @@
+@live id=20250802_765_neverend_d1 tour=t_765_neverend title=765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～ day=DAY1 date=2025-08-02 venue=v_k_arena brand=765as event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|THE IDOLM@STER|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美
+2|main|THE 愛|若林直美、釘宮理恵、中村繪里子、仁後真耶子
+3|main|オハヨ○サンシャイン|たかはし智秋、浅倉杏美、長谷川明子
+4|main|コーヒー1杯のイマージュ|平田宏美、沼倉愛美、下田麻美
+5|main|Miracle Night|仁後真耶子、中村繪里子、今井麻美、釘宮理恵、原由実
+6|main|ID:[OL]|滝田樹里、若林直美
+7|main|edeN|浅倉杏美、原由実、下田麻美、たかはし智秋
+8|main|ダンス・ダンス・ダンス|釘宮理恵、沼倉愛美、長谷川明子、今井麻美
+9|main|Halftone|平田宏美、浅倉杏美
+10|main|夏のBang!!|若林直美、仁後真耶子、下田麻美、たかはし智秋
+11|main|VOY@GER|平田宏美、長谷川明子、中村繪里子、今井麻美、原由実、沼倉愛美
+12|main|READY!!|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美|ver:medley
+13|main|CHANGE!!!!|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美|ver:medley
+14|main|キラメキラリ|仁後真耶子|ver:short
+15|main|おはよう!!朝ご飯|今井麻美|ver:game
+16|main|しあわせのレシピ|沼倉愛美、原由実|ver:short
+17|main|フラワーガール|原由実、沼倉愛美|ver:short
+18|main|何度も言えるよ|浅倉杏美|ver:short
+19|main|おとなのはじまり|若林直美、下田麻美|ver:short
+20|main|shy→shining|釘宮理恵、仁後真耶子|ver:game
+21|main|The world is all one !!|浅倉杏美、中村繪里子、沼倉愛美|ver:short
+22|main|ザ・ライブ革命でSHOW！|若林直美、平田宏美、長谷川明子、下田麻美、原由実、今井麻美|ver:short
+23|main|TOWN|浅倉杏美、沼倉愛美、釘宮理恵、滝田樹里、中村繪里子、仁後真耶子、たかはし智秋
+24|main|空|滝田樹里|ver:short
+25|main|Fermata in Rapsodia|原由実、たかはし智秋、今井麻美|ver:game
+26|main|Discord Area|若林直美|ver:short
+27|main|マリオネットの心|長谷川明子|ver:short
+28|main|ヨーイドン!!|平田宏美|ver:short
+29|main|ジェミー|下田麻美|ver:short
+30|main|ピンクローズアプローズ|釘宮理恵|ver:short
+31|main|隣に…|たかはし智秋|ver:short
+32|main|I'm yours|中村繪里子|ver:short
+33|main|虹色ミラクル|長谷川明子、滝田樹里、平田宏美|ver:short
+34|main|Colorful Days|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美、滝田樹里|ver:short
+35|main|約束|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美
+36|encore|私たちはずっと…でしょう？|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美、滝田樹里
+37|encore|M@STERPIECE|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美、滝田樹里
+
+@live id=20250803_765_neverend_d2 tour=t_765_neverend title=765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～ day=DAY2 date=2025-08-03 venue=v_k_arena brand=765as event=solo perf=cast stream=true lv=true archive=true status=confirmed
+1|main|THE IDOLM@STER|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美、滝田樹里
+2|main|GO MY WAY!!|若林直美、浅倉杏美、中村繪里子、仁後真耶子、下田麻美
+3|main|relations|長谷川明子、今井麻美
+4|main|MOONY|下田麻美、釘宮理恵、若林直美、たかはし智秋
+5|main|私はアイドル♡|平田宏美、釘宮理恵、滝田樹里
+6|main|LOST|たかはし智秋、原由実、沼倉愛美
+7|main|YES♪|中村繪里子、平田宏美
+8|main|チクタク|浅倉杏美、仁後真耶子、長谷川明子
+9|main|Little Match Girl|釘宮理恵、今井麻美、浅倉杏美、原由実
+10|main|shiny smile|若林直美、中村繪里子、沼倉愛美、たかはし智秋
+11|main|エージェント夜を往く|今井麻美、平田宏美、下田麻美、仁後真耶子
+12|main|REALIZE！！！|原由実、長谷川明子、沼倉愛美
+13|main|READY!!|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美|ver:medley
+14|main|CHANGE!!!!|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美|ver:medley
+15|main|乙女よ大志を抱け！！|中村繪里子|ver:short
+16|main|キラメキラリ|仁後真耶子|ver:short
+17|main|きゅんっ！ヴァンパイアガール|浅倉杏美、釘宮理恵|ver:short
+18|main|I Do|たかはし智秋|ver:short
+19|main|YOU往MY進！|下田麻美|ver:short
+20|main|いっぱいいっぱい|若林直美|ver:short
+21|main|翼|滝田樹里|ver:short
+22|main|ザ・ライブ革命でSHOW！|たかはし智秋、浅倉杏美、釘宮理恵、仁後真耶子、沼倉愛美、中村繪里子|ver:short
+23|main|TOWN|若林直美、今井麻美、長谷川明子、滝田樹里、平田宏美、原由実、下田麻美
+24|main|Day of the future|長谷川明子|ver:short
+25|main|プルメリアの花|浅倉杏美|ver:short
+26|main|Good-Byes|原由実、下田麻美、仁後真耶子|ver:short
+27|main|MUSIC♪|滝田樹里、沼倉愛美、若林直美、たかはし智秋、平田宏美|ver:game
+28|main|DIAMOND|釘宮理恵|ver:short
+29|main|tear|平田宏美|ver:short
+30|main|Next Life|沼倉愛美|ver:short
+31|main|風花|原由実|ver:short
+32|main|蒼い鳥|今井麻美|ver:game
+33|main|GR@TITUDE|長谷川明子、今井麻美、中村繪里子|ver:game
+34|main|i|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美、滝田樹里|ver:short
+35|main|カーテンコール|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美、滝田樹里
+36|encore|Destiny|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美
+37|encore|M@STERPIECE|中村繪里子、今井麻美、長谷川明子、浅倉杏美、仁後真耶子、平田宏美、釘宮理恵、原由実、若林直美、たかはし智秋、下田麻美、沼倉愛美、滝田樹里

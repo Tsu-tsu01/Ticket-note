@@ -1,0 +1,55 @@
+@live id=20220212_ml8th_d1 tour=t_ml_8th title=THE IDOLM@STER MILLION LIVE! 8thLIVE Twelw@ve day=DAY1 date=2022-02-12 venue=v_musashino brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|百花は月下に散りぬるを|花咲夜[郁原ゆう、南早紀]
+2|main|矛盾の月|花咲夜[郁原ゆう、南早紀]
+3|main|俠気乱舞|花咲夜[郁原ゆう、南早紀]
+4|main|My Evolution|miraclesonic★expassion[浜崎奈々、角元明日香]
+5|main|Sweet Sweet Soul|miraclesonic★expassion[浜崎奈々、角元明日香]
+6|main|絶対的Performer|miraclesonic★expassion[浜崎奈々、角元明日香]
+7|main|Arrive You 〜それが運命でも〜|TIntMe![渡部恵子、稲川英里、原嶋あかり]
+8|main|dear...|TIntMe![渡部恵子、稲川英里、原嶋あかり]
+9|main|ライラックにつつまれて|TIntMe![渡部恵子、稲川英里、原嶋あかり]
+10|main|夜と、明かりと。|Sherry 'n Cherry[山口立花子、高橋未奈美]
+11|main|嘆きのFRACTION|Sherry 'n Cherry[山口立花子、高橋未奈美]
+12|main|Cherry Colored Love|Sherry 'n Cherry[山口立花子、高橋未奈美]
+13|main|ReTale|≡君彩≡[藤井ゆきよ、村川梨衣、木戸衣吹]
+14|main|プラリネ|≡君彩≡[藤井ゆきよ、村川梨衣、木戸衣吹]
+15|main|パンとフィルム|≡君彩≡[藤井ゆきよ、村川梨衣、木戸衣吹]
+16|main|Parade d'amour|オペラセリア・煌輝座[種田梨沙、香里有佐、雨宮天、諏訪彩花]
+17|main|星宙のVoyage|オペラセリア・煌輝座[種田梨沙、香里有佐、雨宮天、諏訪彩花]
+18|main|MUSIC JOURNEY|オペラセリア・煌輝座[種田梨沙、香里有佐、雨宮天、諏訪彩花]
+19|main|White Vows|種田梨沙、郁原ゆう、香里有佐、雨宮天、南早紀、諏訪彩花
+20|main|リフレインキス|藤井ゆきよ、山口立花子、村川梨衣、高橋未奈美、木戸衣吹
+21|main|fruity love|渡部恵子、浜崎奈々、稲川英里、角元明日香、原嶋あかり
+22|main|G♡F|山口立花子、渡部恵子、郁原ゆう、稲川英里、南早紀、原嶋あかり、高橋未奈美
+23|main|ラ♥ブ♥リ♥|種田梨沙、香里有佐、藤井ゆきよ、浜崎奈々、村川梨衣、角元明日香、木戸衣吹、雨宮天、諏訪彩花
+24|main|ショコラブル＊イブ|郁原ゆう、稲川英里、雨宮天、香里有佐、角元明日香、南早紀、渡部恵子、種田梨沙、諏訪彩花、藤井ゆきよ、原嶋あかり、高橋未奈美、浜崎奈々、村川梨衣、山口立花子、木戸衣吹
+25|encore|Harmony 4 You|郁原ゆう、稲川英里、雨宮天、香里有佐、角元明日香、南早紀、渡部恵子、種田梨沙、諏訪彩花、藤井ゆきよ、原嶋あかり、高橋未奈美、浜崎奈々、村川梨衣、山口立花子、木戸衣吹
+26|encore|Thank You!|郁原ゆう、稲川英里、雨宮天、香里有佐、角元明日香、南早紀、渡部恵子、種田梨沙、諏訪彩花、藤井ゆきよ、原嶋あかり、高橋未奈美、浜崎奈々、村川梨衣、山口立花子、木戸衣吹
+
+@live id=20220213_ml8th_d2 tour=t_ml_8th title=THE IDOLM@STER MILLION LIVE! 8thLIVE Twelw@ve day=DAY2 date=2022-02-13 venue=v_musashino brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Hang In There!|Jus-2-Mint[渡部優衣、大関英里]
+2|main|追憶のサンドグラス|Jus-2-Mint[渡部優衣、大関英里]
+3|main|Super Duper|Jus-2-Mint[渡部優衣、大関英里]
+4|main|Special Wonderful Smile|Fleuranges[麻倉もも、近藤唯、桐谷蝶々]
+5|main|旅立ちのコンパス|Fleuranges[麻倉もも、近藤唯、桐谷蝶々]
+6|main|オーディナリィ・クローバー|Fleuranges[麻倉もも、近藤唯、桐谷蝶々]
+7|main|フシギトラベラー|TRICK&TREAT[小笠原早紀、平山笑美]
+8|main|CAT CROSSING|TRICK&TREAT[小笠原早紀、平山笑美]
+9|main|Black★Party|TRICK&TREAT[小笠原早紀、平山笑美]
+10|main|囚われのTeaTime|Chrono-Lexica[阿部里果、夏川椎菜、斉藤佑圭、中村温姫]
+11|main|Maria Trap|Chrono-Lexica[阿部里果、夏川椎菜、斉藤佑圭、中村温姫]
+12|main|dans l'obscurité|Chrono-Lexica[阿部里果、夏川椎菜、斉藤佑圭、中村温姫]
+13|main|Paradox of LOVE|chicAAmor[野村香菜子、末柄里恵、駒形友梨、愛美]
+14|main|Eternal Spiral|chicAAmor[野村香菜子、末柄里恵、駒形友梨、愛美]
+15|main|深紅のパシオン|chicAAmor[野村香菜子、末柄里恵、駒形友梨、愛美]
+16|main|ABSOLUTE RUN!!!|ストロベリーポップムーン[Machico、山崎はるか、田所あずさ]
+17|main|君との明日を願うから|ストロベリーポップムーン[Machico、山崎はるか、田所あずさ]
+18|main|Be proud|ストロベリーポップムーン[Machico、山崎はるか、田所あずさ]
+19|main|恋花|野村香菜子、末柄里恵、駒形友梨、愛美、阿部里果、夏川椎菜、斉藤佑圭、中村温姫
+20|main|プリンセス・アラモード|渡部優衣、大関英里、小笠原早紀、平山笑美
+21|main|Happy Darling|Machico、山崎はるか、田所あずさ、麻倉もも、近藤唯、桐谷蝶々
+22|main|自転車|阿部里果、夏川椎菜、Machico、渡部優衣、山崎はるか、大関英里、田所あずさ、斉藤佑圭、中村温姫
+23|main|成長Chu→LOVER!!|小笠原早紀、野村香菜子、麻倉もも、末柄里恵、近藤唯、駒形友梨、桐谷蝶々、愛美、平山笑美
+24|main|ショコラブル＊イブ|山崎はるか、田所あずさ、Machico、平山笑美、大関英里、近藤唯、愛美、駒形友梨、末柄里恵、斉藤佑圭、野村香菜子、小笠原早紀、麻倉もも、阿部里果、桐谷蝶々、夏川椎菜、渡部優衣、中村温姫
+25|encore|Harmony 4 You|山崎はるか、田所あずさ、Machico、平山笑美、大関英里、近藤唯、愛美、駒形友梨、末柄里恵、斉藤佑圭、野村香菜子、小笠原早紀、麻倉もも、阿部里果、桐谷蝶々、夏川椎菜、渡部優衣、中村温姫
+26|encore|Thank You!|山崎はるか、田所あずさ、Machico、平山笑美、大関英里、近藤唯、愛美、駒形友梨、末柄里恵、斉藤佑圭、野村香菜子、小笠原早紀、麻倉もも、阿部里果、桐谷蝶々、夏川椎菜、渡部優衣、中村温姫

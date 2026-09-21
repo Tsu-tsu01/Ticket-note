@@ -1,0 +1,222 @@
+live_id,seq,block,song_id,performers,is_original,is_premiere,stage_type,version,medley_group,notes
+20130210_765as_mfw_day,1,main,s_restrt,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_day,2,main,s_honeyheartbeat,765as_ami;765as_ritsuko,,false,,M@STER VERSION,,
+20130210_765as_mfw_day,3,main,s_iwant,765as_haruka,,false,,,,
+20130210_765as_mfw_day,4,main,s_alright,765as_yukiho,,false,,,,
+20130210_765as_mfw_day,5,main,s_765as_0e62b1l,765as_yayoi,,false,,,,ゲンキトリッパー
+20130210_765as_mfw_day,6,main,s_765as_0z1h8sy,765as_miki;765as_hibiki,,false,,,,目が逢う瞬間
+20130210_765as_mfw_day,7,main,s_mind,765as_takane;765as_kotori,,false,,,,迷走Mind
+20130210_765as_mfw_day,8,main,s_vaultthatborderline,765as_haruka;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_day,9,main,s_765as_0tyu2w5,765as_yayoi;765as_ami;765as_hibiki,,false,,M@STER VERSION,,ビジョナリー
+20130210_765as_mfw_day,10,main,s_brandnewday,765as_hibiki,,false,,,,
+20130210_765as_mfw_day,11,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,黎明スターライン
+20130210_765as_mfw_day,12,main,s_765as_01wogu2,765as_haruka;765as_yayoi;765as_kotori,,false,,,,ラ♥ブ♥リ♥
+20130210_765as_mfw_day,13,main,s_765as_15l8a85,765as_ritsuko,,false,,,,いっぱいいっぱい
+20130210_765as_mfw_day,14,main,s_like,765as_yayoi;765as_ritsuko,,false,,M@STER VERSION,,愛 LIKE ハンバーガー
+20130210_765as_mfw_day,15,main,s_765as_1wk61fu,765as_miki;765as_takane,,false,,M@STER VERSION,,きゅんっ!ヴァンパイアガール
+20130210_765as_mfw_day,16,main,s_eden,765as_miki;765as_yukiho;765as_takane,,false,,M@STER VERSION,,
+20130210_765as_mfw_day,17,main,s_littlematchgirl,765as_haruka;765as_yukiho,,false,,M@STER VERSION,,
+20130210_765as_mfw_day,18,main,s_dream,765as_miki,,false,,,,DREAM
+20130210_765as_mfw_day,19,main,s_lost,765as_takane,,false,,,,LOST
+20130210_765as_mfw_day,20,main,s_765as_0gyyy0n,765as_ami;765as_hibiki,,false,,,,フタリの記憶
+20130210_765as_mfw_day,21,main,s_firststep,765as_yukiho,,false,,,,
+20130210_765as_mfw_day,22,main,s_765as_1y9yljb,765as_kotori,,false,,,,幸
+20130210_765as_mfw_day,23,main,s_music,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_day,24,encore,s_ready,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_day,25,encore,s_music,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,1,main,s_restrt,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,セトリ共通
+20130210_765as_mfw_night,2,main,s_honeyheartbeat,765as_ami;765as_ritsuko,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,3,main,s_iwant,765as_haruka,,false,,,,
+20130210_765as_mfw_night,4,main,s_alright,765as_yukiho,,false,,,,
+20130210_765as_mfw_night,5,main,s_765as_0e62b1l,765as_yayoi,,false,,,,
+20130210_765as_mfw_night,6,main,s_765as_0z1h8sy,765as_miki;765as_hibiki,,false,,,,目が逢う瞬間
+20130210_765as_mfw_night,7,main,s_mind,765as_takane;765as_kotori,,false,,,,
+20130210_765as_mfw_night,8,main,s_vaultthatborderline,765as_haruka;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,9,main,s_765as_0tyu2w5,765as_yayoi;765as_ami;765as_hibiki,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,10,main,s_brandnewday,765as_hibiki,,false,,,,
+20130210_765as_mfw_night,11,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,
+20130210_765as_mfw_night,12,main,s_765as_01wogu2,765as_haruka;765as_yayoi;765as_kotori,,false,,,,
+20130210_765as_mfw_night,13,main,s_765as_15l8a85,765as_ritsuko,,false,,,,
+20130210_765as_mfw_night,14,main,s_like,765as_yayoi;765as_ritsuko,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,15,main,s_765as_1wk61fu,765as_miki;765as_takane,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,16,main,s_eden,765as_miki;765as_yukiho;765as_takane,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,17,main,s_littlematchgirl,765as_haruka;765as_yukiho,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,18,main,s_dream,765as_miki,,false,,,,
+20130210_765as_mfw_night,19,main,s_lost,765as_takane,,false,,,,
+20130210_765as_mfw_night,20,main,s_765as_0gyyy0n,765as_ami;765as_hibiki,,false,,,,
+20130210_765as_mfw_night,21,main,s_firststep,765as_yukiho,,false,,,,
+20130210_765as_mfw_night,22,main,s_765as_1y9yljb,765as_kotori,,false,,,,
+20130210_765as_mfw_night,23,main,s_music,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,24,encore,s_ready,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130210_765as_mfw_night,25,encore,s_music,765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_hibiki;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130707_765as_8th_nagoya,1,main,s_summer,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_hibiki;765as_kotori,,false,,,,神SUMMER!!
+20130707_765as_8th_nagoya,2,main,s_vaultthatborderline,765as_chihaya;765as_hibiki,,false,,M@STER VERSION,,
+20130707_765as_8th_nagoya,3,main,s_765as_06ef4dj,765as_miki;765as_kotori,,false,,,,I'm so free!
+20130707_765as_8th_nagoya,4,main,s_765as_12kw6vn,765as_ami,,false,,,,MOONY/下田麻美
+20130707_765as_8th_nagoya,5,main,s_765as_04w95th,765as_haruka,,false,,,,太陽のジェラシー
+20130707_765as_8th_nagoya,6,main,s_cg_0i6kt8w,cg_uzuki;cg_rin;cg_miku,,false,,M@STER VERSION,,お願い!シンデレラ(ゲスト)
+20130707_765as_8th_nagoya,7,main,s_dokidoki,cg_rin,,false,,,,DOKIDOKIリズム(ゲスト)
+20130707_765as_8th_nagoya,8,main,s_cg_1hpx94t,cg_miku,,false,,,,TOKIMEKIエスカレート(ゲスト)
+20130707_765as_8th_nagoya,9,main,s_smileing,cg_uzuki,,false,,,,S(mile)ING!(ゲスト)
+20130707_765as_8th_nagoya,10,main,s_765as_0sjai7d,765as_haruka;765as_chihaya,,false,,,,HELLO!!
+20130707_765as_8th_nagoya,11,main,s_765as_0sjai7d,765as_haruka,,false,,,,乙女よ大志を抱け!!
+20130707_765as_8th_nagoya,12,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,黎明スターライン
+20130707_765as_8th_nagoya,13,main,s_765as_1pbe8rs,765as_miki,,false,,,,マリオネットの心
+20130707_765as_8th_nagoya,14,main,s_arcadia,765as_chihaya,,false,,,,
+20130707_765as_8th_nagoya,15,main,s_765as_1yw5ep9,765as_kotori,,false,,,,空
+20130707_765as_8th_nagoya,16,main,s_brandnewday,765as_hibiki,,false,,,,
+20130707_765as_8th_nagoya,17,main,s_765as_07un66k,765as_chihaya,,false,,,,約束
+20130707_765as_8th_nagoya,18,main,s_765as_1fx8o5s,765as_haruka,,false,,,,笑って!
+20130707_765as_8th_nagoya,19,main,s_765as_163szvq,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_hibiki;765as_kotori,,false,,,,カーテンコール
+20130707_765as_8th_nagoya,20,encore,s_ready,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_hibiki;765as_kotori,,false,,M@STER VERSION,,
+20130707_765as_8th_nagoya,21,encore,s_theidolmster,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_hibiki;765as_kotori;cg_uzuki;cg_rin;cg_miku,,false,,M@STER VERSION,,
+20130720_765as_8th_osaka_d1,1,main,s_summer,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori,,false,,,,神SUMMER!!
+20130720_765as_8th_osaka_d1,2,main,s_765as_04w95th,765as_haruka,,false,,,,太陽のジェラシー
+20130720_765as_8th_osaka_d1,3,main,s_765as_06ef4dj,765as_takane;765as_kotori,,false,,,,I'm so free!
+20130720_765as_8th_osaka_d1,4,main,s_kosmoscosmos,765as_ami;765as_yukiho,,false,,,,MOONY
+20130720_765as_8th_osaka_d1,5,main,s_like,765as_yayoi;765as_ritsuko,,false,,M@STER VERSION,,愛 LIKE ハンバーガー
+20130720_765as_8th_osaka_d1,6,main,s_cg_0i6kt8w,cg_anzu;cg_kirari;cg_miku,,false,,,,お願い!シンデレラ(ゲスト:ハピ☆ハピver.)
+20130720_765as_8th_osaka_d1,7,main,s_cg_1uq2xbt,cg_anzu,,false,,,,あんずのうた(ゲスト)
+20130720_765as_8th_osaka_d1,8,main,s_cg_1hpx94t,cg_kirari,,false,,,,ましゅまろ☆キッス(ゲスト)
+20130720_765as_8th_osaka_d1,9,main,s_shallwe,cg_miku,,false,,,,おねだり Shall We〜?(ゲスト)
+20130720_765as_8th_osaka_d1,10,main,s_765as_1wk61fu,765as_yayoi;765as_kotori,,false,,M@STER VERSION,,きゅんっ!ヴァンパイアガール
+20130720_765as_8th_osaka_d1,11,main,s_765as_1ewun46,765as_yayoi,,false,,,,キラメキラリ
+20130720_765as_8th_osaka_d1,12,main,s_alright,765as_yukiho,,false,,,,何度も言えるよ/浅倉杏美
+20130720_765as_8th_osaka_d1,13,main,s_765as_0sjai7d,765as_haruka,,false,,,,乙女よ大志を抱け!!
+20130720_765as_8th_osaka_d1,14,main,s_765as_1yw5ep9,765as_kotori,,false,,,,空
+20130720_765as_8th_osaka_d1,15,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,黎明スターライン
+20130720_765as_8th_osaka_d1,16,main,s_765as_15l8a85,765as_ritsuko,,false,,,,いっぱいいっぱい
+20130720_765as_8th_osaka_d1,17,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20130720_765as_8th_osaka_d1,18,main,s_slapphappy,765as_yayoi,,false,,,,Slapp Happy!!!
+20130720_765as_8th_osaka_d1,19,main,s_765as_1yw5ep9,765as_kotori,,false,,,,光
+20130720_765as_8th_osaka_d1,20,main,s_765as_163szvq,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori,,false,,,,カーテンコール
+20130720_765as_8th_osaka_d1,21,encore,s_ready,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130720_765as_8th_osaka_d1,22,encore,s_theidolmster,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori;cg_anzu;cg_kirari;cg_miku,,false,,M@STER VERSION,,
+20130721_765as_8th_osaka_d2,1,main,s_summer,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori,,false,,,,
+20130721_765as_8th_osaka_d2,2,main,s_765as_04w95th,765as_haruka,,false,,,,
+20130721_765as_8th_osaka_d2,3,main,s_765as_06ef4dj,765as_takane;765as_kotori,,false,,,,
+20130721_765as_8th_osaka_d2,4,main,s_kosmoscosmos,765as_ami;765as_yukiho,,false,,,,MOONY
+20130721_765as_8th_osaka_d2,5,main,s_like,765as_yayoi;765as_ritsuko,,false,,M@STER VERSION,,
+20130721_765as_8th_osaka_d2,6,main,s_cg_0i6kt8w,cg_anzu;cg_kirari;cg_mio,,false,,M@STER VERSION,,お願い!シンデレラ(ゲスト)
+20130721_765as_8th_osaka_d2,7,main,s_cg_1uq2xbt,cg_anzu,,false,,,,あんずのうた(ゲスト)
+20130721_765as_8th_osaka_d2,8,main,s_cg_1hpx94t,cg_kirari,,false,,,,ましゅまろ☆キッス(ゲスト)
+20130721_765as_8th_osaka_d2,9,main,s_cg_0ljcypm,cg_mio,,false,,,,ミツボシ☆☆★(ゲスト)
+20130721_765as_8th_osaka_d2,10,main,s_765as_1wk61fu,765as_yayoi;765as_kotori,,false,,M@STER VERSION,,
+20130721_765as_8th_osaka_d2,11,main,s_765as_1ewun46,765as_yayoi,,false,,,,
+20130721_765as_8th_osaka_d2,12,main,s_alright,765as_yukiho,,false,,,,何度も言えるよ
+20130721_765as_8th_osaka_d2,13,main,s_765as_0sjai7d,765as_haruka,,false,,,,
+20130721_765as_8th_osaka_d2,14,main,s_765as_1yw5ep9,765as_kotori,,false,,,,空
+20130721_765as_8th_osaka_d2,15,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,
+20130721_765as_8th_osaka_d2,16,main,s_765as_15l8a85,765as_ritsuko,,false,,,,
+20130721_765as_8th_osaka_d2,17,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20130721_765as_8th_osaka_d2,18,main,s_slapphappy,765as_yayoi,,false,,,,
+20130721_765as_8th_osaka_d2,19,main,s_765as_1yw5ep9,765as_kotori,,false,,,,光
+20130721_765as_8th_osaka_d2,20,main,s_765as_163szvq,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori,,false,,,,カーテンコール
+20130721_765as_8th_osaka_d2,21,encore,s_ready,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori,,false,,M@STER VERSION,,
+20130721_765as_8th_osaka_d2,22,encore,s_theidolmster,765as_haruka;765as_yayoi;765as_yukiho;765as_ami;765as_takane;765as_ritsuko;765as_kotori;cg_anzu;cg_kirari;cg_mio,,false,,M@STER VERSION,,
+20130804_765as_8th_yokohama,1,main,s_summer,765as_haruka;765as_chihaya;765as_miki;765as_yayoi;765as_yukiho;765as_takane;765as_hibiki;765as_ritsuko,,false,,,,
+20130804_765as_8th_yokohama,2,main,s_vaultthatborderline,765as_chihaya;765as_hibiki,,false,,M@STER VERSION,,
+20130804_765as_8th_yokohama,3,main,s_765as_04w95th,765as_haruka,,false,,,,
+20130804_765as_8th_yokohama,4,main,s_765as_06ef4dj,765as_miki;765as_takane,,false,,,,I'm so free!
+20130804_765as_8th_yokohama,5,main,s_like,765as_yayoi;765as_ritsuko,,false,,M@STER VERSION,,
+20130804_765as_8th_yokohama,6,main,s_kosmoscosmos,765as_yukiho,,false,,,,MOONY
+20130804_765as_8th_yokohama,7,main,s_ml_00ihggv,ml_mirai;ml_shizuka;ml_yuriko,,false,,,,Thank You!(ゲスト)
+20130804_765as_8th_yokohama,8,main,s_ml_00ihggv,ml_mirai,,false,,,,素敵なキセキ(ゲスト)
+20130804_765as_8th_yokohama,9,main,s_preciousgrain,ml_shizuka,,false,,,,Precious Grain(ゲスト)
+20130804_765as_8th_yokohama,10,main,s_ml_0r7y3ix,ml_yuriko,,false,,,,透明なプロローグ(ゲスト)
+20130804_765as_8th_yokohama,11,main,s_inferno,765as_yukiho;765as_miki,,false,,,,
+20130804_765as_8th_yokohama,12,main,s_alright,765as_yukiho,,false,,,,何度も言えるよ
+20130804_765as_8th_yokohama,13,main,s_brandnewday,765as_hibiki,,false,,,,
+20130804_765as_8th_yokohama,14,main,s_765as_1ewun46,765as_yayoi,,false,,,,キラメキラリ
+20130804_765as_8th_yokohama,15,main,s_765as_0sjai7d,765as_haruka,,false,,,,
+20130804_765as_8th_yokohama,16,main,s_765as_1pbe8rs,765as_miki,,false,,,,マリオネットの心
+20130804_765as_8th_yokohama,17,main,s_765as_15l8a85,765as_ritsuko,,false,,,,
+20130804_765as_8th_yokohama,18,main,s_arcadia,765as_chihaya,,false,,,,
+20130804_765as_8th_yokohama,19,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20130804_765as_8th_yokohama,20,main,s_765as_01mbphu,765as_miki,,false,,,,ショッキングな彼
+20130804_765as_8th_yokohama,21,main,s_firststep,765as_yukiho,,false,,,,
+20130804_765as_8th_yokohama,22,main,s_765as_163szvq,765as_haruka;765as_chihaya;765as_miki;765as_yayoi;765as_yukiho;765as_takane;765as_hibiki;765as_ritsuko,,false,,,,カーテンコール
+20130804_765as_8th_yokohama,23,encore,s_ready,765as_haruka;765as_chihaya;765as_miki;765as_yayoi;765as_yukiho;765as_takane;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20130804_765as_8th_yokohama,24,encore,s_theidolmster,765as_haruka;765as_chihaya;765as_miki;765as_yayoi;765as_yukiho;765as_takane;765as_hibiki;765as_ritsuko;ml_mirai;ml_shizuka;ml_yuriko,,false,,M@STER VERSION,,
+20130915_765as_8th_fukuoka,1,main,s_ready,765as_miki;765as_chihaya;765as_takane;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20130915_765as_8th_fukuoka,2,main,s_wejuststarted,765as_miki,,false,,,,We just started
+20130915_765as_8th_fukuoka,3,main,s_arcadia,765as_chihaya,,false,,,,
+20130915_765as_8th_fukuoka,4,main,s_brandnewday,765as_hibiki,,false,,,,
+20130915_765as_8th_fukuoka,5,main,s_765as_0cb6rw0,765as_iori,,false,,,,リゾラ
+20130915_765as_8th_fukuoka,6,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20130915_765as_8th_fukuoka,7,main,s_happydarling,ml_anna,,false,,,,Happy Darling(ゲスト)
+20130915_765as_8th_fukuoka,8,main,s_ml_1cisyyv,ml_serika,,false,,,,トキメキの音符になって(ゲスト)
+20130915_765as_8th_fukuoka,9,main,s_ml_00ihggv,ml_anna;ml_serika,,false,,,,Thank You!(ゲスト)
+20130915_765as_8th_fukuoka,10,main,s_765as_0z1h8sy,765as_iori;765as_takane,,false,,M@STER VERSION,,オーバーマスター
+20130915_765as_8th_fukuoka,11,main,s_vaultthatborderline,765as_chihaya;765as_hibiki,,false,,M@STER VERSION,,
+20130915_765as_8th_fukuoka,12,main,s_765as_1pbe8rs,765as_miki,,false,,,,マリオネットの心
+20130915_765as_8th_fukuoka,13,main,s_rebellion,765as_hibiki,,false,,,,
+20130915_765as_8th_fukuoka,14,main,s_765as_06ef4dj,765as_miki;765as_takane,,false,,,,I'm so free!
+20130915_765as_8th_fukuoka,15,main,s_playbackweekday,765as_iori,,false,,,,プライヴェイト・ロードショウ
+20130915_765as_8th_fukuoka,16,main,s_765as_0za1sbd,765as_takane,,false,,,,フラワーガール
+20130915_765as_8th_fukuoka,17,main,s_snowwhite,765as_chihaya,,false,,,,Snow White
+20130915_765as_8th_fukuoka,18,main,s_lost,765as_iori,,false,,,,LOST
+20130915_765as_8th_fukuoka,19,main,s_meltedsnow,765as_takane,,false,,,,Melted Snow(961PRO Ver)
+20130915_765as_8th_fukuoka,20,main,s_765as_163szvq,765as_miki;765as_chihaya;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,,,カーテンコール
+20130915_765as_8th_fukuoka,21,encore,s_restrt,765as_miki;765as_chihaya;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20130915_765as_8th_fukuoka,22,encore,s_theidolmster,765as_miki;765as_chihaya;765as_iori;765as_takane;765as_hibiki;765as_ritsuko;ml_anna;ml_serika,,false,,M@STER VERSION,,
+20130921_765as_8th_makuhari_d1,1,main,s_ready,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20130921_765as_8th_makuhari_d1,2,main,s_765as_0sjai7d,765as_haruka,,false,,,,乙女よ大志を抱け!!
+20130921_765as_8th_makuhari_d1,3,main,s_765as_1ewun46,765as_yayoi,,false,,,,キラメキラリ
+20130921_765as_8th_makuhari_d1,4,main,s_765as_15l8a85,765as_ritsuko,,false,,,,いっぱいいっぱい
+20130921_765as_8th_makuhari_d1,5,main,s_wejuststarted,765as_miki;765as_ami,,false,,,,We just started
+20130921_765as_8th_makuhari_d1,6,main,s_765as_0cb6rw0,765as_iori,,false,,,,リゾラ
+20130921_765as_8th_makuhari_d1,7,main,s_brandnewday,765as_hibiki,,false,,,,
+20130921_765as_8th_makuhari_d1,8,main,s_arcadia,765as_chihaya,,false,,,,
+20130921_765as_8th_makuhari_d1,9,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20130921_765as_8th_makuhari_d1,10,main,s_cg_0i6kt8w,cg_uzuki;cg_rin,,false,,M@STER VERSION,,お願い!シンデレラ(ゲスト)
+20130921_765as_8th_makuhari_d1,11,main,s_smileing,cg_uzuki,,false,,,,S(mile)ING!(ゲスト)
+20130921_765as_8th_makuhari_d1,12,main,s_ml_00ihggv,ml_mirai,,false,,,,素敵なキセキ(ゲスト)
+20130921_765as_8th_makuhari_d1,13,main,s_ml_00ihggv,cg_rin,,false,,,,Never say never(ゲスト)
+20130921_765as_8th_makuhari_d1,14,main,s_preciousgrain,ml_shizuka,,false,,,,Precious Grain(ゲスト)
+20130921_765as_8th_makuhari_d1,15,main,s_ml_00ihggv,ml_mirai;ml_shizuka,,false,,,,Thank You!(ゲスト)
+20130921_765as_8th_makuhari_d1,16,main,s_itsshow,765as_ami;765as_hibiki;765as_ritsuko,,false,,,,It's Show
+20130921_765as_8th_makuhari_d1,17,main,s_ml_0q8j8c7,765as_haruka,,false,,,,キラメキ進行形
+20130921_765as_8th_makuhari_d1,18,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,黎明スターライン
+20130921_765as_8th_makuhari_d1,19,main,s_playbackweekday,765as_iori,,false,,,,プライヴェイト・ロードショウ
+20130921_765as_8th_makuhari_d1,20,main,s_765as_0za1sbd,765as_takane,,false,,,,フラワーガール
+20130921_765as_8th_makuhari_d1,21,main,s_765as_12kw6vn,765as_ami,,false,,,,おとなのはじまり/下田麻美
+20130921_765as_8th_makuhari_d1,22,main,s_like,765as_yayoi;765as_ritsuko,,false,,M@STER VERSION,,愛 LIKE ハンバーガー
+20130921_765as_8th_makuhari_d1,23,main,s_765as_1pbe8rs,765as_miki,,false,,,,マリオネットの心
+20130921_765as_8th_makuhari_d1,24,main,s_rebellion,765as_hibiki,,false,,,,Rebellion
+20130921_765as_8th_makuhari_d1,25,main,s_snowwhite,765as_chihaya,,false,,,,Snow White
+20130921_765as_8th_makuhari_d1,26,main,s_dazzlingworld,765as_ritsuko,,false,,,,Dazzling World
+20130921_765as_8th_makuhari_d1,27,main,s_765as_1rh5ojr,765as_hibiki,,false,,,,まっすぐ/沼倉愛美
+20130921_765as_8th_makuhari_d1,28,main,s_765as_163szvq,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,,,カーテンコール
+20130921_765as_8th_makuhari_d1,29,encore,s_restrt,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20130921_765as_8th_makuhari_d1,30,encore,s_theidolmster,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko;cg_uzuki;cg_rin;ml_mirai;ml_shizuka,,false,,M@STER VERSION,,
+20130922_765as_8th_makuhari_d2,1,main,s_ready,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,セトリD1共通
+20130922_765as_8th_makuhari_d2,2,main,s_765as_0sjai7d,765as_haruka,,false,,,,
+20130922_765as_8th_makuhari_d2,3,main,s_765as_1ewun46,765as_yayoi,,false,,,,
+20130922_765as_8th_makuhari_d2,4,main,s_765as_15l8a85,765as_ritsuko,,false,,,,
+20130922_765as_8th_makuhari_d2,5,main,s_wejuststarted,765as_miki;765as_ami,,false,,,,
+20130922_765as_8th_makuhari_d2,6,main,s_765as_0cb6rw0,765as_iori,,false,,,,
+20130922_765as_8th_makuhari_d2,7,main,s_brandnewday,765as_hibiki,,false,,,,
+20130922_765as_8th_makuhari_d2,8,main,s_arcadia,765as_chihaya,,false,,,,
+20130922_765as_8th_makuhari_d2,9,main,s_765as_0za1sbd,765as_takane,,false,,,,
+20130922_765as_8th_makuhari_d2,10,main,s_cg_0i6kt8w,cg_uzuki;cg_rin,,false,,M@STER VERSION,,ゲスト
+20130922_765as_8th_makuhari_d2,11,main,s_smileing,cg_uzuki,,false,,,,ゲスト
+20130922_765as_8th_makuhari_d2,12,main,s_ml_00ihggv,ml_mirai,,false,,,,ゲスト
+20130922_765as_8th_makuhari_d2,13,main,s_ml_00ihggv,cg_rin,,false,,,,Never say never(ゲスト)
+20130922_765as_8th_makuhari_d2,14,main,s_preciousgrain,ml_shizuka,,false,,,,ゲスト
+20130922_765as_8th_makuhari_d2,15,main,s_ml_00ihggv,ml_mirai;ml_shizuka,,false,,,,ゲスト
+20130922_765as_8th_makuhari_d2,16,main,s_itsshow,765as_ami;765as_hibiki;765as_ritsuko,,false,,,,
+20130922_765as_8th_makuhari_d2,17,main,s_ml_0q8j8c7,765as_haruka,,false,,,,キラメキ進行形
+20130922_765as_8th_makuhari_d2,18,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,
+20130922_765as_8th_makuhari_d2,19,main,s_playbackweekday,765as_iori,,false,,,,
+20130922_765as_8th_makuhari_d2,20,main,s_765as_0za1sbd,765as_takane,,false,,,,フラワーガール
+20130922_765as_8th_makuhari_d2,21,main,s_765as_12kw6vn,765as_ami,,false,,,,おとなのはじまり
+20130922_765as_8th_makuhari_d2,22,main,s_like,765as_yayoi;765as_ritsuko,,false,,M@STER VERSION,,
+20130922_765as_8th_makuhari_d2,23,main,s_765as_1pbe8rs,765as_miki,,false,,,,
+20130922_765as_8th_makuhari_d2,24,main,s_rebellion,765as_hibiki,,false,,,,
+20130922_765as_8th_makuhari_d2,25,main,s_snowwhite,765as_chihaya,,false,,,,
+20130922_765as_8th_makuhari_d2,26,main,s_dazzlingworld,765as_ritsuko,,false,,,,
+20130922_765as_8th_makuhari_d2,27,main,s_765as_1rh5ojr,765as_hibiki,,false,,,,まっすぐ
+20130922_765as_8th_makuhari_d2,28,main,s_765as_163szvq,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,,,カーテンコール
+20130922_765as_8th_makuhari_d2,29,encore,s_restrt,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20130922_765as_8th_makuhari_d2,30,encore,s_theidolmster,765as_haruka;765as_miki;765as_chihaya;765as_ami;765as_yayoi;765as_iori;765as_takane;765as_hibiki;765as_ritsuko;cg_uzuki;cg_rin;ml_mirai;ml_shizuka,,false,,M@STER VERSION,,

@@ -1,0 +1,194 @@
+@live id=20230211_moiw2023_d1 tour=t_moiw2023 title=THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023 day=DAY1 date=2023-02-11 venue=v_tokyo_dome brand=crossover event=festival perf=cast stream=true lv=false archive=true status=confirmed
+1|main|THE IDOLM@STER|765as_allstars+
+2|main|Shine!!|cg_all_d1
+3|main|Glow Map|山崎はるか、田所あずさ、Machico、稲川英里、原嶋あかり、渡部恵子、郁原ゆう、南早紀、小岩井ことり、角元明日香、桐谷蝶々
+4|main|DRIVE A LIVE|sidem_all_d1
+5|main|Resonance⁺|sc_all_d1
+6|main|ビーチブレイバー|全出演者
+7|main|ドレミファクトリー！|全出演者
+8|main|はるかぜバトン|もふもふえん、Cleasky[角元明日香、桐谷蝶々]
+9|main|shiny smile|Cleasky[角元明日香、桐谷蝶々]、ノクチル
+10|main|夏時間グラフィティ|ストロベリーポップムーン[山崎はるか、田所あずさ、Machico]、放課後クライマックスガールズ
+11|main|Reason!!|765as_allstars+
+12|main|虹色letters|Cleasky[角元明日香、桐谷蝶々]
+13|main|僕らだけの未来の空|全出演者
+14|main|秘密のメモリーズ|全出演者
+15|main|Arrive You 〜それが運命でも〜|TIntMe![稲川英里、原嶋あかり、渡部恵子]、U149
+16|main|百花は月下に散りぬるを|花咲夜[郁原ゆう、南早紀、小岩井ことり]
+17|main|Gaze and Gaze|全出演者
+18|main|エージェント夜を往く|sidem_all_d1
+19|main|GO MY WAY!!|全出演者
+20|main|JOKER↗オールマイティ|全出演者
+21|main|I'm so free!|全出演者
+22|main|ラ♥ブ♥リ♥|全出演者
+23|main|Get lol! Get lol! SONG|全出演者
+24|main|絶対正義 EVERY DAY|稲川英里、全出演者
+25|main|スパイスパラダイス|全出演者
+26|main|Let's get a chance|山崎はるか、田所あずさ、Machico、稲川英里、原嶋あかり、渡部恵子、郁原ゆう、南早紀、小岩井ことり、角元明日香、桐谷蝶々
+27|main|ABSOLUTE RUN!!!|ストロベリーポップムーン[山崎はるか、田所あずさ、Machico]
+28|main|BRAND NEW FIELD|全出演者
+29|main|Dye the sky.|全出演者
+30|main|流れ星キセキ|全出演者
+31|main|ハイファイ☆デイズ|sc_all_d1
+32|main|True Horizon|全出演者
+33|main|FairyTaleじゃいられない|cg_all_d1
+34|main|We're the one|全出演者
+35|main|Transcending The World|全出演者
+36|main|Needle Light|全出演者
+37|main|Platinum MASK|全出演者
+38|main|アンデッド・ダンスロック|全出演者
+39|main|Tulip|全出演者
+40|main|Trancing Pulse|全出演者
+41|main|CRYST@LOUD|全出演者
+42|encore|アイ MUST GO！|全出演者
+
+@live id=20230212_moiw2023_d2 tour=t_moiw2023 title=THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023 day=DAY2 date=2023-02-12 venue=v_tokyo_dome brand=crossover event=festival perf=cast stream=true lv=false archive=true status=confirmed
+1|main|シャイノグラフィ|sc_all_d2
+2|main|Growing Smiles！|sidem_all_d2
+3|main|Flyers!!!|斉藤佑圭、中村温姫、阿部里果、駒形友梨、浜崎奈々、渡部優衣、大関英里、香里有佐、末柄里恵、平山笑美、高橋未奈美
+4|main|BEYOND THE STARLIGHT|cg_all_d2
+5|main|Happy!|765as_allstars+
+6|main|ヒカリのdestination|全出演者
+7|main|O-Ku-Ri-Mo-No Sunday!|全出演者
+8|main|あんきら！？狂騒曲|全出演者
+9|main|ラブ・ボナペティート|全出演者
+10|main|Pavé Étoiles|全出演者
+11|main|太陽キッス|cg_all_d2
+12|main|キラメキラリ|全出演者
+13|main|きゅんっ！ヴァンパイアガール|全出演者
+14|main|Treasure☆|全出演者
+15|main|Study Equal Magic!|全出演者
+16|main|ココロ☆エクササイズ|斉藤佑圭、浜崎奈々、全出演者
+17|main|恋のHamburg♪|大関英里、全出演者
+18|main|学祭革命夜明け前|全出演者
+19|main|虹色ミラクル|sc_all_d2
+20|main|バーニン・クールで輝いて|斉藤佑圭、中村温姫、阿部里果、駒形友梨、浜崎奈々、渡部優衣、大関英里、香里有佐、末柄里恵、平山笑美、高橋未奈美
+21|main|Friendly Smile|全出演者
+22|main|Plus 1 Good Day!|全出演者
+23|main|♡Cupids!|全出演者
+24|main|ALIVE|全出演者
+25|main|アライアンス・スターダスト|全出演者
+26|main|レッド・ソール|末柄里恵、高橋未奈美、全出演者
+27|main|dans l'obscurité|全出演者
+28|main|純白トロイメライ|全出演者
+29|main|バベル|全出演者
+30|main|Fly and Fly|全出演者
+31|main|オーバーマスター|全出演者
+32|main|Raise the FLAG|sidem_all_d2
+33|main|Yes! Party Time!!|765as_allstars+
+34|main|Happy Funny Lucky|全出演者
+35|main|Bet your intuition!|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]、Flamme Martini
+36|main|SWEET♡STEP|sidem_all_d2
+37|main|MOON NIGHTのせいにして|全出演者
+38|main|花ざかりWeekend✿|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+39|main|待ち受けプリンス|全出演者
+40|main|咲くは浮世の君花火|閃光☆HANABI団[駒形友梨、浜崎奈々、渡部優衣、大関英里]
+41|main|Destiny|765as_allstars+
+42|main|CRYST@LOUD|全出演者
+43|encore|M@STERPIECE|全出演者
+
+@live id=20231209_ijigen_d1 tour=t_ijigen_fes title=異次元フェス アイドルマスター★♥ラブライブ！歌合戦 day=DAY1 date=2023-12-09 venue=v_tokyo_dome brand=crossover event=festival perf=cast stream=true lv=false archive=true status=confirmed
+1|main|青空Jumping Heart|Aqours
+2|main|Shine!!|cg_all_d1
+3|main|Glow Map|山崎はるか、田所あずさ、Machico、麻倉もも、小岩井ことり、中村温姫、平山笑美、渡部優衣
+4|main|DRIVE A LIVE|全出演者
+5|main|Resonance⁺|全出演者
+6|main|常夏☆サンシャイン|Liella!
+7|main|Spread the Wings!!|sc_all_d1
+8|main|Dream Believers|蓮ノ空
+9|main|Eternal Harmony|平山笑美、田所あずさ、山崎はるか、渡部優衣
+10|main|わちゅごなどぅー|全出演者
+11|main|無重力シャトル|全出演者
+12|main|DREAMY COLOR|全出演者
+13|main|ド！ド！ド！|全出演者
+14|main|今しかない瞬間を|全出演者
+15|main|オルタネイト|全出演者
+16|main|Let's Sail Away!!!|全出演者
+17|main|WE WILL!!|全出演者
+18|main|fruity love|天空橋朋花[小岩井ことり]、ロコ[中村温姫]、箱崎星梨花[麻倉もも]、伊吹翼[Machico]
+19|main|不可視なブルー|全出演者
+20|main|アルストロメリア|全出演者
+21|main|Holiday∞Holiday|全出演者
+22|main|ラブレター|全出演者
+23|main|Dream with You|全出演者
+24|main|Butterfly|全出演者
+25|main|ツナガルコネクト|全出演者
+26|main|ハクチューアラモード|全出演者
+27|main|ラブ・ボナペティート|全出演者
+28|main|きらりひらり舞う桜|全出演者
+29|main|ゆめの羅針盤|全出演者
+30|main|FairyTaleじゃいられない|山崎はるか、田所あずさ、Machico、麻倉もも、小岩井ことり、中村温姫、平山笑美、渡部優衣
+31|main|Tragic Drops|全出演者
+32|main|abyss of conflict|全出演者
+33|main|OH MY GOD|全出演者
+34|main|VIVID WORLD|全出演者
+35|main|Eutopia|全出演者
+36|main|決意の光|全出演者
+37|main|生存本能ヴァルキュリア|全出演者
+38|main|Jump Into the New World|Liella!
+39|main|Guilty Night, Guilty Kiss!|全出演者
+40|main|Tulip|全出演者
+41|main|Dye the sky.|全出演者
+42|main|MIRACLE NEW STORY|全出演者
+43|main|SESSION!|全出演者
+44|main|アライブファクター|田所あずさ、全出演者
+45|main|未体験HORIZON|全出演者
+46|main|永遠のEuphoria|全出演者
+47|main|Colorful Dreams! Colorful Smiles!|全出演者
+48|main|GOIN'!!!|山崎はるか、田所あずさ、Machico、麻倉もも、小岩井ことり、中村温姫、平山笑美、渡部優衣
+49|main|READY!!|全出演者
+50|main|僕らは今のなかで|全出演者
+51|main|異次元★♥BIGBANG|全出演者
+52|encore|アイ MUST GO！|全出演者
+
+@live id=20231210_ijigen_d2 tour=t_ijigen_fes title=異次元フェス アイドルマスター★♥ラブライブ！歌合戦 day=DAY2 date=2023-12-10 venue=v_tokyo_dome brand=crossover event=festival perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Yes! Party Time!!|cg_all_d2
+2|main|On your mark|蓮ノ空
+3|main|ビタミンSUMMER！|Liella!
+4|main|シャイノグラフィ|sc_all_d2
+5|main|Love U my friends|全出演者
+6|main|Rat A Tat!!!|愛美、伊藤美来、木戸衣吹、香里有佐、駒形友梨、末柄里恵、南早紀、山口立花子
+7|main|未来の僕らは知ってるよ|Aqours
+8|main|流れ星キセキ|全出演者
+9|main|CHASE!|全出演者
+10|main|めっちゃGoing!!|全出演者
+11|main|Toy Doll|全出演者
+12|main|ノンフィクションヒーローショー|全出演者
+13|main|学祭革命夜明け前|全出演者
+14|main|WATER BLUE NEW WORLD|Aqours
+15|main|スター宣言|Liella!
+16|main|ジャングル☆パーティー|愛美、伊藤美来、木戸衣吹、香里有佐、駒形友梨、末柄里恵、南早紀、山口立花子
+17|main|虹色Passions！|全出演者
+18|main|Mix shake!!|全出演者
+19|main|Sweet Sweet Soul|山口立花子[百瀬莉緒]、伊藤美来[七尾百合子]、木戸衣吹[矢吹可奈]、南早紀[白石紬]
+20|main|無敵級*ビリーバー|全出演者
+21|main|オードリー|全出演者
+22|main|哀温ノ詩|全出演者
+23|main|Happy Funny Lucky|全出演者
+24|main|眩耀夜行|全出演者
+25|main|Shine In The Sky☆|全出演者
+26|main|Dancing Raspberry|全出演者
+27|main|Happy Nyan! Days|全出演者
+28|main|キャットスクワッド|全出演者
+29|main|きらりひらり舞う桜|全出演者
+30|main|ゆめの羅針盤|全出演者
+31|main|MY舞☆TONIGHT|全出演者
+32|main|俠気乱舞|南早紀[白石紬]、全出演者
+33|main|Wandering Dream Chaser|全出演者
+34|main|KNOT|全出演者
+35|main|無自覚アプリオリ|全出演者
+36|main|Just Believe!!!|全出演者
+37|main|Raise the FLAG|愛美[ジュリア]、香里有佐[桜守歌織]、駒形友梨[高山紗代子]、末柄里恵[豊川風花]
+38|main|Day1|Liella!
+39|main|ガールズ・イン・ザ・フロンティア|全出演者
+40|main|さよならアンドロメダ|愛美、伊藤美来、木戸衣吹、香里有佐、駒形友梨、末柄里恵、南早紀、山口立花子
+41|main|私のSymphony|全出演者
+42|main|フォーチュンムービー|木戸衣吹[矢吹可奈]、全出演者
+43|main|Tracing Defender|全出演者
+44|main|ハーモニクス|愛美[ジュリア]、全出演者
+45|main|繚乱！ビクトリーロード|全出演者
+46|main|コットンキャンディえいえいおー！|全出演者
+47|main|Thank You!|sc_all_d2、蓮ノ空
+48|main|Snow halation|全出演者
+49|main|M@STERPIECE|全出演者
+50|main|異次元★♥BIGBANG|全出演者

@@ -1,0 +1,39 @@
+@live id=20241214_imas_expo_d1 tour=t_imas_expo title=M@STER EXPO LIVE SHOWCASE day=DAY1 date=2024-12-14 venue=v_makuhari_hall3 brand=crossover event=festival perf=cast stream=false lv=false archive=false status=confirmed
+1|main|ABSOLUTE RUN!!!|ストロベリーポップムーン[伊吹翼、春日未来、最上静香]|ver:gameversion
+2|main|絶対的Performer|miraclesonic★expassion[高坂海美、福田のり子、舞浜歩、島原エレナ]|ver:gameversion
+3|main|ロケットスター☆|伊吹翼|ver:gameversion
+4|main|Catch my dream|最上静香|ver:gameversion
+5|main|素敵なキセキ|春日未来|ver:gameversion
+6|main|Get My Shinin'|舞浜歩|ver:gameversion
+7|main|ファンタジスタ・カーニバル|島原エレナ|ver:gameversion
+8|main|WE ARE ONE!!|福田のり子|ver:gameversion
+9|main|スポーツ！スポーツ！スポーツ！|高坂海美|ver:gameversion
+10|main|My Evolution|miraclesonic★expassion[高坂海美、福田のり子、舞浜歩、島原エレナ]
+11|main|Be proud|ストロベリーポップムーン[最上静香、春日未来、伊吹翼]
+12|main|ザ・ライブ革命でSHOW！|福田のり子、舞浜歩、伊吹翼、春日未来、最上静香、高坂海美、島原エレナ|ver:medley
+13|main|We can go now!|ストロベリーポップムーン[最上静香、春日未来、伊吹翼]|ver:medley
+14|main|ミラーボール・ラブ|島原エレナ、最上静香、福田のり子|ver:medley
+15|main|Fighting My Way|伊吹翼|ver:medley
+16|main|Study Equal Magic!|春日未来、舞浜歩、高坂海美|ver:medley
+17|main|Do the IDOL!! 〜断崖絶壁チュパカブラ〜|舞浜歩、島原エレナ、最上静香、春日未来、伊吹翼、福田のり子、高坂海美
+18|main|Rat A Tat!!!|舞浜歩、島原エレナ、最上静香、春日未来、伊吹翼、福田のり子、高坂海美
+
+@live id=20241215_imas_expo_d2 tour=t_imas_expo title=M@STER EXPO LIVE SHOWCASE day=DAY2 date=2024-12-15 venue=v_makuhari_hall3 brand=crossover event=festival perf=cast stream=false lv=false archive=false status=confirmed
+1|main|ABSOLUTE RUN!!!|ストロベリーポップムーン[伊吹翼、春日未来、最上静香]
+2|main|絶対的Performer|miraclesonic★expassion[高坂海美、福田のり子、舞浜歩、島原エレナ]
+3|main|ロケットスター☆|伊吹翼|ver:gameversion
+4|main|Catch my dream|最上静香|ver:gameversion
+5|main|素敵なキセキ|春日未来|ver:gameversion
+6|main|Get My Shinin'|舞浜歩|ver:gameversion
+7|main|ファンタジスタ・カーニバル|島原エレナ|ver:gameversion
+8|main|WE ARE ONE!!|福田のり子|ver:gameversion
+9|main|スポーツ！スポーツ！スポーツ！|高坂海美|ver:gameversion
+10|main|My Evolution|miraclesonic★expassion[高坂海美、福田のり子、舞浜歩、島原エレナ]
+11|main|Be proud|ストロベリーポップムーン[最上静香、春日未来、伊吹翼]
+12|main|ザ・ライブ革命でSHOW！|福田のり子、舞浜歩、伊吹翼、春日未来、最上静香、高坂海美、島原エレナ|ver:medley
+13|main|We can go now!|ストロベリーポップムーン[最上静香、春日未来、伊吹翼]|ver:medley
+14|main|ミラーボール・ラブ|島原エレナ、最上静香、福田のり子|ver:medley
+15|main|Fighting My Way|伊吹翼|ver:medley
+16|main|Study Equal Magic!|春日未来、舞浜歩、高坂海美|ver:medley
+17|main|Do the IDOL!! 〜断崖絶壁チュパカブラ〜|舞浜歩、島原エレナ、最上静香、春日未来、伊吹翼、福田のり子、高坂海美
+18|main|Rat A Tat!!!|舞浜歩、島原エレナ、最上静香、春日未来、伊吹翼、福田のり子、高坂海美
