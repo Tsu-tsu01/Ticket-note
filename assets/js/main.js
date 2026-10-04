@@ -1261,11 +1261,6 @@ function viewSongs(){
     showCostarPicker(e.currentTarget);
   });
 
-  // 楽曲DB: 行タップで履歴ポップアップ（イベント委譲）
-  view.addEventListener('click', e => {
-    const row = e.target.closest('.song-db-row');
-    if(row) showSongHistoryPopup(row, row.dataset.songId);
-  });
 }
 
 /* ---------------- view: settings ---------------- */
@@ -2112,6 +2107,12 @@ function route(){
       ローカルで開く場合は <code>python3 -m http.server</code> などのHTTPサーバ経由で開いてください（file:// では fetch が使えません）。</div>`;
     return;
   }
+  // 楽曲DB: 行タップで履歴ポップアップ（一度だけ登録）
+  view.addEventListener('click', e => {
+    const row = e.target.closest('.song-db-row');
+    if(row) showSongHistoryPopup(row, row.dataset.songId);
+  });
+
   // DB読み込み後にペンライト演出を有効化（開演前モード中なら即開始）
   if(S.get().settings.dark) startPenlightShow();
   if(!location.hash) location.hash = '#/lives';
