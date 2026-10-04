@@ -1,0 +1,143 @@
+@live id=20260425_sc_infinity_d1 tour=t_sc_infinity title=THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢 day=DAY1 date=2026-04-25 venue=v_k_arena brand=sc event=solo perf=mixed stream=true lv=false archive=true status=confirmed
+1|main|Ambitious Eve|シャイニーカラーズ
+2|main|夢が夢じゃなくなるその日まで|岡咲美保、和久井優、土屋李央、田嶌紗蘭
+3|main|パーティーマジックデザイナー|丸岡和佳奈、河野ひより、永井真里子、涼本あきほ
+4|main|Timeless Shooting Star|幸村恵理、田中有紀、北原沙弥香
+5|main|Monochromatic|山根綺、紫月杏朱彩
+6|main|パステルカラー パスカラカラー|黒木ほの香、芝崎典子、前川涼子
+7|main|晴れのちバルーン|近藤玲奈、峯田茉優、関根瞳
+8|main|Clean.Clean up|川口莉奈、三川華月、小澤麗那
+9|main|銀翼のアレジアンス -blade of truth-|菅沼千紗、礒部花凜、希水しお、八巻アンナ、結名美月
+10|main|Imitation Ghost|幸村恵理、田中有紀、北原沙弥香|xr
+11|main|Future Transit|幸村恵理、田中有紀、北原沙弥香
+12|main|KoiKyun！|関根瞳、近藤玲奈、峯田茉優
+13|main|キラピコ.exe|河野ひより、永井真里子、丸岡和佳奈、涼本あきほ
+14|main|Love Letter|前川涼子、黒木ほの香、芝崎典子
+15|main|Sleepless Nights|黒木ほの香、芝崎典子、前川涼子
+16|main|Summer Night Paradise|菅沼千紗、山根綺、三川華月、土屋李央、関根瞳、北原沙弥香、涼本あきほ、芝崎典子
+17|main|ヒカリのdestination|近藤玲奈、関根瞳、峯田茉優
+18|main|裸足じゃイラレナイ|丸岡和佳奈、河野ひより、永井真里子、涼本あきほ
+19|main|ハナムケのハナタバ|小澤麗那、三川華月、川口莉奈
+20|main|アイノウ|三川華月、小澤麗那、川口莉奈
+21|main|クローバー|紫月杏朱彩、岡咲美保、黒木ほの香、丸岡和佳奈
+22|main|似セ者|三川華月、川口莉奈、小澤麗那
+23|main|Fading Stars|紫月杏朱彩、山根綺
+24|main|After Run|山根綺、紫月杏朱彩|xr
+25|main|青空|岡咲美保、和久井優、土屋李央、田嶌紗蘭
+26|main|ハナサカサイサイ|丸岡和佳奈、河野ひより、永井真里子、涼本あきほ
+27|main|枕木の歌|近藤玲奈、関根瞳、峯田茉優
+28|main|QUEEN OF THE PIRATES|結名美月、菅沼千紗、八巻アンナ、礒部花凜、希水しお
+29|main|幻惑SILHOUETTE|菅沼千紗、結名美月、礒部花凜、希水しお、八巻アンナ|xr
+30|main|いつだって僕らは|岡咲美保、和久井優、土屋李央、田嶌紗蘭
+31|main|愛しき日々|岡咲美保、和久井優、土屋李央、田嶌紗蘭
+32|encore|星の声|シャイニーカラーズ
+
+@live id=20260426_sc_infinity_d2 tour=t_sc_infinity title=THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢 day=DAY2 date=2026-04-26 venue=v_k_arena brand=sc event=solo perf=mixed stream=true lv=false archive=true status=confirmed
+1|main|Ambitious Eve|シャイニーカラーズ
+2|main|晴れのちバルーン|近藤玲奈、関根瞳、峯田茉優
+3|main|パステルカラー パスカラカラー|黒木ほの香、芝崎典子、前川涼子
+4|main|パーティーマジックデザイナー|丸岡和佳奈、白石晴香、河野ひより、永井真里子、涼本あきほ
+5|main|Monochromatic|山根綺、紫月杏朱彩
+6|main|Timeless Shooting Star|幸村恵理、田中有紀、北原沙弥香
+7|main|夢が夢じゃなくなるその日まで|岡咲美保、和久井優、土屋李央、田嶌紗蘭
+8|main|Clean.Clean up|川口莉奈、三川華月、小澤麗那
+9|main|銀翼のアレジアンス -blade of truth-|菅沼千紗、礒部花凜、希水しお、八巻アンナ、結名美月
+10|main|無自覚アプリオリ|三川華月、川口莉奈、小澤麗那|xr
+11|main|QUEEN OF THE PIRATES|結名美月、菅沼千紗、八巻アンナ、礒部花凜、希水しお
+12|main|Fly and Fly|紫月杏朱彩、山根綺
+13|main|Future Transit|幸村恵理、田中有紀、北原沙弥香
+14|main|One Live One Love|北原沙弥香、幸村恵理、田中有紀
+15|main|Happier|紫月杏朱彩、山根綺
+16|main|KoiKyun！|関根瞳、近藤玲奈、峯田茉優
+17|main|キラピコ.exe|河野ひより、白石晴香、永井真里子、丸岡和佳奈、涼本あきほ
+18|main|ひめくりモザイク|丸岡和佳奈、白石晴香、河野ひより、永井真里子、涼本あきほ|xr
+19|main|Sleepless Nights|黒木ほの香、芝崎典子、前川涼子
+20|main|クローバー|紫月杏朱彩、岡咲美保、黒木ほの香、丸岡和佳奈
+21|main|Summer Night Paradise|菅沼千紗、山根綺、三川華月、土屋李央、関根瞳、北原沙弥香、涼本あきほ、芝崎典子
+22|main|Fading Stars|紫月杏朱彩、山根綺
+23|main|アイノウ|三川華月、小澤麗那、川口莉奈
+24|main|LINKs|幸村恵理、田中有紀、北原沙弥香
+25|main|愛しき日々|岡咲美保、和久井優、土屋李央、田嶌紗蘭
+26|main|青とオレンジ|岡咲美保、和久井優、土屋李央、田嶌紗蘭|xr
+27|main|純白トロイメライ|希水しお、礒部花凜、八巻アンナ、菅沼千紗、結名美月
+28|main|時限式狂騒ワンダーランド|菅沼千紗、結名美月、礒部花凜、希水しお、八巻アンナ
+29|main|明日もBeautiful Day|黒木ほの香、芝崎典子、前川涼子
+30|main|Anniversary|前川涼子、黒木ほの香、芝崎典子
+31|main|星が流れて|近藤玲奈、関根瞳、峯田茉優|xr
+32|encore|愛なView|シャイニーカラーズ
+
+@live id=20260411_sc_singularity_01 tour=t_sc_singularity title=283 Production XXXX Performance XXX= S/N-GUL4R1TY // 0x01; initialize() day=0x01 date=2026-04-11 venue=v_makuhari brand=sc event=solo perf=xr stream=true lv=false archive=true status=confirmed
+1|main|Wandering Dream Chaser|ストレイライト
+2|main|Transcending The World|ストレイライト
+3|main|Cyber Parkour|ストレイライト
+4|main|迅雷鉄火|ストレイライト
+5|main|乱舞る|ストレイライト|medley:dj
+6|main|Reflection|ストレイライト|medley:dj
+7|main|mellow mellow|ストレイライト|medley:dj
+8|main|くだらないや|ストレイライト|medley:dj
+9|main|We can go now!|ストレイライト|medley:dj
+10|main|時限式狂騒ワンダーランド|ストレイライト|medley:dj
+11|main|After Run|ストレイライト|medley:dj
+12|main|LIVE LIVE LIVE!|ストレイライト
+13|main|Borderline|ストレイライト
+14|main|Tracing Defender|ストレイライト
+15|main|ONE STAR|和泉愛依
+16|main|Destined Rival|芹沢あさひ
+17|main|SOS|黛冬優子
+18|main|Timeless Shooting Star|ストレイライト
+19|main|Overdrive Emotion|ストレイライト
+20|main|One Live One Love|ストレイライト
+21|encore|Resonance⁺|ストレイライト
+22|encore|Start up Stand up|ストレイライト
+23|encore|Hide & Attack|ストレイライト
+
+@live id=20260412_sc_singularity_02 tour=t_sc_singularity title=283 Production XXXX Performance XXX= S/N-GUL4R1TY // 0x02; evolve() day=0x02 date=2026-04-12 venue=v_makuhari brand=sc event=solo perf=xr stream=true lv=false archive=true status=confirmed
+1|main|Wandering Dream Chaser|ストレイライト
+2|main|Start up Stand up|ストレイライト
+3|main|Cyber Parkour|ストレイライト
+4|main|Killer×Mission|ストレイライト
+5|main|乱舞る|ストレイライト|medley:dj
+6|main|Reflection|ストレイライト|medley:dj
+7|main|mellow mellow|ストレイライト|medley:dj
+8|main|くだらないや|ストレイライト|medley:dj
+9|main|We can go now!|ストレイライト|medley:dj
+10|main|時限式狂騒ワンダーランド|ストレイライト|medley:dj
+11|main|After Run|ストレイライト|medley:dj
+12|main|LIVE LIVE LIVE!|ストレイライト
+13|main|Borderline|ストレイライト
+14|main|Real Mind Shakes|ストレイライト
+15|main|GOTCHA|芹沢あさひ
+16|main|Destined Rival|黛冬優子
+17|main|Going my way|和泉愛依
+18|main|Timeless Shooting Star|ストレイライト
+19|main|Imitation Ghost|ストレイライト
+20|main|One Live One Love|ストレイライト
+21|encore|Resonance⁺|ストレイライト
+22|encore|BURN BURN|ストレイライト
+23|encore|Hide & Attack|ストレイライト
+
+@live id=20260412_sc_singularity_03 tour=t_sc_singularity title=283 Production XXXX Performance XXX= S/N-GUL4R1TY // 0x03; overflow() day=0x03 date=2026-04-12 venue=v_makuhari brand=sc event=solo perf=xr stream=true lv=false archive=true status=confirmed
+1|main|Wandering Dream Chaser|ストレイライト
+2|main|BURN BURN|ストレイライト
+3|main|Cyber Parkour|ストレイライト
+4|main|Ambitious Eve|ストレイライト
+5|main|乱舞る|ストレイライト|medley:dj
+6|main|Reflection|ストレイライト|medley:dj
+7|main|mellow mellow|ストレイライト|medley:dj
+8|main|くだらないや|ストレイライト|medley:dj
+9|main|We can go now!|ストレイライト|medley:dj
+10|main|時限式狂騒ワンダーランド|ストレイライト|medley:dj
+11|main|After Run|ストレイライト|medley:dj
+12|main|LIVE LIVE LIVE!|ストレイライト
+13|main|Borderline|ストレイライト
+14|main|LINKs|ストレイライト
+15|main|ONE STAR|黛冬優子
+16|main|Destined Rival|和泉愛依
+17|main|星をめざして|芹沢あさひ
+18|main|Timeless Shooting Star|ストレイライト
+19|main|Another Rampage|ストレイライト
+20|main|VOY@GER|ストレイライト
+21|encore|Resonance⁺|ストレイライト
+22|encore|Hide & Attack|ストレイライト
+23|encore|One Live One Love|ストレイライト
+24|wencore|Another Rampage|ストレイライト

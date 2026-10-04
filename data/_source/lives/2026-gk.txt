@@ -1,0 +1,207 @@
+@live id=20260820_gk_shirube_fukui_d1 tour=t_gk_shirube title=学園アイドルマスター LIVE TOUR -標- 福井公演 day=DAY1 date=2026-08-20 venue=v_fukui_phoenix brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|つよつよ最強エクササイズ|松田彩音
+2|main|Wake up!!|花岩香奈
+3|main|36℃ U･B･U|薄井友里
+4|main|Feel Jewel Dream|七瀬つむぎ
+5|main|修楽旅行|花岩香奈、七瀬つむぎ、松田彩音、薄井友里
+6|main|Atmosphere|花岩香奈
+7|main|marble heart|薄井友里
+8|main|The Rolling Riceball|松田彩音
+9|main|L’Espoir|七瀬つむぎ|premiere
+10|main|「ねえ、言っちゃうよ。」|薄井友里、七瀬つむぎ、花岩香奈、松田彩音
+11|main|clumsy trick|薄井友里
+12|main|Sweet Magic|七瀬つむぎ
+13|main|Fragile Heart|花岩香奈
+14|main|春と光|松田彩音|premiere
+15|main|標|花岩香奈、七瀬つむぎ、薄井友里、松田彩音
+16|encore|古今東西ちょちょいのちょい|薄井友里、松田彩音、花岩香奈、七瀬つむぎ
+17|encore|Campus mode!!|花岩香奈、七瀬つむぎ、薄井友里、松田彩音
+
+@live id=20260821_gk_shirube_fukui_d2 tour=t_gk_shirube title=学園アイドルマスター LIVE TOUR -標- 福井公演 day=DAY2 date=2026-08-21 venue=v_fukui_phoenix brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|極光|花岩香奈
+2|main|L.U.V|薄井友里
+3|main|Fluorite|七瀬つむぎ
+4|main|グースーピー|松田彩音
+5|main|修楽旅行|花岩香奈、七瀬つむぎ、松田彩音、薄井友里
+6|main|Top Secret|七瀬つむぎ
+7|main|真っ白いページと水彩の主人公|松田彩音
+8|main|歌声は君いろ|薄井友里
+9|main|いつかのわたし|花岩香奈|premiere
+10|main|「ねえ、言っちゃうよ。」|薄井友里、七瀬つむぎ、花岩香奈、松田彩音
+11|main|金の斧、銀の斧、エメラルドの斧|松田彩音
+12|main|重なる夜空の痕跡に|薄井友里|premiere
+13|main|見て|七瀬つむぎ
+14|main|白線|花岩香奈
+15|main|標|花岩香奈、七瀬つむぎ、薄井友里、松田彩音
+16|encore|古今東西ちょちょいのちょい|薄井友里、松田彩音、花岩香奈、七瀬つむぎ
+17|encore|ガラクタロード|花岩香奈、七瀬つむぎ、薄井友里、松田彩音
+
+@live id=20260606_gk_hif_d1 tour=t_gk_hif title=学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL day=DAY1 date=2026-06-06 venue=v_yokohama_arena brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Love & Joy|湊みや
+2|main|36℃ U･B･U|薄井友里
+3|main|Wildest Flower|長月あおい
+4|main|自己肯定感爆上げ↑↑しゅきしゅきソング|飯田ヒカル
+5|main|ガラクタロード|初星学園
+6|main|ミラクルナナウ(ﾟ∀ﾟ)！|川村玲奈、七瀬つむぎ、湊みや
+7|main|ENDLESS DANCE|松田彩音、陽高真白、春咲暖
+8|main|理論武装して|天音ゆかり
+9|main|みちなるひろがる|伊藤舞音、川村玲奈
+10|main|雨上がりのアイリス|小鹿なお、長月あおい、飯田ヒカル
+11|main|見て|七瀬つむぎ
+12|main|ときめきエモーション|湊みや、花岩香奈
+13|main|空と約束|伊藤舞音
+14|main|桜フォトグラフ|川村玲奈、松田彩音、春咲暖
+15|main|赤裸々|陽高真白
+16|main|SUGAR FLAVOR|七瀬つむぎ、薄井友里
+17|main|Star-mine|春咲暖、陽高真白、松田彩音
+18|main|冠菊|湊みや、小鹿なお、伊藤舞音
+19|main|サンフェーデッド|川村玲奈
+20|main|三分半の創世|天音ゆかり
+21|main|VEIL|春咲暖
+22|main|Atmosphere|花岩香奈
+23|main|ナイワ|七瀬つむぎ、陽高真白、天音ゆかり、薄井友里
+24|main|一体いつから|小鹿なお
+25|main|仮装狂騒曲|花岩香奈、飯田ヒカル、長月あおい
+26|main|真っ白いページと水彩の主人公|松田彩音
+27|main|キミとセミブルー|伊藤舞音、薄井友里、天音ゆかり
+28|main|Campus mode!!|初星学園
+29|encore|古今東西ちょちょいのちょい|初星学園
+30|encore|標|初星学園
+31|encore|初|初星学園
+
+@live id=20260607_gk_hif_d2 tour=t_gk_hif title=学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL day=DAY2 date=2026-06-07 venue=v_yokohama_arena brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|見て|七瀬つむぎ
+2|main|Star-mine|春咲暖、陽高真白、松田彩音
+3|main|サンフェーデッド|川村玲奈
+4|main|SUPREMACY|長月あおい、湊みや、花岩香奈、飯田ヒカル、小鹿なお
+5|main|White Night! White Wish!|七瀬つむぎ、薄井友里、天音ゆかり
+6|main|Campus mode!!|初星学園
+7|main|Let's GO!! ICHI-NO-NI!!|伊藤舞音、松田彩音、春咲暖、川村玲奈
+8|main|がむしゃらに行こう！|小鹿なお、飯田ヒカル、長月あおい
+9|main|36℃ U･B･U|薄井友里
+10|main|みちなるひろがる|伊藤舞音、川村玲奈
+11|main|自己肯定感爆上げ↑↑しゅきしゅきソング|飯田ヒカル
+12|main|Atmosphere|花岩香奈
+13|main|SUGAR FLAVOR|七瀬つむぎ、薄井友里
+14|main|雪解けに|天音ゆかり、春咲暖、陽高真白
+15|main|雨上がりのアイリス|小鹿なお、長月あおい、飯田ヒカル
+16|main|ときめきエモーション|湊みや、花岩香奈
+17|main|MY STAGE|天音ゆかり
+18|main|赤裸々|陽高真白
+19|main|VEIL|春咲暖
+20|main|理論武装して|天音ゆかり
+21|main|Howling over the World|伊藤舞音、薄井友里、花岩香奈
+22|main|ハッピーミルフィーユ|松田彩音、湊みや、川村玲奈
+23|main|古今東西ちょちょいのちょい|初星学園
+24|main|Wildest Flower|長月あおい
+25|main|Love & Joy|湊みや
+26|main|真っ白いページと水彩の主人公|松田彩音
+27|main|空と約束|伊藤舞音
+28|main|一体いつから|小鹿なお
+29|encore|標|初星学園
+30|encore|初|初星学園
+31|encore|ガラクタロード|初星学園
+
+@live id=20260516_gk_hifsel_d1 tour=t_gk_hif_sel title=学園アイドルマスター The 2nd Period H.I.F選抜試験 day=DAY1 date=2026-05-16 venue=v_makuhari brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|つよつよ最強エクササイズ|松田彩音
+2|main|The Rolling Riceball|松田彩音
+3|main|メクルメ|川村玲奈
+4|main|コントラスト|川村玲奈
+5|main|Boom Boom Pow|長月あおい
+6|main|Fighting My Way|長月あおい
+7|main|clumsy trick|薄井友里
+8|main|L.U.V|薄井友里
+9|main|Feel Jewel Dream|七瀬つむぎ
+10|main|Fluorite|七瀬つむぎ
+11|main|ときめきのソルフェージュ|伊藤舞音
+12|main|Wonder Scale|伊藤舞音
+13|main|キミとセミブルー|伊藤舞音、薄井友里、七瀬つむぎ、川村玲奈
+14|main|SUPREMACY|松田彩音、長月あおい
+15|main|ミラクルナナウ(ﾟ∀ﾟ)！|長月あおい、七瀬つむぎ、薄井友里
+16|main|Let's GO!! ICHI-NO-NI!!|伊藤舞音、川村玲奈、松田彩音、春咲暖
+17|main|標|七瀬つむぎ、川村玲奈、長月あおい、松田彩音、伊藤舞音、薄井友里
+18|encore|ガラクタロード|松田彩音、川村玲奈、長月あおい、薄井友里、伊藤舞音、七瀬つむぎ
+
+@live id=20260517_gk_hifsel_d2 tour=t_gk_hif_sel title=学園アイドルマスター The 2nd Period H.I.F選抜試験 day=DAY2 date=2026-05-17 venue=v_makuhari brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Choo Choo Choo|陽高真白
+2|main|Our Chant|陽高真白
+3|main|アイヴイ|小鹿なお
+4|main|Luna say maybe|小鹿なお
+5|main|白線|花岩香奈
+6|main|Tame-Lie-One-Step|湊みや
+7|main|ときめきエモーション|湊みや、花岩香奈
+8|main|ヨルニテ|春咲暖
+9|main|ツキノカメ|春咲暖
+10|main|Yellow Big Bang！|飯田ヒカル
+11|main|世界一可愛い私|飯田ヒカル
+12|main|理論武装して|天音ゆかり
+13|main|三分半の創世|天音ゆかり|premiere
+14|main|古今東西ちょちょいのちょい|湊みや、飯田ヒカル、花岩香奈、陽高真白、小鹿なお
+15|main|ENDLESS DANCE|春咲暖、湊みや、飯田ヒカル、天音ゆかり
+16|main|仮装狂騒曲|春咲暖、花岩香奈、小鹿なお
+17|main|ナイワ|陽高真白、天音ゆかり
+18|main|標|湊みや、花岩香奈、飯田ヒカル、小鹿なお、春咲暖、陽高真白、天音ゆかり
+19|encore|ガラクタロード|陽高真白、小鹿なお、花岩香奈、湊みや、春咲暖、飯田ヒカル、天音ゆかり
+
+@live id=20260228_gk_ongakusai_d1 tour=t_gk_ongakusai title=学園アイドルマスター 初星音楽祭 day=DAY1 date=2026-02-28 venue=v_keio_arena brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|わかし・さわがし・スカパンク|初星学園
+2|main|古今東西ちょちょいのちょい|薄井友里、七瀬つむぎ、天音ゆかり
+3|main|雨上がりのアイリス|小鹿なお、長月あおい、飯田ヒカル
+4|main|Fighting My Way|長月あおい
+5|main|Choo Choo Choo|陽高真白
+6|main|Superlative|春咲暖
+7|main|Feel Jewel Dream|七瀬つむぎ
+8|main|Kira Kira|湊みや
+9|main|ナイワ|七瀬つむぎ、薄井友里、陽高真白、天音ゆかり
+10|main|憧れをいっぱい|伊藤舞音
+11|main|Sweet Magic|七瀬つむぎ
+12|main|歌声は君いろ|薄井友里
+13|main|Unhappy Light|小鹿なお
+14|main|桜フォトグラフ|湊みや、長月あおい、花岩香奈
+15|main|かちドキ|飯田ヒカル
+16|main|SEARCH RIGHT|伊藤舞音、陽高真白、春咲暖、薄井友里、天音ゆかり、松田彩音
+17|main|CRYST@LOUD|春咲暖、川村玲奈、湊みや、花岩香奈
+18|main|GO MY WAY!!|飯田ヒカル
+19|main|カタマリオンザドゥン|長月あおい、飯田ヒカル、小鹿なお
+20|main|Star-mine|春咲暖、陽高真白、松田彩音
+21|main|アイヴイ|小鹿なお
+22|main|極光|花岩香奈
+23|main|理論武装して|天音ゆかり
+24|main|The Rolling Riceball|松田彩音
+25|main|ENDLESS DANCE|湊みや、川村玲奈、伊藤舞音
+26|main|標|初星学園
+27|encore|みちなるひろがる|伊藤舞音、川村玲奈
+28|encore|がむしゃらに行こう！|初星学園
+29|encore|Campus mode!!|初星学園
+
+@live id=20260301_gk_ongakusai_d2 tour=t_gk_ongakusai title=学園アイドルマスター 初星音楽祭 day=DAY2 date=2026-03-01 venue=v_keio_arena brand=gk event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|わかし・さわがし・スカパンク|初星学園
+2|main|キミとセミブルー|薄井友里、七瀬つむぎ、湊みや
+3|main|Yellow Big Bang！|飯田ヒカル
+4|main|SUPREMACY|長月あおい、湊みや、花岩香奈、飯田ヒカル、小鹿なお
+5|main|Let's GO!! ICHI-NO-NI!!|松田彩音、伊藤舞音、春咲暖、川村玲奈
+6|main|Ride on Beat|湊みや
+7|main|白線|花岩香奈
+8|main|ミラクルナナウ(ﾟ∀ﾟ)！|川村玲奈、七瀬つむぎ、湊みや
+9|main|金の斧、銀の斧、エメラルドの斧|松田彩音
+10|main|ときめきのソルフェージュ|伊藤舞音
+11|main|コントラスト|川村玲奈
+12|main|L.U.V|薄井友里
+13|main|カクシタワタシ|湊みや
+14|main|ヨルニテ|春咲暖
+15|main|Boom Boom Pow|長月あおい
+16|main|かちドキ|飯田ヒカル
+17|main|SEARCH RIGHT|伊藤舞音、陽高真白、春咲暖、薄井友里、天音ゆかり、松田彩音
+18|main|VOY@GER|天音ゆかり、花岩香奈、七瀬つむぎ、陽高真白
+19|main|エージェント夜を往く|七瀬つむぎ
+20|main|カタマリオンザドゥン|長月あおい、飯田ヒカル、小鹿なお
+21|main|Star-mine|春咲暖、陽高真白、松田彩音
+22|main|Luna say maybe|小鹿なお
+23|main|Howling over the World|長月あおい、天音ゆかり
+24|main|ENDLESS DANCE|花岩香奈、薄井友里、小鹿なお
+25|main|理論武装して|天音ゆかり
+26|main|Our Chant|陽高真白
+27|main|標|初星学園
+28|encore|みちなるひろがる|伊藤舞音、川村玲奈
+29|encore|初|初星学園
+30|encore|Campus mode!!|初星学園

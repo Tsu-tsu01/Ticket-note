@@ -1,0 +1,375 @@
+@live id=20240810_gk_ubugoe_nagoya tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初声公演- 名古屋クラブクアトロ公演 day=初声・名古屋 date=2024-08-10 venue=v_club_quattro_nagoya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|小鹿なお、長月あおい、飯田ヒカル
+2|main|Campus mode!!|小鹿なお、長月あおい、飯田ヒカル
+3|main|Fighting My Way|長月あおい
+4|main|Luna say maybe|小鹿なお
+5|main|世界一可愛い私|飯田ヒカル
+6|main|Boom Boom Pow|長月あおい
+7|main|Yellow Big Bang！|飯田ヒカル
+8|main|アイヴイ|小鹿なお
+9|main|キミとセミブルー|長月あおい、飯田ヒカル、小鹿なお
+10|main|EGO|長月あおい
+11|main|がむしゃらに行こう！|小鹿なお、飯田ヒカル、長月あおい
+12|encore|冠菊|小鹿なお、飯田ヒカル、長月あおい
+13|encore|初|小鹿なお、長月あおい、飯田ヒカル
+
+@live id=20240818_gk_ubugoe_umeda_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初声公演- 梅田クラブクアトロ公演 昼の部 day=初声・梅田昼 date=2024-08-18 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|小鹿なお、長月あおい、飯田ヒカル
+2|main|Campus mode!!|小鹿なお、長月あおい、飯田ヒカル
+3|main|Fighting My Way|長月あおい
+4|main|Luna say maybe|小鹿なお
+5|main|世界一可愛い私|飯田ヒカル
+6|main|Boom Boom Pow|長月あおい
+7|main|Yellow Big Bang！|飯田ヒカル
+8|main|アイヴイ|小鹿なお
+9|main|キミとセミブルー|長月あおい、飯田ヒカル、小鹿なお
+10|main|Unhappy Light|小鹿なお
+11|main|Howling over the World|長月あおい、小鹿なお、飯田ヒカル
+12|encore|冠菊|小鹿なお、飯田ヒカル、長月あおい
+13|encore|初|小鹿なお、長月あおい、飯田ヒカル
+
+@live id=20240818_gk_ubugoe_umeda_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初声公演- 梅田クラブクアトロ公演 夜の部 day=初声・梅田夜 date=2024-08-18 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|小鹿なお、長月あおい、飯田ヒカル
+2|main|Campus mode!!|小鹿なお、長月あおい、飯田ヒカル
+3|main|Fighting My Way|長月あおい
+4|main|Luna say maybe|小鹿なお
+5|main|世界一可愛い私|飯田ヒカル
+6|main|Boom Boom Pow|長月あおい
+7|main|Yellow Big Bang！|飯田ヒカル
+8|main|アイヴイ|小鹿なお
+9|main|キミとセミブルー|長月あおい、飯田ヒカル、小鹿なお
+10|main|ふわふわ|飯田ヒカル
+11|main|がむしゃらに行こう！|小鹿なお、飯田ヒカル、長月あおい
+12|encore|冠菊|小鹿なお、飯田ヒカル、長月あおい
+13|encore|初|小鹿なお、長月あおい、飯田ヒカル
+
+@live id=20240825_gk_ubugoe_shibuya_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初声公演- 渋谷クラブクアトロ公演 昼の部 day=初声・渋谷昼 date=2024-08-25 venue=v_club_quattro_shibuya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|小鹿なお、長月あおい、飯田ヒカル
+2|main|Campus mode!!|小鹿なお、長月あおい、飯田ヒカル
+3|main|Fighting My Way|長月あおい
+4|main|Luna say maybe|小鹿なお
+5|main|世界一可愛い私|飯田ヒカル
+6|main|Boom Boom Pow|長月あおい
+7|main|Yellow Big Bang！|飯田ヒカル
+8|main|アイヴイ|小鹿なお
+9|main|キミとセミブルー|長月あおい、飯田ヒカル、小鹿なお
+10|main|ふわふわ|飯田ヒカル
+11|main|ミラクルナナウ(ﾟ∀ﾟ)！|飯田ヒカル、長月あおい、小鹿なお
+12|encore|冠菊|小鹿なお、飯田ヒカル、長月あおい
+13|encore|初|小鹿なお、長月あおい、飯田ヒカル
+
+@live id=20240825_gk_ubugoe_shibuya_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初声公演- 渋谷クラブクアトロ公演 夜の部 day=初声・渋谷夜 date=2024-08-25 venue=v_club_quattro_shibuya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|小鹿なお、長月あおい、飯田ヒカル
+2|main|Campus mode!!|小鹿なお、長月あおい、飯田ヒカル
+3|main|Fighting My Way|長月あおい
+4|main|Luna say maybe|小鹿なお
+5|main|世界一可愛い私|飯田ヒカル
+6|main|Boom Boom Pow|長月あおい
+7|main|Yellow Big Bang！|飯田ヒカル
+8|main|アイヴイ|小鹿なお
+9|main|キミとセミブルー|長月あおい、飯田ヒカル、小鹿なお
+10|main|Unhappy Light|小鹿なお
+11|main|EGO|長月あおい
+12|main|Howling over the World|長月あおい、小鹿なお、飯田ヒカル
+13|encore|冠菊|小鹿なお、飯田ヒカル、長月あおい
+14|encore|初|小鹿なお、長月あおい、飯田ヒカル
+
+@live id=20240907_gk_shoshin_nagoya_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 名古屋クラブクアトロ公演 昼の部 day=初心・名古屋昼 date=2024-09-07 venue=v_club_quattro_nagoya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|花岩香奈、伊藤舞音、薄井友里
+2|main|Campus mode!!|花岩香奈、伊藤舞音、薄井友里
+3|main|白線|花岩香奈
+4|main|Wonder Scale|伊藤舞音
+5|main|clumsy trick|薄井友里
+6|main|L.U.V|薄井友里
+7|main|日々、発見的ステップ！|伊藤舞音
+8|main|Wake up!!|花岩香奈
+9|main|キミとセミブルー|花岩香奈、薄井友里、伊藤舞音
+10|main|Fragile Heart|花岩香奈
+11|main|がむしゃらに行こう！|伊藤舞音、花岩香奈、薄井友里
+12|encore|冠菊|花岩香奈、薄井友里、伊藤舞音
+13|encore|初|花岩香奈、伊藤舞音、薄井友里
+
+@live id=20240907_gk_shoshin_nagoya_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 名古屋クラブクアトロ公演 夜の部 day=初心・名古屋夜 date=2024-09-07 venue=v_club_quattro_nagoya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|花岩香奈、伊藤舞音、薄井友里
+2|main|Campus mode!!|花岩香奈、伊藤舞音、薄井友里
+3|main|白線|花岩香奈
+4|main|Wonder Scale|伊藤舞音
+5|main|clumsy trick|薄井友里
+6|main|L.U.V|薄井友里
+7|main|日々、発見的ステップ！|伊藤舞音
+8|main|Wake up!!|花岩香奈
+9|main|キミとセミブルー|花岩香奈、薄井友里、伊藤舞音
+10|main|ときめきのソルフェージュ|伊藤舞音
+11|main|Howling over the World|伊藤舞音、薄井友里、花岩香奈
+12|encore|冠菊|花岩香奈、薄井友里、伊藤舞音
+13|encore|初|花岩香奈、伊藤舞音、薄井友里
+
+@live id=20240923_gk_shoshin_hiroshima_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 広島クラブクアトロ公演 昼の部 day=初心・広島昼 date=2024-09-23 venue=v_club_quattro_hiroshima brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|花岩香奈、伊藤舞音、薄井友里
+2|main|Campus mode!!|花岩香奈、伊藤舞音、薄井友里
+3|main|白線|花岩香奈
+4|main|Wonder Scale|伊藤舞音
+5|main|clumsy trick|薄井友里
+6|main|L.U.V|薄井友里
+7|main|日々、発見的ステップ！|伊藤舞音
+8|main|Wake up!!|花岩香奈
+9|main|キミとセミブルー|花岩香奈、薄井友里、伊藤舞音
+10|main|Fragile Heart|花岩香奈
+11|main|ミラクルナナウ(ﾟ∀ﾟ)！|薄井友里、伊藤舞音、花岩香奈
+12|encore|冠菊|花岩香奈、薄井友里、伊藤舞音
+13|encore|初|花岩香奈、伊藤舞音、薄井友里
+
+@live id=20240923_gk_shoshin_hiroshima_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 広島クラブクアトロ公演 夜の部 day=初心・広島夜 date=2024-09-23 venue=v_club_quattro_hiroshima brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|花岩香奈、伊藤舞音、薄井友里
+2|main|Campus mode!!|花岩香奈、伊藤舞音、薄井友里
+3|main|白線|花岩香奈
+4|main|Wonder Scale|伊藤舞音
+5|main|clumsy trick|薄井友里
+6|main|L.U.V|薄井友里
+7|main|日々、発見的ステップ！|伊藤舞音
+8|main|Wake up!!|花岩香奈
+9|main|キミとセミブルー|花岩香奈、薄井友里、伊藤舞音
+10|main|歌声は君いろ|薄井友里
+11|main|がむしゃらに行こう！|伊藤舞音、花岩香奈、薄井友里
+12|encore|冠菊|花岩香奈、薄井友里、伊藤舞音
+13|encore|初|花岩香奈、伊藤舞音、薄井友里
+
+@live id=20241014_gk_hatsukoi_umeda_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初恋公演- 梅田クラブクアトロ公演 昼の部 day=初恋・梅田昼 date=2024-10-14 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|七瀬つむぎ、湊みや、川村玲奈
+2|main|Campus mode!!|七瀬つむぎ、湊みや、川村玲奈
+3|main|Fluorite|七瀬つむぎ
+4|main|Tame-Lie-One-Step|湊みや
+5|main|光景|川村玲奈
+6|main|カクシタワタシ|湊みや
+7|main|コントラスト|川村玲奈
+8|main|Feel Jewel Dream|七瀬つむぎ
+9|main|仮装狂騒曲|七瀬つむぎ、川村玲奈、湊みや
+10|main|Top Secret|七瀬つむぎ
+11|main|ミラクルナナウ(ﾟ∀ﾟ)！|川村玲奈、七瀬つむぎ、湊みや
+12|encore|キミとセミブルー|湊みや、川村玲奈、七瀬つむぎ
+13|encore|初|七瀬つむぎ、湊みや、川村玲奈
+
+@live id=20241014_gk_hatsukoi_umeda_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初恋公演- 梅田クラブクアトロ公演 夜の部 day=初恋・梅田夜 date=2024-10-14 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|七瀬つむぎ、湊みや、川村玲奈
+2|main|Campus mode!!|七瀬つむぎ、湊みや、川村玲奈
+3|main|Fluorite|七瀬つむぎ
+4|main|Tame-Lie-One-Step|湊みや
+5|main|光景|川村玲奈
+6|main|カクシタワタシ|湊みや
+7|main|コントラスト|川村玲奈
+8|main|Feel Jewel Dream|七瀬つむぎ
+9|main|仮装狂騒曲|七瀬つむぎ、川村玲奈、湊みや
+10|main|Kira Kira|湊みや
+11|main|Howling over the World|七瀬つむぎ、湊みや、川村玲奈
+12|encore|冠菊|湊みや、川村玲奈、七瀬つむぎ
+13|encore|初|七瀬つむぎ、湊みや、川村玲奈
+
+@live id=20241019_gk_hatsukoi_hiroshima_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初恋公演- 広島クラブクアトロ公演 昼の部 day=初恋・広島昼 date=2024-10-19 venue=v_club_quattro_hiroshima brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|七瀬つむぎ、湊みや、川村玲奈
+2|main|Campus mode!!|七瀬つむぎ、湊みや、川村玲奈
+3|main|Fluorite|七瀬つむぎ
+4|main|Tame-Lie-One-Step|湊みや
+5|main|光景|川村玲奈
+6|main|カクシタワタシ|湊みや
+7|main|コントラスト|川村玲奈
+8|main|Feel Jewel Dream|七瀬つむぎ
+9|main|仮装狂騒曲|七瀬つむぎ、川村玲奈、湊みや
+10|main|コンテンポラリのダンス|川村玲奈
+11|main|がむしゃらに行こう！|七瀬つむぎ、川村玲奈、湊みや
+12|encore|キミとセミブルー|湊みや、川村玲奈、七瀬つむぎ
+13|encore|初|七瀬つむぎ、湊みや、川村玲奈
+
+@live id=20241019_gk_hatsukoi_hiroshima_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初恋公演- 広島クラブクアトロ公演 夜の部 day=初恋・広島夜 date=2024-10-19 venue=v_club_quattro_hiroshima brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|七瀬つむぎ、湊みや、川村玲奈
+2|main|Campus mode!!|七瀬つむぎ、湊みや、川村玲奈
+3|main|Fluorite|七瀬つむぎ
+4|main|Tame-Lie-One-Step|湊みや
+5|main|光景|川村玲奈
+6|main|カクシタワタシ|湊みや
+7|main|コントラスト|川村玲奈
+8|main|Feel Jewel Dream|七瀬つむぎ
+9|main|仮装狂騒曲|七瀬つむぎ、川村玲奈、湊みや
+10|main|Top Secret|七瀬つむぎ
+11|main|Howling over the World|七瀬つむぎ、湊みや、川村玲奈
+12|encore|冠菊|湊みや、川村玲奈、七瀬つむぎ
+13|encore|初|七瀬つむぎ、湊みや、川村玲奈
+
+@live id=20241027_gk_hatsukoi_shibuya_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初恋公演- 渋谷クラブクアトロ公演 昼の部 day=初恋・渋谷昼 date=2024-10-27 venue=v_club_quattro_shibuya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|七瀬つむぎ、湊みや、川村玲奈
+2|main|Campus mode!!|七瀬つむぎ、湊みや、川村玲奈
+3|main|Fluorite|七瀬つむぎ
+4|main|Tame-Lie-One-Step|湊みや
+5|main|光景|川村玲奈
+6|main|カクシタワタシ|湊みや
+7|main|コントラスト|川村玲奈
+8|main|Feel Jewel Dream|七瀬つむぎ
+9|main|仮装狂騒曲|七瀬つむぎ、川村玲奈、湊みや
+10|main|コンテンポラリのダンス|川村玲奈
+11|main|ミラクルナナウ(ﾟ∀ﾟ)！|川村玲奈、七瀬つむぎ、湊みや
+12|encore|冠菊|湊みや、川村玲奈、七瀬つむぎ
+13|encore|初|七瀬つむぎ、湊みや、川村玲奈
+
+@live id=20241027_gk_hatsukoi_shibuya_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初恋公演- 渋谷クラブクアトロ公演 夜の部 day=初恋・渋谷夜 date=2024-10-27 venue=v_club_quattro_shibuya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|七瀬つむぎ、湊みや、川村玲奈
+2|main|Campus mode!!|七瀬つむぎ、湊みや、川村玲奈
+3|main|Fluorite|七瀬つむぎ
+4|main|Tame-Lie-One-Step|湊みや
+5|main|光景|川村玲奈
+6|main|カクシタワタシ|湊みや
+7|main|コントラスト|川村玲奈
+8|main|Feel Jewel Dream|七瀬つむぎ
+9|main|仮装狂騒曲|七瀬つむぎ、川村玲奈、湊みや
+10|main|Kira Kira|湊みや
+11|main|がむしゃらに行こう！|七瀬つむぎ、川村玲奈、湊みや
+12|encore|キミとセミブルー|湊みや、川村玲奈、七瀬つむぎ
+13|encore|初|七瀬つむぎ、湊みや、川村玲奈
+
+@live id=20241201_gk_shoshin_umeda_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 梅田クラブクアトロ公演 昼の部 day=初心・梅田昼 date=2024-12-01 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|花岩香奈、伊藤舞音、薄井友里
+2|main|Campus mode!!|花岩香奈、伊藤舞音、薄井友里
+3|main|白線|花岩香奈
+4|main|Wonder Scale|伊藤舞音
+5|main|clumsy trick|薄井友里
+6|main|L.U.V|薄井友里
+7|main|日々、発見的ステップ！|伊藤舞音
+8|main|Wake up!!|花岩香奈
+9|main|キミとセミブルー|花岩香奈、薄井友里、伊藤舞音
+10|main|歌声は君いろ|薄井友里
+11|main|Howling over the World|伊藤舞音、薄井友里、花岩香奈
+12|encore|冠菊|花岩香奈、薄井友里、伊藤舞音
+13|encore|初|花岩香奈、伊藤舞音、薄井友里
+
+@live id=20241201_gk_shoshin_umeda_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 梅田クラブクアトロ公演 夜の部 day=初心・梅田夜 date=2024-12-01 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|花岩香奈、伊藤舞音、薄井友里
+2|main|Campus mode!!|花岩香奈、伊藤舞音、薄井友里
+3|main|白線|花岩香奈
+4|main|Wonder Scale|伊藤舞音
+5|main|clumsy trick|薄井友里
+6|main|L.U.V|薄井友里
+7|main|日々、発見的ステップ！|伊藤舞音
+8|main|Wake up!!|花岩香奈
+9|main|キミとセミブルー|花岩香奈、薄井友里、伊藤舞音
+10|main|ときめきのソルフェージュ|伊藤舞音
+11|main|ミラクルナナウ(ﾟ∀ﾟ)！|薄井友里、伊藤舞音、花岩香奈
+12|encore|冠菊|花岩香奈、薄井友里、伊藤舞音
+13|encore|初|花岩香奈、伊藤舞音、薄井友里
+
+@live id=20250208_gk_uijin_nagoya_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 名古屋クラブクアトロ公演 昼の部 day=初陣・名古屋昼 date=2025-02-08 venue=v_club_quattro_nagoya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|長月あおい、陽高真白
+2|main|Campus mode!!|長月あおい、陽高真白
+3|main|小さな野望|陽高真白
+4|main|Fighting My Way|長月あおい
+5|main|Choo Choo Choo|陽高真白
+6|main|EGO|長月あおい
+7|main|Our Chant|陽高真白
+8|main|がむしゃらに行こう！|陽高真白、長月あおい
+9|main|ENDLESS DANCE|長月あおい、陽高真白
+10|encore|White Night! White Wish!|陽高真白、長月あおい
+11|encore|初|長月あおい、陽高真白
+
+@live id=20250208_gk_uijin_nagoya_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 名古屋クラブクアトロ公演 夜の部 day=初陣・名古屋夜 date=2025-02-08 venue=v_club_quattro_nagoya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|長月あおい、陽高真白
+2|main|Campus mode!!|長月あおい、陽高真白
+3|main|小さな野望|陽高真白
+4|main|Fighting My Way|長月あおい
+5|main|Choo Choo Choo|陽高真白
+6|main|EGO|長月あおい
+7|main|Our Chant|陽高真白
+8|main|Howling over the World|長月あおい、陽高真白
+9|main|ENDLESS DANCE|長月あおい、陽高真白
+10|encore|White Night! White Wish!|陽高真白、長月あおい
+11|encore|初|長月あおい、陽高真白
+
+@live id=20250211_gk_uijin_umeda_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 梅田クラブクアトロ公演 昼の部 day=初陣・梅田昼 date=2025-02-11 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、長月あおい、陽高真白
+2|main|Campus mode!!|春咲暖、長月あおい、陽高真白
+3|main|ツキノカメ|春咲暖
+4|main|小さな野望|陽高真白
+5|main|Fighting My Way|長月あおい
+6|main|Choo Choo Choo|陽高真白
+7|main|EGO|長月あおい
+8|main|たいせつなもの|春咲暖
+9|main|Our Chant|陽高真白
+10|main|ミラクルナナウ(ﾟ∀ﾟ)！|陽高真白、長月あおい、春咲暖
+11|main|ENDLESS DANCE|長月あおい、陽高真白、春咲暖
+12|encore|ハッピーミルフィーユ|春咲暖、長月あおい、陽高真白
+13|encore|初|春咲暖、長月あおい、陽高真白
+
+@live id=20250211_gk_uijin_umeda_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 梅田クラブクアトロ公演 夜の部 day=初陣・梅田夜 date=2025-02-11 venue=v_club_quattro_umeda brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、長月あおい、陽高真白
+2|main|Campus mode!!|春咲暖、長月あおい、陽高真白
+3|main|ツキノカメ|春咲暖
+4|main|小さな野望|陽高真白
+5|main|Fighting My Way|長月あおい
+6|main|Choo Choo Choo|陽高真白
+7|main|EGO|長月あおい
+8|main|たいせつなもの|春咲暖
+9|main|ヨルニテ|春咲暖
+10|main|がむしゃらに行こう！|春咲暖、陽高真白、長月あおい
+11|main|ENDLESS DANCE|長月あおい、陽高真白、春咲暖
+12|encore|ハッピーミルフィーユ|春咲暖、長月あおい、陽高真白
+13|encore|初|春咲暖、長月あおい、陽高真白
+
+@live id=20250216_gk_uijin_shibuya_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 渋谷クラブクアトロ公演 昼の部 day=初陣・渋谷昼 date=2025-02-16 venue=v_club_quattro_shibuya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、長月あおい、陽高真白
+2|main|Campus mode!!|春咲暖、長月あおい、陽高真白
+3|main|ツキノカメ|春咲暖
+4|main|小さな野望|陽高真白
+5|main|Fighting My Way|長月あおい
+6|main|Choo Choo Choo|陽高真白
+7|main|EGO|長月あおい
+8|main|たいせつなもの|春咲暖
+9|main|Our Chant|陽高真白
+10|main|Howling over the World|長月あおい、春咲暖、陽高真白
+11|main|ENDLESS DANCE|長月あおい、陽高真白、春咲暖
+12|encore|White Night! White Wish!|陽高真白、春咲暖、長月あおい
+13|encore|初|春咲暖、長月あおい、陽高真白
+
+@live id=20250216_gk_uijin_shibuya_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 渋谷クラブクアトロ公演 夜の部 day=初陣・渋谷夜 date=2025-02-16 venue=v_club_quattro_shibuya brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、長月あおい、陽高真白
+2|main|Campus mode!!|春咲暖、長月あおい、陽高真白
+3|main|ツキノカメ|春咲暖
+4|main|小さな野望|陽高真白
+5|main|Fighting My Way|長月あおい
+6|main|Choo Choo Choo|陽高真白
+7|main|EGO|長月あおい
+8|main|たいせつなもの|春咲暖
+9|main|ヨルニテ|春咲暖
+10|main|ミラクルナナウ(ﾟ∀ﾟ)！|陽高真白、長月あおい、春咲暖
+11|main|ENDLESS DANCE|長月あおい、陽高真白、春咲暖
+12|encore|ハッピーミルフィーユ|春咲暖、長月あおい、陽高真白
+13|encore|初|春咲暖、長月あおい、陽高真白
+
+@live id=20250704_gk_uijin_shibuya_add_noon tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 東京追加公演 昼の部 day=初陣・東京追加昼 date=2025-07-04 venue=v_shinjuku_reny brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、松田彩音、陽高真白
+2|main|Campus mode!!|春咲暖、松田彩音、陽高真白
+3|main|The Rolling Riceball|松田彩音
+4|main|ツキノカメ|春咲暖
+5|main|小さな野望|陽高真白
+6|main|Our Chant|陽高真白
+7|main|グースーピー|松田彩音
+8|main|Superlative|春咲暖
+9|main|たいせつなもの|春咲暖
+10|main|Cosmetic|陽高真白
+11|main|金の斧、銀の斧、エメラルドの斧|松田彩音
+12|main|ENDLESS DANCE|松田彩音、陽高真白、春咲暖
+13|main|White Night! White Wish!|陽高真白、春咲暖、松田彩音
+14|encore|Star-mine|春咲暖、陽高真白、松田彩音
+15|encore|初|春咲暖、松田彩音、陽高真白
+
+@live id=20250704_gk_uijin_shibuya_add_night tour=t_gk_debut_tour title=学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 東京追加公演 夜の部 day=初陣・東京追加夜 date=2025-07-04 venue=v_shinjuku_reny brand=gk event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|初|春咲暖、松田彩音、陽高真白
+2|main|Campus mode!!|春咲暖、松田彩音、陽高真白
+3|main|The Rolling Riceball|松田彩音
+4|main|ツキノカメ|春咲暖
+5|main|小さな野望|陽高真白
+6|main|Our Chant|陽高真白
+7|main|グースーピー|松田彩音
+8|main|Superlative|春咲暖
+9|main|ヨルニテ|春咲暖
+10|main|Choo Choo Choo|陽高真白
+11|main|金の斧、銀の斧、エメラルドの斧|松田彩音
+12|main|ENDLESS DANCE|松田彩音、陽高真白、春咲暖
+13|main|White Night! White Wish!|陽高真白、春咲暖、松田彩音
+14|encore|Star-mine|春咲暖、陽高真白、松田彩音
+15|encore|初|春咲暖、松田彩音、陽高真白

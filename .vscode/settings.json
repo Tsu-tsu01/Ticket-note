@@ -1,0 +1,9 @@
+{
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "[csv]": { "editor.wordWrap": "off" },
+  "search.exclude": { "**/node_modules": true },
+  "rainbow_csv.comment_prefix": "#"
+}

@@ -1,0 +1,296 @@
+# 種別	ブランド	名前	カラーコード	CV
+# 種別: brand / idol / unit
+brand	765as	765PRO ALLSTARS	#F34F6D	
+brand	cg	シンデレラガールズ	#2681C8	
+brand	ml	ミリオンライブ！	#FFC30B	
+brand	sm	SideM	#0FBE94	
+brand	sc	シャイニーカラーズ	#8DBBFF	
+brand	gk	学園アイドルマスター	#F39800	
+brand	valiv	vα-liv	#656A75	
+brand	crossover	越境	#FF74B8	
+idol	765as	天海春香	#E22B30	中村繪里子
+idol	765as	如月千早	#2743D2	今井麻美
+idol	765as	萩原雪歩	#D3DDE9	浅倉杏美
+idol	765as	高槻やよい	#F39939	仁後真耶子
+idol	765as	秋月律子	#01A860	若林直美
+idol	765as	三浦あずさ	#9238BE	たかはし智秋
+idol	765as	水瀬伊織	#FD99E1	釘宮理恵
+idol	765as	菊地真	#515558	平田宏美
+idol	765as	双海亜美	#FFE43F	下田麻美
+idol	765as	双海真美	#FFE43F	下田麻美
+idol	765as	星井美希	#B4E04B	長谷川明子
+idol	765as	我那覇響	#01ADB9	沼倉愛美
+idol	765as	四条貴音	#A6126A	原由実
+idol	765as	音無小鳥	#FFF98E	滝田樹里
+idol	961	玲音	#512AA3	茅原実里
+idol	961	詩花	#E6F9E5	高橋李依
+idol	961	亜夜		日高里菜
+idol	other	奥空心白	#FEFAD4	田中あいみ
+idol	ml	伊吹翼	#FED552	Machico
+idol	ml	エミリー スチュアート	#554171	郁原ゆう
+idol	ml	大神環	#EE762E	稲川英里
+idol	ml	春日未来	#EA5B76	山崎はるか
+idol	ml	北上麗花	#6BB6B0	平山笑美
+idol	ml	北沢志保	#AFA690	雨宮天
+idol	ml	木下ひなた	#D1342C	田村奈央
+idol	ml	高坂海美	#E9739B	上田麗奈
+idol	ml	桜守歌織	#274079	香里有佐
+idol	ml	佐竹美奈子	#58A6DC	大関英里
+idol	ml	篠宮可憐	#B63B40	近藤唯
+idol	ml	島原エレナ	#9BCE92	角元明日香
+idol	ml	ジュリア	#D7385F	愛美
+idol	ml	白石紬	#EBE1FF	南早紀
+idol	ml	周防桃子	#EFB864	渡部恵子
+idol	ml	高山紗代子	#7F6575	駒形友梨
+idol	ml	田中琴葉	#92CFBB	種田梨沙
+idol	ml	天空橋朋花	#BEE3E3	小岩井ことり
+idol	ml	徳川まつり	#5ABFB7	諏訪彩花
+idol	ml	所恵美	#454341	藤井ゆきよ
+idol	ml	豊川風花	#7278A8	末柄里恵
+idol	ml	中谷育	#F7E78E	原嶋あかり
+idol	ml	永吉昴	#AEB49C	斉藤佑圭
+idol	ml	七尾百合子	#C7B83C	伊藤美来
+idol	ml	二階堂千鶴	#F19557	野村香菜子
+idol	ml	野々原茜	#EB613F	小笠原早紀
+idol	ml	箱崎星梨花	#ED90BA	麻倉もも
+idol	ml	馬場このみ	#F1BECB	髙橋ミナミ
+idol	ml	福田のり子	#ECEB70	浜崎奈々
+idol	ml	舞浜歩	#E25A9B	戸田めぐみ
+idol	ml	真壁瑞希	#99B7DC	阿部里果
+idol	ml	松田亜利沙	#B54461	村川梨衣
+idol	ml	宮尾美也	#D7A96B	桐谷蝶々
+idol	ml	最上静香	#6495CF	田所あずさ
+idol	ml	望月杏奈	#7E6CA8	夏川椎菜
+idol	ml	百瀬莉緒	#F19591	山口立花子
+idol	ml	矢吹可奈	#F5AD3B	木戸衣吹
+idol	ml	横山奈緒	#788BC5	渡部優衣
+idol	ml	ロコ	#FFF03C	中村温姫
+idol	gk	花海咲季	#E30F25	長月あおい
+idol	gk	月村手毬	#0C7BBB	小鹿なお
+idol	gk	藤田ことね	#F8C112	飯田ヒカル
+idol	gk	有村麻央	#7F1184	七瀬つむぎ
+idol	gk	葛城リーリヤ	#EAFDFF	花岩香奈
+idol	gk	倉本千奈	#F68B1F	伊藤舞音
+idol	gk	紫雲清夏	#7CFC00	湊みや
+idol	gk	篠澤広	#00AFCC	川村玲奈
+idol	gk	姫崎莉波	#F6ADC6	薄井友里
+idol	gk	花海佑芽	#EA533A	松田彩音
+idol	gk	秦谷美鈴	#7A99CF	春咲暖
+idol	gk	十王星南	#F6AE54	陽高真白
+idol	gk	雨夜燕	#7B68EE	天音ゆかり
+idol	gk	真城優	#F0F8FF	村田綾香
+idol	876	日高愛	#E85786	戸松遥
+idol	876	水谷絵理	#00ADB9	花澤香菜
+idol	876	秋月涼	#B2D468	三瓶由布子
+idol	valiv	灯里愛夏	#FF4554	
+idol	valiv	上水流宇宙	#56CCF2	
+idol	valiv	レトラ	#D7F930	
+idol	sc	櫻木真乃	#FFBAD6	関根瞳
+idol	sc	風野灯織	#144384	近藤玲奈
+idol	sc	八宮めぐる	#FFE012	峯田茉優
+idol	sc	月岡恋鐘	#F84CAD	礒部花凜
+idol	sc	田中摩美々	#A846FB	菅沼千紗
+idol	sc	白瀬咲耶	#006047	八巻アンナ
+idol	sc	三峰結華	#3B91C4	希水しお
+idol	sc	幽谷霧子	#D9F2FF	結名美月
+idol	sc	小宮果穂	#E5461C	河野ひより
+idol	sc	園田智代子	#F93B90	白石晴香
+idol	sc	西城樹里	#FFC602	永井真里子
+idol	sc	杜野凛世	#89C3EB	丸岡和佳奈
+idol	sc	有栖川夏葉	#90E667	涼本あきほ
+idol	sc	大崎甘奈	#F54275	黒木ほの香
+idol	sc	大崎甜花	#E75BEC	前川涼子
+idol	sc	桑山千雪	#FAFAFA	芝崎典子
+idol	sc	芹沢あさひ	#F30100	田中有紀
+idol	sc	黛冬優子	#5AFF19	幸村恵理
+idol	sc	和泉愛依	#FF00FF	北原沙弥香
+idol	sc	浅倉透	#50D0D0	和久井優
+idol	sc	樋口円香	#BE1E3E	土屋李央
+idol	sc	福丸小糸	#7967C3	田嶌紗蘭
+idol	sc	市川雛菜	#FFC639	岡咲美保
+idol	sc	七草にちか	#A6CDB6	紫月杏朱彩
+idol	sc	緋田美琴	#760F10	山根綺
+idol	sc	斑鳩ルカ	#35281F	川口莉奈
+idol	sc	鈴木羽那	#E0B5D3	三川華月
+idol	sc	郁田はるき	#EAD7A4	小澤麗那
+idol	sc	七草はづき	#8ADFFF	山村響
+unit	sc	illumination STARS	#FFF68D	
+unit	sc	L'Antica	#853998	
+unit	sc	放課後クライマックスガールズ	#FA8333	
+unit	sc	アルストロメリア	#FF699E	
+unit	sc	ストレイライト	#AF011C	
+unit	sc	ノクチル	#384D98	
+unit	sc	シーズ	#008E74	
+unit	sc	コメティック	#333333	
+idol	sm	天道輝	#E1261C	仲村宗悟
+idol	sm	桜庭薫	#004EBC	内田雄馬
+idol	sm	柏木翼	#2EB135	八代拓
+idol	sm	天ヶ瀬冬馬	#F32836	寺島拓篤
+idol	sm	御手洗翔太	#8FD400	松岡禎丞
+idol	sm	伊集院北斗	#1226AA	神原大地
+idol	sm	都築圭	#C2AFE6	土岐隼一
+idol	sm	神楽麗	#004898	永野由祐
+idol	sm	鷹城恭二	#6DC6E7	梅原裕一郎
+idol	sm	ピエール	#8ADD66	堀江瞬
+idol	sm	渡辺みのり	#EE869A	高塚智人
+idol	sm	蒼井悠介	#FFE200	菊池勇成
+idol	sm	蒼井享介	#53DA3F	山谷祥生
+idol	sm	握野英雄	#73B8E2	熊谷健太郎
+idol	sm	木村龍	#EA7125	濱健人
+idol	sm	信玄誠司	#7B8D42	増元拓也
+idol	sm	猫柳キリオ	#FFD700	山下大輝
+idol	sm	華村翔真	#6A488E	バレッタ裕
+idol	sm	清澄九郎	#71A4D9	中田祐矢
+idol	sm	秋山隼人	#FF7000	千葉翔也
+idol	sm	冬美旬	#004EBC	永塚拓馬
+idol	sm	榊夏来	#48D2DD	渡辺紘
+idol	sm	若里春名	#70D551	白井悠介
+idol	sm	伊瀬谷四季	#DD0AB2	野上翔
+idol	sm	紅井朱雀	#E23B30	益山武明
+idol	sm	黒野玄武	#001CA8	深町寿成
+idol	sm	神谷幸広	#D88B83	狩野翔
+idol	sm	東雲荘一郎	#008E74	天﨑滉平
+idol	sm	アスラン＝ベルゼビュートⅡ世	#6967AB	古川慎
+idol	sm	卯月巻緒	#EEC362	児玉卓也
+idol	sm	水嶋咲	#EB6EA5	小林大紀
+idol	sm	岡村直央	#211E55	矢野奨吾
+idol	sm	橘志狼	#E72510	古畑恵介
+idol	sm	姫野かのん	#FAB6C4	村瀬歩
+idol	sm	硲道夫	#426CA9	伊東健人
+idol	sm	舞田類	#F7D54E	榎木淳弥
+idol	sm	山下次郎	#EE7800	中島ヨシキ
+idol	sm	大河タケル	#001CA8	寺島惇太
+idol	sm	円城寺道流	#FDA900	濱野大輝
+idol	sm	牙崎漣	#BA2636	小松昌平
+idol	sm	秋月涼	#70D551	三瓶由布子
+idol	sm	兜大吾	#DC291E	浦尾岳大
+idol	sm	九十九一希	#D3A243	比留間俊哉
+idol	sm	葛之葉雨彦	#4D4D4D	笠間淳
+idol	sm	北村想楽	#3F7735	汐谷文康
+idol	sm	古論クリス	#00C4DF	駒田航
+idol	sm	天峰秀	#0198F0	伊瀬結陸
+idol	sm	眉見鋭心	#E01828	大塚剛央
+idol	sm	花園百々人	#B8F028	宮﨑雅也
+unit	sm	DRAMATIC STARS	#FFA500	
+unit	sm	Jupiter	#90EE90	
+unit	sm	Altessimo	#FFFFCC	
+unit	sm	Beit	#00CCFF	
+unit	sm	W	#FFFF00	
+unit	sm	FRAME	#008000	
+unit	sm	彩	#6600CC	
+unit	sm	High×Joker	#FF0000	
+unit	sm	神速一魂	#F5F5F5	
+unit	sm	Café Parade	#CC66CC	
+unit	sm	もふもふえん	#FFCCFF	
+unit	sm	S.E.M	#FF00CC	
+unit	sm	THE 虎牙道	#4D4D4D	
+unit	sm	F-LAGS	#0000FF	
+unit	sm	Legenders	#6880A0	
+unit	sm	C.FIRST	#00CCBB	
+idol	cg	相葉夕美	#F0E991	木村珠莉
+idol	cg	赤城みりあ	#FFCD00	黒沢ともよ
+idol	cg	浅利七海	#009CBD	井上ほの花
+idol	cg	アナスタシア	#B1C9E8	上坂すみれ
+idol	cg	安部菜々	#EF4A81	三宅麻理恵
+idol	cg	荒木比奈	#A0D884	田辺留依
+idol	cg	五十嵐響子	#FABBCB	種﨑敦美
+idol	cg	一ノ瀬志希	#A50050	藍原ことみ
+idol	cg	市原仁奈	#F8E08E	久野美咲
+idol	cg	イヴ・サンタクロース	#E5E1E6	松永あかね
+idol	cg	上田鈴帆	#CC8A00	春野ななみ
+idol	cg	及川雫	#FFFFFF	のぐちゆり
+idol	cg	大石泉	#74D1EA	大木咲絵子
+idol	cg	大槻唯	#F6BE00	山下七海
+idol	cg	緒方智絵里	#6CC24A	大空直美
+idol	cg	乙倉悠貴	#E4BEC3	中島由貴
+idol	cg	片桐早苗	#FC4C02	和氣あず未
+idol	cg	上条春菜	#5BC2E7	長島光那
+idol	cg	神谷奈緒	#9678D3	松井恵理子
+idol	cg	川島瑞樹	#485CC7	東山奈央
+idol	cg	神崎蘭子	#84329B	内田真礼
+idol	cg	喜多日菜子	#FCD757	深川芹亜
+idol	cg	喜多見柚	#F8F283	武田羅梨沙多胡
+idol	cg	木村夏樹	#53565A	安野希世乃
+idol	cg	桐生つかさ	#AB4EC6	河瀬茉希
+idol	cg	黒埼ちとせ	#EF3340	佐倉薫
+idol	cg	古賀小春	#C2E189	小森結梨
+idol	cg	輿水幸子	#C1A0DA	竹達彩奈
+idol	cg	小関麗奈	#9B26B6	長野佑紀
+idol	cg	小早川紗枝	#E56DB1	立花理香
+idol	cg	小日向美穂	#DB3EB1	津田美波
+idol	cg	西園寺琴歌	#E8CDD0	安齋由香里
+idol	cg	鷺沢文香	#606EB2	M・A・O
+idol	cg	佐久間まゆ	#DA1884	牧野由依
+idol	cg	櫻井桃華	#EF95CF	照井春佳
+idol	cg	佐々木千枝	#0072CE	今井麻夏
+idol	cg	佐城雪美	#171C8F	中澤ミナ
+idol	cg	佐藤心	#F04E98	花守ゆみり
+idol	cg	椎名法子	#F8485E	都丸ちよ
+idol	cg	塩見周子	#DCE6ED	ルゥ・ティン
+idol	cg	渋谷凛	#009CDE	福原綾香
+idol	cg	島村卯月	#F67599	大橋彩香
+idol	cg	城ヶ崎美嘉	#FE9D1A	佳村はるか
+idol	cg	城ヶ崎莉嘉	#FEDD00	山本希望
+idol	cg	白菊ほたる	#C964CF	天野聡美
+idol	cg	白坂小梅	#ABCAE9	桜咲千依
+idol	cg	白雪千夜	#EFD7E5	関口理咲
+idol	cg	砂塚あきら	#7E93A7	富田美憂
+idol	cg	関裕美	#FFB3AB	会沢紗弥
+idol	cg	高垣楓	#47D7AC	早見沙織
+idol	cg	鷹富士茄子	#5C068C	森下来奈
+idol	cg	高森藍子	#CDEA80	金子有希
+idol	cg	多田李衣菜	#0077C8	青木瑠璃子
+idol	cg	橘ありす	#5C88DA	佐藤亜美菜
+idol	cg	辻野あかり	#E10600	梅澤めぐ
+idol	cg	道明寺歌鈴	#D22630	新田ひより
+idol	cg	十時愛梨	#DF4661	原田ひとみ
+idol	cg	中野有香	#E277CD	下地紫野
+idol	cg	ナターリア	#F4633A	生田輝
+idol	cg	南条光	#E4002B	神谷早矢佳
+idol	cg	難波笑美	#E03C31	伊達朱里紗
+idol	cg	新田美波	#71C5E8	洲崎綾
+idol	cg	二宮飛鳥	#5F259F	青木志貴
+idol	cg	浜口あやめ	#440099	田澤茉純
+idol	cg	早坂美玲	#C800A1	朝井彩加
+idol	cg	速水奏	#003087	飯田友子
+idol	cg	久川凪	#F8A4BD	立花日菜
+idol	cg	久川颯	#7EDDD3	長江里加
+idol	cg	日野茜	#F9423A	赤﨑千夏
+idol	cg	姫川友紀	#ED8B00	杜野まこ
+idol	cg	藤本里奈	#623B2A	金子真由美
+idol	cg	藤原肇	#9595D2	鈴木みのり
+idol	cg	双葉杏	#F8A3BC	五十嵐裕美
+idol	cg	北条加蓮	#2AD2C9	渕上舞
+idol	cg	星輝子	#A6093D	松田颯水
+idol	cg	堀裕子	#ECA154	鈴木絵理
+idol	cg	本田未央	#FFB81C	原紗友里
+idol	cg	前川みく	#CE0037	高森奈津美
+idol	cg	松永涼	#211551	千菅春香
+idol	cg	的場梨沙	#FF00A0	集貝はな
+idol	cg	水本ゆかり	#EABEDB	藤田茜
+idol	cg	三船美優	#12BFB2	原田彩楓
+idol	cg	三村かな子	#FFB1BB	大坪由佳
+idol	cg	宮本フレデリカ	#A20067	髙野麻美
+idol	cg	向井拓海	#B0008E	原優子
+idol	cg	棟方愛海	#C7579A	藤本彩花
+idol	cg	村上巴	#AB192C	花井美春
+idol	cg	望月聖	#B7DDE1	原涼子
+idol	cg	森久保乃々	#9CDBD9	高橋花林
+idol	cg	諸星きらり	#FFD100	松嵜麗
+idol	cg	八神マキノ	#A6A4E0	二ノ宮ゆい
+idol	cg	大和亜季	#28724F	村中知
+idol	cg	結城晴	#71DAD4	小市眞琴
+idol	cg	遊佐こずえ	#F4A6D7	花谷麻妃
+idol	cg	夢見りあむ	#E89CDC	星希成奏
+idol	cg	依田芳乃	#C4BCB7	高田憂希
+idol	cg	ライラ	#7CE0D3	市ノ瀬加那
+idol	cg	龍崎薫	#FAE053	春瀬なつみ
+idol	cg	脇山珠美	#407EC9	嘉山未紗
+unit	cg	羽衣小町	#403A60	
+unit	cg	セクシーギルティ	#E24585	
+unit	cg	ポジティブパッション	#FF8200	
+unit	cg	Triad Primus	#3337B2	
+unit	cg	ワンステップス	#F4B7CD	
+unit	cg	#UNICUS	#89ABE3	
+unit	cg	デア・アウローラ	#0057B8	
+unit	cg	Sola-iris	#2BCCD3	

@@ -1,0 +1,440 @@
+live_id,seq,block,song_id,performers,is_original,is_premiere,stage_type,version,medley_group,notes
+20140607_ml1st_d1,1,main,s_thankyou,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_julia;ml_yuriko;ml_minako;ml_kana;ml_matsuri;ml_nao,,false,,,,
+20140607_ml1st_d1,2,main,s_prettydreamer,ml_mirai;ml_anna;ml_matsuri,false,false,,,,
+20140607_ml1st_d1,3,main,s_ml_00ihggv,ml_mirai,true,false,,,,
+20140607_ml1st_d1,4,main,s_ml_0wrn2y0,ml_nao,true,false,,,,
+20140607_ml1st_d1,5,main,s_happydarling,ml_anna,true,false,,,,
+20140607_ml1st_d1,6,main,s_legendgirls,ml_serika;ml_julia;ml_minako,false,false,,,,
+20140607_ml1st_d1,7,main,s_sentimentalvenus,ml_anna;ml_yuriko;ml_kana,false,false,,,,
+20140607_ml1st_d1,8,main,s_lesson,ml_tsubasa,true,false,,,,
+20140607_ml1st_d1,9,main,s_ml_1pjy6ex,ml_minako,true,false,,,,
+20140607_ml1st_d1,10,main,s_ml_0xmhmxw,ml_matsuri,true,false,,,,
+20140607_ml1st_d1,11,main,s_ml_1cisyyv,ml_serika,true,false,,,,
+20140607_ml1st_d1,12,main,s_marionette,ml_tsubasa;ml_serika;ml_julia,false,false,,,,
+20140607_ml1st_d1,13,main,s_gomyway,ml_mirai;ml_matsuri,,false,,msterversion,,
+20140607_ml1st_d1,14,main,s_765as_1ewun46,ml_anna;ml_yuriko,false,false,,,,
+20140607_ml1st_d1,15,main,s_765as_1wk61fu,ml_serika;ml_nao,,false,,msterversion,,
+20140607_ml1st_d1,16,main,s_relations,ml_mirai;ml_julia,,false,,msterversion,,
+20140607_ml1st_d1,17,main,s_restrt,ml_tsubasa;ml_minako;ml_kana,false,false,,msterversion,,
+20140607_ml1st_d1,18,main,s_ml_0trdalz,ml_julia,true,false,,,,
+20140607_ml1st_d1,19,main,s_bluesymphony,ml_tsubasa;ml_yuriko;ml_nao,false,false,,,,
+20140607_ml1st_d1,20,main,s_ml_0r7y3ix,ml_yuriko,true,false,,,,
+20140607_ml1st_d1,21,main,s_ml_094yc90,ml_kana,true,false,,,,
+20140607_ml1st_d1,22,main,s_ml_1gydch7,ml_tsubasa;ml_matsuri;ml_nao,false,false,,,,
+20140607_ml1st_d1,23,main,s_ml_0kv1u8y,ml_mirai;ml_serika;ml_minako;ml_kana,false,false,,,,
+20140607_ml1st_d1,24,main,s_welcome,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_julia;ml_yuriko;ml_minako;ml_kana;ml_matsuri;ml_nao,,false,,,,
+20140607_ml1st_d1,25,encore,s_theidolmster,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_julia;ml_yuriko;ml_minako;ml_kana;ml_matsuri;ml_nao,,false,,msterversion,,
+20140607_ml1st_d1,26,encore,s_thankyou,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_julia;ml_yuriko;ml_minako;ml_kana;ml_matsuri;ml_nao,,false,,,,
+20140608_ml1st_d2,1,main,s_thankyou,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_shiho;ml_umi;ml_emily;ml_kotoha;ml_megumi;ml_arisa;ml_yuriko,,false,,,,
+20140608_ml1st_d2,2,main,s_prettydreamer,ml_mirai;ml_anna;ml_umi,false,false,,,,
+20140608_ml1st_d2,3,main,s_ml_00ihggv,ml_mirai,true,false,,,,
+20140608_ml1st_d2,4,main,s_happydarling,ml_anna,true,false,,,,
+20140608_ml1st_d2,5,main,s_lesson,ml_tsubasa,true,false,,,,
+20140608_ml1st_d2,6,main,s_legendgirls,ml_serika;ml_emily;ml_yuriko,false,false,,,,
+20140608_ml1st_d2,7,main,s_sentimentalvenus,ml_anna;ml_emily;ml_kotoha,false,false,,,,
+20140608_ml1st_d2,8,main,s_ml_1vlp592,ml_megumi,true,false,,,,
+20140608_ml1st_d2,9,main,s_showchng,ml_arisa,true,false,,,,
+20140608_ml1st_d2,10,main,s_ml_178j4tx,ml_umi,true,false,,,,
+20140608_ml1st_d2,11,main,s_ml_1cisyyv,ml_serika,true,false,,,,
+20140608_ml1st_d2,12,main,s_bluesymphony,ml_tsubasa;ml_shiho;ml_kotoha;ml_megumi,false,false,,,,
+20140608_ml1st_d2,13,main,s_gomyway,ml_mirai;ml_kotoha,,false,,msterversion,,
+20140608_ml1st_d2,14,main,s_765as_1ewun46,ml_anna;ml_yuriko,false,false,,,,
+20140608_ml1st_d2,15,main,s_765as_1wk61fu,ml_serika;ml_shiho,,false,,msterversion,,
+20140608_ml1st_d2,16,main,s_relations,ml_mirai;ml_megumi,,false,,msterversion,,
+20140608_ml1st_d2,17,main,s_restrt,ml_tsubasa;ml_umi;ml_emily,false,false,,msterversion,,
+20140608_ml1st_d2,18,main,s_marionette,ml_tsubasa;ml_serika;ml_shiho,false,false,,,,
+20140608_ml1st_d2,19,main,s_ml_0r7y3ix,ml_yuriko,true,false,,,,
+20140608_ml1st_d2,20,main,s_ml_10uvgmn,ml_kotoha,true,false,,,,
+20140608_ml1st_d2,21,main,s_ml_0i0m4m4,ml_emily,true,false,,,,
+20140608_ml1st_d2,22,main,s_ml_0cfbo5j,ml_shiho,true,false,,,,
+20140608_ml1st_d2,23,main,s_preciousgrain,ml_shizuka,true,false,,,,
+20140608_ml1st_d2,24,main,s_ml_1gydch7,ml_tsubasa;ml_umi;ml_megumi,false,false,,,,
+20140608_ml1st_d2,25,main,s_ml_0kv1u8y,ml_mirai;ml_serika;ml_shiho,false,false,,,,
+20140608_ml1st_d2,26,main,s_welcome,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_shiho;ml_umi;ml_emily;ml_kotoha;ml_megumi;ml_arisa;ml_yuriko;ml_shizuka,,false,,,,
+20140608_ml1st_d2,27,encore,s_theidolmster,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_shiho;ml_umi;ml_emily;ml_kotoha;ml_megumi;ml_arisa;ml_yuriko;ml_shizuka,,false,,msterversion,,
+20140608_ml1st_d2,28,encore,s_thankyou,ml_mirai;ml_tsubasa;ml_serika;ml_anna;ml_shiho;ml_umi;ml_emily;ml_kotoha;ml_megumi;ml_arisa;ml_yuriko;ml_shizuka,,false,,,,
+20140222_moiw2014_d1,1,main,s_theidolmster,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori;cg_rin;cg_kirari;cg_mika;cg_uzuki;cg_mio;cg_riina;ml_serika;ml_shizuka;ml_mirai;ml_nao;ml_kana;ml_tsubasa;ml_yuriko;ml_anna;ml_shiho;ml_megumi;ml_julia,,false,,,,
+20140222_moiw2014_d1,2,main,s_ready,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori,false,false,,,,
+20140222_moiw2014_d1,3,main,s_change,765as_haruka;765as_azusa;765as_yukiho;765as_yayoi,false,false,,,,
+20140222_moiw2014_d1,4,main,s_765as_00r74oc,765as_iori;765as_makoto;765as_kotori;765as_miki,false,false,,,,
+20140222_moiw2014_d1,5,main,s_rebellion,765as_hibiki,true,false,,,,
+20140222_moiw2014_d1,6,main,s_mythmaker,765as_azusa,true,false,,,,
+20140222_moiw2014_d1,7,main,s_765as_0tyu2w5,765as_ami,false,false,,,,
+20140222_moiw2014_d1,8,main,s_765as_0sjai7d,765as_haruka,true,false,,,,
+20140222_moiw2014_d1,9,main,s_theworldisallone,765as_haruka;ml_mirai;cg_uzuki,false,false,,,,
+20140222_moiw2014_d1,10,main,s_cg_1w3tio2,cg_uzuki;cg_kirari,,false,,,,
+20140222_moiw2014_d1,11,main,s_tokimeki,cg_mika,true,false,,,,
+20140222_moiw2014_d1,12,main,s_cg_1hpx94t,cg_kirari,true,false,,,,
+20140222_moiw2014_d1,13,main,s_cg_0ljcypm,cg_mio,true,false,,,,
+20140222_moiw2014_d1,14,main,s_megare,765as_miki;ml_tsubasa;cg_mio,,false,,,,
+20140222_moiw2014_d1,15,main,s_bluesymphony,ml_shizuka;ml_shiho;ml_megumi;ml_tsubasa,false,false,,,,
+20140222_moiw2014_d1,16,main,s_ml_0cfbo5j,ml_shiho,true,false,,,,
+20140222_moiw2014_d1,17,main,s_ml_0trdalz,ml_julia,true,false,,,,
+20140222_moiw2014_d1,18,main,s_prettydreamer,ml_mirai;ml_anna;ml_nao,false,false,,,,
+20140222_moiw2014_d1,19,main,s_alright,765as_yukiho,true,false,,,,
+20140222_moiw2014_d1,20,main,s_765as_168eu4l,765as_makoto,true,false,,,,
+20140222_moiw2014_d1,21,main,s_eden,765as_miki,false,false,,,,
+20140222_moiw2014_d1,22,main,s_restrt,765as_chihaya;765as_takane;765as_ami;765as_hibiki,false,false,,,,
+20140222_moiw2014_d1,23,main,s_765as_1ewun46,765as_yayoi;765as_iori;ml_mirai;cg_kirari,true,false,,medley,,
+20140222_moiw2014_d1,24,main,s_765as_1tpdcnf,765as_azusa;ml_nao;cg_mika,true,false,,medley,,
+20140222_moiw2014_d1,25,main,s_765as_09fmqny,765as_haruka;765as_yukiho;765as_kotori;ml_tsubasa,,false,,medley,,
+20140222_moiw2014_d1,26,main,s_765as_1wqprrg,765as_makoto;765as_ami;cg_riina,true,false,,medley,,
+20140222_moiw2014_d1,27,main,s_arcadia,765as_chihaya;765as_miki;ml_shiho,true,false,,medley,,
+20140222_moiw2014_d1,28,main,s_aliceorguilty,765as_hibiki;765as_azusa;ml_julia;cg_rin,false,false,,medley,,
+20140222_moiw2014_d1,29,main,s_hello_3,765as_takane;ml_anna;cg_uzuki,false,false,,medley,,
+20140222_moiw2014_d1,30,main,s_gomyway,765as_yukiho;765as_miki;ml_serika;ml_shizuka,,false,,medley,,
+20140222_moiw2014_d1,31,main,s_765as_1w8ehoa,765as_iori;765as_makoto;ml_megumi,,false,,medley,,
+20140222_moiw2014_d1,32,main,s_765as_1thtbr8,765as_chihaya;765as_ami;ml_kana;cg_mio,,false,,medley,,
+20140222_moiw2014_d1,33,main,s_765as_15l8a85,765as_yayoi;765as_takane,false,false,,medley,,
+20140222_moiw2014_d1,34,main,s_vaultthatborderline,765as_hibiki;765as_haruka;ml_yuriko,false,false,,medley,,
+20140222_moiw2014_d1,35,main,s_765as_1yw5ep9,765as_kotori,true,false,,medley,,
+20140222_moiw2014_d1,36,main,s_cg_0i6kt8w,cg_rin;cg_kirari;cg_mika;cg_uzuki;cg_mio;cg_riina,,false,,,,
+20140222_moiw2014_d1,37,main,s_orangesapphire,cg_mio;cg_mika,,false,,,,
+20140222_moiw2014_d1,38,main,s_nationblue,cg_riina;cg_rin,,false,,,,
+20140222_moiw2014_d1,39,main,s_twilightsky,cg_riina,true,false,,,,
+20140222_moiw2014_d1,40,main,s_smileing,cg_uzuki,true,false,,,,
+20140222_moiw2014_d1,41,main,s_neversaynever,cg_rin,true,false,,,,
+20140222_moiw2014_d1,42,main,s_music,765as_chihaya;ml_shizuka;cg_rin,false,false,,,,
+20140222_moiw2014_d1,43,main,s_ml_1vlp592,ml_megumi;765as_chihaya,true,false,,,,
+20140222_moiw2014_d1,44,main,s_happydarling,ml_anna,true,false,,,,
+20140222_moiw2014_d1,45,main,s_ml_0r7y3ix,ml_yuriko,true,false,,,,
+20140222_moiw2014_d1,46,main,s_sentimentalvenus,765as_iori;ml_serika;ml_kana;ml_yuriko;ml_julia,false,false,,,,
+20140222_moiw2014_d1,47,main,s_mysong,765as_iori,,false,,,,
+20140222_moiw2014_d1,48,main,s_765as_0jqujd3,765as_yayoi,false,false,,,,
+20140222_moiw2014_d1,49,main,s_ml_11ck2ch,765as_takane,true,false,,,,
+20140222_moiw2014_d1,50,main,s_765as_0aue2ch,765as_kotori,true,false,,,,
+20140222_moiw2014_d1,51,main,s_765as_1nzrf50,765as_chihaya,true,false,,,,
+20140222_moiw2014_d1,52,main,s_thankyou,ml_serika;ml_shizuka;ml_mirai;ml_nao;ml_kana;ml_tsubasa;ml_yuriko;ml_anna;ml_shiho;ml_megumi;ml_julia,,false,,,,
+20140222_moiw2014_d1,53,main,s_msterpiece,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori,false,false,,,,
+20140222_moiw2014_d1,54,main,s_idolpowerrainbow,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori;cg_rin;cg_kirari;cg_mika;cg_uzuki;cg_mio;cg_riina;ml_serika;ml_shizuka;ml_mirai;ml_nao;ml_kana;ml_tsubasa;ml_yuriko;ml_anna;ml_shiho;ml_megumi;ml_julia,,false,,,,
+20140223_moiw2014_d2,1,main,s_theidolmster,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori;cg_rin;cg_kirari;cg_mika;cg_uzuki;cg_mio;cg_riina;cg_anzu;cg_rika;cg_miku;cg_x001;cg_nana;ml_serika;ml_shizuka;ml_mirai;ml_nao;ml_kana;ml_tsubasa,,false,,,,
+20140223_moiw2014_d2,2,main,s_ready,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori,false,false,,,,
+20140223_moiw2014_d2,3,main,s_change,765as_haruka;765as_azusa;765as_yukiho;765as_yayoi,false,false,,,,
+20140223_moiw2014_d2,4,main,s_765as_00r74oc,765as_iori;765as_makoto;765as_kotori;765as_miki,false,false,,,,
+20140223_moiw2014_d2,5,main,s_rebellion,765as_hibiki,true,false,,,,
+20140223_moiw2014_d2,6,main,s_mythmaker,765as_azusa,true,false,,,,
+20140223_moiw2014_d2,7,main,s_765as_0tyu2w5,765as_ami,false,false,,,,
+20140223_moiw2014_d2,8,main,s_765as_0sjai7d,765as_haruka,true,false,,,,
+20140223_moiw2014_d2,9,main,s_theworldisallone,765as_haruka;ml_mirai;cg_uzuki,false,false,,,,
+20140223_moiw2014_d2,10,main,s_prettydreamer,ml_mirai;ml_nao,false,false,,,,
+20140223_moiw2014_d2,11,main,s_ml_1cisyyv,ml_serika,true,false,,,,
+20140223_moiw2014_d2,12,main,s_ml_094yc90,ml_kana,true,false,,,,
+20140223_moiw2014_d2,13,main,s_bluesymphony,ml_shizuka;ml_tsubasa,false,false,,,,
+20140223_moiw2014_d2,14,main,s_megare,765as_miki;ml_tsubasa;cg_mio,,false,,,,
+20140223_moiw2014_d2,15,main,s_orangesapphire,cg_mio;cg_mika;cg_nana;cg_rika,,false,,,,
+20140223_moiw2014_d2,16,main,s_cg_1uq2xbt,cg_anzu,true,false,,,,
+20140223_moiw2014_d2,17,main,s_shallwe,cg_miku,true,false,,,,
+20140223_moiw2014_d2,18,main,s_cg_0awiioa,cg_nana,true,false,,,,
+20140223_moiw2014_d2,19,main,s_alright,765as_yukiho,true,false,,,,
+20140223_moiw2014_d2,20,main,s_765as_168eu4l,765as_makoto,true,false,,,,
+20140223_moiw2014_d2,21,main,s_eden,765as_miki,false,false,,,,
+20140223_moiw2014_d2,22,main,s_restrt,765as_chihaya;765as_takane;765as_ami;765as_hibiki,false,false,,,,
+20140223_moiw2014_d2,23,main,s_765as_1ewun46,765as_yayoi;765as_iori;ml_mirai;cg_kirari,true,false,,medley,,
+20140223_moiw2014_d2,24,main,s_765as_1tpdcnf,765as_azusa;ml_nao;cg_mika,true,false,,medley,,
+20140223_moiw2014_d2,25,main,s_765as_09fmqny,765as_haruka;765as_yukiho;765as_kotori;ml_tsubasa,,false,,medley,,
+20140223_moiw2014_d2,26,main,s_765as_1wqprrg,765as_makoto;765as_ami;cg_riina,true,false,,medley,,
+20140223_moiw2014_d2,27,main,s_arcadia,765as_chihaya;765as_miki;cg_x001,true,false,,medley,,
+20140223_moiw2014_d2,28,main,s_aliceorguilty,765as_hibiki;765as_azusa;cg_rin;cg_nana,false,false,,medley,,
+20140223_moiw2014_d2,29,main,s_hello_3,876_ai,false,false,,medley,,
+20140223_moiw2014_d2,30,main,s_gomyway,765as_yukiho;765as_miki;765as_takane;ml_serika;ml_shizuka;cg_uzuki;cg_miku,,false,,medley,,
+20140223_moiw2014_d2,31,main,s_765as_1w8ehoa,765as_iori;765as_makoto;cg_rika,,false,,medley,,
+20140223_moiw2014_d2,32,main,s_765as_1thtbr8,765as_chihaya;765as_ami;ml_kana;cg_mio,,false,,medley,,
+20140223_moiw2014_d2,33,main,s_765as_15l8a85,765as_yayoi;765as_takane,false,false,,medley,,
+20140223_moiw2014_d2,34,main,s_vaultthatborderline,765as_hibiki;765as_haruka;cg_anzu,false,false,,medley,,
+20140223_moiw2014_d2,35,main,s_765as_1yw5ep9,765as_kotori,true,false,,medley,,
+20140223_moiw2014_d2,36,main,s_thankyou,ml_serika;ml_shizuka;ml_mirai;ml_nao;ml_kana;ml_tsubasa,,false,,,,
+20140223_moiw2014_d2,37,main,s_cg_0i6kt8w,cg_rin;cg_kirari;cg_mika;cg_uzuki;cg_mio;cg_riina;cg_anzu;cg_rika;cg_miku;cg_x001;cg_nana,,false,,,,
+20140223_moiw2014_d2,38,main,s_romanticnow,cg_x001,true,false,,,,
+20140223_moiw2014_d2,39,main,s_dokidoki,cg_rika,true,false,,,,
+20140223_moiw2014_d2,40,main,s_cg_1w3tio2,cg_uzuki;cg_kirari;cg_anzu;cg_miku,,false,,,,
+20140223_moiw2014_d2,41,main,s_nationblue,cg_riina;cg_rin;cg_x001,,false,,,,
+20140223_moiw2014_d2,42,main,s_music,765as_chihaya;ml_shizuka;cg_rin,false,false,,,,
+20140223_moiw2014_d2,43,main,s_preciousgrain,ml_shizuka,true,false,,,,
+20140223_moiw2014_d2,44,main,s_ml_00ihggv,ml_mirai,true,false,,,,
+20140223_moiw2014_d2,45,main,s_ml_0wrn2y0,ml_nao,true,false,,,,
+20140223_moiw2014_d2,46,main,s_lesson,ml_tsubasa,true,false,,,,
+20140223_moiw2014_d2,47,main,s_sentimentalvenus,765as_iori;ml_serika;ml_kana,false,false,,,,
+20140223_moiw2014_d2,48,main,s_mysong,765as_iori,,false,,,,
+20140223_moiw2014_d2,49,main,s_765as_0jqujd3,765as_yayoi,false,false,,,,
+20140223_moiw2014_d2,50,main,s_ml_11ck2ch,765as_takane,true,false,,,,
+20140223_moiw2014_d2,51,main,s_765as_0aue2ch,765as_kotori,true,false,,,,
+20140223_moiw2014_d2,52,main,s_765as_1nzrf50,765as_chihaya;765as_haruka;765as_miki;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori,true,false,,,,
+20140223_moiw2014_d2,53,main,s_msterpiece,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori,false,false,,,,
+20140223_moiw2014_d2,54,main,s_idolpowerrainbow,765as_haruka;765as_miki;765as_chihaya;765as_yayoi;765as_yukiho;765as_makoto;765as_ami;765as_iori;765as_azusa;765as_takane;765as_hibiki;765as_kotori;cg_rin;cg_kirari;cg_mika;cg_uzuki;cg_mio;cg_riina;cg_anzu;cg_rika;cg_miku;cg_x001;cg_nana;ml_serika;ml_shizuka;ml_mirai;ml_nao;ml_kana;ml_tsubasa;876_ai,,false,,,,
+20140405_cg1st_d1,1,main,s_cg_0i6kt8w,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_x035;cg_anzu;cg_anastasia;cg_koume;cg_kanako;cg_miku;cg_miho;cg_kirari;cg_nana;cg_rika;cg_mika,,false,,,,
+20140405_cg1st_d1,2,main,s_cg_0ljcypm,cg_mio,,false,,,,
+20140405_cg1st_d1,3,main,s_cg_0p2enp3,cg_x035,,false,,,,
+20140405_cg1st_d1,4,main,s_dokidoki,cg_rika,,false,,,,
+20140405_cg1st_d1,5,main,s_tokimeki,cg_mika,,false,,,,
+20140405_cg1st_d1,6,main,s_cg_1hpx94t,cg_kirari,,false,,,,
+20140405_cg1st_d1,7,main,s_orangesapphire,cg_mio;cg_x035;cg_rika;cg_mika;cg_kirari,,false,,,,
+20140405_cg1st_d1,8,main,s_cg_198ahav,cg_koume,,false,,,,
+20140405_cg1st_d1,9,main,s_twilightsky,cg_riina,,false,,,,
+20140405_cg1st_d1,10,main,s_neversaynever,cg_rin,,false,,,,
+20140405_cg1st_d1,11,main,s_yourestarsshineonme,cg_anastasia,,false,,,,
+20140405_cg1st_d1,12,main,s_nationblue,cg_koume;cg_riina;cg_rin;cg_anastasia,,false,,,,
+20140405_cg1st_d1,13,main,s_cg_06g0140,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_x035;cg_anzu;cg_anastasia;cg_koume;cg_kanako;cg_miku;cg_miho;cg_kirari;cg_nana;cg_rika;cg_mika,,false,,,,
+20140405_cg1st_d1,14,main,s_cg_1uq2xbt,cg_anzu,,false,,,,
+20140405_cg1st_d1,15,main,s_cg_0hqddno,cg_miku,,false,,,,
+20140405_cg1st_d1,16,main,s_cg_0awiioa,cg_nana,,false,,,,
+20140405_cg1st_d1,17,main,s_cg_0p89ylq,cg_kanako,,false,,,,
+20140405_cg1st_d1,18,main,s_cg_0gtbrdp,cg_miho,,false,,,,
+20140405_cg1st_d1,19,main,s_smileing,cg_uzuki,,false,,,,
+20140405_cg1st_d1,20,main,s_cg_1w3tio2,cg_anzu;cg_miku;cg_nana;cg_kanako;cg_miho;cg_uzuki,,false,,,,
+20140405_cg1st_d1,21,main,s_jewelparade,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_x035;cg_anzu;cg_anastasia;cg_koume;cg_kanako;cg_miku;cg_miho;cg_kirari;cg_nana;cg_rika;cg_mika,,false,,,,
+20140405_cg1st_d1,22,main,s_cg_0i6kt8w,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_x035;cg_anzu;cg_anastasia;cg_koume;cg_kanako;cg_miku;cg_miho;cg_kirari;cg_nana;cg_rika;cg_mika,,false,,,,
+20140406_cg1st_d2,1,main,s_cg_0i6kt8w,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_ranko;cg_kanako;cg_x001;cg_x030;cg_miku;cg_miho;cg_kaede;cg_kirari;cg_rika;cg_mika,,false,,,,
+20140406_cg1st_d2,2,main,s_cg_0ljcypm,cg_mio,,false,,,,
+20140406_cg1st_d2,3,main,s_dokidoki,cg_rika,,false,,,,
+20140406_cg1st_d2,4,main,s_tokimeki,cg_mika,,false,,,,
+20140406_cg1st_d2,5,main,s_cg_1hpx94t,cg_kirari,,false,,,,
+20140406_cg1st_d2,6,main,s_romanticnow,cg_x001,,false,,,,
+20140406_cg1st_d2,7,main,s_orangesapphire,cg_mio;cg_rika;cg_mika;cg_kirari;cg_x001,,false,,,,
+20140406_cg1st_d2,8,main,s_cg_1w3tio2,cg_anzu;cg_miku;cg_kanako;cg_miho;cg_uzuki,,false,,,,
+20140406_cg1st_d2,9,main,s_cg_1uq2xbt,cg_anzu,,false,,,,
+20140406_cg1st_d2,10,main,s_cg_0hqddno,cg_miku,,false,,,,
+20140406_cg1st_d2,11,main,s_cg_0p89ylq,cg_kanako,,false,,,,
+20140406_cg1st_d2,12,main,s_cg_0gtbrdp,cg_miho,,false,,,,
+20140406_cg1st_d2,13,main,s_smileing,cg_uzuki,,false,,,,
+20140406_cg1st_d2,14,main,s_cg_06g0140,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_ranko;cg_kanako;cg_x001;cg_x030;cg_miku;cg_miho;cg_kaede;cg_kirari;cg_rika;cg_mika,,false,,,,
+20140406_cg1st_d2,15,main,s_nationblue,cg_riina;cg_rin;cg_x030;cg_ranko;cg_kaede,,false,,,,
+20140406_cg1st_d2,16,main,s_twilightsky,cg_riina,,false,,,,
+20140406_cg1st_d2,17,main,s_neversaynever,cg_rin,,false,,,,
+20140406_cg1st_d2,18,main,s_cg_1vne491,cg_x030,,false,,,,
+20140406_cg1st_d2,19,main,s_cg_18hwmad,cg_ranko,,false,,,,
+20140406_cg1st_d2,20,main,s_cg_1pby151,cg_kaede,,false,,,,
+20140406_cg1st_d2,21,main,s_jewelparade,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_ranko;cg_kanako;cg_x001;cg_x030;cg_miku;cg_miho;cg_kaede;cg_kirari;cg_rika;cg_mika,,false,,,,
+20140406_cg1st_d2,22,main,s_cg_0i6kt8w,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_ranko;cg_kanako;cg_x001;cg_x030;cg_miku;cg_miho;cg_kaede;cg_kirari;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,1,main,s_cg_0i6kt8w,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_anastasia;cg_koume;cg_chieri;cg_aiko;cg_yuko;cg_miku;cg_sae;cg_mizuki;cg_karen;cg_mayu;cg_nao;cg_kirari;cg_shiki;cg_nana;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,2,main,s_werethefriends,cg_anzu;cg_chieri;cg_sae;cg_mayu;cg_nana;cg_koume;cg_mizuki;cg_mio;cg_aiko;cg_yuko;cg_shiki,,false,,,,
+20141130_cg2nd,3,main,s_smileing,cg_uzuki,,false,,,,
+20141130_cg2nd,4,main,s_tokimeki,cg_mika,,false,,,,
+20141130_cg2nd,5,main,s_dokidoki,cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,6,main,s_twilightsky,cg_riina,,false,,,,
+20141130_cg2nd,7,main,s_cg_0ljcypm,cg_mio,,false,,,,
+20141130_cg2nd,8,main,s_cg_10fw229,cg_aiko;cg_yuko;cg_kirari;cg_shiki,,false,,,,
+20141130_cg2nd,9,main,s_cg_1w3tio2,cg_anzu;cg_miku;cg_nana,,false,,,,
+20141130_cg2nd,10,main,s_cg_0gtbrdp,cg_mayu,,false,,,,
+20141130_cg2nd,11,main,s_hanakanzashi,cg_sae,,false,,,,
+20141130_cg2nd,12,main,s_angelbreeze,cg_mizuki,,false,,,,
+20141130_cg2nd,13,main,s_cg_0hqddno,cg_aiko,,false,,,,
+20141130_cg2nd,14,main,s_cg_0hqddno,cg_miku,,false,,,,
+20141130_cg2nd,15,main,s_cg_198ahav,cg_koume,,false,,,,
+20141130_cg2nd,16,main,s_cg_1p6mchp,cg_uzuki;cg_chieri;cg_sae;cg_mayu,,false,,,,
+20141130_cg2nd,17,main,s_cg_0673q2e,cg_uzuki;cg_miku;cg_rin;cg_riina;cg_anastasia;cg_karen;cg_nao;cg_kirari;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,18,main,s_partynight,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_anastasia;cg_koume;cg_chieri;cg_aiko;cg_yuko;cg_miku;cg_sae;cg_mizuki;cg_karen;cg_mayu;cg_nao;cg_kirari;cg_shiki;cg_nana;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,19,main,s_cg_0b67aly,cg_shiki,,false,,,,
+20141130_cg2nd,20,main,s_cg_0awiioa,cg_nana,,false,,,,
+20141130_cg2nd,21,main,s_cg_1uq2xbt,cg_anzu,,false,,,,
+20141130_cg2nd,22,main,s_cg_1hpx94t,cg_kirari,,false,,,,
+20141130_cg2nd,23,main,s_cg_0w2h5yv,cg_yuko,,false,,,,
+20141130_cg2nd,24,main,s_orangesapphire,cg_mio;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,25,main,s_nationblue,cg_riina;cg_anastasia;cg_koume;cg_mizuki,,false,,,,
+20141130_cg2nd,26,main,s_2ndside,cg_nao,,false,,,,
+20141130_cg2nd,27,main,s_yourestarsshineonme,cg_anastasia,,false,,,,
+20141130_cg2nd,28,main,s_cg_0d3woi7,cg_chieri,,false,,,,
+20141130_cg2nd,29,main,s_cg_1ukrk0t,cg_karen,,false,,,,
+20141130_cg2nd,30,main,s_neversaynever,cg_rin,,false,,,,
+20141130_cg2nd,31,main,s_cg_0yaps6z,cg_rin;cg_karen;cg_nao,,false,,,,
+20141130_cg2nd,32,main,s_star,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_anastasia;cg_koume;cg_chieri;cg_aiko;cg_yuko;cg_miku;cg_sae;cg_mizuki;cg_karen;cg_mayu;cg_nao;cg_kirari;cg_shiki;cg_nana;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,33,main,s_cg_06g0140,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_anastasia;cg_koume;cg_chieri;cg_aiko;cg_yuko;cg_miku;cg_sae;cg_mizuki;cg_karen;cg_mayu;cg_nao;cg_kirari;cg_shiki;cg_nana;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,201,encore,s_jewelparade,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_anastasia;cg_koume;cg_chieri;cg_aiko;cg_yuko;cg_miku;cg_sae;cg_mizuki;cg_karen;cg_mayu;cg_nao;cg_kirari;cg_shiki;cg_nana;cg_rika;cg_mika,,false,,,,
+20141130_cg2nd,202,encore,s_cg_0i6kt8w,cg_uzuki;cg_rin;cg_mio;cg_riina;cg_anzu;cg_anastasia;cg_koume;cg_chieri;cg_aiko;cg_yuko;cg_miku;cg_sae;cg_mizuki;cg_karen;cg_mayu;cg_nao;cg_kirari;cg_shiki;cg_nana;cg_rika;cg_mika,,false,,,,
+20140802_765as_9th_osaka_d1,1,main,s_theidolmster,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140802_765as_9th_osaka_d1,2,main,s_765as_00r74oc,765as_chihaya;765as_hibiki;765as_ritsuko,,false,,,,ラムネ色 青春
+20140802_765as_9th_osaka_d1,3,main,s_765as_1ygb16r,765as_ami;;765as_mami,,false,,,,スタ→トスタ→/下田麻美
+20140802_765as_9th_osaka_d1,4,main,s_765as_0cyq15o,765as_ami,,false,,,,おとなのはじまり
+20140802_765as_9th_osaka_d1,5,main,s_765as_0nxvcqr,765as_ami,,false,,,,ジェミー
+20140802_765as_9th_osaka_d1,6,main,s_alright,765as_yukiho,,false,,,,何度も言えるよ/浅倉杏美
+20140802_765as_9th_osaka_d1,7,main,s_ml_0l23ph4,765as_yukiho,,false,,,,ハミングロード
+20140802_765as_9th_osaka_d1,8,main,s_alright,765as_yukiho,,false,,,,ALRIGHT*
+20140802_765as_9th_osaka_d1,9,main,s_idol,765as_kotori,,false,,,,ID:[OL]
+20140802_765as_9th_osaka_d1,10,main,s_765as_1yw5ep9,765as_kotori,,false,,,,空
+20140802_765as_9th_osaka_d1,11,main,s_765as_1y9yljb,765as_kotori,,false,,,,君が選ぶ道/滝田樹里
+20140802_765as_9th_osaka_d1,12,main,s_765as_1pbe8rs,765as_ritsuko,,false,,,,マリオネットの心/沼倉愛美
+20140802_765as_9th_osaka_d1,13,main,s_765as_1ewun46,765as_ami,,false,,,,キラメキラリ/下田麻美
+20140802_765as_9th_osaka_d1,14,main,s_765as_0sjai7d,765as_yukiho,,false,,,,乙女よ大志を抱け!!/浅倉杏美
+20140802_765as_9th_osaka_d1,15,main,s_yes,765as_hibiki,,false,,,,YES♪
+20140802_765as_9th_osaka_d1,16,main,s_765as_15l8a85,765as_kotori,,false,,,,いっぱいいっぱい/滝田樹里
+20140802_765as_9th_osaka_d1,17,main,s_765as_06ef4dj,765as_chihaya,,false,,,,隣に…/今井麻美
+20140802_765as_9th_osaka_d1,18,main,s_restrt,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140802_765as_9th_osaka_d1,19,main,s_765as_1w8ehoa,765as_ami;765as_yukiho;765as_kotori,,false,,M@STER VERSION,,待ち受けプリンス
+20140802_765as_9th_osaka_d1,20,main,s_brandnewday,765as_hibiki,,false,,,,
+20140802_765as_9th_osaka_d1,21,main,s_765as_0z1h8sy,765as_hibiki,,false,,M@STER VERSION,,オーバーマスター/沼倉愛美
+20140802_765as_9th_osaka_d1,22,main,s_rebellion,765as_hibiki,,false,,,,
+20140802_765as_9th_osaka_d1,23,main,s_diamond,765as_ritsuko,,false,,,,DIAMOND/釘宮理恵
+20140802_765as_9th_osaka_d1,24,main,s_playbackweekday,765as_ritsuko,,false,,,,プライヴェイト・ロードショウ
+20140802_765as_9th_osaka_d1,25,main,s_chocofondue,765as_chihaya,,false,,,,choco fondue/今井麻美
+20140802_765as_9th_osaka_d1,26,main,s_765as_07un66k,765as_chihaya,,false,,,,眠り姫
+20140802_765as_9th_osaka_d1,27,main,s_snowwhite,765as_chihaya,,false,,,,Snow White
+20140802_765as_9th_osaka_d1,28,main,s_msterpiece,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,,,M@STERPIECE
+20140802_765as_9th_osaka_d1,29,encore,s_onlymynote,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140802_765as_9th_osaka_d1,30,encore,s_ready,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140803_765as_9th_osaka_d2,1,main,s_theidolmster,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140803_765as_9th_osaka_d2,2,main,s_765as_00r74oc,765as_chihaya;765as_hibiki;765as_ritsuko,,false,,,,
+20140803_765as_9th_osaka_d2,3,main,s_765as_1ygb16r,765as_ami;765as_mami,,false,,,,スタ→トスタ→
+20140803_765as_9th_osaka_d2,4,main,s_765as_0cyq15o,765as_ami,,false,,,,おとなのはじまり
+20140803_765as_9th_osaka_d2,5,main,s_765as_18ypnt1,765as_ami,,false,,,,微笑んだから、気づいたんだ。/下田麻美
+20140803_765as_9th_osaka_d2,6,main,s_kosmoscosmos,765as_yukiho,,false,,,,Kosmos, Cosmos/浅倉杏美
+20140803_765as_9th_osaka_d2,7,main,s_ml_0l23ph4,765as_yukiho,,false,,,,ハミングロード
+20140803_765as_9th_osaka_d2,8,main,s_alright,765as_yukiho,,false,,,,ALRIGHT*
+20140803_765as_9th_osaka_d2,9,main,s_idol,765as_kotori,,false,,,,ID:[OL]
+20140803_765as_9th_osaka_d2,10,main,s_765as_1yw5ep9,765as_kotori,,false,,,,空
+20140803_765as_9th_osaka_d2,11,main,s_765as_1yw5ep9,765as_kotori,,false,,,,光
+20140803_765as_9th_osaka_d2,12,main,s_765as_1pbe8rs,765as_ritsuko,,false,,,,マリオネットの心
+20140803_765as_9th_osaka_d2,13,main,s_765as_1ewun46,765as_ami,,false,,,,キラメキラリ
+20140803_765as_9th_osaka_d2,14,main,s_765as_0sjai7d,765as_yukiho,,false,,,,乙女よ大志を抱け!!
+20140803_765as_9th_osaka_d2,15,main,s_765as_0za1sbd,765as_ritsuko,,false,,,,フラワーガール/釘宮理恵
+20140803_765as_9th_osaka_d2,16,main,s_yes,765as_hibiki,,false,,,,YES♪
+20140803_765as_9th_osaka_d2,17,main,s_765as_15l8a85,765as_kotori,,false,,,,いっぱいいっぱい
+20140803_765as_9th_osaka_d2,18,main,s_765as_06ef4dj,765as_chihaya,,false,,,,隣に…
+20140803_765as_9th_osaka_d2,19,main,s_restrt,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140803_765as_9th_osaka_d2,20,main,s_765as_1w8ehoa,765as_ami;765as_yukiho;765as_kotori,,false,,M@STER VERSION,,待ち受けプリンス
+20140803_765as_9th_osaka_d2,21,main,s_brandnewday,765as_hibiki,,false,,,,
+20140803_765as_9th_osaka_d2,22,main,s_765as_1yw5ep9,765as_hibiki,,false,,,,しあわせのレシピ/沼倉愛美
+20140803_765as_9th_osaka_d2,23,main,s_rebellion,765as_hibiki,,false,,,,
+20140803_765as_9th_osaka_d2,24,main,s_diamond,765as_ritsuko,,false,,,,DIAMOND
+20140803_765as_9th_osaka_d2,25,main,s_sentimentalvenus,765as_ritsuko,,false,,,,Sentimental Venus
+20140803_765as_9th_osaka_d2,26,main,s_765as_0gyyy0n,765as_ritsuko,,false,,,,フタリの記憶/釘宮理恵
+20140803_765as_9th_osaka_d2,27,main,s_fateoftheworld,765as_chihaya,,false,,,,Fate of the World/今井麻美
+20140803_765as_9th_osaka_d2,28,main,s_765as_07un66k,765as_chihaya,,false,,,,眠り姫
+20140803_765as_9th_osaka_d2,29,main,s_snowwhite,765as_chihaya,,false,,,,Snow White
+20140803_765as_9th_osaka_d2,30,main,s_msterpiece,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,,,
+20140803_765as_9th_osaka_d2,31,encore,s_onlymynote,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140803_765as_9th_osaka_d2,32,encore,s_ready,765as_chihaya;765as_yukiho;765as_kotori;765as_ami;765as_hibiki;765as_ritsuko,,false,,M@STER VERSION,,
+20140816_765as_9th_nagoya_d1,1,main,s_theidolmster,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20140816_765as_9th_nagoya_d1,2,main,s_765as_00r74oc,765as_haruka;765as_chihaya;765as_takane,,false,,,,ラムネ色 青春
+20140816_765as_9th_nagoya_d1,3,main,s_765as_168eu4l,765as_makoto,,false,,,,自転車/平田宏美
+20140816_765as_9th_nagoya_d1,4,main,s_tear,765as_makoto,,false,,,,tear
+20140816_765as_9th_nagoya_d1,5,main,s_eden,765as_makoto,,false,,M@STER VERSION,,edeN/平田宏美
+20140816_765as_9th_nagoya_d1,6,main,s_honeyheartbeat,765as_ami,,false,,M@STER VERSION,,Honey Heartbeat/下田麻美
+20140816_765as_9th_nagoya_d1,7,main,s_765as_1ygb16r,765as_ami;765as_mami,,false,,,,スタ→トスタ→
+20140816_765as_9th_nagoya_d1,8,main,s_765as_0cyq15o,765as_ami,,false,,,,おとなのはじまり
+20140816_765as_9th_nagoya_d1,9,main,s_idol,765as_kotori,,false,,,,ID:[OL]
+20140816_765as_9th_nagoya_d1,10,main,s_765as_1yw5ep9,765as_kotori,,false,,,,空
+20140816_765as_9th_nagoya_d1,11,main,s_765as_1y9yljb,765as_kotori,,false,,,,花/滝田樹里
+20140816_765as_9th_nagoya_d1,12,main,s_765as_0cs3uhv,765as_takane,,false,,,,ふるふるフューチャー☆/原由実
+20140816_765as_9th_nagoya_d1,13,main,s_765as_01wogu2,765as_makoto,,false,,,,ラ♥ブ♥リ♥/平田宏美
+20140816_765as_9th_nagoya_d1,14,main,s_765as_0e62b1l,765as_kotori,,false,,,,ゲンキトリッパー/滝田樹里
+20140816_765as_9th_nagoya_d1,15,main,s_firststage,765as_chihaya,,false,,M@STER VERSION,,First Stage/今井麻美
+20140816_765as_9th_nagoya_d1,16,main,s_765as_0cb6rw0,765as_ami,,false,,,,リゾラ/下田麻美
+20140816_765as_9th_nagoya_d1,17,main,s_nextlife,765as_takane,,false,,,,Next Life/原由実
+20140816_765as_9th_nagoya_d1,18,main,s_765as_1lzgvkp,765as_haruka,,false,,M@STER VERSION,,魔法をかけて!
+20140816_765as_9th_nagoya_d1,19,main,s_restrt,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20140816_765as_9th_nagoya_d1,20,main,s_765as_1w8ehoa,765as_makoto;765as_kotori;765as_ami,,false,,M@STER VERSION,,待ち受けプリンス
+20140816_765as_9th_nagoya_d1,21,main,s_start,765as_haruka,,false,,,,START!!
+20140816_765as_9th_nagoya_d1,22,main,s_vaultthatborderline,765as_haruka,,false,,M@STER VERSION,,
+20140816_765as_9th_nagoya_d1,23,main,s_ml_0q8j8c7,765as_haruka,,false,,,,キラメキ進行形
+20140816_765as_9th_nagoya_d1,24,main,s_fateoftheworld,765as_chihaya,,false,,,,Fate of the World/今井麻美
+20140816_765as_9th_nagoya_d1,25,main,s_765as_07un66k,765as_chihaya,,false,,,,眠り姫
+20140816_765as_9th_nagoya_d1,26,main,s_snowwhite,765as_chihaya,,false,,,,
+20140816_765as_9th_nagoya_d1,27,main,s_princesssnowwhite,765as_takane,,false,,,,Princess Snow White/原由実
+20140816_765as_9th_nagoya_d1,28,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20140816_765as_9th_nagoya_d1,29,main,s_ml_11ck2ch,765as_takane,,false,,,,恋花/原由実
+20140816_765as_9th_nagoya_d1,30,main,s_msterpiece,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,,,
+20140816_765as_9th_nagoya_d1,31,encore,s_onlymynote,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20140816_765as_9th_nagoya_d1,32,encore,s_ready,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20140817_765as_9th_nagoya_d2,1,main,s_theidolmster,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20140817_765as_9th_nagoya_d2,2,main,s_765as_00r74oc,765as_haruka;765as_chihaya;765as_takane,,false,,,,
+20140817_765as_9th_nagoya_d2,3,main,s_765as_168eu4l,765as_makoto,,false,,,,自転車
+20140817_765as_9th_nagoya_d2,4,main,s_tear,765as_makoto,,false,,,,
+20140817_765as_9th_nagoya_d2,5,main,s_765as_0cyq15o,765as_makoto,,false,,,,おもいでのはじまり/平田宏美
+20140817_765as_9th_nagoya_d2,6,main,s_honeyheartbeat,765as_ami,,false,,M@STER VERSION,,
+20140817_765as_9th_nagoya_d2,7,main,s_765as_1ygb16r,765as_ami;765as_mami,,false,,,,スタ→トスタ→
+20140817_765as_9th_nagoya_d2,8,main,s_765as_18ypnt1,765as_ami,,false,,,,微笑んだから、気づいたんだ。/下田麻美
+20140817_765as_9th_nagoya_d2,9,main,s_idol,765as_kotori,,false,,,,ID:[OL]
+20140817_765as_9th_nagoya_d2,10,main,s_765as_1yw5ep9,765as_kotori,,false,,,,空
+20140817_765as_9th_nagoya_d2,11,main,s_765as_1yw5ep9,765as_kotori,,false,,,,光
+20140817_765as_9th_nagoya_d2,12,main,s_765as_0cs3uhv,765as_takane,,false,,,,ふるふるフューチャー☆
+20140817_765as_9th_nagoya_d2,13,main,s_765as_01wogu2,765as_makoto,,false,,,,ラ♥ブ♥リ♥
+20140817_765as_9th_nagoya_d2,14,main,s_765as_0e62b1l,765as_kotori,,false,,,,ゲンキトリッパー
+20140817_765as_9th_nagoya_d2,15,main,s_firststage,765as_chihaya,,false,,M@STER VERSION,,First Stage
+20140817_765as_9th_nagoya_d2,16,main,s_765as_0cb6rw0,765as_ami,,false,,,,リゾラ
+20140817_765as_9th_nagoya_d2,17,main,s_nextlife,765as_takane,,false,,,,
+20140817_765as_9th_nagoya_d2,18,main,s_765as_1lzgvkp,765as_haruka,,false,,M@STER VERSION,,魔法をかけて!
+20140817_765as_9th_nagoya_d2,19,main,s_restrt,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20140817_765as_9th_nagoya_d2,20,main,s_765as_1w8ehoa,765as_makoto;765as_kotori;765as_ami,,false,,M@STER VERSION,,待ち受けプリンス
+20140817_765as_9th_nagoya_d2,21,main,s_start,765as_haruka,,false,,,,
+20140817_765as_9th_nagoya_d2,22,main,s_vaultthatborderline,765as_haruka,,false,,M@STER VERSION,,
+20140817_765as_9th_nagoya_d2,23,main,s_765as_0ejryrx,765as_haruka,,false,,,,さよならをありがとう
+20140817_765as_9th_nagoya_d2,24,main,s_fateoftheworld,765as_chihaya,,false,,,,
+20140817_765as_9th_nagoya_d2,25,main,s_765as_10d695k,765as_chihaya,,false,,,,蒼い鳥〜TV ARRANGE〜
+20140817_765as_9th_nagoya_d2,26,main,s_snowwhite,765as_chihaya,,false,,,,
+20140817_765as_9th_nagoya_d2,27,main,s_ml_1gydch7,765as_takane,,false,,,,瞳の中のシリウス/原由実
+20140817_765as_9th_nagoya_d2,28,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20140817_765as_9th_nagoya_d2,29,main,s_ml_11ck2ch,765as_takane,,false,,,,恋花
+20140817_765as_9th_nagoya_d2,30,main,s_msterpiece,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,,,
+20140817_765as_9th_nagoya_d2,31,encore,s_onlymynote,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20140817_765as_9th_nagoya_d2,32,encore,s_ready,765as_haruka;765as_chihaya;765as_makoto;765as_kotori;765as_ami;765as_takane,,false,,M@STER VERSION,,
+20141004_765as_9th_tokyo_d1,1,main,s_ready,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki,,false,,M@STER VERSION,,
+20141004_765as_9th_tokyo_d1,2,main,s_765as_00r74oc,765as_chihaya;765as_iori;765as_takane;765as_hibiki,,false,,,,ラムネ色 青春
+20141004_765as_9th_tokyo_d1,3,main,s_start,765as_haruka,,false,,,,
+20141004_765as_9th_tokyo_d1,4,main,s_765as_09fmqny,765as_haruka,,false,,M@STER VERSION,,私はアイドル♡
+20141004_765as_9th_tokyo_d1,5,main,s_ml_0q8j8c7,765as_haruka,,false,,,,キラメキ進行形
+20141004_765as_9th_tokyo_d1,6,main,s_765as_0cyq15o,765as_ami,,false,,,,おとなのはじまり
+20141004_765as_9th_tokyo_d1,7,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,黎明スターライン
+20141004_765as_9th_tokyo_d1,8,main,s_youmy,765as_ami,,false,,,,YOU往MY進!
+20141004_765as_9th_tokyo_d1,9,main,s_mind,765as_makoto,,false,,,,迷走Mind/平田宏美
+20141004_765as_9th_tokyo_d1,10,main,s_tear,765as_makoto,,false,,,,tear
+20141004_765as_9th_tokyo_d1,11,main,s_765as_0cyq15o,765as_makoto,,false,,,,おもいでのはじまり/平田宏美
+20141004_765as_9th_tokyo_d1,12,main,s_alright,765as_yukiho,,false,,,,ALRIGHT*
+20141004_765as_9th_tokyo_d1,13,main,s_kosmoscosmos,765as_yukiho,,false,,,,Kosmos,Cosmos
+20141004_765as_9th_tokyo_d1,14,main,s_765as_1gcwlc3,765as_yukiho,,false,,,,あの日のナミダ
+20141004_765as_9th_tokyo_d1,15,main,s_dayofthefuture,765as_haruka;765as_hibiki,,false,,,,Day of the future
+20141004_765as_9th_tokyo_d1,16,main,s_902pm,765as_ami;765as_takane,,false,,M@STER VERSION,,9:02pm
+20141004_765as_9th_tokyo_d1,17,main,s_765as_0jqujd3,765as_chihaya;765as_iori,,false,,,,チクタク
+20141004_765as_9th_tokyo_d1,18,main,s_live,765as_makoto;765as_yukiho,,false,,,,livE
+20141004_765as_9th_tokyo_d1,19,main,s_onlymynote,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki,,false,,M@STER VERSION,,
+20141004_765as_9th_tokyo_d1,20,main,s_765as_1y9yljb,765as_kotori,,false,,,,幸/滝田樹里
+20141004_765as_9th_tokyo_d1,21,main,s_765as_1w8ehoa,765as_haruka;765as_makoto;765as_ami;765as_yukiho,,false,,M@STER VERSION,,待ち受けプリンス
+20141004_765as_9th_tokyo_d1,22,main,s_rebellion,765as_hibiki,,false,,,,
+20141004_765as_9th_tokyo_d1,23,main,s_765as_0z1h8sy,765as_hibiki,,false,,M@STER VERSION,,オーバーマスター/沼倉愛美
+20141004_765as_9th_tokyo_d1,24,main,s_shinysmile,765as_hibiki,,false,,M@STER VERSION,,shiny smile
+20141004_765as_9th_tokyo_d1,25,main,s_mysong,765as_iori,,false,,M@STER VERSION,,キミはメロディ/釘宮理恵
+20141004_765as_9th_tokyo_d1,26,main,s_playbackweekday,765as_iori,,false,,,,
+20141004_765as_9th_tokyo_d1,27,main,s_765as_0gyyy0n,765as_iori,,false,,,,フタリの記憶/釘宮理恵
+20141004_765as_9th_tokyo_d1,28,main,s_kiss,765as_takane,,false,,,,KisS/原由実
+20141004_765as_9th_tokyo_d1,29,main,s_765as_18ypnt1,765as_takane,,false,,,,ふたつの月/原由実
+20141004_765as_9th_tokyo_d1,30,main,s_ml_11ck2ch,765as_takane,,false,,,,恋花/原由実
+20141004_765as_9th_tokyo_d1,31,main,s_bluesymphony,765as_chihaya,,false,,,,Blue Symphony/今井麻美
+20141004_765as_9th_tokyo_d1,32,main,s_765as_07un66k,765as_chihaya,,false,,,,眠り姫
+20141004_765as_9th_tokyo_d1,33,main,s_765as_10d695k,765as_chihaya,,false,,,,蒼い鳥〜TV ARRANGE〜
+20141004_765as_9th_tokyo_d1,34,main,s_msterpiece,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki;765as_kotori,,false,,,,
+20141004_765as_9th_tokyo_d1,35,encore,s_765as_1qi3e18,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki;765as_kotori,,false,,,,虹色ミラクル
+20141004_765as_9th_tokyo_d1,36,encore,s_theidolmster,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki;765as_kotori,,false,,M@STER VERSION,,
+20141005_765as_9th_tokyo_d2,1,main,s_ready,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki,,false,,M@STER VERSION,,
+20141005_765as_9th_tokyo_d2,2,main,s_765as_00r74oc,765as_chihaya;765as_iori;765as_takane;765as_hibiki,,false,,,,
+20141005_765as_9th_tokyo_d2,3,main,s_765as_04w95th,765as_haruka,,false,,M@STER VERSION,,太陽のジェラシー
+20141005_765as_9th_tokyo_d2,4,main,s_vaultthatborderline,765as_haruka,,false,,M@STER VERSION,,
+20141005_765as_9th_tokyo_d2,5,main,s_iwant,765as_haruka,,false,,,,I Want
+20141005_765as_9th_tokyo_d2,6,main,s_honeyheartbeat,765as_ami,,false,,M@STER VERSION,,
+20141005_765as_9th_tokyo_d2,7,main,s_765as_12kw6vn,765as_ami;765as_mami,,false,,,,黎明スターライン
+20141005_765as_9th_tokyo_d2,8,main,s_765as_0nxvcqr,765as_ami,,false,,,,ジェミー
+20141005_765as_9th_tokyo_d2,9,main,s_mind,765as_makoto,,false,,,,迷走Mind
+20141005_765as_9th_tokyo_d2,10,main,s_765as_168eu4l,765as_makoto,,false,,,,自転車
+20141005_765as_9th_tokyo_d2,11,main,s_765as_16p1x0m,765as_makoto,,false,,,,チアリングレター
+20141005_765as_9th_tokyo_d2,12,main,s_alright,765as_yukiho,,false,,,,何度も言えるよ/浅倉杏美
+20141005_765as_9th_tokyo_d2,13,main,s_kosmoscosmos,765as_yukiho,,false,,,,
+20141005_765as_9th_tokyo_d2,14,main,s_firststep,765as_yukiho,,false,,,,
+20141005_765as_9th_tokyo_d2,15,main,s_dayofthefuture,765as_haruka;765as_hibiki,,false,,,,
+20141005_765as_9th_tokyo_d2,16,main,s_902pm,765as_ami;765as_takane,,false,,M@STER VERSION,,
+20141005_765as_9th_tokyo_d2,17,main,s_765as_0jqujd3,765as_chihaya;765as_iori,,false,,,,チクタク
+20141005_765as_9th_tokyo_d2,18,main,s_live,765as_makoto;765as_yukiho,,false,,,,livE
+20141005_765as_9th_tokyo_d2,19,main,s_onlymynote,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki,,false,,M@STER VERSION,,
+20141005_765as_9th_tokyo_d2,20,main,s_961_16hbu57,961_leon,,false,,,,アクセルレーション/茅原実里
+20141005_765as_9th_tokyo_d2,21,main,s_765as_1w8ehoa,765as_haruka;765as_makoto;765as_ami;765as_yukiho,,false,,M@STER VERSION,,待ち受けプリンス
+20141005_765as_9th_tokyo_d2,22,main,s_rebellion,765as_hibiki,,false,,,,
+20141005_765as_9th_tokyo_d2,23,main,s_765as_1yw5ep9,765as_hibiki,,false,,,,しあわせのレシピ/沼倉愛美
+20141005_765as_9th_tokyo_d2,24,main,s_765as_0646d63,765as_hibiki,,false,,,,初恋〜一章/沼倉愛美
+20141005_765as_9th_tokyo_d2,25,main,s_mysong,765as_iori,,false,,M@STER VERSION,,キミはメロディ
+20141005_765as_9th_tokyo_d2,26,main,s_sentimentalvenus,765as_iori,,false,,,,Sentimental Venus
+20141005_765as_9th_tokyo_d2,27,main,s_mysong,765as_iori,,false,,M@STER VERSION,,my song/釘宮理恵
+20141005_765as_9th_tokyo_d2,28,main,s_princesssnowwhite,765as_takane,,false,,,,Princess Snow White
+20141005_765as_9th_tokyo_d2,29,main,s_765as_0za1sbd,765as_takane,,false,,,,風花
+20141005_765as_9th_tokyo_d2,30,main,s_765as_18ypnt1,765as_takane,,false,,,,ふたつの月
+20141005_765as_9th_tokyo_d2,31,main,s_fateoftheworld,765as_chihaya,,false,,,,
+20141005_765as_9th_tokyo_d2,32,main,s_765as_10d695k,765as_chihaya,,false,,,,蒼い鳥
+20141005_765as_9th_tokyo_d2,33,main,s_765as_07un66k,765as_chihaya;765as_haruka;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki,,false,,,,約束
+20141005_765as_9th_tokyo_d2,34,main,s_msterpiece,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki,,false,,,,
+20141005_765as_9th_tokyo_d2,35,encore,s_765as_1qi3e18,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki,,false,,,,虹色ミラクル
+20141005_765as_9th_tokyo_d2,36,encore,s_theidolmster,765as_haruka;765as_chihaya;765as_iori;765as_makoto;765as_ami;765as_yukiho;765as_takane;765as_hibiki;961_leon,,false,,M@STER VERSION,,

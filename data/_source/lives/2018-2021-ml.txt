@@ -1,0 +1,376 @@
+@live id=20180602_ml5th_d1 tour=t_ml_5th title=THE IDOLM@STER MILLION LIVE! 5thLIVE BRAND NEW PERFORM@NCE!!! day=DAY1 date=2018-06-02 venue=v_saitama_ssa brand=ml event=solo perf=cast stream=false lv=true archive=false status=confirmed
+0|main|Overture|
+1|main|Brand New Theater!|山崎はるか、郁原ゆう、平山笑美、雨宮天、香里有佐、近藤唯、南早紀、渡部恵子、末柄里恵、原嶋あかり、伊藤美来、小笠原早紀、麻倉もも、高橋未奈美、戸田めぐみ、阿部里果、村川梨衣、木戸衣吹、中村温姫
+2|main|未来系ドリーマー|山崎はるか
+3|main|Eternal Harmony|村川梨衣、阿部里果、平山笑美、麻倉もも、雨宮天
+4|main|AIKANE？|小笠原早紀
+5|main|ローリング△さんかく|渡部恵子
+6|main|ART NEEDS HEART BEATS|中村温姫
+7|main|教えてlast note…|近藤唯
+8|main|花ざかりWeekend✿|4 Luxury[香里有佐、平山笑美、高橋未奈美、末柄里恵]
+9|main|Princess Be Ambitious!!|プリンセススターズ[村川梨衣、木戸衣吹、山崎はるか、伊藤美来、原嶋あかり、郁原ゆう]
+10|main|Angelic Parade♪|エンジェルスターズ[麻倉もも、小笠原早紀、高橋未奈美、末柄里恵、近藤唯、平山笑美、香里有佐]
+11|main|あめにうたおう♪|木戸衣吹
+12|main|ときどきシーソー|原嶋あかり
+13|main|Come on a Tea Party!|麻倉もも
+14|main|Take！3. 2. 1. → S・P・A・C・E↑↑|村川梨衣
+15|main|Oli Oli DISCO|戸田めぐみ
+16|main|空に手が触れる場所|平山笑美
+17|main|Sentimental Venus|原嶋あかり、渡部恵子、小笠原早紀、高橋未奈美
+18|main|FairyTaleじゃいられない|フェアリースターズ[渡部恵子、戸田めぐみ、阿部里果、南早紀、雨宮天、中村温姫]
+19|main|ZETTAI × BREAK!! トゥインクルリズム|トゥインクルリズム[伊藤美来、原嶋あかり、村川梨衣]
+20|main|Marionetteは眠らない|山崎はるか、郁原ゆう、末柄里恵、木戸衣吹、中村温姫
+21|main|Silent Joker|阿部里果
+22|main|CAT CROSSING|雨宮天
+23|main|To...|高橋未奈美
+24|main|地球儀にない国|伊藤美来
+25|main|星屑のシンフォニア|渡部恵子、木戸衣吹、近藤唯、南早紀、戸田めぐみ
+26|main|Melty Fantasia|EScape[南早紀、阿部里果、雨宮天]
+27|main|はなしらべ|郁原ゆう
+28|main|祈りの羽根|末柄里恵
+29|main|ココロがかえる場所|戸田めぐみ、郁原ゆう、香里有佐、近藤唯
+30|main|Birth of Color|山崎はるか、伊藤美来、中村温姫、麻倉もも、小笠原早紀
+31|main|瑠璃色金魚と花菖蒲|南早紀
+32|main|ハミングバード|香里有佐
+33|main|Dreaming!|山崎はるか、郁原ゆう、平山笑美、雨宮天、香里有佐、近藤唯、南早紀、渡部恵子、末柄里恵、原嶋あかり、伊藤美来、小笠原早紀、麻倉もも、高橋未奈美、戸田めぐみ、阿部里果、村川梨衣、木戸衣吹、中村温姫
+34|encore|UNION!!|山崎はるか、郁原ゆう、平山笑美、雨宮天、香里有佐、近藤唯、南早紀、渡部恵子、末柄里恵、原嶋あかり、伊藤美来、小笠原早紀、麻倉もも、高橋未奈美、戸田めぐみ、阿部里果、村川梨衣、木戸衣吹、中村温姫
+35|encore|Thank You!|山崎はるか、郁原ゆう、平山笑美、雨宮天、香里有佐、近藤唯、南早紀、渡部恵子、末柄里恵、原嶋あかり、伊藤美来、小笠原早紀、麻倉もも、高橋未奈美、戸田めぐみ、阿部里果、村川梨衣、木戸衣吹、中村温姫
+
+@live id=20180603_ml5th_d2 tour=t_ml_5th title=THE IDOLM@STER MILLION LIVE! 5thLIVE BRAND NEW PERFORM@NCE!!! day=DAY2 date=2018-06-03 venue=v_saitama_ssa brand=ml event=solo perf=cast stream=false lv=true archive=false status=confirmed
+0|main|Overture|
+1|main|Brand New Theater!|田所あずさ、Machico、稲川英里、田村奈央、上田麗奈、大関英里、角元明日香、愛美、駒形友梨、種田梨沙、小岩井ことり、諏訪彩花、藤井ゆきよ、野村香菜子、浜崎奈々、桐谷蝶々、夏川椎菜、山口立花子、渡部優衣
+2|main|FairyTaleじゃいられない|フェアリースターズ[田所あずさ、愛美、野村香菜子、小岩井ことり、藤井ゆきよ、山口立花子]
+3|main|虹色letters|Cleasky[角元明日香、桐谷蝶々]
+4|main|ドリームトラベラー|種田梨沙、諏訪彩花、渡部優衣、愛美、Machico
+5|main|Only One Second|駒形友梨
+6|main|WE ARE ONE!!|浜崎奈々
+7|main|Hearty!!|藤井ゆきよ
+8|main|Home is a coming now!|渡部優衣
+9|main|Border LINE→→→♡|山口立花子
+10|main|Angelic Parade♪|エンジェルスターズ[角元明日香、稲川英里、Machico、夏川椎菜、田村奈央、桐谷蝶々]
+11|main|咲くは浮世の君花火|閃光☆HANABI団[大関英里、渡部優衣、駒形友梨、上田麗奈、浜崎奈々]
+12|main|Good-Sleep, Baby♡|Machico、夏川椎菜、田村奈央、角元明日香
+13|main|HOME, SWEET FRIENDSHIP|駒形友梨、田所あずさ、稲川英里、山口立花子、愛美
+14|main|プリンセス・アラモード|諏訪彩花
+15|main|満腹至極フルコォス|大関英里
+16|main|たんけんぼうけん☆ハイホー隊|稲川英里
+17|main|スポーツ！スポーツ！スポーツ！|上田麗奈
+18|main|Sister|小岩井ことり
+19|main|ふわりずむ|桐谷蝶々
+20|main|スノウレター|田村奈央
+21|main|昏き星、遠い月|夜想令嬢 -GRACE NOCTURNE-[野村香菜子、小岩井ことり、藤井ゆきよ、山口立花子]
+22|main|Princess Be Ambitious!!|プリンセススターズ[浜崎奈々、駒形友梨、上田麗奈、種田梨沙、大関英里、諏訪彩花、渡部優衣]
+23|main|シャクネツのパレード|角元明日香
+24|main|ENTER→PLEASURE|夏川椎菜
+25|main|ロケットスター☆|Machico
+26|main|ジレるハートに火をつけて|灼熱少女[稲川英里、藤井ゆきよ、種田梨沙、上田麗奈、桐谷蝶々]
+27|main|Blue Symphony|諏訪彩花、大関英里、野村香菜子、小岩井ことり
+28|main|STANDING ALIVE|浜崎奈々、田所あずさ、田村奈央、夏川椎菜
+29|main|ムーンゴールド|野村香菜子
+30|main|スタートリップ|愛美
+31|main|シルエット|種田梨沙
+32|main|SING MY SONG|田所あずさ
+33|main|Dreaming!|田所あずさ、Machico、稲川英里、田村奈央、上田麗奈、大関英里、角元明日香、愛美、駒形友梨、種田梨沙、小岩井ことり、諏訪彩花、藤井ゆきよ、野村香菜子、浜崎奈々、桐谷蝶々、夏川椎菜、山口立花子、渡部優衣
+34|encore|UNION!!|田所あずさ、Machico、稲川英里、田村奈央、上田麗奈、大関英里、角元明日香、愛美、駒形友梨、種田梨沙、小岩井ことり、諏訪彩花、藤井ゆきよ、野村香菜子、浜崎奈々、桐谷蝶々、夏川椎菜、山口立花子、渡部優衣
+35|encore|Thank You!|田所あずさ、Machico、稲川英里、田村奈央、上田麗奈、大関英里、角元明日香、愛美、駒形友梨、種田梨沙、小岩井ことり、諏訪彩花、藤井ゆきよ、野村香菜子、浜崎奈々、桐谷蝶々、夏川椎菜、山口立花子、渡部優衣
+
+@live id=20190427_ml6th_angel_d1 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! 仙台公演 Angel STATION day=Angel STATION 1日目 date=2019-04-27 venue=v_sendai_xebio brand=ml event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|Angelic Parade♪|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+2|main|ピコピコIIKO! インベーダー|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+3|main|スマイル体操|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+4|main|Get lol! Get lol! SONG|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+5|main|虹色letters|Cleasky[角元明日香、桐谷蝶々]
+6|main|笑って！|Cleasky[角元明日香、桐谷蝶々]
+7|main|想い出はクリアスカイ|Cleasky[角元明日香、桐谷蝶々]
+8|main|ハルマチ女子|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]
+9|main|Do-Dai|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]|ver:msterversion
+10|main|彼氏になってよ。|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]
+11|main|RED ZONE|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+12|main|9:02pm|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]|ver:msterversion
+13|main|ID:[OL]|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+14|main|花ざかりWeekend✿|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+15|main|サンリズム・オーケストラ♪|香里有佐、田村奈央、末柄里恵
+16|main|プリティ〜〜〜ッ→ニャンニャンッ！|小笠原早紀
+17|main|教えてlast note…|近藤唯
+18|main|初恋バタフライ|桐谷蝶々
+19|main|ハミングバード|香里有佐
+20|main|Sweet Sweet Soul|麻倉もも、小笠原早紀、稲川英里
+21|main|水中キャンディ|高橋未奈美
+22|main|BOUNCING♪ SMILE!|稲川英里
+23|main|夢色トレイン|麻倉もも
+24|main|G♡F|高橋未奈美、近藤唯、桐谷蝶々
+25|main|ジャングル☆パーティー|Machico、平山笑美、角元明日香、夏川椎菜
+26|main|DIAMOND DAYS|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+27|encore|UNION!!|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+28|encore|Brand New Theater!|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+
+@live id=20190428_ml6th_angel_d2 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! 仙台公演 Angel STATION day=Angel STATION 2日目 date=2019-04-28 venue=v_sendai_xebio brand=ml event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|Angelic Parade♪|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+2|main|ピコピコIIKO! インベーダー|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+3|main|スマイル体操|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+4|main|Get lol! Get lol! SONG|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+5|main|虹色letters|Cleasky[角元明日香、桐谷蝶々]
+6|main|笑って！|Cleasky[角元明日香、桐谷蝶々]
+7|main|想い出はクリアスカイ|Cleasky[角元明日香、桐谷蝶々]
+8|main|ハルマチ女子|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]
+9|main|Do-Dai|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]|ver:msterversion
+10|main|彼氏になってよ。|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]
+11|main|RED ZONE|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+12|main|9:02pm|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]|ver:msterversion
+13|main|ID:[OL]|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+14|main|花ざかりWeekend✿|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+15|main|ジャングル☆パーティー|Machico、平山笑美、角元明日香、夏川椎菜
+16|main|bitter sweet|末柄里恵
+17|main|りんごのマーチ|田村奈央
+18|main|ファンタジスタ・カーニバル|角元明日香
+19|main|Sweet Sweet Soul|アリエス[麻倉もも、小笠原早紀、稲川英里]
+20|main|G♡F|高橋未奈美、近藤唯、桐谷蝶々
+21|main|FIND YOUR WIND!|平山笑美
+22|main|Happy Darling|夏川椎菜
+23|main|ロケットスター☆|Machico
+24|main|サンリズム・オーケストラ♪|香里有佐、田村奈央、末柄里恵
+25|main|DIAMOND DAYS|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+26|encore|UNION!!|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+27|encore|Brand New Theater!|エンジェルスターズ[Machico、稲川英里、平山笑美、田村奈央、香里有佐、近藤唯、角元明日香、末柄里恵、小笠原早紀、麻倉もも、高橋未奈美、桐谷蝶々、夏川椎菜]
+
+@live id=20190518_ml6th_princess_d1 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! 神戸公演 Princess STATION day=Princess STATION 1日目 date=2019-05-18 venue=v_kobe_world brand=ml event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|Princess Be Ambitious!!|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+2|main|Episode. Tiara|STAR ELEMENTS[山崎はるか、木戸衣吹、種田梨沙]
+3|main|まっすぐ|STAR ELEMENTS[山崎はるか、木戸衣吹、種田梨沙]|ver:msterversion
+4|main|ギブミーメタファー|STAR ELEMENTS[山崎はるか、木戸衣吹、種田梨沙]
+5|main|だってあなたはプリンセス|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+6|main|フタリの記憶|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+7|main|魔法をかけて！|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+8|main|ミラージュ・ミラー|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+9|main|ZETTAI × BREAK!! トゥインクルリズム|トゥインクルリズム[原嶋あかり、伊藤美来、村川梨衣]
+10|main|Fate of the World|トゥインクルリズム[原嶋あかり、伊藤美来、村川梨衣]|ver:msterversion
+11|main|Tomorrow Program|トゥインクルリズム[原嶋あかり、伊藤美来、村川梨衣]
+12|main|BORN ON DREAM! 〜HANABI☆NIGHT〜|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+13|main|MOONY|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+14|main|咲くは浮世の君花火|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+15|main|メメント？モメント♪ルルルルル☆|村川梨衣、諏訪彩花、山崎はるか
+16|main|WE ARE ONE!!|浜崎奈々
+17|main|Only One Second|駒形友梨
+18|main|あめにうたおう♪|木戸衣吹
+19|main|朝焼けのクレッシェンド|種田梨沙
+20|main|Starry Melody|伊藤美来、駒形友梨、郁原ゆう、木戸衣吹
+21|main|Understand? Understand!|上田麗奈、種田梨沙
+22|main|満腹至極フルコォス|大関英里
+23|main|チョー↑元気Show☆アイドルch@ng!|村川梨衣
+24|main|プリンセス・アラモード|諏訪彩花
+25|main|PRETTY DREAMER|原嶋あかり、大関英里、浜崎奈々、渡部優衣
+26|main|DIAMOND DAYS|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+27|encore|UNION!!|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+28|encore|Brand New Theater!|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+
+@live id=20190519_ml6th_princess_d2 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! 神戸公演 Princess STATION day=Princess STATION 2日目 date=2019-05-19 venue=v_kobe_world brand=ml event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|Princess Be Ambitious!!|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+2|main|Episode. Tiara|STAR ELEMENTS[山崎はるか、木戸衣吹、種田梨沙]
+3|main|まっすぐ|STAR ELEMENTS[山崎はるか、木戸衣吹、種田梨沙]|ver:msterversion
+4|main|ギブミーメタファー|STAR ELEMENTS[山崎はるか、木戸衣吹、種田梨沙]
+5|main|だってあなたはプリンセス|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+6|main|フタリの記憶|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+7|main|魔法をかけて！|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+8|main|ミラージュ・ミラー|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+9|main|ZETTAI × BREAK!! トゥインクルリズム|トゥインクルリズム[原嶋あかり、伊藤美来、村川梨衣]
+10|main|Fate of the World|トゥインクルリズム[原嶋あかり、伊藤美来、村川梨衣]|ver:msterversion
+11|main|Tomorrow Program|トゥインクルリズム[原嶋あかり、伊藤美来、村川梨衣]
+12|main|BORN ON DREAM! 〜HANABI☆NIGHT〜|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+13|main|MOONY|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+14|main|咲くは浮世の君花火|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+15|main|PRETTY DREAMER|原嶋あかり、大関英里、浜崎奈々、渡部優衣
+16|main|スポーツ！スポーツ！スポーツ！|上田麗奈
+17|main|アニマル☆ステイション！|原嶋あかり
+18|main|Super Lover|渡部優衣
+19|main|メメント？モメント♪ルルルルル☆|村川梨衣、諏訪彩花、山崎はるか
+20|main|Understand? Understand!|上田麗奈、種田梨沙
+21|main|微笑み日和|郁原ゆう
+22|main|地球儀にない国|伊藤美来
+23|main|未来飛行|山崎はるか
+24|main|Starry Melody|伊藤美来、駒形友梨、郁原ゆう、木戸衣吹
+25|main|DIAMOND DAYS|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+26|encore|UNION!!|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+27|encore|Brand New Theater!|プリンセススターズ[山崎はるか、郁原ゆう、上田麗奈、大関英里、駒形友梨、種田梨沙、諏訪彩花、原嶋あかり、伊藤美来、浜崎奈々、村川梨衣、木戸衣吹、渡部優衣]
+
+@live id=20190629_ml6th_fairy_d1 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! 福岡公演 Fairy STATION day=Fairy STATION 1日目 date=2019-06-29 venue=v_marinemesse brand=ml event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|FairyTaleじゃいられない|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+2|main|ハーモニクス|D/Zeal[田所あずさ、愛美]
+3|main|流星群|D/Zeal[田所あずさ、愛美]
+4|main|SING MY SONG|D/Zeal[田所あずさ、愛美]|ver:acoustic
+5|main|餞の鳥|D/Zeal[田所あずさ、愛美]
+6|main|昏き星、遠い月|夜想令嬢 -GRACE NOCTURNE-[小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子]
+7|main|Everlasting|夜想令嬢 -GRACE NOCTURNE-[小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子]
+8|main|I.D 〜EScape from Utopia〜|EScape[南早紀、阿部里果、雨宮天]
+9|main|Mythmaker|EScape[南早紀、阿部里果、雨宮天]
+10|main|Melty Fantasia|EScape[南早紀、阿部里果、雨宮天]
+11|main|LOST|EScape[南早紀、阿部里果、雨宮天]
+12|main|ART NEEDS HEART BEATS|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+13|main|I did＋I will|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+14|main|月曜日のクリームソーダ|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+15|main|Border LINE→→→♡|山口立花子
+16|main|STEREOPHONIC ISOTONIC|中村温姫
+17|main|Oli Oli DISCO|戸田めぐみ
+18|main|瑠璃色金魚と花菖蒲|南早紀
+19|main|スタートリップ|愛美
+20|main|Decided|雨宮天、田所あずさ
+21|main|brave HARMONY|野村香菜子、斉藤佑圭、南早紀、山口立花子
+22|main|Silent Joker|阿部里果
+23|main|鳥籠スクリプチュア|小岩井ことり
+24|main|Raise the FLAG|サジタリアス[藤井ゆきよ、阿部里果、戸田めぐみ]
+25|main|俠気乱舞|中村温姫、愛美、渡部恵子、小岩井ことり
+26|main|DIAMOND DAYS|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+27|encore|UNION!!|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+28|encore|Brand New Theater!|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+
+@live id=20190630_ml6th_fairy_d2 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! 福岡公演 Fairy STATION day=Fairy STATION 2日目 date=2019-06-30 venue=v_marinemesse brand=ml event=solo perf=cast stream=false lv=false archive=false status=confirmed
+1|main|FairyTaleじゃいられない|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+2|main|ハーモニクス|D/Zeal[田所あずさ、愛美]
+3|main|流星群|D/Zeal[田所あずさ、愛美]
+4|main|SING MY SONG|D/Zeal[田所あずさ、愛美]|ver:acoustic
+5|main|餞の鳥|D/Zeal[田所あずさ、愛美]
+6|main|昏き星、遠い月|夜想令嬢 -GRACE NOCTURNE-[小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子]
+7|main|Everlasting|夜想令嬢 -GRACE NOCTURNE-[小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子]
+8|main|I.D 〜EScape from Utopia〜|EScape[南早紀、阿部里果、雨宮天]
+9|main|Mythmaker|EScape[南早紀、阿部里果、雨宮天]
+10|main|Melty Fantasia|EScape[南早紀、阿部里果、雨宮天]
+11|main|LOST|EScape[南早紀、阿部里果、雨宮天]
+12|main|ART NEEDS HEART BEATS|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+13|main|I did＋I will|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+14|main|月曜日のクリームソーダ|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+15|main|Decided|雨宮天、田所あずさ
+16|main|恋心マスカレード|野村香菜子
+17|main|ライアー・ルージュ|雨宮天
+18|main|フローズン・ワード|藤井ゆきよ
+19|main|Catch my dream|田所あずさ
+20|main|brave HARMONY|野村香菜子、斉藤佑圭、南早紀、山口立花子
+21|main|ローリング△さんかく|渡部恵子
+22|main|HOME RUN SONG♪|斉藤佑圭
+23|main|Raise the FLAG|サジタリアス[藤井ゆきよ、阿部里果、戸田めぐみ]
+24|main|俠気乱舞|中村温姫、愛美、渡部恵子、小岩井ことり
+25|main|DIAMOND DAYS|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+26|encore|UNION!!|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+27|encore|Brand New Theater!|フェアリースターズ[田所あずさ、雨宮天、愛美、南早紀、渡部恵子、小岩井ことり、藤井ゆきよ、斉藤佑圭、野村香菜子、戸田めぐみ、阿部里果、山口立花子、中村温姫]
+
+@live id=20190921_ml6th_ssa_d1 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE UNI-ON@IR!!!! SPECIAL day=SSA SPECIAL 1日目 date=2019-09-21 venue=v_saitama_ssa brand=ml event=solo perf=cast stream=false lv=true archive=false status=confirmed
+1|main|Brand New Theater!|原嶋あかり、伊藤美来、村川梨衣、駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里、愛美、田所あずさ、中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子、角元明日香、桐谷蝶々、近藤唯、小笠原早紀、Machico
+2|main|BORN ON DREAM! 〜HANABI☆NIGHT〜|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+3|main|MOONY|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+4|main|咲くは浮世の君花火|閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]
+5|main|ハルマチ女子|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]
+6|main|Do-Dai|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]|ver:msterversion
+7|main|彼氏になってよ。|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]
+8|main|fruity love|りるきゃん ～3 little candy～[近藤唯、小笠原早紀、Machico]、Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+9|main|ビッグバンズバリボー!!!!!|上田麗奈、藤井ゆきよ、駒形友梨、末柄里恵、渡部優衣
+10|main|虹色letters|Cleasky[角元明日香、桐谷蝶々]
+11|main|笑って！|Cleasky[角元明日香、桐谷蝶々]
+12|main|想い出はクリアスカイ|Cleasky[角元明日香、桐谷蝶々]
+13|main|ラムネ色 青春|Cleasky[角元明日香、桐谷蝶々]、閃光☆HANABI団[駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里]|ver:msterversion
+14|main|ART NEEDS HEART BEATS|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+15|main|I did＋I will|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+16|main|月曜日のクリームソーダ|Jelly PoP Beans[中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子]
+17|main|オーディナリィ・クローバー|香里有佐、田所あずさ、夏川椎菜、山口立花子、桐谷蝶々
+18|main|ZETTAI × BREAK!! トゥインクルリズム|トゥインクルリズム[伊藤美来、原嶋あかり、村川梨衣]
+19|main|Fate of the World|トゥインクルリズム[伊藤美来、原嶋あかり、村川梨衣]|ver:msterversion
+20|main|Tomorrow Program|トゥインクルリズム[伊藤美来、原嶋あかり、村川梨衣]
+21|main|インヴィンシブル・ジャスティス|マイティーセーラーズ[Machico、上田麗奈]
+22|main|ハーモニクス|D/Zeal[田所あずさ、愛美]
+23|main|餞の鳥|D/Zeal[田所あずさ、愛美]
+24|main|創造は始まりの風を連れて|D/Zeal[田所あずさ、愛美]、トゥインクルリズム[伊藤美来、原嶋あかり、村川梨衣]
+25|main|アライブファクター|D/Zeal[田所あずさ、愛美]
+26|main|DIAMOND DAYS|原嶋あかり、伊藤美来、村川梨衣、駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里、愛美、田所あずさ、中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子、角元明日香、桐谷蝶々、近藤唯、小笠原早紀、Machico
+27|main|UNION!!|原嶋あかり、伊藤美来、村川梨衣、駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里、愛美、田所あずさ、中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子、角元明日香、桐谷蝶々、近藤唯、小笠原早紀、Machico
+28|encore|Flyers!!!|原嶋あかり、伊藤美来、村川梨衣、駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里、愛美、田所あずさ、中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子、角元明日香、桐谷蝶々、近藤唯、小笠原早紀、Machico
+29|encore|Thank You!|原嶋あかり、伊藤美来、村川梨衣、駒形友梨、上田麗奈、浜崎奈々、渡部優衣、大関英里、愛美、田所あずさ、中村温姫、戸田めぐみ、斉藤佑圭、渡部恵子、角元明日香、桐谷蝶々、近藤唯、小笠原早紀、Machico
+
+@live id=20190922_ml6th_ssa_d2 tour=t_ml_6th title=THE IDOLM@STER MILLION LIVE! 6thLIVE UNI-ON@IR!!!! SPECIAL day=SSA SPECIAL 2日目 date=2019-09-22 venue=v_saitama_ssa brand=ml event=solo perf=cast stream=false lv=true archive=false status=confirmed
+1|main|Brand New Theater!|諏訪彩花、郁原ゆう、山崎はるか、木戸衣吹、種田梨沙、小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子、阿部里果、南早紀、雨宮天、香里有佐、末柄里恵、平山笑美、高橋未奈美、田村奈央、麻倉もも、稲川英里、夏川椎菜
+2|main|RED ZONE|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+3|main|晴れ色|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+4|main|プライヴェイト・ロードショウ (playback, Weekday)|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]、Charlotte・Charlotte[郁原ゆう、諏訪彩花]
+5|main|花ざかりWeekend✿|4 Luxury[香里有佐、末柄里恵、平山笑美、高橋未奈美]
+6|main|昏き星、遠い月|夜想令嬢 -GRACE NOCTURNE-[小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子]
+7|main|Everlasting|夜想令嬢 -GRACE NOCTURNE-[小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子]
+8|main|ラスト・アクトレス|種田梨沙、渡部恵子、高橋未奈美、阿部里果、南早紀
+9|main|ミラージュ・ミラー|Charlotte・Charlotte[郁原ゆう、諏訪彩花]
+10|main|魔法をかけて！|Charlotte・Charlotte[郁原ゆう、諏訪彩花]
+11|main|だってあなたはプリンセス|Charlotte・Charlotte[郁原ゆう、諏訪彩花]
+12|main|I.D 〜EScape from Utopia〜|EScape[阿部里果、南早紀、雨宮天]
+13|main|Melty Fantasia|EScape[阿部里果、南早紀、雨宮天]
+14|main|LOST|EScape[阿部里果、南早紀、雨宮天]
+15|main|White Vows|末柄里恵、高橋未奈美、山口立花子、香里有佐、野村香菜子
+16|main|Episode. Tiara|STAR ELEMENTS[木戸衣吹、種田梨沙、山崎はるか]
+17|main|私はアイドル♡|STAR ELEMENTS[木戸衣吹、種田梨沙、山崎はるか]|ver:msterversion
+18|main|ギブミーメタファー|STAR ELEMENTS[木戸衣吹、種田梨沙、山崎はるか]
+19|main|赤い世界が消える頃|STAR ELEMENTS[木戸衣吹、種田梨沙、山崎はるか]、夜想令嬢 -GRACE NOCTURNE-[小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子]
+20|main|Justice OR Voice|南早紀、香里有佐、愛美、小笠原早紀
+21|main|ピコピコIIKO! インベーダー|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+22|main|スマイル体操|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+23|main|Get lol! Get lol! SONG|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]
+24|main|フェスタ・イルミネーション|ピコピコプラネッツ[田村奈央、麻倉もも、稲川英里、夏川椎菜]、EScape[阿部里果、南早紀、雨宮天]
+25|main|DIAMOND DAYS|諏訪彩花、郁原ゆう、山崎はるか、木戸衣吹、種田梨沙、小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子、阿部里果、南早紀、雨宮天、香里有佐、末柄里恵、平山笑美、高橋未奈美、田村奈央、麻倉もも、稲川英里、夏川椎菜
+26|main|UNION!!|諏訪彩花、郁原ゆう、山崎はるか、木戸衣吹、種田梨沙、小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子、阿部里果、南早紀、雨宮天、香里有佐、末柄里恵、平山笑美、高橋未奈美、田村奈央、麻倉もも、稲川英里、夏川椎菜
+27|encore|Flyers!!!|諏訪彩花、郁原ゆう、山崎はるか、木戸衣吹、種田梨沙、小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子、阿部里果、南早紀、雨宮天、香里有佐、末柄里恵、平山笑美、高橋未奈美、田村奈央、麻倉もも、稲川英里、夏川椎菜
+28|encore|Thank You!|諏訪彩花、郁原ゆう、山崎はるか、木戸衣吹、種田梨沙、小岩井ことり、藤井ゆきよ、野村香菜子、山口立花子、阿部里果、南早紀、雨宮天、香里有佐、末柄里恵、平山笑美、高橋未奈美、田村奈央、麻倉もも、稲川英里、夏川椎菜
+
+@live id=20210522_ml7th_d1 tour=t_ml_7th title=THE IDOLM@STER MILLION LIVE! 7thLIVE Q@MP FLYER!!! Reburn day=DAY1 date=2021-05-22 venue=v_fujikyu_conifer brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Flyers!!!|田所あずさ、郁原ゆう、平山笑美、雨宮天、田村奈央、香里有佐、大関英里、愛美、近藤唯、南早紀、渡部恵子、駒形友梨、小岩井ことり、諏訪彩花、原嶋あかり、小笠原早紀、麻倉もも、村川梨衣、渡部優衣
+2|main|Legend Girls!!|田所あずさ、郁原ゆう、平山笑美、雨宮天、田村奈央、香里有佐、大関英里、愛美、近藤唯、南早紀、渡部恵子、駒形友梨、小岩井ことり、諏訪彩花、原嶋あかり、小笠原早紀、麻倉もも、村川梨衣、渡部優衣
+3|main|ランニング・ハイッ|駒形友梨、郁原ゆう、渡部優衣、田村奈央、平山笑美
+4|main|アニマル☆ステイション！|南早紀、諏訪彩花、雨宮天、原嶋あかり、田所あずさ、小笠原早紀
+5|main|Helloコンチェルト|大関英里、村川梨衣、田村奈央
+6|main|空に手が触れる場所|TRICK&TREAT(ぷっぷかプリン)[小笠原早紀、平山笑美]
+7|main|HOME, SWEET FRIENDSHIP|原嶋あかり、小岩井ことり、村川梨衣、渡部恵子、渡部優衣、近藤唯、麻倉もも
+8|main|Bigバルーン◎|小岩井ことり、諏訪彩花、近藤唯、小笠原早紀、愛美、南早紀
+9|main|Good-Sleep, Baby♡|渡部恵子、原嶋あかり、田村奈央、香里有佐
+10|main|夢色トレイン|郁原ゆう、麻倉もも
+11|main|Melody in scape|大関英里、駒形友梨
+12|main|君だけの欠片|Charlotte・Charlotte[諏訪彩花、郁原ゆう]
+13|main|Flooding|クレシェンドブルー[小笠原早紀、麻倉もも、田所あずさ、雨宮天、平山笑美]
+14|main|Do the IDOL!! 〜断崖絶壁チュパカブラ〜|村川梨衣、郁原ゆう、小岩井ことり、田所あずさ、近藤唯
+15|main|SUPER SIZE LOVE!!|原嶋あかり、小笠原早紀、大関英里、諏訪彩花
+16|main|ココロがかえる場所|田村奈央、愛美、渡部恵子、南早紀
+17|main|夕風のメロディー|香里有佐、近藤唯、駒形友梨
+18|main|Super Duper|Jus-2-Mint[渡部優衣、大関英里]
+19|main|百花は月下に散りぬるを|花咲夜[小岩井ことり、郁原ゆう、南早紀]
+20|main|Blue Symphony|麻倉もも、平山笑美、雨宮天、田所あずさ、香里有佐
+21|main|夜に輝く星座のように|渡部優衣、村川梨衣
+22|main|待ちぼうけのLacrima|アクアリウス[駒形友梨、平山笑美、愛美]
+23|main|絵本|香里有佐、雨宮天
+24|main|流星群|愛美、渡部恵子|ver:acoustic
+25|main|星屑のシンフォニア|諏訪彩花、小岩井ことり、田所あずさ、駒形友梨、麻倉もも、田村奈央、香里有佐
+26|main|STANDING ALIVE|渡部恵子、南早紀、雨宮天、原嶋あかり、近藤唯、村川梨衣、愛美、渡部優衣、大関英里
+27|main|brave HARMONY|田所あずさ、郁原ゆう、平山笑美、雨宮天、田村奈央、香里有佐、大関英里、愛美、近藤唯、南早紀、渡部恵子、駒形友梨、小岩井ことり、諏訪彩花、原嶋あかり、小笠原早紀、麻倉もも、村川梨衣、渡部優衣
+28|encore|なんどでも笑おう|田所あずさ、郁原ゆう、平山笑美、雨宮天、田村奈央、香里有佐、大関英里、愛美、近藤唯、南早紀、渡部恵子、駒形友梨、小岩井ことり、諏訪彩花、原嶋あかり、小笠原早紀、麻倉もも、村川梨衣、渡部優衣
+29|encore|Glow Map|田所あずさ、郁原ゆう、平山笑美、雨宮天、田村奈央、香里有佐、大関英里、愛美、近藤唯、南早紀、渡部恵子、駒形友梨、小岩井ことり、諏訪彩花、原嶋あかり、小笠原早紀、麻倉もも、村川梨衣、渡部優衣
+30|encore|Thank You!|田所あずさ、郁原ゆう、平山笑美、雨宮天、田村奈央、香里有佐、大関英里、愛美、近藤唯、南早紀、渡部恵子、駒形友梨、小岩井ことり、諏訪彩花、原嶋あかり、小笠原早紀、麻倉もも、村川梨衣、渡部優衣
+
+@live id=20210523_ml7th_d2 tour=t_ml_7th title=THE IDOLM@STER MILLION LIVE! 7thLIVE Q@MP FLYER!!! Reburn day=DAY2 date=2021-05-23 venue=v_fujikyu_conifer brand=ml event=solo perf=cast stream=true lv=false archive=true status=confirmed
+1|main|Flyers!!!|山崎はるか、Machico、稲川英里、上田麗奈、角元明日香、種田梨沙、藤井ゆきよ、末柄里恵、伊藤美来、高橋未奈美、浜崎奈々、阿部里果、桐谷蝶々、夏川椎菜、山口立花子、木戸衣吹、中村温姫
+2|main|サンリズム・オーケストラ♪|山崎はるか、Machico、稲川英里、上田麗奈、角元明日香、種田梨沙、藤井ゆきよ、末柄里恵、伊藤美来、高橋未奈美、浜崎奈々、阿部里果、桐谷蝶々、夏川椎菜、山口立花子、木戸衣吹、中村温姫
+3|main|ジャングル☆パーティー|木戸衣吹、稲川英里、中村温姫、高橋未奈美
+4|main|Growing Storm!|乙女ストーム！[阿部里果、Machico、山崎はるか、伊藤美来、夏川椎菜]
+5|main|マイペース☆マイウェイ|浜崎奈々、桐谷蝶々
+6|main|未来飛行|STAR ELEMENTS[種田梨沙、山崎はるか、木戸衣吹]
+7|main|成長Chu→LOVER!!|伊藤美来、夏川椎菜
+8|main|絶対的Performer|上田麗奈、浜崎奈々、角元明日香
+9|main|ホップ♪ステップ♪レインボウ♪|種田梨沙、稲川英里、木戸衣吹、藤井ゆきよ
+10|main|ファンタジスタ・カーニバル|Cleasky[角元明日香、桐谷蝶々]
+11|main|ビッグバンズバリボー!!!!!|中村温姫、山崎はるか
+12|main|ココロ☆エクササイズ|浜崎奈々、上田麗奈、角元明日香
+13|main|Do the IDOL!! 〜断崖絶壁チュパカブラ〜|伊藤美来、山口立花子、桐谷蝶々、Machico
+14|main|Eternal Harmony|種田梨沙、藤井ゆきよ、末柄里恵、阿部里果、中村温姫
+15|main|インヴィンシブル・ジャスティス|マイティーセーラーズ[Machico、伊藤美来、上田麗奈]
+16|main|NO CURRY NO LIFE|カプリコーン[木戸衣吹、夏川椎菜、山口立花子]
+17|main|ドリームトラベラー|中村温姫、Machico、高橋未奈美、浜崎奈々
+18|main|オレンジの空の下|稲川英里、末柄里恵、桐谷蝶々、木戸衣吹
+19|main|カワラナイモノ|トライスタービジョン[角元明日香、藤井ゆきよ、種田梨沙]
+20|main|ジレるハートに火をつけて|灼熱少女[稲川英里、藤井ゆきよ、上田麗奈、種田梨沙、桐谷蝶々]
+21|main|dans l'obscurité|阿部里果、夏川椎菜、伊藤美来、中村温姫
+22|main|Cherry Colored Love|Sherry 'n Cherry[山口立花子、高橋未奈美]
+23|main|瞳の中のシリウス|高橋未奈美、阿部里果、山崎はるか、末柄里恵
+24|main|Marionetteは眠らない|山口立花子、Machico、夏川椎菜、角元明日香
+25|main|Raise the FLAG|末柄里恵、藤井ゆきよ、山崎はるか、上田麗奈、阿部里果、浜崎奈々
+26|main|Starry Melody|山崎はるか、Machico、稲川英里、上田麗奈、角元明日香、種田梨沙、藤井ゆきよ、末柄里恵、伊藤美来、高橋未奈美、浜崎奈々、阿部里果、桐谷蝶々、夏川椎菜、山口立花子、木戸衣吹、中村温姫
+27|encore|なんどでも笑おう|山崎はるか、Machico、稲川英里、上田麗奈、角元明日香、種田梨沙、藤井ゆきよ、末柄里恵、伊藤美来、高橋未奈美、浜崎奈々、阿部里果、桐谷蝶々、夏川椎菜、山口立花子、木戸衣吹、中村温姫
+28|encore|Glow Map|山崎はるか、Machico、稲川英里、上田麗奈、角元明日香、種田梨沙、藤井ゆきよ、末柄里恵、伊藤美来、高橋未奈美、浜崎奈々、阿部里果、桐谷蝶々、夏川椎菜、山口立花子、木戸衣吹、中村温姫
+29|encore|Thank You!|山崎はるか、Machico、稲川英里、上田麗奈、角元明日香、種田梨沙、藤井ゆきよ、末柄里恵、伊藤美来、高橋未奈美、浜崎奈々、阿部里果、桐谷蝶々、夏川椎菜、山口立花子、木戸衣吹、中村温姫
