@@ -476,6 +476,15 @@ function showCostarPicker(anchor) {
 }
 
 /* ---------------- 楽曲履歴ポップアップ ---------------- */
+/** 楽曲リストの「前回披露」セル: 日付 + 公演名(ツアー略称 DAY) + 会場・経過日数。xRは明示する */
+function lastCell(live, row){
+  const tour = live.tour?.name_short || '';
+  const day = live.day_label && !tour.includes(live.day_label) ? ' ' + live.day_label : '';
+  const name = tour ? tour + day : (live.title || '');
+  const xr = (row?.stage_type || live.performance_type) === 'xr' ? ' <span class="badge none">xR</span>' : '';
+  return `${fmtDate(live.date)}${xr}<br><span style="font-size:10px;white-space:normal">${esc(name)}<br>${esc(live.venue?.name_short || '')} / ${daysSince(live.date)}日前</span>`;
+}
+
 function showSongHistoryPopup(anchor, songId) {
   // 既存ポップアップを削除
   document.querySelectorAll('.song-history-popup').forEach(el => el.remove());
@@ -1106,7 +1115,7 @@ function viewSongs(){
       ${list.slice(0, 300).map(x => `<tr class="song-row" data-song-id="${esc(x.song.song_id)}">
         <td>${esc(x.song.title)}
           <div><span class="badge brand" style="--c:${brandOf(x.song.brand_id).color_primary}">${esc(brandOf(x.song.brand_id).short_name)}</span></div></td>
-        <td class="n">${x.last ? `${fmtDate(x.last.date)}<br><span style="font-size:10px">${esc(x.last.venue?.name_short || '')} / ${daysSince(x.last.date)}日前</span>`
+        <td class="n">${x.last ? lastCell(x.last, x.row)
           : '<span style="font-size:10px">条件内の披露なし</span>'}</td>
       </tr>`).join('')}</tbody></table>
       <p class="note" style="margin-top:8px">${list.length} 曲（表示は先頭300件）</p>`
@@ -1122,7 +1131,7 @@ function viewSongs(){
         <td>${esc(x.song.title)}
           <div><span class="badge brand" style="--c:${brandOf(x.song.brand_id).color_primary}">${esc(brandOf(x.song.brand_id).short_name)}</span>
           ${x.heard ? '<span class="badge part">曲は聴いた</span>' : ''}</div></td>
-        <td class="n">${x.last ? `${fmtDate(x.last.date)}<br><span style="font-size:10px">${esc(x.last.venue?.name_short || '')} / ${daysSince(x.last.date)}日前</span>`
+        <td class="n">${x.last ? lastCell(x.last, x.row)
           : '<span style="font-size:10px">条件内の披露なし</span>'}</td>
       </tr>`).join('')}</tbody></table>
       <p class="note" style="margin-top:8px">${list.length} 曲</p>`

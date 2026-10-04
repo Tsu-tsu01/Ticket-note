@@ -393,8 +393,6 @@ live_id,tour_id,title,day_label,date,start_time,venue_id,brand_id,event_type,per
 20260221_valiv_2nd_d1,t_valiv_2nd,PROJECT IM@S vα-liv 2ndLIVE -BEYOND THE CUSTOM !!!- DAY1,DAY1,2026-02-21,,v_nihon_kogakuin_arena,valiv,solo,xr,false,false,false,confirmed,,false,
 20260222_876_dearly_stars,t_876_dearly_stars,THE IDOLM@STER Dearly Stars -Dearly Dearly MEETING !!!-,,2026-02-22,,v_nihon_kogakuin_arena,876,event,cast,false,false,false,confirmed,,false,
 20260223_876_ds_valiv,t_876_ds_valiv,Dearly Stars×vα-liv LIVE -UNDER ONE SKY !!!!!!- 昼公演,昼公演,2026-02-23,,v_nihon_kogakuin_arena,876,event,xr,false,false,false,confirmed,,false,
-20260314_ml_11th_d1,t_ml_11th_live,THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!,DAY1,2026-03-14,,v_kitakyushu_messe,ml,solo,cast,false,false,false,confirmed,,false,
-20260315_ml_11th_d2,t_ml_11th_live,THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア,DAY2,2026-03-15,,v_kitakyushu_messe,ml,solo,cast,false,false,false,confirmed,,false,
 20260314_sm_reading_marionette_d1,t_sm_reading_marionette,THE IDOLM@STER SideM PASSIONABLE READING SHOW 〜魂環の人形〜 DAY1,DAY1,2026-03-14,,v_makuhari_hall13,sm,event,cast,false,false,false,confirmed,,false,
 20260315_sm_reading_marionette_d2,t_sm_reading_marionette,THE IDOLM@STER SideM PASSIONABLE READING SHOW 〜魂環の人形〜 DAY2,DAY2,2026-03-15,,v_makuhari_hall13,sm,event,cast,false,false,false,confirmed,,false,
 20260509_cg_musical_starlight,t_cg_musical_starlight,CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!,DAY1夜・DAY2昼・DAY2夜,2026-05-09,,v_mori_hall_matsudo,cg,event,cast,false,false,false,confirmed,,false,

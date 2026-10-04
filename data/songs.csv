@@ -1956,23 +1956,10 @@ s_summerbeginssummermoves,"Summer Begins, Summer Moves",,sm,,sm_ryo;sm_daigo;sm_
 s_town,TOWN,,765as,,765as_haruka;765as_chihaya;765as_miki;765as_yukiho;765as_yayoi;765as_makoto;765as_iori;765as_ami;765as_mami;765as_azusa;765as_hibiki;765as_takane;765as_ritsuko,all,,2025-08-02,NEVER END IDOL DAY1,false,(全員曲)765PRO ALLSTARS
 s_cg_ezdodance,EZ DO DANCE,,cg,,,unit,,,,false,カバー(T.M.Revolution)
 s_cg_lovepeach,LOVE & PEACH,,cg,,,unit,,,,false,
-s_cg_frederica_neko,フレデリカ、猫やめるよ,,cg,,cg_frederica,solo,,,,false,
-s_cg_x001_wata,わたぐも,,cg,,cg_x001,solo,,,,false,
-s_cg_x022_kimi,君への詩,,cg,,,unit,,,,false,
-s_cg_x003_odori,踊りまくろ☆ダンシング・ナイト,,cg,,cg_x003,solo,,,,false,
-s_cg_x033_okuri,O-Ku-Ri-Mo-No Sunday!,,cg,,,unit,,,,false,
-s_cg_arisu_toyou,to you for me,,cg,,cg_arisu,solo,,,,false,
-s_cg_x027_yume,夢をのぞいたら,,cg,,,unit,,,,false,
-s_cg_x045_mikansei,未完成の歴史,,cg,,,unit,,,,false,
-s_cg_x047_rebellion,反逆的同一性 -Rebellion Identity-,,cg,,cg_x047,solo,,,,false,
-s_cg_x035_mina,みなぎれ！ボボボンバー,,cg,,cg_x035,solo,,,,false,
-s_cg_yumi_hanano,花のことば,,cg,,cg_yumi,solo,,,,false,
 s_cg_hotlimit,HOT LIMIT,,cg,,cg_uzuki,solo,,,,false,カバー(T.M.Revolution)
 s_cg_kurenai,紅,,cg,,cg_shiki,solo,,,,false,カバー(X JAPAN)
-s_cg_x022_handmade,ハンドメイドスマイル,,cg,,cg_x022,solo,,,,false,
 s_cg_romansnokamisama,ロマンスの神様,,cg,,,unit,,,,false,カバー(広瀬香美)
 s_cg_saraba,サラバ、愛しき悲しみたちよ,,cg,,,unit,,,,false,カバー(ももいろクローバーZ)
-s_cg_x011_kimi,君のステージ衣装、本当は…,,cg,,,unit,,,,false,
 s_765as_2ndmix,THE IDOLM@STER 2nd-mix,,765as,,,all,,2011-01-26,THE IDOLM@STER 2,false,(全員曲・2nd-mix)
 s_765as_santatown,サンタが町にやってくる,,765as,,765as_haruka,solo,,2009-12-23,XMAS,false,カバー曲
 s_765as_cover_hurricane,涙のハリケーン,,765as,,765as_miki,solo,,2009-05-24,,false,カバー曲
@@ -1988,10 +1975,6 @@ s_valiv_1bt4akz,流星群,,valiv,,valiv_letora,solo,,2023-08-25,vα-liv実装,fa
 s_shininmagic,Shinin' Magic／アクア☆マジック,,valiv,,valiv_manaka;valiv_cosmo,unit,,2025-03-22,vα-liv 1stLIVE,false,(コラボ)灯里愛夏・上水流宇宙
 s_syncmylights,Sync My Lights／日高零奈・桜乃美々兎,,valiv,,valiv_manaka;valiv_letora,unit,,2025-03-22,vα-liv 1stLIVE,false,(コラボ)灯里愛夏・レトラ
 s_angeldream,エンジェル ドリーム／太鼓の達人,,valiv,,valiv_letora;valiv_cosmo,unit,,2025-03-22,vα-liv 1stLIVE,false,(コラボ)レトラ・上水流宇宙
-s_sc_1bm8d6a,無垢,,sc,,sc_hana,solo,,2025-01-11,283 Production LIVE liminal,false,(ソロ)鈴木羽那
-s_sc_0y2ypnq,夢模様キャンバス,,sc,,sc_haruki,solo,,2025-01-11,283 Production LIVE liminal,false,(ソロ)郁田はるき
-s_sc_1oqu3cy,愛なView,,sc,,sc_hana;sc_luca;sc_haruki;sc_nichika;sc_mikoto,unit,,2025-01-11,283 Production LIVE liminal,false,(UNIT)コメティック×シーズ
-s_sc_0b71y88,星の声,,sc,,sc_hana;sc_luca;sc_haruki;sc_nichika;sc_mikoto,unit,,2025-01-11,283 Production LIVE liminal,false,(UNIT)コメティック×シーズ
 s_sunrisedreamer,Sunrise Dreamer,,sm,,sm_teru;sm_kaoru;sm_tsubasa,unit,,2022-06-16,ドラマチックライブステージ,false,(DRAMATIC STARS)舞台オリジナル曲
 s_dontuwory,Don't U Worry,,sm,,sm_shu;sm_momondo;sm_eishin,unit,,2022-06-16,ドラマチックライブステージ,false,(C.FIRST)舞台オリジナル曲
 s_letsgoalltheway,LET'S GO ALL THE WAY!,,sm,,sm_shiki;sm_hayato;sm_haruna;sm_shun;sm_natsuki,unit,,2022-06-16,ドラマチックライブステージ,false,(High×Joker)舞台オリジナル曲
@@ -2013,7 +1996,6 @@ s_ml_0hjkpmu,光,,ml,,ml_konomi,solo,,2016-04-27,LT29,false,(ソロ)馬場この
 s_ml_1ifs3v7,If I...,,ml,,ml_konomi,solo,,2026-09-20,ML14thLIVE,false,新曲
 s_ml_0waking,Waking Up My Heart,,ml,,ml_rio,solo,,2026-09-20,ML14thLIVE,false,新曲
 s_ml_1present,Present,,ml,,ml_rio;ml_konomi,unit,,2026-09-20,ML14thLIVE,false,新曲(Sherry'n Cherry)
-s_gk_y0gfqi7,L'Espoir,,gk,,gk_mao,solo,,2026-08-20,標 福井公演 DAY1,false,(ソロ)有村麻央
 s_gk_an9dyon,海奏ララバイ,,gk,,gk_misuzu,solo,,2026-09-22,標 岩手公演 DAY1,false,(ソロ)秦谷美鈴
 s_gk_1sse2ad,ワタシカワイイアヒルノコ,,gk,,gk_china,solo,,2026-09-22,標 岩手公演 DAY1,false,(ソロ)倉本千奈
 s_gk_satn1wh,Agitato,,gk,,gk_saki;gk_temari;gk_kotone;gk_mao;gk_lilja;gk_china;gk_sumika;gk_hiro;gk_rinami;gk_ume;gk_misuzu;gk_sena;gk_tsubame,unit,event,2026-09-22,標 岩手公演 DAY1,false,(グラビア曲)初星学園

@@ -154,6 +154,8 @@ export function lastPerformed(songId, filt){
     const l = DB.live[r.live_id];
     if(filt.scales && !filt.scales.includes(l.scale)) return;
     if(filt.eventTypes && !filt.eventTypes.includes(l.event_type)) return;
+    // 「回収に数えるライブ形式」(キャスト / xR) の設定を前回披露にも効かせる
+    if(!stageCounts(r.stage_type || l.performance_type, get().settings.stages || ['cast'])) return;
     if(filt.originalOnly && isOriginal(r) !== true) return;
     if(filt.stagesOnly && !rowCounts(r)) return;
     if(!best || l.date > DB.live[best.live_id].date) best = r;
@@ -230,7 +232,7 @@ export function origMissing(st, filt){
     .filter(sid => !st.origSeen.has(sid))
     .map(sid => {
       const r = lastPerformed(sid, { ...filt, originalOnly: true });
-      return { song: DB.song[sid], last: r ? DB.live[r.live_id] : null, heard: st.songN.has(sid) };
+      return { song: DB.song[sid], last: r ? DB.live[r.live_id] : null, row: r, heard: st.songN.has(sid) };
     })
     .sort((a, b) => (b.last?.date || '').localeCompare(a.last?.date || ''));
 }

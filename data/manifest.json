@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T08:05:37.596Z",
+  "generated_at": "2026-10-04T08:12:45.436Z",
   "masters": [
     "brands.csv",
     "idols.csv",
@@ -105,9 +105,9 @@
   "counts": {
     "brands": 11,
     "idols": 254,
-    "songs": 2022,
+    "songs": 2004,
     "venues": 102,
-    "lives": 417,
-    "setlist_rows": 9523
+    "lives": 415,
+    "setlist_rows": 9476
   }
 }

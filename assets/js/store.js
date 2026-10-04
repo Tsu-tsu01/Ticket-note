@@ -18,6 +18,31 @@ const DEFAULTS = () => ({
   }
 });
 
+// 統合・改名した live_id。古いIDで付けた参加記録・ティア・オリメン判定を新IDへ引き継ぐ。
+const LIVE_ID_ALIASES = {
+  '20260314_ml_11th_d1': '20260314_ml11th_d1',
+  '20260315_ml_11th_d2': '20260315_ml11th_d2'
+};
+function migrateLiveIds(st){
+  let changed = false;
+  for(const [from, to] of Object.entries(LIVE_ID_ALIASES)){
+    for(const k of ['attendance', 'tiers']){
+      const m = st[k];
+      if(m && m[from] !== undefined){
+        if(m[to] === undefined) m[to] = m[from];
+        delete m[from]; changed = true;
+      }
+    }
+    const ov = st.origOverride || {};
+    Object.keys(ov).filter(key => key.startsWith(from + '#')).forEach(key => {
+      const nk = to + key.slice(from.length);
+      if(ov[nk] === undefined) ov[nk] = ov[key];
+      delete ov[key]; changed = true;
+    });
+  }
+  return changed;
+}
+
 let state = DEFAULTS();
 const subs = new Set();
 
@@ -28,6 +53,7 @@ export function load(){
       const p = JSON.parse(raw);
       state = { ...DEFAULTS(), ...p, tiers: p.tiers || {}, settings: { ...DEFAULTS().settings, ...(p.settings || {}) },
                 profile: { ...DEFAULTS().profile, ...(p.profile || {}) } };
+      if(migrateLiveIds(state)) localStorage.setItem(KEY, JSON.stringify(state));
     }
   }catch(e){ console.warn('保存データを読めなかったため初期化しました', e); }
   return state;
