@@ -33,7 +33,7 @@ function showNoPrevPopup(anchor, title, livesText) {
   pop.className = 'noprev-popup';
   pop.style.cssText = [
     'position:fixed', 'z-index:9999',
-    'background:var(--surface)', 'border:1px solid var(--border)',
+    'background:var(--stub)', 'border:1px solid var(--stub-edge)',
     'border-radius:10px', 'padding:12px 14px',
     'box-shadow:0 4px 16px rgba(0,0,0,.18)',
     'max-width:260px', 'font-size:13px', 'line-height:1.6',
@@ -314,7 +314,7 @@ function showPerfEditSheet(liveId, row) {
             const on = sel.has(id);
             return `<button class="chip mini perf-toggle" type="button"
               data-idol="${esc(id)}" aria-pressed="${on}"
-              style="border-color:${idol.color || 'var(--border)'};${on ? 'background:' + (idol.color || 'var(--ink)') + ';color:#fff;font-weight:bold' : ''}">
+              style="border-color:${idol.color || 'var(--stub-edge)'};${on ? 'background:' + (idol.color || 'var(--ink)') + ';color:#fff;font-weight:bold' : ''}">
               ${esc(idol.name || id)}
             </button>`;
           }).join('')}
@@ -403,7 +403,7 @@ function showCostarPicker(anchor) {
   pop.className = 'costar-picker noprev-popup';
   pop.style.cssText = [
     'position:fixed','z-index:9999',
-    'background:var(--surface)','border:1px solid var(--border)',
+    'background:var(--stub)','border:1px solid var(--stub-edge)',
     'border-radius:12px','padding:12px 14px',
     'box-shadow:0 4px 20px rgba(0,0,0,.2)',
     'max-width:320px','max-height:70vh','overflow-y:auto',
@@ -434,7 +434,7 @@ function showCostarPicker(anchor) {
           ? idols.map(i =>
               `<button class="chip mini picker-idol" type="button"
                 data-idol="${esc(i.idol_id)}"
-                style="border-color:${i.color || 'var(--border)'};
+                style="border-color:${i.color || 'var(--stub-edge)'};
                   ${heardIdols.has(i.idol_id) ? '' : 'opacity:.5'}"
                 title="${esc(i.name)}">${esc(i.name)}</button>`
             ).join('')
@@ -516,10 +516,10 @@ function showSongHistoryPopup(anchor, songId) {
   pop.className = 'song-history-popup noprev-popup';
   pop.style.cssText = [
     'position:fixed','z-index:9999',
-    'background:var(--surface)','border:1px solid var(--border)',
+    'background:var(--stub)','border:1px solid var(--stub-edge)',
     'border-radius:12px','padding:14px 16px',
     'box-shadow:0 4px 24px rgba(0,0,0,.22)',
-    'max-width:340px','max-height:75vh','overflow-y:auto',
+    'width:min(340px, calc(100vw - 16px))','max-height:70vh','overflow-y:auto',
     'font-size:13px','color:var(--ink)'
   ].join(';');
 
@@ -537,7 +537,7 @@ function showSongHistoryPopup(anchor, songId) {
     const ml = modeLabel(mode);
     return `<tr>
       <td style="padding:3px 6px 3px 0;font-size:11.5px">${esc(fmtDate(live.date))}</td>
-      <td style="padding:3px 0;font-size:11.5px">${esc(live.title || '')}${live.day_label ? ' ' + esc(live.day_label) : ''}</td>
+      <td style="padding:3px 0;font-size:11.5px">${esc(live.title || '')}${live.day_label && !(live.title || '').includes(live.day_label) ? ' ' + esc(live.day_label) : ''}</td>
       <td style="padding:3px 0 3px 6px;white-space:nowrap">${ml}</td>
     </tr>`;
   }).join('');
@@ -574,19 +574,27 @@ function showSongHistoryPopup(anchor, songId) {
 
   // 位置計算
   const rect = anchor.getBoundingClientRect();
-  const pw = 348;
+  const pw = pop.offsetWidth, ph = pop.offsetHeight;
   const left = Math.min(rect.left, window.innerWidth - pw - 8);
-  const top = rect.bottom + 4;
+  let top = rect.bottom + 4;
+  if (top + ph > window.innerHeight - 8) top = rect.top - ph - 4;   // 下に収まらなければ行の上へ
   pop.style.left = Math.max(8, left) + 'px';
-  pop.style.top = Math.max(8, Math.min(top, window.innerHeight - 340)) + 'px';
+  pop.style.top = Math.max(8, Math.min(top, window.innerHeight - ph - 8)) + 'px';
 
-  const close = e => {
-    // song-db-rowをクリックした場合はview側のリスナーに任せてポップアップだけ閉じる
-    pop.remove();
-    document.removeEventListener('click', close, true);
-  };
-  setTimeout(() => document.addEventListener('click', close, true), 0);
 }
+
+// 楽曲行タップ → 履歴ポップアップ。document に1本だけ張る（再描画・起動順に依存しない）
+document.addEventListener('click', e => {
+  const t = e.target instanceof Element ? e.target : e.target?.parentElement;
+  if (!t) return;
+  if (t.closest('.song-history-popup')) return;            // ポップアップ内の操作はそのまま
+  const row = t.closest('tr.song-row[data-song-id]');
+  if (row) { showSongHistoryPopup(row, row.dataset.songId); return; }
+  document.querySelectorAll('.song-history-popup').forEach(el => el.remove());  // 外側タップで閉じる
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') document.querySelectorAll('.song-history-popup').forEach(el => el.remove());
+});
 
 /* ---------------- view: stats ---------------- */
 function viewStats(){
@@ -1061,7 +1069,7 @@ function viewSongs(){
       </div>
       ${list.length ? brandTally(list.map(s => ({ song: s }))) + `
       <table class=\"lst\"><thead><tr><th>ライブ未披露楽曲</th><th>ブランド</th></tr></thead><tbody>
-      ${list.slice(0, 300).map(s => `<tr>
+      ${list.slice(0, 300).map(s => `<tr class="song-row" data-song-id="${esc(s.song_id)}">
         <td>${esc(s.title)}
           <div>${s.tags.map(t => `<span class="badge none">${esc(t)}</span>`).join('')}</div></td>
         <td><span class=\"badge brand\" style=\"--c:${brandOf(s.brand_id).color_primary}\">${esc(brandOf(s.brand_id).short_name)}</span></td>
@@ -1095,7 +1103,7 @@ function viewSongs(){
     list = sortList(list);
     body = list.length ? brandTally(list) + `
       <table class="lst"><thead><tr><th>まだ聴いていない曲</th><th>前回披露</th></tr></thead><tbody>
-      ${list.slice(0, 300).map(x => `<tr>
+      ${list.slice(0, 300).map(x => `<tr class="song-row" data-song-id="${esc(x.song.song_id)}">
         <td>${esc(x.song.title)}
           <div><span class="badge brand" style="--c:${brandOf(x.song.brand_id).color_primary}">${esc(brandOf(x.song.brand_id).short_name)}</span></div></td>
         <td class="n">${x.last ? `${fmtDate(x.last.date)}<br><span style="font-size:10px">${esc(x.last.venue?.name_short || '')} / ${daysSince(x.last.date)}日前</span>`
@@ -1110,7 +1118,7 @@ function viewSongs(){
     list = sortList(list);
     body = list.length ? brandTally(list) + `
       <table class="lst"><thead><tr><th>オリメン未回収</th><th>前回のオリメン披露</th></tr></thead><tbody>
-      ${list.map(x => `<tr>
+      ${list.map(x => `<tr class="song-row" data-song-id="${esc(x.song.song_id)}">
         <td>${esc(x.song.title)}
           <div><span class="badge brand" style="--c:${brandOf(x.song.brand_id).color_primary}">${esc(brandOf(x.song.brand_id).short_name)}</span>
           ${x.heard ? '<span class="badge part">曲は聴いた</span>' : ''}</div></td>
@@ -1139,7 +1147,7 @@ function viewSongs(){
     else listWithCount.sort((a, b) => a.s.title.localeCompare(b.s.title, 'ja')); // デフォルト曲名順
     body = `
       <table class="lst"><thead><tr><th>楽曲</th><th>オリメン</th><th>聴いた</th></tr></thead><tbody>
-      ${listWithCount.slice(0, 400).map(({s, count}) => `<tr class="song-db-row" data-song-id="${esc(s.song_id)}" style="cursor:pointer">
+      ${listWithCount.slice(0, 400).map(({s, count}) => `<tr class="song-row song-db-row" data-song-id="${esc(s.song_id)}">
         <td>${esc(s.title)}
           <div><span class="badge brand" style="--c:${brandOf(s.brand_id).color_primary}">${esc(brandOf(s.brand_id).short_name)}</span>
           ${s.tags.map(t => `<span class="badge none">${esc(t)}</span>`).join('')}</div></td>
@@ -1166,7 +1174,7 @@ function viewSongs(){
       const costarChips = [...f.costar].map(id => {
         const idol = DB.idol[id];
         return `<button class="chip mini" type="button" data-costar-remove="${esc(id)}"
-          style="border-color:${idol?.color || 'var(--border)'};background:${idol?.color || 'var(--ink)'};color:#fff;font-weight:bold">
+          style="border-color:${idol?.color || 'var(--stub-edge)'};background:${idol?.color || 'var(--ink)'};color:#fff;font-weight:bold">
           ${esc(idol?.name || id)} ×</button>`;
       }).join('');
       return `<div class="chips" style="margin-bottom:10px;flex-wrap:wrap;gap:4px;align-items:center">
@@ -2106,15 +2114,6 @@ function route(){
       ローカルで開く場合は <code>python3 -m http.server</code> などのHTTPサーバ経由で開いてください（file:// では fetch が使えません）。</div>`;
     return;
   }
-  // 楽曲DB: 行タップで履歴ポップアップ（一度だけ登録・captureフェーズで先行処理）
-  view.addEventListener('click', e => {
-    const row = e.target.closest('.song-db-row');
-    if(row){
-      e.stopPropagation(); // captureフェーズのcloseリスナーより先にpopupを開く
-      showSongHistoryPopup(row, row.dataset.songId);
-    }
-  }, true);  // capture=true: document captureより先に発火
-
   // DB読み込み後にペンライト演出を有効化（開演前モード中なら即開始）
   if(S.get().settings.dark) startPenlightShow();
   if(!location.hash) location.hash = '#/lives';

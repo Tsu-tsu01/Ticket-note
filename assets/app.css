@@ -524,7 +524,7 @@ body.dark #penlight-stage{ display:block; }
 /* アイドル統計: details/summary */
 details > summary { list-style:none; }
 details > summary::-webkit-details-marker { display:none; }
-details > summary { padding:6px 0; border-top:1px solid var(--border); }
+details > summary { padding:6px 0; border-top:1px solid var(--stub-edge); }
 details[open] > summary { margin-bottom:8px; }
 details + div { border-top:none; }
 
@@ -535,3 +535,8 @@ details + div { border-top:none; }
 .tile b { display:block; font-size:22px; font-weight:900; line-height:1; }
 .tile span { display:block; font-size:10px; opacity:.7; margin-top:3px; }
 .tile small { display:block; font-size:9px; opacity:.55; }
+
+/* 楽曲行: タップで披露履歴ポップアップ */
+table.lst tr.song-row{cursor:pointer; -webkit-tap-highlight-color:transparent}
+table.lst tr.song-row td{user-select:none; -webkit-user-select:none}
+table.lst tr.song-row:hover td, table.lst tr.song-row:active td{background:var(--paper-deep)}
