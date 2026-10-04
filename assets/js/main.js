@@ -581,10 +581,9 @@ function showSongHistoryPopup(anchor, songId) {
   pop.style.top = Math.max(8, Math.min(top, window.innerHeight - 340)) + 'px';
 
   const close = e => {
-    if (!pop.contains(e.target)) {
-      pop.remove();
-      document.removeEventListener('click', close, true);
-    }
+    // song-db-rowをクリックした場合はview側のリスナーに任せてポップアップだけ閉じる
+    pop.remove();
+    document.removeEventListener('click', close, true);
   };
   setTimeout(() => document.addEventListener('click', close, true), 0);
 }
@@ -2107,11 +2106,14 @@ function route(){
       ローカルで開く場合は <code>python3 -m http.server</code> などのHTTPサーバ経由で開いてください（file:// では fetch が使えません）。</div>`;
     return;
   }
-  // 楽曲DB: 行タップで履歴ポップアップ（一度だけ登録）
+  // 楽曲DB: 行タップで履歴ポップアップ（一度だけ登録・captureフェーズで先行処理）
   view.addEventListener('click', e => {
     const row = e.target.closest('.song-db-row');
-    if(row) showSongHistoryPopup(row, row.dataset.songId);
-  });
+    if(row){
+      e.stopPropagation(); // captureフェーズのcloseリスナーより先にpopupを開く
+      showSongHistoryPopup(row, row.dataset.songId);
+    }
+  }, true);  // capture=true: document captureより先に発火
 
   // DB読み込み後にペンライト演出を有効化（開演前モード中なら即開始）
   if(S.get().settings.dark) startPenlightShow();
