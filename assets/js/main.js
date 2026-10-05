@@ -1,6 +1,6 @@
 import { DB, loadDB, autoJudge, cvOn } from './db.js';
 import * as S from './store.js';
-import { compute, isOriginal, unheard, origMissing, lastPerformed, daysSince, coverage, unmetCast, isExtra, overdueHeard, brandLiveStats, monthDistribution, prefStats, streakMonths, neverPerformed, brandRareSongs, globalRareSongs } from './stats.js';
+import { compute, isOriginal, unheard, origMissing, lastPerformed, perfCount, heardLiveCounts, daysSince, coverage, unmetCast, isExtra, overdueHeard, brandLiveStats, monthDistribution, prefStats, streakMonths, neverPerformed, brandRareSongs, globalRareSongs } from './stats.js';
 import { CARDS, renderCard, renderTierCard, download } from './card.js';
 import { norm, fmtDate, fmtDateJP, pct, esc } from './text.js';
 
@@ -479,8 +479,11 @@ function showCostarPicker(anchor) {
 /** 楽曲リストの「前回披露」セル: 日付 + 公演名(ツアー略称 DAY) + 会場・経過日数。xRは明示する */
 function lastCell(live, row){
   const tour = live.tour?.name_short || '';
+  // ツアー内の地方公演は「福井公演」「岩手公演」まで出して区別できるようにする
+  const leg = (live.title || '').match(/([^\s　]+)公演/)?.[1] || '';
+  const legTxt = leg && !tour.includes(leg) && !(live.day_label || '').includes(leg) ? ` ${leg}` : '';
   const day = live.day_label && !tour.includes(live.day_label) ? ' ' + live.day_label : '';
-  const name = tour ? tour + day : (live.title || '');
+  const name = tour ? tour + legTxt + day : (live.title || '');
   const xr = (row?.stage_type || live.performance_type) === 'xr' ? ' <span class="badge none">xR</span>' : '';
   return `${fmtDate(live.date)}${xr}<br><span style="font-size:10px;white-space:normal">${esc(name)}<br>${esc(live.venue?.name_short || '')} / ${daysSince(live.date)}日前</span>`;
 }
@@ -514,9 +517,11 @@ function showSongHistoryPopup(anchor, songId) {
   const totalCount = livesWithSong.length;
 
   // 現地で聴いた回数
-  let onsiteCount = 0;
+  let onsiteCount = 0, otherCount = 0;
   livesWithSong.forEach(({ lid }) => {
-    if (attendance[lid]?.mode === 'onsite') onsiteCount++;
+    const m = attendance[lid]?.mode;
+    if (m === 'onsite') onsiteCount++;
+    else if (m) otherCount++;
   });
 
   const brand = brandOf(song.brand_id);
@@ -565,6 +570,10 @@ function showSongHistoryPopup(anchor, songId) {
         <div style="font-size:22px;font-weight:bold;line-height:1;color:#e05">${onsiteCount}</div>
         <div style="font-size:11px;color:var(--ink-soft)">現地で聴いた</div>
       </div>
+      ${otherCount ? `<div style="text-align:center">
+        <div style="font-size:22px;font-weight:bold;line-height:1">${otherCount}</div>
+        <div style="font-size:11px;color:var(--ink-soft)">LV・配信で聴いた</div>
+      </div>` : ''}
     </div>
     ${totalCount === 0
       ? '<p style="font-size:12px;opacity:.5;margin:0">まだ披露記録がありません。</p>'
@@ -1055,12 +1064,19 @@ function viewSongs(){
 
   const tabBtn = (id, label) => `<button class="chip" type="button" data-tab="${id}" aria-pressed="${f.tab === id}">${label}</button>`;
 
+  // 並べ替え（全タブ共通）。披露回数 = 条件内でその曲が歌われた公演数。同値は曲名順で安定させる。
+  const heardLives = heardLiveCounts(st);
+  const heardOf = sid => heardLives.get(sid)?.size || 0;
+  const perfCache = new Map();
+  const perfOf = sid => { if(!perfCache.has(sid)) perfCache.set(sid, perfCount(sid, filt)); return perfCache.get(sid); };
   const sortList = list => {
     const key = x => x.last?.date || '';
-    if(f.sort === 'title') return list.sort((a, b) => a.song.title.localeCompare(b.song.title, 'ja'));
-    if(f.sort === 'old')   return list.sort((a, b) => (key(a) || '9999').localeCompare(key(b) || '9999'));
-    if(f.sort === 'count') return list.sort((a, b) => (st.songN.get(b.song?.song_id||b.song_id||'') || 0) - (st.songN.get(a.song?.song_id||a.song_id||'') || 0));
-    return list.sort((a, b) => key(b).localeCompare(key(a)));
+    const byTitle = (a, b) => a.song.title.localeCompare(b.song.title, 'ja');
+    if(f.sort === 'title') return list.sort(byTitle);
+    if(f.sort === 'old')   return list.sort((a, b) => (key(a) || '9999').localeCompare(key(b) || '9999') || byTitle(a, b));
+    if(f.sort === 'count') return list.sort((a, b) => perfOf(b.song.song_id) - perfOf(a.song.song_id) || key(b).localeCompare(key(a)) || byTitle(a, b));
+    if(f.sort === 'heard') return list.sort((a, b) => heardOf(b.song.song_id) - heardOf(a.song.song_id) || perfOf(b.song.song_id) - perfOf(a.song.song_id) || byTitle(a, b));
+    return list.sort((a, b) => key(b).localeCompare(key(a)) || byTitle(a, b));   // recent: 披露なしは末尾
   };
 
   let body = '';
@@ -1149,21 +1165,27 @@ function viewSongs(){
       ).map(r => r.song_id));
       list = list.filter(s => songIds.has(s.song_id));
     }
-    // count順対応: 回数を付与してソート
-    let listWithCount = list.map(s => ({ s, count: st.songN.get(s.song_id) || 0 }));
-    if(f.sort === 'count') listWithCount.sort((a, b) => b.count - a.count);
-    else if(f.sort === 'title') listWithCount.sort((a, b) => a.s.title.localeCompare(b.s.title, 'ja'));
-    else listWithCount.sort((a, b) => a.s.title.localeCompare(b.s.title, 'ja')); // デフォルト曲名順
+    // 披露回数・聴いた回数・前回披露を曲ごとに集計してから、他のタブと同じ規則で並べ替える
+    const rowsAll = sortList(list.map(s => {
+      const r = lastPerformed(s.song_id, filt);
+      return { song: s, row: r, last: r ? DB.live[r.live_id] : null };
+    }));
+    const om = s => {
+      const names = s.original_members.map(i => DB.idol[i]?.name || i);
+      return names.length > 5 ? `${names.slice(0, 5).join('・')} ほか${names.length - 5}人` : names.join('・');
+    };
     body = `
-      <table class="lst"><thead><tr><th>楽曲</th><th>オリメン</th><th>聴いた</th></tr></thead><tbody>
-      ${listWithCount.slice(0, 400).map(({s, count}) => `<tr class="song-row song-db-row" data-song-id="${esc(s.song_id)}">
+      <table class="lst"><thead><tr><th>楽曲</th><th>披露 / 聴いた</th><th>前回披露</th></tr></thead><tbody>
+      ${rowsAll.slice(0, 400).map(({song: s, row, last}) => `<tr class="song-row song-db-row" data-song-id="${esc(s.song_id)}">
         <td>${esc(s.title)}
           <div><span class="badge brand" style="--c:${brandOf(s.brand_id).color_primary}">${esc(brandOf(s.brand_id).short_name)}</span>
-          ${s.tags.map(t => `<span class="badge none">${esc(t)}</span>`).join('')}</div></td>
-        <td style="font-size:10.5px;color:var(--ink-soft)">${esc(s.original_members.map(i => DB.idol[i]?.name || i).join('・') || '—')}</td>
-        <td class="n">${count}回${st.origSeen.has(s.song_id) ? '<br><span class="badge orig">オリメン済</span>' : ''}</td>
+          ${s.tags.map(t => `<span class="badge none">${esc(t)}</span>`).join('')}
+          ${st.origSeen.has(s.song_id) ? '<span class="badge orig">オリメン済</span>' : ''}</div>
+          ${s.original_members.length ? `<div style="font-size:10.5px;color:var(--ink-soft)">${esc(om(s))}</div>` : ''}</td>
+        <td class="n">${perfOf(s.song_id)}回 / <b style="color:${heardOf(s.song_id) ? 'var(--stamp)' : 'inherit'}">${heardOf(s.song_id)}回</b></td>
+        <td class="n">${last ? lastCell(last, row) : '<span style="font-size:10px">披露なし</span>'}</td>
       </tr>`).join('')}</tbody></table>
-      <p class="note" style="margin-top:8px">${listWithCount.length} 曲（表示は先頭400件）／行をタップすると詳細表示</p>`;
+      <p class="note" style="margin-top:8px">${rowsAll.length} 曲${rowsAll.length > 400 ? '（表示は先頭400件。検索やブランドで絞り込めます）' : ''}／行をタップすると披露履歴。披露回数は公演数で数えています。</p>`;
   }
 
   view.innerHTML = `
@@ -1198,6 +1220,7 @@ function viewSongs(){
       <button class="chip mini" type="button" data-sort="recent" aria-pressed="${f.sort === 'recent'}">最終披露が新しい順</button>
       <button class="chip mini" type="button" data-sort="old" aria-pressed="${f.sort === 'old'}">古い順</button>
       <button class="chip mini" type="button" data-sort="count" aria-pressed="${f.sort === 'count'}">披露回数順</button>
+      ${f.tab === 'all' ? `<button class="chip mini" type="button" data-sort="heard" aria-pressed="${f.sort === 'heard'}">聴いた回数順</button>` : ''}
       <button class="chip mini" type="button" data-sort="title" aria-pressed="${f.sort === 'title'}">曲名順</button>
       <button class="chip mini" type="button" data-extra aria-pressed="${f.includeExtra}">リミックス・カバーも含める</button>
     </div>`}
@@ -1222,7 +1245,7 @@ function viewSongs(){
     ${body}
   </section>`;
 
-  view.querySelectorAll('[data-tab]').forEach(b => b.addEventListener('click', () => { f.tab = b.dataset.tab; viewSongs(); }));
+  view.querySelectorAll('[data-tab]').forEach(b => b.addEventListener('click', () => { f.tab = b.dataset.tab; if(f.tab !== 'all' && f.sort === 'heard') f.sort = 'recent'; viewSongs(); }));
   view.querySelectorAll('[data-sort]').forEach(b => b.addEventListener('click', () => { f.sort = b.dataset.sort; renderKeepScroll(viewSongs); }));
   view.querySelector('[data-extra]')?.addEventListener('click', () => { f.includeExtra = !f.includeExtra; renderKeepScroll(viewSongs); });
   view.querySelector('#q')?.addEventListener('input', e => { f.q = e.target.value; renderKeepScroll(viewSongs); });

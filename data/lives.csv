@@ -414,3 +414,5 @@ live_id,tour_id,title,day_label,date,start_time,venue_id,brand_id,event_type,per
 20260920_ml_14th_d2,t_ml_14th_live,THE IDOLM@STER MILLION LIVE! 14thLIVE DAY2 Blooming Sign,DAY2,2026-09-20,,v_yoyogi_1,ml,solo,cast,false,false,false,confirmed,,false,
 20260926_sc_solo_msp_d1,t_sc_solo_masterpiece,283 PRODUCTION Solo Live Collection -Master ShowPiece-,DAY1,2026-09-26,,v_keio_arena,sc,solo,cast,false,false,false,confirmed,,false,
 20260927_sc_solo_msp_d2,t_sc_solo_masterpiece,283 PRODUCTION Solo Live Collection -Master ShowPiece-,DAY2,2026-09-27,,v_keio_arena,sc,solo,cast,false,false,false,confirmed,,false,
+20260922_gk_shirube_iwate_d1,t_gk_shirube,学園アイドルマスター LIVE TOUR -標- 岩手公演,DAY1,2026-09-22,18:30,v_tosai_hall,gk,solo,cast,false,false,false,confirmed,,false,
+20260923_gk_shirube_iwate_d2,t_gk_shirube,学園アイドルマスター LIVE TOUR -標- 岩手公演,DAY2,2026-09-23,16:30,v_tosai_hall,gk,solo,cast,false,false,false,confirmed,,false,

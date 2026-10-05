@@ -147,20 +147,39 @@ export function compute(scopeKey){
 }
 
 /** Last time a song was performed, honouring the venue-scale / event-type filter. */
+function rowQualifies(r, filt){
+  const l = DB.live[r.live_id];
+  if(!l) return false;
+  if(filt.scales && !filt.scales.includes(l.scale)) return false;
+  if(filt.eventTypes && !filt.eventTypes.includes(l.event_type)) return false;
+  // 「回収に数えるライブ形式」(キャスト / xR) の設定を前回披露にも効かせる
+  if(!stageCounts(r.stage_type || l.performance_type, get().settings.stages || ['cast'])) return false;
+  if(filt.originalOnly && isOriginal(r) !== true) return false;
+  if(filt.stagesOnly && !rowCounts(r)) return false;
+  return true;
+}
+
 export function lastPerformed(songId, filt){
-  const rows = DB.rowsBySong[songId] || [];
   let best = null;
-  rows.forEach(r => {
-    const l = DB.live[r.live_id];
-    if(filt.scales && !filt.scales.includes(l.scale)) return;
-    if(filt.eventTypes && !filt.eventTypes.includes(l.event_type)) return;
-    // 「回収に数えるライブ形式」(キャスト / xR) の設定を前回披露にも効かせる
-    if(!stageCounts(r.stage_type || l.performance_type, get().settings.stages || ['cast'])) return;
-    if(filt.originalOnly && isOriginal(r) !== true) return;
-    if(filt.stagesOnly && !rowCounts(r)) return;
-    if(!best || l.date > DB.live[best.live_id].date) best = r;
+  (DB.rowsBySong[songId] || []).forEach(r => {
+    if(!rowQualifies(r, filt)) return;
+    if(!best || DB.live[r.live_id].date > DB.live[best.live_id].date) best = r;
   });
   return best;
+}
+
+/** 披露回数 = その曲が歌われた公演の数（同じ公演で2回歌っても1回）。前回披露と同じ絞り込みを使う。 */
+export function perfCount(songId, filt){
+  const lives = new Set();
+  (DB.rowsBySong[songId] || []).forEach(r => { if(rowQualifies(r, filt)) lives.add(r.live_id); });
+  return lives.size;
+}
+
+/** 自分が聴いた回数 = その曲を聴いた公演の数（スコープ・ライブ形式の設定に従う） */
+export function heardLiveCounts(st){
+  const m = new Map();
+  st.rows.forEach(r => { if(!m.has(r.song_id)) m.set(r.song_id, new Set()); m.get(r.song_id).add(r.live_id); });
+  return m;
 }
 
 export function daysSince(iso){
