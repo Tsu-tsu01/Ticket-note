@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="./assets/app.css?v=20261005233000">
+<link rel="stylesheet" href="./assets/app.css?v=20261005234500">
 </head>
 <body>
 
@@ -43,18 +43,33 @@
 <div id="toast" class="toast" hidden></div>
 <div id="penlight-stage" aria-hidden="true"></div>
 
+<script>
+/* モジュールの読み込みや起動に失敗したとき、「読んでいます…」のまま黙って止まらないようにする */
+(function(){
+  function show(msg){
+    var v = document.getElementById('view');
+    if(!v || !v.querySelector('.loading')) return;
+    v.innerHTML = '<div class="warn"><b>アプリを起動できませんでした。</b><br>' +
+      String(msg).replace(/[<&]/g, function(c){ return c === '<' ? '&lt;' : '&amp;'; }) +
+      '<br>古いファイルがブラウザに残っている可能性があります。<br>' +
+      '<button class="btn" type="button" onclick="location.reload()" style="margin-top:8px">再読み込み</button></div>';
+  }
+  window.addEventListener('error', function(e){ show(e.message || '読み込みエラー'); });
+  window.addEventListener('unhandledrejection', function(e){ show((e.reason && e.reason.message) || e.reason || '読み込みエラー'); });
+})();
+</script>
 <script type="importmap">
 {
   "imports": {
-    "./db.js": "./assets/js/db.js?v=20261005233000",
-    "./store.js": "./assets/js/store.js?v=20261005233000",
-    "./stats.js": "./assets/js/stats.js?v=20261005233000",
-    "./csv.js": "./assets/js/csv.js?v=20261005233000",
-    "./text.js": "./assets/js/text.js?v=20261005233000",
-    "./card.js": "./assets/js/card.js?v=20261005233000"
+    "./assets/js/db.js": "./assets/js/db.js?v=20261005234500",
+    "./assets/js/store.js": "./assets/js/store.js?v=20261005234500",
+    "./assets/js/stats.js": "./assets/js/stats.js?v=20261005234500",
+    "./assets/js/csv.js": "./assets/js/csv.js?v=20261005234500",
+    "./assets/js/text.js": "./assets/js/text.js?v=20261005234500",
+    "./assets/js/card.js": "./assets/js/card.js?v=20261005234500"
   }
 }
 </script>
-<script type="module" src="./assets/js/main.js?v=20261005233000"></script>
+<script type="module" src="./assets/js/main.js?v=20261005234500"></script>
 </body>
 </html>
